@@ -358,7 +358,7 @@ strings:
       - "Kurtlar {0}'in vücudu ile ziyafet çekmek üzereydi. Ancak sürünün lideri olan alfa kurt {1} herkesi durdurdu. Köylüler için böylesine önemli bir kişiliği kendi safına çekerek avantaj elde etmeyi düşündü ve {0}'e kudretli zehrinden enfekte etti. Yarın gece {0} yaşam ve ölüm arasında bir tercih yapmak zorunda kalacak."
   WolfCub:
     WolfCub:
-      - "Yavru Kurt \U0001F436"
+      - "Yavru Kurt 🐶"
     RoleInfoWolfCub:
       - ""
   Blacksmith:
@@ -1667,4 +1667,5 @@ strings:
       - "Şu an herhangi bir çevrimiçi ağ yok; birkaç saniye sonra yine dene."
   BonusPoints:
     DieAsAFK_Penalty:
+
       - ""
