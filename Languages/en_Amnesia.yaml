@@ -1,0 +1,1670 @@
+language:
+  base: '🇬🇧 English'
+  variant: Amnesia
+strings:
+  GameStartMessages:
+    StartNormal:
+      - "{0} has started a game! Join to have so much fun you'll even forget who you are!"
+      - "A new game has been started by {0}! Join to get eaten by amnesiac wolves!"
+    StartChaos:
+      - "{0} has started a chaos game! Join to take part in the confusion!"
+      - "A new chaos game has been started by {0}! Join to get killed by accident!"
+    StartRanked:
+      - "A new ranked game has been started by {0}! Join to get killed by accident!"
+    StartLove:
+      - "{0} Has started a game filled with lovers! Are you ready to delve into romance? Don't forget to /join :)"
+    StartCustom:
+      - "{0} launched a game of special roles! Don't forget to /join it..."
+  Villager:
+    Villager:
+      - ""
+    RoleInfoVillager:
+      - "That's strange... you can't seem to remember who you are!"
+  Drunk:
+    Drunk:
+      - ""
+    RoleInfoDrunk:
+      - "That's strange... you can't seem to remember who you are !"
+  Harlot:
+    Harlot:
+      - ""
+    RoleInfoHarlot:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskVisit:
+      - "You know you should be doing something to someone, but who should you choose?"
+    HarlotFuckWolf:
+      - "{0} was a wolf! You got eaten..."
+    HarlotFuckedWolfPublic:
+      - ""
+    HarlotFuckedVictimPublic:
+      - ""
+    HarlotVisitNonWolf:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    HarlotVisitYou:
+      - "Did something happen last night? You can't seem to remember..."
+    HarlotDiscoverCult:
+      - "You may not remember for sure who you are, but at least now you know this: {0} is a Cultist \U0001F464!"
+    HarlotFuckKiller:
+      - ""
+    HarlotVisitNotHome:
+      - "{0} wasn't home!"
+  Seer:
+    Seer:
+      - ""
+    RoleInfoSeer:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskSee:
+      - "You know you should be doing something to someone, but who should you choose?"
+    SeerSees:
+      - "You may not remember for sure who you are, but at least now you know this: {0} is {1}!"
+  Traitor:
+    Traitor:
+      - ""
+    RoleInfoTraitor:
+      - "That's strange... you can't seem to remember who you are!"
+    TraitorTurnWolf:
+      - "Your role changed, but from what, and to what?"
+  GuardianAngel:
+    GuardianAngel:
+      - ""
+    RoleInfoGuardianAngel:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskGuard:
+      - "You know you should be doing something to someone, but who should you choose?"
+    GuardWolf:
+      - "You went to wolf house! You got eaten."
+    GuardSaved:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    GuardNoAttack:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    GuardEmptyHouse:
+      - "{0} wasn't home!"
+    GuardSavedYou:
+      - "Did something happen last night? You can't seem to remember..."
+    GAGuardedKiller:
+      - ""
+    GAGuardedWolf:
+      - ""
+    GuardSavedYouFromFire:
+      - "Did something happen last night? You can't seem to remember..."
+    GuardSavedFromFire:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    CleanDoused:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    GuardBlockedWolf:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    GuardKiller:
+      - ""
+    GuardBlockedKiller:
+      - "Did something happened at {0}'s house last night? You can't seem to remember!"
+    GuardBlockedSnowWolf:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+  Detective:
+    Detective:
+      - ""
+    RoleInfoDetective:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskDetect:
+      - "You know you should be doing something to someone, but who should you choose? "
+    DetectiveCaught:
+      - "You may not remember for sure who you are, but at least now you know this: {0} is the Detective \U0001F575!"
+    DetectiveSnoop:
+      - "You may not remember for sure who you are, but at least now you know this: {0} is {1}!"
+  Wolf:
+    Wolf:
+      - ""
+    RoleInfoWolf:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskEat:
+      - "You know you should be doing something to someone, but who should you choose?"
+    WolfVotedKill:
+      - "{0} has voted to do something to {1}"
+    WolvesEatDrunk:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    WolvesEatDrunkBlockSecondKill:
+      - "Did something happened at {0}'s house? You can't seem to remember... {1}"
+    AllWolfDead:
+      - "Your role changed, but from what, and to what?"
+    WolvesEatYou:
+      - ""
+    WolfPackList:
+      - "Remember to discuss with :"
+    DiscussWith:
+      - "Remember to discuss with {0}"
+  Cursed:
+    Cursed:
+      - ""
+    RoleInfoCursed:
+      - "That's strange... you can't seem to remember who you are !"
+    CursedBitten:
+      - "Your role changed, but from what, and to what?"
+    CursedBittenToWolves:
+      - "You may not remember who you are, but you do remember someone important: {0}"
+  Gunner:
+    Gunner:
+      - ""
+    RoleInfoGunner:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskShoot:
+      - ""
+    HarlotShot:
+      - ""
+    DefaultShot:
+      - ""
+    GunnerShotWiseElder:
+      - ""
+  Tanner:
+    Tanner:
+      - ""
+    RoleInfoTanner:
+      - "That's strange... you can't seem to remember who you are!"
+  Fool:
+    Fool:
+      - ""
+    RoleInfoFool:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+  WildChild:
+    WildChild:
+      - ""
+    RoleInfoWildChild:
+      - "That's strange... you can't seem to remember who you are, but you know you should do something during night !"
+    WildChildToWolves:
+      - "Amidst the names in your head, a new one appears: {0}!"
+    WildChildTransform:
+      - "{0} is dead! Your role changed, but from what, and to what? "
+  Beholder:
+    Beholder:
+      - ""
+    RoleInfoBeholder:
+      - "That's strange... you can't seem to remember who you are!"
+    BeholderSeer:
+      - "You may not remember who you are, but you do remember someone important: {0}"
+    BeholderNewSeer:
+      - "You start to forget a name... What was it, {1}? Wait... What were you thinking about, again? Amidst the names in your head, a new one appears: {0}!"
+    NoSeer:
+      - " "
+    BeholderSeerStolen:
+      - "You start to forget a name... What was it, {1}? Wait...What were you thinking about,again? Amidst the names in your head, a new one appears:{0}"
+  ApprenticeSeer:
+    ApprenticeSeer:
+      - ""
+    RoleInfoApprenticeSeer:
+      - "That's strange... you can't seem to remember who you are!"
+    ApprenticeNowSeer:
+      - "{0} is dead! Your role changed, but from what, and to what?"
+  Cultist:
+    Cultist:
+      - ""
+    RoleInfoCultist:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    CultistVotedConvert:
+      - "{0} has voted to do something to {1}"
+    AskConvert:
+      - "You know you should be doing something to someone, but who should you choose?"
+    CultConvertCultHunter:
+    - "{0} went to {1}'s house and is now dead!"
+    CultJoin:
+      - "Amidst the names in your head, a new one appears: {0}!"
+    CultistsList:
+      - "Remember to discuss with:"
+    CultConvertWolf:
+      - "{0} went to {1}'s house and is now dead!"
+    CultistBitten:
+      - ""
+    CultConvertHunter:
+      - "{0} went to {1}'s house and is now dead!"
+    CultConvertSerialKiller:
+      - "{0} went to {1}'s house and is now dead!"
+      - "{0} went to {1}'s house and is now dead!"
+    CHHuntedYou:
+      - "Did something happen last night? You can't seem to remember..."
+    HunterKilledCultist:
+      - ""
+    CultConvertWolfPublic:
+      - ""
+      - ""
+    CultConvertKillerPublic:
+      - ""
+      - ""
+    HunterKilledVisiter:
+      - ""
+    CultVisitEmpty:
+      - "{0} went to {1} house, but no one was home!"
+    CultConvertYou:
+      - "Your role changed, but from what, and to what?"
+    CultUnableToConvert:
+      - "{0} went to {1} house last night but can't seem to remember what happened there..."
+    CultTargetDead:
+      - "{0} is already dead!"
+    CultAttempt:
+      - "Did something happen last night? You can't seem to remember !"
+  CultistHunter:
+    CultistHunter:
+      - ""
+    RoleInfoCultistHunter:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskHunt:
+      - "You know you should be doing something to someone, but who should you choose?"
+    CultHunterKilledCultVisit:
+      - "{0} is dead! There's a number in your head... {1}"
+    HunterVisitDead:
+      - "You went to {0}, but they are already dead!"
+    HunterFailedToFind:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    HunterFindCultist:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    SerialKillerKilledCH:
+      - ""
+  Mason:
+    Mason:
+      - ""
+    RoleInfoMason:
+      - "That's strange..... You don't seems to remember who you are!"
+    MasonTeam:
+      - "You may not remember who you are, but you do remember someone important: {0}"
+    MasonConverted:
+      - "You start to forget a name... What was it, {0}? Wait... What were you thinking about, again?"
+  Doppelganger:
+    Doppelganger:
+      - ""
+    RoleInfoDoppelganger:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskRoleModel:
+      - "You know you should be doing something to someone, but who should you choose?"
+    AskDoppelganger:
+      - "You know you should be doing something to someone, but who should you choose?"
+    RoleModelChosen:
+      - ""
+    DGTransformToMason:
+      - "{0} is dead! Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {1}"
+    DGTransformToCult:
+      - "{0} is dead! Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {1}"
+    DGToMason:
+      - "Amidst the names in your head, a new one appears: {0}!"
+    DGToCult:
+      - "Amidst the names in your head, a new one appears : {0}"
+    DGToWolf:
+      - "Amidst the names in your head, a new one appears ; {0}"
+  Cupid:
+    Cupid:
+      - ""
+    RoleInfoCupid:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskCupid1:
+      - "You know you should be doing something to someone, but who should you choose?"
+    AskCupid2:
+      - "You know you should be doing something to someone, but who should you choose?"
+    CupidChosen:
+      - "You may not remember who you are, but you know {0} is important!"
+      - "You may not remember who you are, but you know {0} is important!"
+  Hunter:
+    Hunter:
+      - ""
+    RoleInfoHunter:
+      - "That's strange... you can't seem to remember who you are!"
+    HunterLynchedChoice:
+      - ""
+    HunterNoChoiceLynched:
+      - ""
+    HunterSkipChoiceLynched:
+      - ""
+    HunterKilledFinalLynched:
+      - ""
+    HunterShotChoice:
+      - ""
+    HunterNoChoiceShot:
+      - ""
+    HunterSkipChoiceShot:
+      - ""
+    HunterKilledFinalShot:
+      - ""
+    HunterShotWolfMulti:
+      - ""
+    HunterShotWolf:
+      - ""
+    HunterKilledWiseElder:
+      - ""
+  SerialKiller:
+    SerialKiller:
+      - ""
+    RoleInfoSerialKiller:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskKill:
+      - "You know you should be doing something to someone, but who should you choose?"
+    KillerRandomKill:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... A name comes to your mind: {1}. But for what reason?"
+    KillerStumbled:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    SerialKillerKilledYou:
+      - ""
+      - ""
+    SerialKillerKilledWolf:
+      - ""
+  Sorcerer:
+    Sorcerer:
+      - ""
+    RoleInfoSorcerer:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+  AlphaWolf:
+    AlphaWolf:
+      - ""  
+    RoleInfoAlphaWolf:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    BittenTurned:
+      - "Did something happen last night? You can't seem to remember..."
+    PlayerBitten:
+      - "Did something happen last night? You can't seem to remember..."
+    PlayerBittenWolves:
+      - "Did something happen at {0}'s house last night? You can't seem to remember...You may not remember who you are, but you do remember someone important: {1}"
+  WolfCub:
+    WolfCub:
+      - ""
+    RoleInfoWolfCub:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+  Blacksmith:
+    Blacksmith:
+      - ""
+    RoleInfoBlacksmith:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    SpreadDust:
+      - "You know you should be doing something, but does it need to be today?"
+    BlacksmithSpreadSilver:
+      - ""
+  ClumsyGuy:
+    ClumsyGuy:
+      - ""
+    RoleInfoClumsyGuy:
+      - "That's strange... you can't seem to remember who you are!"
+  Mayor:
+    Mayor:
+      - ""
+    RoleInfoMayor:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskMayor:
+      - "You know you should be doing something, but does it need to be today?"
+    MayorReveal:
+      - ""
+    Reveal:
+      - "Yes"
+  Prince:
+    Prince:
+      - ""
+    RoleInfoPrince:
+      - "That's strange... you can't seem to remember who you are!"
+    PrinceLynched:
+      - ""
+  Lycan:
+    Lycan:
+      - "" 
+    RoleInfoLycan:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+  Pacifist:
+    Pacifist:
+      - ""
+    RoleInfoPacifist:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskPacifist:
+      - "You know you should be doing something, but does it need to be today?"
+    PacifistNoLynch:
+      - ""
+    PacifistNoLynchNow:
+      - ""
+    LynchPeaceTimeout:
+      - ""
+    Peace:
+      - "Yes"
+  WiseElder:
+    WiseElder:
+      - ""
+    RoleInfoWiseElder:
+      - "That's strange... you can't seem to remember who you are!"
+    WolvesTriedToEatWiseElder:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    WolvesAteWiseElderPM:
+      - "Did something happen last night? You can't seem to remember..."
+  Oracle:
+    Oracle:
+      - "" 
+    RoleInfoOracle:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    NegSeerSees:
+      - "You may not remember for sure who you are, but at least now you know this: {0} is NOT {1}!"
+  Sandman:
+    Sandman:
+      - "" 
+    RoleInfoSandman:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskSandman:
+      - "You know you should be doing something, but does it need to be today?"
+    SandmanSleepAll:
+      - ""
+    SandmanNight:
+      - ""
+  WolfMan:
+    WolfMan:
+      - ""
+    RoleInfoWolfMan:
+      - "That's strange... you can't seem to remember who you are!"
+  Thief:
+    Thief:
+      - "" 
+    RoleInfoThief:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    RoleInfoThiefFull:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskThief:
+      - "You know you should be doing something to someone, but who should you choose?"
+    ThiefStealFailed:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    ThiefStealDead:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    ThiefStoleRole:
+      - "Your role changed, but from what, and to what?  You may not remember who you are, but you do remember an important role: {0}"
+    ThiefToMason:
+      - "You start to forget a name... What was it, {0}? Wait... What were you thinking about, again? Amidst the names in your head, a new one appears: {1}!"
+    ThiefToCult:
+      - "You start to forget a name... What was it, {0}? Wait... What were you thinking about, again? Amidst the names in your head, a new one appears: {1}!"
+    ThiefToWolf:
+      - "You start to forget a name... What was it, {0}? Wait... What were you thinking about, again? Amidst the names in your head, a new one appears: {1}!"
+    ThiefStealChosen:
+      - "You may not remember who you are, but you do remember someone important: {0}"
+    ThiefStoleYourRoleThief:
+      - "Your role changed, but from what, and to what?"
+    ThiefStoleYourRoleVillager:
+      - "Your role changed, but from what, and to what?"
+    StealKiller:
+      - "Did something happen last night? You can't seem to remember..."
+    ThiefStoleKiller:
+      - ""
+    NewDGRoleModel:
+      - "Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {0}"
+    NewWCRoleModel:
+      - "Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {0}"
+  Troublemaker:
+    Troublemaker:
+      - ""
+    RoleInfoTroublemaker:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskTroublemaker:
+      - "You know you should be doing something, but does it need to be today?"
+    TroublemakerDoubleLynch:
+      - ""
+    TroubleDoubleLynchNow:
+      - ""
+  Chemist:
+    Chemist:
+      - ""
+    RoleInfoChemist:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskChemist:
+      - ""
+    AskChemistPill:
+      - ""
+    ChemistFail:
+      - ""
+    ChemistDeadYou:
+      - ""
+    ChemistSuccessPublic:
+      - ""
+    ChemistFailPublic:
+      - ""
+    ChemistBrewing:
+      - "Did something happen last night? You can't seem to remember..."
+    ChemistExtraPill:
+      - "Did something happen? You can't seem to remember... Number *2* comes to your mind, But for what reason?"
+  SnowWolf:
+    SnowWolf:
+      - ""
+    RoleInfoSnowWolf:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskFreeze:
+      - "You know you should be doing something to someone, but who should you choose?"
+    SuccessfulFreeze:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    HarlotFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    CultistFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    CHFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    SeeingFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    GAFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    SKFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    ThiefFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+    DefaultFrozen:
+      - "Did something happen last night? You can't seem to remember ..."
+  Augur:
+    Augur:
+      - ""
+    RoleInfoAugur:
+      - "That's strange... you can't seem to remember who you are!"
+    AugurSees:
+      - "That's strange... you can't seem to remember who you are! But a role comes to your mind: {0}"
+      - "That's strange... you can't seem to remember who you are! But a role comes to your mind: {0}"
+    AugurSeesNothing:
+      - "That's strange... you can't seem to remember who you are!"
+  Arsonist:
+    Arsonist:
+      - ""
+    RoleInfoArsonist:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskArsonist:
+      - "You know you should be doing something to someone, but what should you choose?"
+    AskArsonistNoDoused:
+      - "You know you should be doing something to someone, but what should you choose?"
+    AlreadyDousedList:
+      - "You can't seem to remember who you are! But these names come to your mind: {0}"
+    ExtraDouse:
+      - "Something happened! You know you should be doing something to someone, but who should you choose?"
+    Doused:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    Burning:
+      - ""
+    Burn:
+      - "Did something happen last night? You can't seem to remember..."
+    WolvesVisitBurn:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... but you do remember that {1} is now dead."
+    DefaultVisitBurn:
+      - ""
+    WolfVisitBurn:
+      - ""
+    ArsonistWinsOverpower:
+      - ""
+    ArsonistVisitKiller:
+      - ""
+    Spark:
+    - ""
+  Boss:
+    Boss:
+      - ""
+    RoleInfoBoss:
+      - "That's strange... you can't seem to remember who you are!"
+    CultCount:
+      - "You don't remember who you are, but number {0} is stuck in your head."
+  Shadow:
+    Shadow:
+      - ""
+    RoleInfoShadow:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskShadow:
+      - "You know you should be doing something, but does it need to be today?"
+    ShadowPower:
+      - "Did something happen ? You can't seem to remember ..."
+  Skeleton:
+    Skeleton:
+      - ""
+    RoleInfoSkeleton:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    ButtonAppears:
+      - ""
+    AskSkeleton:
+      - ""
+    ChoiceConfirmation:
+      - ""
+    BlockedNotice:
+      - ""
+    HauntButton:
+      - ""
+  Doctor:
+    Doctor:
+      - ""
+    RoleInfoDoctor:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskDoctor:
+      - "You know you should be doing something to someone, but who should you choose?"
+    DoctorRevive:
+      - ""
+    DoctorYouRevive:
+      - "Did something happen ? You can't seem to remember ...!"
+  Preacher:
+    Preacher:
+      - ""
+    RoleInfoPreacher:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskPreacher:
+      - "You know you should be doing something to someone, but who should you choose?"
+    PreacherDone:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... but you do remember that {1} is {2}."
+    PreacherFailed:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... "
+    OhNoPreacher:
+      - "Did something happen last night? You can't seem to remember... but you do remember that {0} is preacher!"
+  GraveDigger:
+    GraveDigger:
+      - ""
+    RoleInfoGraveDigger:
+      - "That's strange... you can't seem to remember who you are!"
+    AskGraveDigger:
+      - "You know you should be doing something to someone, but who should you choose?"
+    DigNoGraves:
+      - "Did something happen last night? You can't seem to remember..."
+    DigGraves:
+      - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
+    DefaultFellDigger:
+      - ""
+    DefaultVisitDigger:
+      - "{0} wasn't home!"
+    WolfFellWolves:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... but you do remember that {1} is now dead."
+    WolvesSpotted:
+      - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
+    WolvesSpottedYou:
+      - "Did something happen last night? You can't seem to remember..."
+    SerialKillerSpotted:
+      - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
+    SerialKillerSpottedYou:
+      - "Did something happen last night? You can't seem to remember... "
+    CultConvertGraveDigger:
+      - "Did something happen at {1}'s house last night? You can't seem to remember... but you do remember that {0} is now dead."
+    DefaultFell:
+      - "On the way to {0}'s house, you were passing through a graveyard and your memories almost returned to you but before you could remember everything, you fell into an open grave and died."
+  Conjurer:
+    Conjurer:
+      - ""
+    RoleInfoConjurer:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskConjurer:
+      - "You know you should be doing something, but does it need to be today?"
+    ConjurerChoice:
+      - ""
+  Miner:
+    Miner:
+      - ""
+    RoleInfoMiner:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskMiner:
+      - "You know you should be doing something to someone, but who should you choose?"
+    MinerDone:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    MinerChanged:
+      - "Did something happen at {0}'s house last night? You can't seem to remember... A name comes to your mind: {1}. But for what reason?"
+  Pawn:
+    Pawn:
+      - ""
+    RoleInfoPawn:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!" 
+    AskPawn:
+      - "You know you should be doing something, but who would you choose?"
+    PawnSaved:
+      - "Did something happen at {0}'s house? You can't seem to remember..."
+    PawnSavedYou:
+      - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
+    PawnNoAttack:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+    PawnWolf:
+      - "You went to a wolf {0}'s house! You got eaten..."
+    PawnKiller:
+      - "You went to the serial killer {0}'s house! You were killed."
+    PawnEmptyHouse:
+      - "{0} wasn't home!"
+    PawnKilledCH:
+      - ""
+    PawnGuardedKiller:
+      - ""
+    PawnGuardedWolf:
+      - ""
+    PawnBlockedWolf:
+      - "Did something happen at {0}'s house? You can't seem to remember..."
+    PawnBlockedKiller:
+      - "Did something happen at {0}'s house? You can't seem to remember..."
+    PawnBlockedCH:
+      - "Did something happen at {0}'s house last night? You can't seem to remember..."
+  Soldier:
+    Soldier:
+      - ""
+    RoleInfoSoldier:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskSoldier:
+      - "You know you should be doing something, but who would you choose?"
+    AskSoldier2:
+      - "You know you should be doing something, but who would you choose?"
+    SoldierChoice:
+      - "You may not remember who you are... But a name comes to your mind: {0}."
+    SoldierDone:
+      - ""
+  Rogue:
+    Rogue:
+      - ""
+    RoleInfoRogue:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
+    AskRogue:
+      - "You know you should be doing something to someone, but who should you choose?"
+    AskRogue2:
+      - "You know you should be doing something, but does it need to be today?"
+    RogueSuccess:
+      - "Did something happen at {0}'s house? You can't seem to remember... {1} comes to your mind, But for what reason?"
+  Executioner:
+    Executioner:
+      - ""
+    RoleInfoExecutioner:
+      - ""
+    AskExecutioner:
+      - ""
+    AskExecutionerLynch:
+      - ""
+    ExecutionerLynch:
+      - ""
+  Slave:
+    Slave:
+      - ""
+    RoleInfoSlave:
+      - "That's strange... you can't seem to remember who you are!"
+    SlaveLynched:
+      - "Did something happen at {0}'s house? You can't seem to remember..."
+    SlaveTarget:
+      - "You may not remember who you are, but you do remember someone important: {0}"
+  Poseidon:
+    Poseidon:
+      - ""
+    RoleInfoPoseidon:
+      - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
+    AskPoseidon:
+      - "You know you should be doing something, but does it need to be today?"
+    PoseidonRevealInfo:
+      - ""
+    PoseidonReveal:
+      - ""
+  Snitch:
+    Snitch:
+      - ""
+    RoleInfoSnitch:
+      - ""   
+    SnitchLynchSuccess:
+      - ""
+    SnitchFinalSuccess:
+      - ""
+    AskSnitch:
+      - ""
+    SnitchNoChoice:
+      - ""
+  Illusionist:
+    Illusionist:
+      - ""
+    RoleInfoIllusionist:
+      - ""
+    AskIllusionist:
+      - ""
+    IllusionistNoChoice:
+      - ""
+    IllusionistKillTarget:
+      - ""
+    IllusionistFakeTarget:
+      - ""
+    IllusionistKillYou:
+      - ""
+  KilledMessages:
+    BlacksmithKilled:
+      - ""
+    CultistKilled:
+      - ""
+    CupidKilled:
+      - ""
+    DrunkKilled:
+      - ""
+    GuardianAngelKilled:
+      - ""
+    GunnerKilled:
+      - ""
+    MayorKilled:
+      - ""
+    PrinceKilled:
+      - ""
+      - ""
+    SeerKilled:
+      - ""
+    PawnKilled:
+      - ""
+    DefaultKilled:
+      - ""
+  EatenMessages:
+    ApprenticeSeerEaten:
+      - ""
+    SorcererEaten:
+      - ""
+      - ""
+    WildChildEaten:
+      - ""
+    PawnEaten:
+      - ""
+    DetectiveEaten:
+      - "The villagers gather in the morning, but do not see {0}. They wander over to the house, only to find a disembowelled corpse. When searching for the culprit, they find two old and rusty badges strewn on the floor... Why were there two badges? Maybe even the late owner was trying to remember..."
+    GuardianEaten:
+      - "Morning comes, and, to everyone's dismay, there's a completely broken corpse near the church's door, its wings bent in unnatural directions. The face can still be recognized, though: {0} is dead."
+    GunnerEaten:
+      - "As everyone comes out of their houses, they find pieces of a shotgun strewn about... then legs... then fingers... then floating in the fountain in the town square, the body of {0}, dead from a werewolf attack. You have lost your gunner."
+    SeerEaten:
+      - ""
+    DrunkEaten:
+      - ""
+    FoolEaten:
+      - "As the sun rises above the village, they find {0} slumped over an ouija board, but with a deck of... memory game cards? What a strange combination..."
+    DefaultEaten:
+      - "As everyone rises in the morning, they smell a terrible stink. They follow the smell to find {0} shredded apart in the pig pen, head missing. After investigating the now-vacant house to find out something about the culprit, the village finally realizes that {1}"
+    HarlotEaten:
+      - "The harlot forgot to go out tonight, a terrible mistake... {0} has been eaten by the wolves!"
+    MasonEaten:
+      - ""
+  WinMessages:
+    WolfWins:
+      - ""
+    WolvesWin:
+      - ""
+    VillageWins:
+      - ""
+    TannerWins:
+      - ""
+    CultWins:
+      - "They might not remember who they are, but the only people left standing are cultists... The cult wins!"
+    SerialKillerWins:
+      - ""
+    NoWinner:
+      - ""
+    ArsonistWins:
+      - ""
+    LoversWin:
+      - ""
+    SerialKillerWinsOverpower:
+      - ""
+  GroupConfig:
+    ThankYou:
+      - ""
+    RoleConfig:
+      - ""
+    Mechanics:
+      - ""
+    GroupSettings:
+      - ""
+    Timers:
+      - ""
+    WhatToDo:
+      - ""
+    EnableSecretLynch:
+    - ""
+    EnableSecretLynchA:
+      - ""
+    EnableSecretLynchQ:
+      - ""
+    RandomMode:
+      - ""
+    RandomModeA:
+      - ""
+    RandomModeQ:
+      - ""
+    AllowExtend:
+      - ""
+    AllowExtendQ:
+      - ""
+    AllowExtendA:
+      - ""
+    AllowFlee:
+      - ""
+    AllowFleeQ:
+      - ""
+    AllowFleeA:
+      - ""
+    ShowIDs:
+    - ""
+    ShowIDsQ:
+      - ""
+    ShowIDsA:
+      - ""
+    ThiefFull:
+      - ""
+    ThiefFullA:
+      - ""
+    ThiefFullQ:
+      - ""
+    SecretLynchShowVotes:
+      - ""
+    SecretLynchShowVotesQ:
+      - ""
+    SecretLynchShowVotesA:
+      - ""
+    SecretLynchShowVoters:
+      - ""
+    SecretLynchShowVotersA:
+      - ""
+    SecretLynchShowVotersQ:
+      - ""
+    PinChatMessage:
+      - ""
+    PinChatMessageQ:
+      - ""
+    PinChatMessageA:
+      - ""
+    ShowRolesDeath:
+      - ""
+    ShowRolesDeathQ:
+      - ""
+    ShowRolesDeathA:
+      - ""
+    WelcomeMessage:
+      - ""
+    WelcomeMessageQ:
+      - ""
+    WelcomeMessageA:
+      - ""
+    PMMessage:
+      - ""
+    PMMessageQ:
+      - ""
+    PMMessageA:
+      - ""
+    RoleCards:
+      - ""
+    RoleCardsQ:
+      - ""
+    RoleCardsA:
+      - ""
+    MaxExtend:
+      - ""
+    MaxExtendQ:
+      - ""
+    MaxExtendA:
+      - ""
+    DisableGModes:
+      - ""
+    DisableGModesInfo:
+      - ""
+    MuteModes:
+      - ""
+    MuteModesInfo:
+      - ""
+    Lang:
+      - ""
+    DayTimer:
+      - ""
+    SetDayTimeA:
+      - ""
+    SetDayTimeQ:
+      - ""
+    NightTimer:
+      - ""
+    SetNightTimeQ:
+      - ""
+    SetNightTimeA:
+      - ""
+    LynchTimer:
+      - ""
+    SetLynchTimeQ:
+      - ""
+    SetLynchTimeA:
+      - ""
+    MaxPlayer:
+      - ""
+    MaxPlayersQ:
+      - ""
+    MaxPlayersA:
+      - ""
+    RoleConfigInfo:
+      - ""
+    Validate:
+      - ""
+    WhatLang:
+      - ""
+    WhatVariant:
+      - ""
+    LangSet:
+      - ""
+    Allow:
+    - ""
+    Disallow:
+      - ""
+    Show:
+      - ""
+    Hide:
+      - ""
+  SocialCommand:
+    MostPlayedWith:
+      - "\U0001F3AEMost played with"
+    Killed:
+      - "\U0001F52AKills"
+    KilledBy:
+      - "☠️Killed by"
+    DeathType:
+      - "\U0001F4CADeath type"
+    SocialStats:
+      - ""
+  SetLinkCommand:
+    SetLinkSuccess:
+      - "You don't remember how but youknow the link was Successfully Set: {0}"
+    SetLinkFailed:
+      - "Did you forget? You must use the /setlink command with the group invite link."
+    SetLinkError:
+      - ""
+    SetLinkDelete:
+      - ""
+  RepCommand:
+    RepCommandSuccess:
+      - ""
+    ErrorRepCommand:
+      - "Don't forget to reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
+    EmptyReason:
+      - ""
+  Ping:
+    PingInfo:
+      - ""
+    Ping2:
+      - ""
+  ModeInfo:
+    LoveInfo:
+      - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476, and \U0001F9D1‍⚕️ roles are disabled. \nPlayers won't know their roles at the beginning of the game."
+    NormalInfo:
+      - "In Normal mode, there are no points, and all roles are visible. The game ensures a balanced distribution between baddies and villagers, creating a fair and even challenge for all players.\nPlayers won't know their roles at the beginning of the game."
+    RankedInfo:
+      - "In Ranked mode, players are awarded points based on their performance and role effectiveness. The game ensures balanced role distribution for fair play. At the end of a game with 10 or more players, some participants receive mint rewards, which can be used to purchase roles or emojis. Use the /topscore command to check your global ranking.\nPlayers won't know their roles at the beginning of the game."
+    ChaosInfo:
+      - "In Chaos mode, there is no balance, roles are assigned completely at random. This means that either the villains or the villagers could end up with significant power. Prepare for an unpredictable and chaotic game where anything can happen!\nPlayers won't know their roles at the beginning of the game."
+    CustomInfo:
+      - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics.\nPlayers won't know their roles at the begining of the game."
+    ModeInfo:
+      - "To learn more about the current game mode, click /modeinfo.\n\nGame Mode : {0}"
+    BonusModeActivated:
+      - ""
+    RankedMode:
+      - Ranked (Amnesia)
+    LoveMode:
+      - Love (Amnesia)
+    CustomMode:
+      - Custom (Amnesia)
+    NormalMode:
+      - Normal (Amnesia)
+    ChaosMode:
+      - Chaos (Amnesia)
+  RoleList:
+    HelpRoleList:
+      - ""
+    VG:
+      - ""
+    Baddie:
+      - ""
+    Solo:
+      - ""
+    AboutVGTeam:
+      - ""
+    AboutBaddieTeam:
+      - ""
+    AboutSoloTeam:
+      - ""
+  Requirements:
+    MemberCount:
+      - ""
+    RestrictPermission:
+      - ""
+    GameCount:
+      - ""
+    GroupUnderReview:
+      - ""
+    GroupApprovedButNotReady:
+      - ""
+    GroupRejected:
+      - ""
+    GroupApprovedNotification:
+      - ""
+    RequestSent:
+      - ""    
+  EndMessages:
+    SKHunterEnd:
+      - ""
+    HunterKillsWolfEnd:
+      - ""
+    WolfKillsHunterEnd:
+      - ""
+    CHKillsCultistEnd:
+      - ""
+    TannerEnd:
+      - ""
+      - ""
+    SorcererEnd:
+      - ""
+      - ""
+    DoppelgangerEnd:
+      - ""
+    ThiefEnd:
+      - ""
+  RankedTable:
+    RoleTable: 
+      - ""
+    PointTable:
+      - ""
+    PenaltyTable:
+      - ""
+    BonusModeTable:
+      - ""
+    TotalTable:
+      - ""
+    ResultTable: 
+      - ""
+    WonGame:
+      - ""
+    LostGame:
+      - ""
+    Loots:
+      - ""
+  Stats:
+    AchievementsUnlocked:
+      - ""
+    Score:
+      - ""
+    GamesWon:
+      - ""
+    GamesLost:
+      - ""
+    GamesSurvived:
+      - ""
+    TotalGames:
+      - ""
+    TimesKilled:
+      - ""
+    TimesKilledBy:
+      - ""
+    Afk:
+      - ""
+  TimeMessages:
+    LynchTime:
+      - "Dusk draws near, and the village gathers to decide who should... forget to breathe this time. Everyone now has {0} seconds to vote!"
+    DayTime:
+      - "It is now day time. All of you have {0} seconds to try and find out your role... And if you manage to, everyone else's!"
+    NightTime:
+      - "Night has fallen. Everyone heads to bed, hoping to wake up with all their memories. Night players: you have {0} seconds to use your actions!"
+  CustomMode:
+    CustomRoleInvalid:
+      - Seems like you forgot the roles. The following roles are invalid. Please rewrite the roles below and then restart the game. You can use emoji or role names.
+    CustomFirstRole:
+      - "How do you forget that? You must put at least 1 bad role (wolf team, tanner, cultist, arsonist or serial killer) among first 4 role. Please make sure these roles are included among the first roles added."
+    CustomMinimumRole:
+      - Don't Forget! You need a minimum of 4 roles to start the game.
+    CustomMaxRole:
+      - "Did you forget? You cannot start the game with more than 100 roles. Remember to delete some roles and try again."
+    CustomNoRole:
+      - Remember to add roles before starting the game.
+  BanMessages:
+    GroupBan:
+      - ""
+    GlobalBan:
+      - ""
+    BanReason:
+     - ""
+    BanExpire:
+      - ""
+    GroupBanPlayer:
+      - ""
+    Year:
+      - ""
+    Day:
+      - ""
+    Minutes:
+      - ""
+    Hours:
+      - ""
+    Seconds:
+      - ""
+  TeamsMessages:
+    MyTeam:
+      - ""
+    NothingTeam:
+      - "You are not currently a member of any amnesiac team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
+    JoinTeam:
+      - ""
+    AlreadyTeam:
+      - ""
+    LeaveTeam:
+      - ""
+  NotAdmin:
+    GroupAdminOnly:
+      - "You're not this group's admin, remember? That means you can't run this command!"
+    NotGlobalAdmin:
+      - "Don't forget! You aren't a global admin..."
+    NotKadir:
+      - "Did you forget that you aren't Kadir!"
+    GroupCommandOnly:
+      - "Don't forget! You must run this command in a group"
+  NextGame:
+    DeletedFromWaitList:
+      - ""
+    AlreadyOnWaitList:
+      - "Did you forget? You are already on the wait list for {0}."
+    AddedToWaitList:
+      - "" 
+  LynchMessages:
+    PlayerVotedLynch:
+      - ""
+    AskLynch:
+      - ""
+    LynchKill:
+      - "The villagers have cast their votes, hoping to have made the best choice even with so little information. {0} is dead. {1}"
+    LynchTie:
+      - ""
+    NoLynchVotes:
+      - "Looks like everyone forgot to vote! No lynch mob tonight..."
+    PlayerVoteCounts:
+      - ""
+    SecretLynchResultEach:
+      - ""
+    SecretLynchResultFull:
+      - ""
+    SecretLynchResultNumber:
+      - ""
+  PublicMessages:
+    DefaultFellPublic:
+      - ""
+    KillerSpottedDiggerPublic:
+      - ""
+    WolvesSpottedDiggerPublic:
+      - ""
+    HarlotFuckKillerPublic:
+      - ""
+    HarlotFuckedKilledPublic:
+      - ""
+  WelcomeMessages:
+    OfficialGrp:
+      - ""
+    Welcome:
+      - ""
+    CreditsText:
+      - ""
+  AFKs:
+    IdleKill:
+      - "{0} has forgotten to vote 2 nights in a row. Forgetting about this game is so bad that {0} forgot how to breathe too, and died. {1}"
+    IdleCount:
+      - ""
+    GroupIdleCount:
+      - ""
+  StoreMessages:
+    Store:
+      - "\U0001F6D2 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nAvailable Emoji Fragment: {1} \U0001F9E9\n\nWhat would you like to buy?"
+    BuyFailed:
+      - ""
+    BuyConfirm:
+      - ""
+    BuySuccess:
+      - ""
+    BuyItems:
+      - ""
+    BuyTicket:
+      - ""
+    BuyRole:
+      - ""
+    BuyEmoji:
+      - ""
+    BuyEmojiDuration:
+      - ""
+  TicketButtons:
+    ForceToken:
+      - ''
+    RoleVouchers:
+      - ''
+    FJoin:
+      - ''
+    FName:
+      - ''
+    BonusPointTicket:
+      - ''
+    Fragment:
+      - ''
+    Mint:
+      - ''
+    BonusRankedModeTicket:
+      - ''
+    CustomMessageTicket:
+      - ''
+    CustomEmoji:
+      - ''
+    PlayerTAG:
+      - ''
+    CustomGifs:
+      - ''
+    FakeRole:
+      - ''
+    MyTicketButton:
+      - ''
+    MyItemButton:
+      - ''
+    TournamentPoint:
+      - ''
+    Month:
+      - ""
+    Week:
+      - ""
+    Permanent:
+      - ""
+    Yearly:
+      - ""
+  TopMessages:
+    GroupStats:
+      - "Top 10 in {0} :"
+    TopScore:
+      - "Top 10 players with the highest score :"
+    YourRanking:
+      - ''
+    MostPlayedWithMonth:
+      - Amnesiacs with the most games this month.
+  ProfileMessages:
+    ItemsText:
+      - ""
+    Profile:
+      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    LockEmoji:
+      - ""
+    MaxEmoji:
+      - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
+    EmojiChoice:
+      - "The emojis you acquire are shown below. Turn on/off an emoji appearing next to your name by toggling below:"
+    NoMyRoles:
+      - "Did you forget? You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
+    MyRoles:
+      - "\U0001F6C5 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
+    ActivateRole:
+      - ''
+    DeactivateRole:
+      - ''
+    TicketsMenu:
+      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+  RewardPM:
+    - ""
+    - ""
+    - ""
+    - ""
+  TelegramStars:
+    StarShop:
+      - ""
+    StarTicket:
+      - ""  
+    StarItems:
+      - ""
+    StarConfirm:
+      - ""
+    StarCustomMessage:
+      - ""
+    StarPlayerTAG:
+      - ""
+    StarGifMenu:
+      - ""
+    StarRole:
+      - ""
+    StarEmoji:
+      - ""
+    StarEmojiDuration:
+      - ""
+    StarSuccess:
+      - ""
+    StarPayment:
+      - ""
+    StarPaidSuccess:
+      - ""
+  GiftMenu:
+    GiftShop: 
+      - ""
+    GiftItems:
+      - ""
+    GiftConfirm:
+      - ""
+    GiftTicket:
+      - ""
+    GiftCustomMessage:
+      - ""
+    GiftPlayerTAG:
+      - ""
+    GiftCustomGif:
+      - ""
+    GiftRole:
+      - ""
+    GiftEmoji:
+      - ""
+    GiftEmojiDuration:
+      - ""
+    GiftSentSuccess:
+      - ""
+  CustomGifs:
+    NotPack:
+      - "Did you forget? You have not unlocked a custom GIF pack. Remember to use /donate."
+    GifPackStatus:
+      - 'Current Approval Status:
+
+        Approved Gifs: {0} ✅
+
+        Pending Gifs: {1} ⏳
+
+        Rejected Gifs: {2} ⛔️'
+    GifPack:
+      - ""
+    GifSubmitBtn:
+      - ""
+    GifSend:
+      - ""
+    GifReset:
+      - "Reset Gifs"
+    GifResetSuccess:
+      - ""
+    GifStatus:
+      - ''
+    Approved:
+      - ''
+    Disapproved:
+      - ''
+    GifError:
+      - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    GifSuccess:
+      - "Got it! Any more?"
+    GifSubmit:
+      - ""
+    GifSubmitHour:
+      - ""
+    GifEmpty:
+      - ""
+    GifCheckSuccess: 
+      - ""
+  TransferMenu:
+    Transfer:
+      - ""
+    TransferSelf:
+      - ""
+    TransferFailed:
+      - ""
+    TransferItems:
+      - ""
+    ConfirmTransfer:
+      - "\U0001F504 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"  
+    TransferSuccess:
+      - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
+    TransferReceived:
+      - ""
+    TransferRole:
+      - ""
+    TransferEmoji:
+      - ""
+    TransferTicket:
+      - ""
+    TransferLimit:
+      - ""
+  PlayerTAGS:
+    TagSuccess:
+      - "Your new Amnesiac tag was set successfully. Tag: {0}" 
+    TagError:
+      - ""
+    TAGInvalid:
+      - ""
+  CustomMessages:
+    CustomMessageLenght:
+      - ""
+    CustomMessageSuccess:
+      - ""
+    CustomMessageAllLetter:
+      - ""
+    CustomMessageInvalid:
+      - "" 
+  FakeNames:
+    FakeNameLenght:
+      - ""
+    FakeNameSuccess:
+      - ""
+    FakeNameInvalid:
+      - ""
+  FakeRoles:
+    FakeRoleSuccess:
+      - ""
+    NoRole:
+      - ""
+    RoleInvalid:
+      - ""
+  Others:
+    Donate:
+      - ""
+    UserNotFound:
+      - ""
+    ForceJoinSuccess:
+      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
+    TicketRequired: 
+      - ""
+    JoinButton:
+      - ""
+    Skip:
+      - ""
+    Yes:
+      - ""
+    No:
+      - ""
+    VoteBtn:
+      - ""
+    GoToBtn:
+      - Go To Bot ⬆️
+    RolList:
+      - ""
+    NoClaims:
+      - ""
+    Cancel:
+      - ""
+    OfficialBtn:
+      - ""
+    SupportBtn:
+      - ""
+    NewsBtn:
+      - ""
+    Done:
+      - ""
+    Back:
+      - ""
+    EndTime:
+      - ""
+    TimesUp:
+      - "Did you forget to answer ? Time is up!"
+    GetLang:
+      - ""
+    GenericDeathNoReveal:
+      - ""
+      - ""
+    ErrorBotMessagePM:
+      - "Don't forget specify the recipient of your message by using the appropriate command: Type /love or /team to communicate."
+    SecondsAdded:
+      - ""
+    SecondsRemoved:
+      - ""
+    LeftToJoin:
+      - ""
+    HaveJoined:
+      - ""
+    AlreadyInGame:
+      - "Did you forget that you are already in a game! ({0})"
+    CountPlayersAdded:
+      - "Total {0} amnesiacs."
+    NotEnoughLovePlayers:
+      - "Did you forget? To play in Love mode you need to reach an even number (6,8,10,12...) This game has been canceled..."
+    NotEnoughPlayers:
+      - "Everyone forgot about this group... We didn't reach 5 players, cancelling game!"
+    StartingGameWait:
+      - "Game is starting, please wait while I assign roles and update the database. Something strange is happening to the village! For some reason, no one can seem to remember who they are... (roles will not be revealed to their players!) "
+    AlreadyJoined:
+      - "You've already joined, remember?"
+    ChoiceAccepted:
+      - ""
+    And:
+      - ""
+    NewUnlocks:
+      - ""
+    PlayersAlive:
+      - "Amnesiacs Alive"
+    Players:
+      - "Amnesiacs"
+    Was:
+      - ""
+    NoGame:
+      - "Did you forget? There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
+    NotifyNewGame:
+      - "A new game is starting in {0}. Don't forget to join!"
+    NotPlaying:
+      - "Did you forget? You can't do that unless you're playing!"
+    NotHome:
+      - "{0} wasn't home!" 
+    GamesPlayed:
+      - ""
+    LoverDied:
+      - ""
+    NoAttack:
+      - ""
+    LynchDead:
+      - ""
+    SentPrivate:
+      - ""
+    Help:
+      - ""
+    StartMe:
+      - ""
+    LatestList:
+      - "Did you already forget what was in the player list? Go back and read it!"
+    UnableToGetList:
+      - "Either I forgot when was the last time I sent the player list, or you forgot I can't send it until the game starts!"
+    YouJoined:
+      - "You have successfully joined the game in {0}, don't forget to play it!"
+    CantExtend:
+      - "Did you forget? You are not an admin! Only group admins can extend the time more than once!"
+    NotMember:
+      - ""
+    GroupNotFound:
+      - ""
+    RoleCommand:
+      - ''
+    DisableGameMode:
+      - ""
+    DeadSlient:
+      - ""
+    PlayerLimitReached:
+      - "Sorry, max player limit has been reached! Remember to try again on the /nextgame!"
+    DeadFlee:
+      - "Did you even forget you're dead? Dead don't run away..."
+    Flee:
+      - "{0} forgot about his family and friends in the village and has fled in terror!"
+    FleeDisabled:
+      - "You can't forget about everything and run away when that everything is trying to kill you! Fleeing while the game is running has been disabled by the group admin!"
+    PlayerRoleWas:
+      - "{0} had forgotten, but was {1}"
+    CountPlayersRemain:
+      - "{0} amnesiacs remain."
+    ByForceStart:
+      - ""
+    PlayersGifPack:
+      - "Players with custom memory packs :"
+    ForceStarted:
+      - ''
+    TreasureWin:
+      - ""
+    NameExists:
+      - ""
+    ChangeNameToJoin:
+      - "{0}, did you forget to change your name? Please do that, otherwise you can't join!"
+    ExitAnonymousMode:
+      - ""
+    MaintBreak:
+      - ""
+    NoPlayerName:
+      - "Looks like I've forgotten who you're talking about... I can't find a player by that name!"
+    NodeShutsDown:
+      - ""
+    NoNodes:
+      - ""
+  BonusPoints:
+    DieAsAFK_Penalty:
+      - ""

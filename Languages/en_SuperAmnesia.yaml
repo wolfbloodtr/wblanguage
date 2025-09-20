@@ -1,0 +1,1670 @@
+language:
+  base: '🇬🇧 English'
+  variant: Super Amnesia
+strings:
+  GameStartMessages:
+    StartNormal:
+      - "{0}"
+      - "A new game has been started by {0}! Use /join to be eaten!"
+    StartChaos:
+      - "{0}"
+      - "A new chaos game has been started by {0}! Join to get eaten!"
+    StartRanked:
+      - "{0}"
+    StartLove:
+      - "{0}"
+    StartCustom:
+      - "{0}"
+  Villager:
+    Villager:
+      - "\U0001F471"
+    RoleInfoVillager:
+      - "⁣⁣⁣⁣"
+  Drunk:
+    Drunk:
+      - "\U0001F37B"
+    RoleInfoDrunk:
+      - "⁣⁣⁣⁣"
+  Harlot:
+    Harlot:
+      - "\U0001F48B"
+    RoleInfoHarlot:
+      - "⁣⁣⁣⁣"
+    AskVisit:
+      - "⁣⁣⁣⁣"
+    HarlotFuckWolf:
+      - "{0}"
+    HarlotFuckedWolfPublic:
+      - "{0}"
+    HarlotFuckedVictimPublic:
+      - "{0}\n{1}"
+    HarlotVisitNonWolf:
+      - "{0}"
+    HarlotVisitYou:
+      - "⁣⁣⁣⁣"
+    HarlotDiscoverCult:
+      - "{0}"
+    HarlotFuckKiller:
+      - "{0}"
+    HarlotVisitNotHome:
+      - "{0}"
+  Seer:
+    Seer:
+      - "\U0001F473"
+    RoleInfoSeer:
+      - "⁣⁣⁣⁣"
+    AskSee:
+      - "⁣⁣⁣⁣"
+    SeerSees:
+      - "{0}\n{1}"
+  Traitor:
+    Traitor:
+      - "\U0001F595"
+    RoleInfoTraitor:
+      - "⁣⁣⁣⁣"
+    TraitorTurnWolf:
+      - "⁣⁣⁣⁣"
+  GuardianAngel:
+    GuardianAngel:
+      - "\U0001F47C"
+    RoleInfoGuardianAngel:
+      - "⁣⁣⁣⁣"
+    AskGuard:
+      - "⁣⁣⁣⁣"
+    GuardWolf:
+      - "⁣⁣⁣⁣"
+    GuardSaved:
+      - "{0}"
+    GuardNoAttack:
+      - "{0}"
+    GuardEmptyHouse:
+      - "{0}"
+    GuardSavedYou:
+      - "⁣⁣⁣⁣"
+    GAGuardedKiller:
+      - "{0}"
+    GAGuardedWolf:
+      - "{0}"
+    GuardSavedYouFromFire:
+      - "⁣⁣⁣⁣"
+    GuardSavedFromFire:
+      - "{0}"
+    CleanDoused:
+      - "{0}"
+    GuardBlockedWolf:
+      - "{0}"
+    GuardKiller:
+      - "⁣⁣⁣⁣"
+    GuardBlockedKiller:
+      - "{0}"
+    GuardBlockedSnowWolf:
+      - "{0}"
+  Detective:
+    Detective:
+      - "\U0001F575️"
+    RoleInfoDetective:
+      - "⁣⁣⁣⁣"
+    AskDetect:
+      - "⁣⁣⁣⁣"
+    DetectiveCaught:
+      - "{0}"
+    DetectiveSnoop:
+      - "{0}\n{1}"
+  Wolf:
+    Wolf:
+      - "\U0001F43A"
+    RoleInfoWolf:
+      - "⁣⁣⁣⁣"
+    AskEat:
+      - "⁣⁣⁣⁣"
+    WolfVotedKill:
+      - "{0}\n{1}"
+    WolvesEatDrunk:
+      - "{0}"
+    WolvesEatDrunkBlockSecondKill:
+      - "{0}\n{1}"
+    AllWolfDead:
+      - "⁣⁣⁣⁣"
+    WolvesEatYou:
+      - "⁣⁣⁣⁣"
+    WolfPackList:
+      - "⁣⁣⁣⁣"
+    DiscussWith:
+      - "{0}"
+  Cursed:
+    Cursed:
+      - "\U0001F63E"
+    RoleInfoCursed:
+      - "⁣⁣⁣⁣"
+    CursedBitten:
+      - "⁣⁣⁣⁣"
+    CursedBittenToWolves:
+      - "{0}"
+  Gunner:
+    Gunner:
+      - "\U0001F52B"
+    RoleInfoGunner:
+      - "⁣⁣⁣⁣"
+    AskShoot:
+      - "Who do you want to shoot? {0} bullet(s) remain."
+    HarlotShot:
+      - "{0}\n{1}"
+    DefaultShot:
+      - "{0}\n{1}\n{2}"
+    GunnerShotWiseElder:
+      - "{0}\n{1}"
+  Tanner:
+    Tanner:
+      - "\U0001F47A"
+    RoleInfoTanner:
+      - "⁣⁣⁣⁣"
+  Fool:
+    Fool:
+      - "\U0001F0CF"
+    RoleInfoFool:
+      - "⁣⁣⁣⁣"
+  WildChild:
+    WildChild:
+      - "\U0001F476"
+    RoleInfoWildChild:
+      - "⁣⁣⁣⁣"
+    WildChildToWolves:
+      - "{0}"
+    WildChildTransform:
+      - "{0}"
+  Beholder:
+    Beholder:
+      - "\U0001F441"
+    RoleInfoBeholder:
+      - "⁣⁣⁣⁣"
+    BeholderSeer:
+      - "\n{0}"
+    BeholderNewSeer:
+      - "{0}\n{1}"
+    NoSeer:
+      - "⁣⁣⁣⁣"
+    BeholderSeerStolen:
+      - "{0}\n{1}"
+  ApprenticeSeer:
+    ApprenticeSeer:
+      - "\U0001F647"
+    RoleInfoApprenticeSeer:
+      - "⁣⁣⁣⁣"
+    ApprenticeNowSeer:
+      - "{0}."
+  Cultist:
+    Cultist:
+      - "\U0001F464"
+    RoleInfoCultist:
+      - "⁣⁣⁣⁣"
+    CultistVotedConvert:
+      - "{0}\n{1}"
+    AskConvert:
+      - "⁣⁣⁣⁣"
+    CultConvertCultHunter:
+    - "{0}\n{1}"
+    CultJoin:
+      - "{0}"
+    CultistsList:
+      - "⁣⁣⁣⁣"
+    CultConvertWolf:
+      - "{0}\n{1}"
+    CultistBitten:
+      - "{0}"
+    CultConvertHunter:
+      - "{0}\n{1}"
+    CultConvertSerialKiller:
+      - "{0}\n{1}"
+      - "{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by a crazed maniac with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead D:"
+    CHHuntedYou:
+      - "⁣⁣⁣⁣"
+    HunterKilledCultist:
+      - "{0}"
+    CultConvertWolfPublic:
+      - "{0}"
+      - "The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a wolf on the night the wolves decided to stay home, and the wolf found {0} quite delicious. Unfortunately for {0}, wolves have no interest in joining the new religious movement."
+    CultConvertKillerPublic:
+      - "{0}"
+      - "Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs."
+    HunterKilledVisiter:
+      - "{0}\n{1}"
+    CultVisitEmpty:
+      - "{0}\n{1}"
+    CultConvertYou:
+      - "⁣⁣⁣⁣"
+    CultUnableToConvert:
+      - "{0}\n{1}"
+    CultTargetDead:
+      - "{0}"
+    CultAttempt:
+      - "⁣⁣⁣⁣"
+  CultistHunter:
+    CultistHunter:
+      - "\U0001F482"
+    RoleInfoCultistHunter:
+      - "⁣⁣⁣⁣"
+    AskHunt:
+      - "⁣⁣⁣⁣"
+    CultHunterKilledCultVisit:
+      - "{0}\n{1}"
+    HunterVisitDead:
+      - "{0}"
+    HunterFailedToFind:
+      - "{0}"
+    HunterFindCultist:
+      - "{0}"
+    SerialKillerKilledCH:
+      - "{0}"
+  Mason:
+    Mason:
+      - "\U0001F477"
+    RoleInfoMason:
+      - "⁣⁣⁣⁣"
+    MasonTeam:
+      - "{0}"
+    MasonConverted:
+      - "{0}"
+  Doppelganger:
+    Doppelganger:
+      - "\U0001F3AD"
+    RoleInfoDoppelganger:
+      - "⁣⁣⁣⁣"
+    AskRoleModel:
+      - "⁣⁣⁣⁣"
+    AskDoppelganger:
+      - "⁣⁣⁣⁣"
+    RoleModelChosen:
+      - "{0}"
+    DGTransformToMason:
+      - "{0}\n{1}"
+    DGTransformToCult:
+      - "{0}\n{1}"
+    DGToMason:
+      - "{0}"
+    DGToCult:
+      - "{0}"
+    DGToWolf:
+      - "{0}"
+  Cupid:
+    Cupid:
+      - "\U0001F3F9"
+    RoleInfoCupid:
+      - "⁣⁣⁣⁣"
+    AskCupid1:
+      - "⁣⁣⁣⁣"
+    AskCupid2:
+      - "⁣⁣⁣⁣"
+    CupidChosen:
+      - "{0}"
+      - "Cupid's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win."
+  Hunter:
+    Hunter:
+      - "\U0001F3AF"
+    RoleInfoHunter:
+      - "⁣⁣⁣⁣"
+    HunterLynchedChoice:
+      - "⁣⁣⁣⁣"
+    HunterNoChoiceLynched:
+      - "{0}"
+    HunterSkipChoiceLynched:
+      - "{0}"
+    HunterKilledFinalLynched:
+      - "{0}\n{1}\n{2}"
+    HunterShotChoice:
+      - "⁣⁣⁣⁣"
+    HunterNoChoiceShot:
+      - "{0}"
+    HunterSkipChoiceShot:
+      - "{0}"
+    HunterKilledFinalShot:
+      - "{0}\n{1}\n{2}"
+    HunterShotWolfMulti:
+      - "{0}"
+    HunterShotWolf:
+      - "{0}"
+    HunterKilledWiseElder:
+      - "{0}\n{1}"
+  SerialKiller:
+    SerialKiller:
+      - "\U0001F52A"
+    RoleInfoSerialKiller:
+      - "⁣⁣⁣⁣"
+    AskKill:
+      - "⁣⁣⁣⁣"
+    KillerRandomKill:
+      - "{0}\n{1}"
+    KillerStumbled:
+      - "{0}"
+    SerialKillerKilledYou:
+      - "⁣⁣⁣⁣"
+      - "The Serial Killer ambushed you, tied you up, and then stabbed you in the heart!"
+    SerialKillerKilledWolf:
+      - "{0}"
+  Sorcerer:
+    Sorcerer:
+      - "\U0001F52E"
+    RoleInfoSorcerer:
+      - "⁣⁣⁣⁣"
+  AlphaWolf:
+    AlphaWolf:
+      - "⚡️"  
+    RoleInfoAlphaWolf:
+      - "⁣⁣⁣⁣"
+    BittenTurned:
+      - "⁣⁣⁣⁣"
+    PlayerBitten:
+      - "⁣⁣⁣⁣"
+    PlayerBittenWolves:
+      - "{0}\n{1}"
+  WolfCub:
+    WolfCub:
+      - "\U0001F436"
+    RoleInfoWolfCub:
+      - "⁣⁣⁣⁣"
+  Blacksmith:
+    Blacksmith:
+      - "⚒"
+    RoleInfoBlacksmith:
+      - "⁣⁣⁣⁣"
+    SpreadDust:
+      - "-⁣⁣⁣⁣"
+    BlacksmithSpreadSilver:
+      - "{0}"
+  ClumsyGuy:
+    ClumsyGuy:
+      - "\U0001F915"
+    RoleInfoClumsyGuy:
+      - "⁣⁣⁣⁣"
+  Mayor:
+    Mayor:
+      - "\U0001F396"
+    RoleInfoMayor:
+      - "⁣⁣⁣⁣"
+    AskMayor:
+      - "-⁣⁣⁣⁣"
+    MayorReveal:
+      - "{0}"
+    Reveal:
+      - ".⁣⁣⁣⁣"
+  Prince:
+    Prince:
+      - "\U0001F451"
+    RoleInfoPrince:
+      - "⁣⁣⁣⁣"
+    PrinceLynched:
+      - "{0}"
+  Lycan:
+    Lycan:
+      - "\U0001F43A\U0001F31D" 
+    RoleInfoLycan:
+      - ""
+  Pacifist:
+    Pacifist:
+      - "☮️"
+    RoleInfoPacifist:
+      - "⁣⁣⁣⁣"
+    AskPacifist:
+      - "-⁣⁣⁣⁣"
+    PacifistNoLynch:
+      - "{0}"
+    PacifistNoLynchNow:
+      - "⁣⁣⁣⁣"
+    LynchPeaceTimeout:
+      - ⁣⁣⁣⁣
+    Peace:
+      - ".⁣⁣⁣⁣"
+  WiseElder:
+    WiseElder:
+      - "\U0001F4DA"
+    RoleInfoWiseElder:
+      - "⁣⁣⁣⁣"
+    WolvesTriedToEatWiseElder:
+      - "{0}"
+    WolvesAteWiseElderPM:
+      - "⁣⁣⁣⁣"
+  Oracle:
+    Oracle:
+      - "\U0001F300" 
+    RoleInfoOracle:
+      - ""
+    NegSeerSees:
+      - "{0}\n{1}"
+  Sandman:
+    Sandman:
+      - "\U0001F4A4" 
+    RoleInfoSandman:
+      - "⁣⁣⁣⁣"
+    AskSandman:
+      - "-⁣⁣⁣⁣"
+    SandmanSleepAll:
+      - "{0}"
+    SandmanNight:
+      - "⁣⁣⁣⁣"
+  WolfMan:
+    WolfMan:
+      - "\U0001F471\U0001F31A"
+    RoleInfoWolfMan:
+      - "⁣⁣⁣⁣"
+  Thief:
+    Thief:
+      - "\U0001F608" 
+    RoleInfoThief:
+      - "⁣⁣⁣⁣"
+    RoleInfoThiefFull:
+      - ""
+    AskThief:
+      - "⁣⁣⁣⁣"
+    ThiefStealFailed:
+      - "{0}"
+    ThiefStealDead:
+      - "{0}"
+    ThiefStoleRole:
+      - "{0}"
+    ThiefToMason:
+      - "{0}\n{1}"
+    ThiefToCult:
+      - "{0}\n{1}"
+    ThiefToWolf:
+      - "{0}\n{1}"
+    ThiefStealChosen:
+      - "{0}"
+    ThiefStoleYourRoleThief:
+      - "⁣⁣⁣⁣"
+    ThiefStoleYourRoleVillager:
+      - "⁣⁣⁣⁣"
+    StealKiller:
+      - "⁣⁣⁣⁣"
+    ThiefStoleKiller:
+      - "{0}"
+    NewDGRoleModel:
+      - "{0}"
+    NewWCRoleModel:
+      - "{0}"
+  Troublemaker:
+    Troublemaker:
+      - "\U0001F92F"
+    RoleInfoTroublemaker:
+      - "⁣⁣⁣⁣"
+    AskTroublemaker:
+      - "-⁣⁣⁣⁣"
+    TroublemakerDoubleLynch:
+      - "{0}"
+    TroubleDoubleLynchNow:
+      - "⁣⁣⁣⁣"
+  Chemist:
+    Chemist:
+      - "\U0001F9EA"
+    RoleInfoChemist:
+      - ""
+    AskChemist:
+      - "Who do you want to give the potion to? You have {0} potions left."
+    AskChemistPill:
+      - "⁣⁣⁣⁣"
+    ChemistFail:
+      - "{0}"
+    ChemistDeadYou:
+      - "{0}"
+    ChemistSuccessPublic:
+      - "{0}\n{1}"
+    ChemistFailPublic:
+      - "{0}\n{1}"
+    ChemistBrewing:
+      - "⁣⁣⁣⁣"
+    ChemistExtraPill:
+      - "2"
+  SnowWolf:
+    SnowWolf:
+      - "\U0001F43A☃️"
+    RoleInfoSnowWolf:
+      - "⁣⁣⁣⁣"
+    AskFreeze:
+      - "⁣⁣⁣⁣"
+    SuccessfulFreeze:
+      - "{0}"
+    HarlotFrozen:
+      - "⁣⁣⁣⁣"
+    CultistFrozen:
+      - "⁣⁣⁣⁣"
+    CHFrozen:
+      - "⁣⁣⁣⁣"
+    SeeingFrozen:
+      - "⁣⁣⁣⁣"
+    GAFrozen:
+      - "⁣⁣⁣⁣"
+    SKFrozen:
+      - "⁣⁣⁣⁣"
+    ThiefFrozen:
+      - "⁣⁣⁣⁣"
+    DefaultFrozen:
+      - "⁣⁣⁣⁣"
+  Augur:
+    Augur:
+      - "\U0001F985"
+    RoleInfoAugur:
+      - "⁣⁣⁣⁣"
+    AugurSees:
+      - "{0}"
+      - "The birds tell you that {0} is not part of the village right now."
+    AugurSeesNothing:
+      - "⁣⁣⁣⁣"
+  Arsonist:
+    Arsonist:
+      - "\U0001F525"
+    RoleInfoArsonist:
+      - "⁣⁣⁣⁣"
+    AskArsonist:
+      - "⁣⁣⁣⁣"
+    AskArsonistNoDoused:
+      - "⁣⁣⁣⁣"
+    AlreadyDousedList:
+      - "{0}"
+    ExtraDouse:
+      - "⁣⁣⁣⁣"
+    Doused:
+      - "{0}"
+    Burning:
+      - "{0}"
+    Burn:
+      - "⁣⁣⁣⁣"
+    WolvesVisitBurn:
+      - "{0}\n{1}"
+    DefaultVisitBurn:
+      - "{0}\n{1}"
+    WolfVisitBurn:
+      - "{0}\n{1}"
+    ArsonistWinsOverpower:
+      - "{0}\n{1}"
+    ArsonistVisitKiller:
+      - "{0}"
+    Spark:
+    - "⁣⁣⁣⁣"
+  Boss:
+    Boss:
+      - "\U0001F3A9"
+    RoleInfoBoss:
+      - "⁣⁣⁣⁣"
+    CultCount:
+      - "{0}"
+  Shadow:
+    Shadow:
+      - "\U0001F43A\U0001F31A"
+    RoleInfoShadow:
+      - "⁣⁣⁣⁣"
+    AskShadow:
+      - "-⁣⁣⁣⁣"
+    ShadowPower:
+      - "⁣⁣⁣⁣"
+  Skeleton:
+    Skeleton:
+      - "\U0001F480"
+    RoleInfoSkeleton:
+      - "⁣⁣⁣⁣"
+    ButtonAppears:
+      - ""
+    AskSkeleton:
+      - "⁣⁣⁣⁣"
+    ChoiceConfirmation:
+      - ""
+    BlockedNotice:
+      - ""
+    HauntButton:
+      - ""
+  Doctor:
+    Doctor:
+      - "\U0001F9D1‍⚕️"
+    RoleInfoDoctor:
+      - "⁣⁣⁣⁣"
+    AskDoctor:
+      - "⁣⁣⁣⁣"
+    DoctorRevive:
+      - "{0}\n{1}"
+    DoctorYouRevive:
+      - "⁣⁣⁣⁣"
+  Preacher:
+    Preacher:
+      - "\U0001F6D0"
+    RoleInfoPreacher:
+      - "⁣⁣⁣⁣"
+    AskPreacher:
+      - "⁣⁣⁣⁣"
+    PreacherDone:
+      - "{0}\n{1}\n{2}"
+    PreacherFailed:
+      - "{0}"
+    OhNoPreacher:
+      - "{0}"
+  GraveDigger:
+    GraveDigger:
+      - "☠️"
+    RoleInfoGraveDigger:
+      - "⁣⁣⁣⁣"
+    AskGraveDigger:
+      - "⁣⁣⁣⁣"
+    DigNoGraves:
+      - "⁣⁣⁣⁣"
+    DigGraves:
+      - "{0}"
+    DefaultFellDigger:
+      - "After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice there is dried blood on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. How foolish of {1} visiting you..."
+    DefaultVisitDigger:
+      - "{0}"
+    WolfFellWolves:
+      - "{0}\n{1}"
+    WolvesSpotted:
+      - "{0}"
+    WolvesSpottedYou:
+      - "⁣⁣⁣⁣"
+    SerialKillerSpotted:
+      - "{0}"
+    SerialKillerSpottedYou:
+      - "⁣⁣⁣⁣"
+    CultConvertGraveDigger:
+      - "{0}\n{1}"
+    DefaultFell:
+      - "{0}"
+  Conjurer:
+    Conjurer:
+      - "\U0001F43A✨"
+    RoleInfoConjurer:
+      - "⁣⁣⁣⁣"
+    AskConjurer:
+      - "-⁣⁣⁣⁣"
+    ConjurerChoice:
+      - " LEAST "
+  Miner:
+    Miner:
+      - "⛏"
+    RoleInfoMiner:
+      - "⁣⁣⁣⁣"
+    AskMiner:
+      - "⁣⁣⁣⁣"
+    MinerDone:
+      - "{0}"
+    MinerChanged:
+      - "{0}\n{1}"
+  Pawn:
+    Pawn:
+      - "♟"
+    RoleInfoPawn:
+      - "⁣⁣⁣⁣" 
+    AskPawn:
+      - "⁣⁣⁣⁣"
+    PawnSaved:
+      - "{0}"
+    PawnSavedYou:
+      - "{0}"
+    PawnNoAttack:
+      - "{0}"
+    PawnWolf:
+      - "{0}"
+    PawnKiller:
+      - "{0}"
+    PawnEmptyHouse:
+      - "{0}"
+    PawnKilledCH:
+      - "{0}"
+    PawnGuardedKiller:
+      - "{0}"
+    PawnGuardedWolf:
+      - "{0}"
+    PawnBlockedWolf:
+      - "{0}"
+    PawnBlockedKiller:
+      - "{0}"
+    PawnBlockedCH:
+      - "{0}"
+  Soldier:
+    Soldier:
+      - "\U0001FA96"
+    RoleInfoSoldier:
+      - "⁣⁣⁣⁣"
+    AskSoldier:
+      - "⁣⁣⁣⁣"
+    AskSoldier2:
+      - "⁣⁣⁣⁣"
+    SoldierChoice:
+      - "{0}"
+    SoldierDone:
+      - "{0}\n{1}\n{2}"
+  Rogue:
+    Rogue:
+      - "\U0001F43A\U0001F9E7"
+    RoleInfoRogue:
+      - "⁣⁣⁣⁣"
+    AskRogue:
+      - "⁣⁣⁣⁣"
+    AskRogue2:
+      - "⁣⁣⁣⁣"
+    RogueSuccess:
+      - "{0}\n{1}"
+  Executioner:
+    Executioner:
+      - "\U0001F9B8‍♂️"
+    RoleInfoExecutioner:
+      - ""
+    AskExecutioner:
+      - "⁣⁣⁣⁣"
+    AskExecutionerLynch:
+      - "{0}"
+    ExecutionerLynch:
+      - "{0}"
+  Slave:
+    Slave:
+      - "\U0001F635‍\U0001F4AB"
+    RoleInfoSlave:
+      - "⁣⁣⁣⁣"
+    SlaveLynched:
+      - "{0}"
+    SlaveTarget:
+      - "{0}"
+  Poseidon:
+    Poseidon:
+      - "\U0001F9DC"
+    RoleInfoPoseidon:
+      - "⁣⁣⁣⁣"
+    AskPoseidon:
+      - "-⁣⁣⁣⁣"
+    PoseidonRevealInfo:
+      - "⁣⁣⁣⁣"
+    PoseidonReveal:
+      - "{0}\n{1}"
+  Snitch:
+    Snitch:
+      - ""
+    RoleInfoSnitch:
+      - ""   
+    SnitchLynchSuccess:
+      - ""
+    SnitchFinalSuccess:
+      - ""
+    AskSnitch:
+      - ""
+    SnitchNoChoice:
+      - ""
+  Illusionist:
+    Illusionist:
+      - ""
+    RoleInfoIllusionist:
+      - ""
+    AskIllusionist:
+      - ""
+    IllusionistNoChoice:
+      - ""
+    IllusionistKillTarget:
+      - ""
+    IllusionistFakeTarget:
+      - ""
+    IllusionistKillYou:
+      - ""
+  KilledMessages:
+    BlacksmithKilled:
+      - "{0}"
+    CultistKilled:
+      - "{0}"
+    CupidKilled:
+      - "{0}"
+    DrunkKilled:
+      - "{0}"
+    GuardianAngelKilled:
+      - "{0}"
+    GunnerKilled:
+      - "{0}"
+    MayorKilled:
+      - "{0}"
+    PrinceKilled:
+      - "{0}"
+      - "{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade."
+    SeerKilled:
+      - "{0}"
+    PawnKilled:
+      - "{0}\n{1}\n{2}"
+    DefaultKilled:
+      - "{0}\n{1}"
+  EatenMessages:
+    ApprenticeSeerEaten:
+      - "{0}"
+    SorcererEaten:
+      - "{0}"
+      - "Cries of 'I'm your ally!' were heard last night. All the villagers found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship..."
+    WildChildEaten:
+      - "{0}"
+    PawnEaten:
+      - "{0}\n{1}\n{2}"
+    DetectiveEaten:
+      - "{0}"
+    GuardianEaten:
+      - "{0}"
+    GunnerEaten:
+      - "{0}"
+    SeerEaten:
+      - "{0}"
+    DrunkEaten:
+      - "{0}"
+    FoolEaten:
+      - "{0}"
+    DefaultEaten:
+      - "{0}\n{1}"
+    HarlotEaten:
+      - "{0}"
+    MasonEaten:
+      - "{0}"
+  WinMessages:
+    WolfWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    WolvesWin:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    VillageWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    TannerWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    CultWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    SerialKillerWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    NoWinner:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    ArsonistWins:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    LoversWin:
+      - "/startranked\n/startgame\n/startchaos\n/startlove\n/startcustom"
+    SerialKillerWinsOverpower:
+      - "{0}\n{1}"
+  GroupConfig:
+    ThankYou:
+      - "Thank you, have a good day :)"
+    RoleConfig:
+      - Role Configuration
+    Mechanics:
+      - Game Mechanics
+    GroupSettings:
+      - Group Settings
+    Timers:
+      - Game Timers
+    WhatToDo:
+      - "What would you like to do?"
+    EnableSecretLynch:
+    - "Enable Secret Lynch"
+    EnableSecretLynchA:
+      - "Enabling of secret Lynch set to: {0}"
+    EnableSecretLynchQ:
+      - "Enable Secret Lynch?\nCurrent: {0}"
+    RandomMode:
+      - "Enable Random Mode"
+    RandomModeA:
+      - "Enabling of random mode set to: {0}"
+    RandomModeQ:
+      - "Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}"
+    AllowExtend:
+      - "Allow Extending Timer"
+    AllowExtendQ:
+      - "Allow players to extend join time?\nCurrent: {0} extending\nNote: Admins will always be able to extend"
+    AllowExtendA:
+      - "{0} players to extend join time"
+    AllowFlee:
+      - "Allow Fleeing"
+    AllowFleeQ:
+      - "Do you want to allow fleeing once the game has started?\nNote: players can still flee during join phase\nCurrent: {0} fleeing"
+    AllowFleeA:
+      - "{0} fleeing after game start"
+    ShowIDs:
+    - "Show IDs on joining"
+    ShowIDsQ:
+      - "Show IDs of players while they join the game?\nCurrent: {0}"
+    ShowIDsA:
+      - "{0} IDs"
+    ThiefFull:
+      - "Thief Full Game"
+    ThiefFullA:
+      - "Thief will play every night: {0}"
+    ThiefFullQ:
+      - "Thief can be used every night?\nCurrent: {0}"
+    SecretLynchShowVotes:
+      - "Secret: Votes Count"
+    SecretLynchShowVotesQ:
+      - "When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}"
+    SecretLynchShowVotesA:
+      - "When secret lynch is turned on, the vote count at the end of the lynch will: {0}"
+    SecretLynchShowVoters:
+      - "Secret: Voters"
+    SecretLynchShowVotersA:
+      - "When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}"
+    SecretLynchShowVotersQ:
+      - "When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}"
+    PinChatMessage:
+      - "Pin Game Messages"
+    PinChatMessageQ:
+      - "Automatically Pin Game Messages? Default: {0}"
+    PinChatMessageA:
+      - "Pinning Messages Set {0}."
+    ShowRolesDeath:
+      - Show Roles on Death
+    ShowRolesDeathQ:
+      - "Show or Hide roles on death?\n\nCurrent: {0}"
+    ShowRolesDeathA:
+      - "Roles will be {0} on death"
+    WelcomeMessage:
+      - "Welcome Messages"
+    WelcomeMessageQ:
+      - "Show welcome messages? Default: {0}"
+    WelcomeMessageA:
+      - "Welcome Messages Set {0}."
+    PMMessage:
+      - "Team Chat"
+    PMMessageQ:
+      - "Can teams message each other via PM? Default: {0}"
+    PMMessageA:
+      - "Team Chat Set {0}."
+    RoleCards:
+      - "Role Cards"
+    RoleCardsQ:
+      - "Show Role Cards? Default: {0}"
+    RoleCardsA:
+      - "Role Cards Set {0}."
+    MaxExtend:
+      - Set Max Extend Time
+    MaxExtendQ:
+      - "Choose maximum number of seconds which can be added to joining timer by a single /extend command.\r\nDefault setting: {0}\r\nCurrent:{1}"
+    MaxExtendA:
+      - "Maximum extending time set to {0} seconds"
+    DisableGModes:
+      - Disable Game Mode
+    DisableGModesInfo:
+      - "Which game modes would you like to enable in the group?"
+    MuteModes:
+      - Mute Settings
+    MuteModesInfo:
+      - "In which game mode do you want to disable muting dead players?"
+    Lang:
+      - "Change Language"
+    DayTimer:
+      - Set Day Timer
+    SetDayTimeA:
+      - "Base day time set to {0} seconds"
+    SetDayTimeQ:
+      - "Choose the base time (in seconds) for day time. This will still be modified based on number of players.\nDefault setting: {0}\nCurrent: {1}"
+    NightTimer:
+      - Set Night Timer
+    SetNightTimeQ:
+      - "Choose the time (in seconds) for night time. Default setting: {0}\nCurrent:{1}"
+    SetNightTimeA:
+      - "Night time set to {0} seconds"
+    LynchTimer:
+      - Set Lynch Timer
+    SetLynchTimeQ:
+      - "Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}"
+    SetLynchTimeA:
+      - "Lynch voting time set to {0} seconds"
+    MaxPlayer:
+      - "Set Max Players"
+    MaxPlayersQ:
+      - "How many players would like to set as the maximum?\nCurrent: {0}"
+    MaxPlayersA:
+      - "Max players set to {0}"
+    RoleConfigInfo:
+      - "Which roles would you like to use in the game?\nConfiguration Tutorial:\n\n✅ = Role enabled\n❌ = Role disabled\n\nAfter selecting the roles, you need to use the VALIDATE button in the bottom left corner to validate and enable your role selection! If you don't validate your selection, it will be ignored and all roles will be used!\n\nIf the validation succeeded, the bottom left button says ✅ Valid ✅ and your role configuration will be used!"
+    Validate:
+      - Validate
+    WhatLang:
+      - "What Language?\nCurrent: {0}"
+    WhatVariant:
+      - "What Variant?\nCurrent: {0}"
+    LangSet:
+      - "Language set to {0}"
+    Allow:
+    - "Allow"
+    Disallow:
+      - "Disallow"
+    Show:
+      - "Show"
+    Hide:
+      - "Hide"
+  SocialCommand:
+    MostPlayedWith:
+      - "\U0001F3AE Most played with"
+    Killed:
+      - "\U0001F52A Kills"
+    KilledBy:
+      - "☠️ Killed by"
+    DeathType:
+      - "\U0001F4CA Death type"
+    SocialStats:
+      - "What social statistical information do you want to see?"
+  SetLinkCommand:
+    SetLinkSuccess:
+      - "Link Successfully Set: {0}"
+    SetLinkFailed:
+      - "You must use the /setlink command with the group invite link."
+    SetLinkError:
+      - "This is an invalid telegram invite link."
+    SetLinkDelete:
+      - "Your group's link has been successfully deleted."
+  RepCommand:
+    RepCommandSuccess:
+      - "Bug successfully sent to developers. After review, necessary corrections will be made. Thank you."
+    ErrorRepCommand:
+      - "Please reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
+    EmptyReason:
+      - "Please write the description of the error, next to the command. Example usage: /rep error player cannot be lynched"
+  Ping:
+    PingInfo:
+      - "Time to receive ping message: {0}\nMessages per second: {1}"
+    Ping2:
+      - "Time to send ping message: {0}"
+  ModeInfo:
+    LoveInfo:
+      - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476, and \U0001F9D1‍⚕️ roles are disabled."
+    NormalInfo:
+      - "In Normal mode, there are no points, and all roles are visible. The game ensures a balanced distribution between baddies and villagers, creating a fair and even challenge for all players."
+    RankedInfo:
+      - "In Ranked mode, players are awarded points based on their performance and role effectiveness. The game ensures balanced role distribution for fair play. At the end of a game with 10 or more players, some participants receive mint rewards, which can be used to purchase roles or emojis. Use the /topscore command to check your global ranking."
+    ChaosInfo:
+      - "In Chaos mode, there is no balance, roles are assigned completely at random. This means that either the villains or the villagers could end up with significant power. Prepare for an unpredictable and chaotic game where anything can happen!"
+    CustomInfo:
+      - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics."
+    ModeInfo:
+      - "/modeinfo.\n{0}"
+    BonusModeActivated:
+      - "More players, more points! Join the game, and watch rewards get doubled. Boost your rank fast! \U0001F680"
+    RankedMode:
+      - SHOULD NOT BE PLAYED!!!
+    LoveMode:
+      - Love (Super Amnesia)
+    CustomMode:
+      - Custom (Super Amnesia)
+    NormalMode:
+      - Normal (Super Amnesia)
+    ChaosMode:
+      - Chaos (Super Amnesia)
+  RoleList:
+    HelpRoleList:
+      - "Here are the roles of Wolf Blood:\n\nWolf Blood has a total of {2} roles.\nThere are {0} classic roles and {1} wb special roles."
+    VG:
+      - Village Team 🧑‍🌾
+    Baddie:
+      - Wolf Team 🐺
+    Solo:
+      - Solo Team 👣
+    AboutVGTeam:
+      - "Team Village\n\nThe innocent townspeople who are working together to identify and eliminate the killers hiding among them. They must use their deductive reasoning and strategic thinking to figure out who the killers are before they become victims of their deadly attacks.\n\nRivals : Werewolves , Serial Killer, Arsonist, Cultists"
+    AboutBaddieTeam:
+      - "Team Werewolf\n\nA group of villagers who got attacked by a pack of feral wolves on a magical night under the full moon, but miraculously escaped death. They experienced a strange transformation in their bodies, and from that moment on, they turned into werewolves at night, hunting unsuspecting villagers while pretending to be innocent members of the community during the day.\n\nRivals : Serial Killer, Arsonist, Cultists"
+    AboutSoloTeam:
+      - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
+  Requirements:
+    MemberCount:
+      - ""
+    RestrictPermission:
+      - ""
+    GameCount:
+      - ""
+    GroupUnderReview:
+      - ""
+    GroupApprovedButNotReady:
+      - ""
+    GroupRejected:
+      - ""
+    GroupApprovedNotification:
+      - ""
+    RequestSent:
+      - ""    
+  EndMessages:
+    SKHunterEnd:
+      - "{0}\n{1}"
+    HunterKillsWolfEnd:
+      - "{0}\n{1}"
+    WolfKillsHunterEnd:
+      - "{0}\n{1}"
+    CHKillsCultistEnd:
+      - "{0}\n{1}"
+    TannerEnd:
+      - "{0}"
+      - "{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left."
+    SorcererEnd:
+      - "{0}"
+      - "For all of {0}'s efforts, {0}'s wolf friends lay motionless and lifeless. Even if the wolves have been brought victory, there is no one to savour the success with, neither are there any living villagers to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new wolves, new allies, and new treachery to commit new crimes against humanity."
+    DoppelgangerEnd:
+      - "{0}"
+    ThiefEnd:
+      - "{0}"
+  RankedTable:
+    RoleTable: 
+      - ""
+    PointTable:
+      - ""
+    PenaltyTable:
+      - ""
+    BonusModeTable:
+      - ""
+    TotalTable:
+      - ""
+    ResultTable: 
+      - ""
+    WonGame:
+      - ""
+    LostGame:
+      - ""
+    Loots:
+      - "Loots!"
+  Stats:
+    AchievementsUnlocked:
+      - "Achievement Unlocked"
+    Score:
+      - "Point"
+    GamesWon:
+      - "Games Won"
+    GamesLost:
+      - "Games Lost"
+    GamesSurvived:
+      - "Games Survived"
+    TotalGames:
+      - "Total Games"
+    TimesKilled:
+      - "Most Killed"
+    TimesKilledBy:
+      - "Most Killed By"
+    Afk:
+      - "AFK Deaths"
+  TimeMessages:
+    LynchTime:
+      - "{0}"
+    DayTime:
+      - "{0}"
+    NightTime:
+      - "{0}"
+  CustomMode:
+    CustomRoleInvalid:
+      - The following roles are invalid. Please rewrite the roles below and then restart the game. You can use emoji or role names.
+    CustomFirstRole:
+      - "One of the first 4 roles must be a wolf team, tanner, cultist, arsonist, or serial killer. Please make sure these roles are included among the first roles added."
+    CustomMinimumRole:
+      - You need a minimum of 4 roles to start the game.
+    CustomMaxRole:
+      - You cannot start the game with more than 100 roles. Please delete some roles and try again.
+    CustomNoRole:
+      - Please add roles before starting the game.
+  BanMessages:
+    GroupBan:
+      - "You have been banned from joining the game."
+    GlobalBan:
+      - "You are globally banned from using the bot."
+    BanReason:
+     - "Reason: {0}"
+    BanExpire:
+      - "Expiration: {0}"
+    GroupBanPlayer:
+      - "You can't join the game because you have been banned by the admins of the {0} group."
+    Year:
+      - "Year"
+    Day:
+      - "Day"
+    Minutes:
+      - "Minute"
+    Hours:
+      - "Hour"
+    Seconds:
+      - "Second"
+  TeamsMessages:
+    MyTeam:
+      - "\U0001F465 Team Information\n\nYou are a member of the team {0}\n\nTo leave this team, use the /leaveteam command.\nLet's work together and achieve greatness! \U0001F680\U0001F3C6"
+    NothingTeam:
+      - "You are not currently a member of any team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
+    JoinTeam:
+      - "\U0001F389 Congratulations! \U0001F389\nYou have successfully joined the team {0}.\nLet's play together and dominate the game! \U0001F680\U0001F3AE"
+    AlreadyTeam:
+      - "ℹ️ Information: You are already a member of the team {0}. Keep up the good work and let's achieve victory together! \U0001F389\U0001F680"
+    LeaveTeam:
+      - "\U0001F44B You have successfully left the team {0}.\nIf you ever want to rejoin the team, you can use the /jointeam command.\nWe look forward to having you back! \U0001F31F"
+  NotAdmin:
+    GroupAdminOnly:
+      - "Only a group admin can run this command."
+    NotGlobalAdmin:
+      - "global admin..."
+    NotKadir:
+      - "Kadir!"
+    GroupCommandOnly:
+      - "You must run this command in a group"
+  NextGame:
+    DeletedFromWaitList:
+      - "You have been deleted from the wait list for {0}."
+    AlreadyOnWaitList:
+      - "You are already on the wait list for {0}."
+    AddedToWaitList:
+      - "You have been added to the wait list for {0}. I will PM you when the next game is starting." 
+  LynchMessages:
+    PlayerVotedLynch:
+      - "{0}\n{1}"
+    AskLynch:
+      - "⁣⁣⁣⁣"
+    LynchKill:
+      - "{0}\n{1}"
+    LynchTie:
+      - "⁣⁣⁣⁣"
+    NoLynchVotes:
+      - "⁣⁣⁣⁣"
+    PlayerVoteCounts:
+      - "{0} amnesiacs have voted, {1} total."
+    SecretLynchResultEach:
+      - "{0} votes went to {1}: {2}"
+    SecretLynchResultFull:
+      - "The lynch result for today:\n{0}"
+    SecretLynchResultNumber:
+      - "{0} votes went to {1}."
+  PublicMessages:
+    DefaultFellPublic:
+      - "{0}\n{1}"
+    KillerSpottedDiggerPublic:
+      - "{0}"
+    WolvesSpottedDiggerPublic:
+      - "{0}"
+    HarlotFuckKillerPublic:
+      - "{0}"
+    HarlotFuckedKilledPublic:
+      - "{0}\n{1}"
+  WelcomeMessages:
+    OfficialGrp:
+      - Here are our Official Groups across all communities. Click on the community group you want to join!
+    Welcome:
+      - "Hello, {0}! \U0001F43E Welcome to Wolf Blood!\n\nGet ready for an exciting and mysterious journey ahead where villagers battle against werewolves. Experience the classic werewolf gameplay with exclusive features including new roles and game modes.\n\nJoin Official Groups to compete with other players. Find new updates at Wolf Blood News and reach Support Group for assistance.\n\n\U0001F43E Happy wolfing \U0001F43A"
+    CreditsText:
+      - "\U0001D400\U0001D40F\U0001D40F\U0001D411\U0001D404\U0001D402\U0001D408\U0001D400\U0001D413\U0001D408\U0001D40E\U0001D40D \U0001D40F\U0001D400\U0001D406\U0001D404 \U0001F54A️\n\nWolfbloodbot was developed on May 2022 and mainly inspired from @werewolfbot which is a fantastic creation of the Father of Telegram Werewolf Game and the original developer of the said game bot- Para.\n\nWe will be forever grateful to Para for inventing and coding this game.\n\n\U0001F91D We would also like to thank Para and the whole GreyWolf Development Team for keeping the og bot running since 2016.\n\n\U0001F64F We would also like to grab this opportunity to thank everyone who helped us in Wolf Blood Community, not just limited to our developer Kadir {0}, Core Team {1}, Translators {2}, Moderators {3}, Donors {4}, Sponsors {5}, and to our beloved Players {6} who have shown an unending love and support for the bot. \n\nRole and Feature Ideas:\n✦ Most of our role ideas for the new roles are originally from our own, while some are adapted from Wolvesville and GreyWolf role suggestions.\n\n✦ The rest of the roles are from original {7}\n\n✦ Meanwhile, all feature ideas came from the Core Team and Wolf Blood players who have reached us through @wolfbloodsupport and @wolfbloodadminbot.\n\nPlease see the below links as references:\n\n\U0001F517 {8}\n\U0001F517 {9}"
+  AFKs:
+    IdleKill:
+      - "{0}\n{1}"
+    IdleCount:
+      - "Player {0} has been killed for not voting {1} times in the past 24 hours."
+    GroupIdleCount:
+      - "{0} of those kills were in this group."
+  StoreMessages:
+    Store:
+      - "\U0001F6D2 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nAvailable Emoji Fragment: {1} \U0001F9E9\n\nWhat would you like to buy?"
+    BuyFailed:
+      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for purchasing {0} is {1}. Please check your balance and try again."
+    BuyConfirm:
+      - "\U0001F504 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1}\nAvailable: {2}\nDo you want to proceed?\nBalance after purchase: {3}"
+    BuySuccess:
+      - "\U0001F389 Purchase Successful!\nYou have successfully purchased {0}\nYour new balance is {1}\nThank you for your purchase!"
+    BuyItems:
+      - "\U0001F6D2 Purchase Items\nHow many {1}'s would you like to purchase?\nPlease select the item and quantity you wish to buy.\nAvailable Mints: {0} \U0001FA99"
+    BuyTicket:
+      - "\U0001F39F Ticket Menu\n\nWelcome to the Ticket Menu! Here, you can purchase special tickets to enhance your gameplay experience. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nWhat would you like to buy?"
+    BuyRole:
+      - "\U0001F3AB Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} \U0001FA99\nChoose a role to purchase!"
+    BuyEmoji:
+      - "\U0001F604 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (\U0001F9E9).\nAvailable Fragments: {0} \U0001F9E9\n\nPick an emoji to buy and personalize your experience!"
+    BuyEmojiDuration:
+      - ""
+  TicketButtons:
+    ForceToken:
+      - '{0} FS Token'
+    RoleVouchers:
+      - '{0} Roles'
+    FJoin:
+      - '{0} Force Join'
+    FName:
+      - '{0} Fake Name'
+    BonusPointTicket:
+      - '{0} Bonus Point'
+    Fragment:
+      - '{0} Fragment'
+    Mint:
+      - '{0} Mint'
+    BonusRankedModeTicket:
+      - '{0} Bonus Ranked'
+    CustomMessageTicket:
+      - '{0} Custom Message'
+    CustomEmoji:
+      - '{0} Emojis'
+    PlayerTAG:
+      - '{0} Player TAG'
+    CustomGifs:
+      - '{0} Custom Gifs'
+    FakeRole:
+      - '{0} Fake Role'
+    MyTicketButton:
+      - '{0} Tickets'
+    MyItemButton:
+      - '{0} Items'
+    TournamentPoint:
+      - '{0} Tournament Point'
+    Month:
+      - ""
+    Week:
+      - ""
+    Permanent:
+      - ""
+    Yearly:
+      - ""
+  TopMessages:
+    GroupStats:
+      - "10 {0} :"
+    TopScore:
+      - "10 :"
+    YourRanking:
+      - 'Your Ranking:'
+    MostPlayedWithMonth:
+      - Players with the most games this month.
+  ProfileMessages:
+    ItemsText:
+      - "Hey {0}! Check out your awesome loot!\\n\\nYour Inventory:\\n\\n{1}"
+    Profile:
+      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    LockEmoji:
+      - This emoji is locked and cannot be changed...
+    MaxEmoji:
+      - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
+    EmojiChoice:
+      - "The emojis you acquire are shown below. Turn on/off an emoji appearing next to your name by toggling below:"
+    NoMyRoles:
+      - "You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
+    MyRoles:
+      - "\U0001F6C5 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
+    ActivateRole:
+      - '✅ {0} role activated successfully!'
+    DeactivateRole:
+      - '❌ {0} role deactivated successfully!'
+    TicketsMenu:
+      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+  RewardPM:
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Way to go! You’ve gained {0} in your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Fantastic! You have obtained {0} for your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Congratulations! You've earned {0} for your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Well done! You now have extra {0} in your inventory!"
+  TelegramStars:
+    StarShop:
+      - "\U0001F31F Welcome to the Telegram Stars Shop!\n\nReady to level up your gameplay?\nUse your Telegram Stars to unlock exclusive items and features.\n\nTap a button below to explore what’s available."
+    StarTicket:
+      - "\U0001F3AB Telegram Stars Ticket Menu\n\nWelcome to the Telegram Stars Ticket Menu! Here, you can purchase special tickets using your Telegram Stars. Click on the buttons below to proceed.\n\nWhat would you like to buy?"  
+    StarItems:
+      - "\U0001F6CD Purchase Items\nHow many {0} would you like to buy?\nPlease choose the quantity."
+    StarConfirm:
+      - "\U0001F6D2 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1} ⭐️\nDo you want to proceed?"
+    StarCustomMessage:
+      - "\U0001F4AC Purchase a {0}\n\nYou’re about to purchase a custom message slot using your Telegram Stars. Select how many letters or options you’d like."
+    StarPlayerTAG:
+      - "\U0001F3F7 Purchase a {0}\n\nYou’re about to purchase a custom player tag using your Telegram Stars. Select how many letters or options you’d like."
+    StarGifMenu:
+      - "\U0001F4F8 Purchase a {0}\n\nYou’re about to purchase a custom GIF pack using your Telegram Stars. Select which GIF pack you want to buy."
+    StarRole:
+      - "\U0001F9E9 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
+    StarEmoji:
+      - "\U0001F604 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
+    StarEmojiDuration:
+      - ""
+    StarSuccess:
+      - "\U0001F4E6 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} \U0001F6CD️\nIt'll cost you {2} Telegram Stars \U0001F31F\nCheck your messages — once you complete the payment, your goodies will be on their way! \U0001F381\U0001F680"
+    StarPayment:
+      - "\U0001FA99 Time to Pay Up!\nThis invoice was prepared for {0} \U0001F4BC\nYou're one step away from claiming {1} for {2} Telegram Stars \U0001F31F\nHit that 'Pay' button below and it's all yours!"
+    StarPaidSuccess:
+      - "\U0001F389 Payment Complete!\n\n{0}, your payment of {1} Telegram Stars was successful! \U0001F31F\n\nThe following item(s) have been delivered to you:\n{2} \U0001F4E6\n\nEnjoy your new goodies and keep shining in the game! ✨"
+  GiftMenu:
+    GiftShop: 
+      - "\U0001F381 Gift Sending Menu\n\nReady to send a surprise?\nSelect a special gift and make {0}'s day unforgettable! \U0001F31F\n\nTap a button below to choose a gift."
+    GiftItems:
+      - "\U0001F381 Gift Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    GiftConfirm:
+      - "✅ Confirm Sending\n\nYou are about to send {0} gift(s) to {1}.\nCost: {2} ⭐️\nDo you want to proceed?"
+    GiftTicket:
+      - "\U0001F3AB Gift a {0}\n\nYou're about to gift a special ticket to {1}!\n\nUse your Telegram Stars to help them join games more easily. Select a ticket below to continue."
+    GiftCustomMessage:
+      - "\U0001F4AC Gift a {0}\n\nYou're about to gift a custom message slot to {1}!\n\nLet them express themselves freely. Choose the number of letters or options."
+    GiftPlayerTAG:
+      - "\U0001F3F7 Gift a {0}\n\nYou're about to gift a custom player tag to {1}!\n\nAllow them to stand out with a unique identity. Choose the tag to send."
+    GiftCustomGif:
+      - "\U0001F4F8 Gift a {0}\n\nYou're about to gift a custom GIF pack to {1}!\n\nSend them a personalized touch to their game experience. Pick the GIF you want to send."
+    GiftRole:
+      - "\U0001F9E9 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
+    GiftEmoji:
+      - "\U0001F604 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
+    GiftEmojiDuration:
+      - ""
+    GiftSentSuccess:
+      - "\U0001F381 Gift Delivered!\n\nYour gift to {0} has been successfully sent! \U0001F4E8\nYou've just shared:\n{1} \U0001F389\n\nKindness like this keeps the game fun and full of surprises. \U0001F31F"
+  CustomGifs:
+    NotPack:
+      - You have not unlocked a custom GIF pack. Please use /donate.
+    GifPackStatus:
+      - 'Current Approval Status:
+
+        Approved Gifs: {0} ✅
+
+        Pending Gifs: {1} ⏳
+
+        Rejected Gifs: {2} ⛔️'
+    GifPack:
+      - "Ready to build your custom gif pack? Here's what you need to know:\n\n• Your pack will need approval before you can use it in games.\n• Not allowed: brutal or illegal gifs, and others at our discretion.\n• You'll receive a description of the image to choose the gif.\n• Changing gifs will require re-approval by an admin.\n\nLet's get started by selecting a situation for your gif!"
+    GifSubmitBtn:
+      - Submit for approval
+    GifSend:
+      - "Okay. Reply to this message with which gif you want to use for this."
+    GifReset:
+      - "Reset Gifs"
+    GifResetSuccess:
+      - "Your {0} GIFs have successfully been reset."
+    GifStatus:
+      - 'Gif Status: {0}'
+    Approved:
+      - 'Approved ✅'
+    Disapproved:
+      - 'Disapproved ⛔️'
+    GifError:
+      - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    GifSuccess:
+      - "Got it! Any more?"
+    GifSubmit:
+      - "Your GIF pack has been submitted to the admins for approval!\n\nPlease keep in mind that admins have a huge number of GIF packs to review, hence this process may take up to 1 working days.\n\nOur admins will keep track of the submitted GIF packs, you don’t have to PM them directly. Thank you for your patience!"
+    GifSubmitHour:
+      - "You have already submitted your GIF pack in the last hour! If you submit your GIFs and then change something before it gets approved, you don't have to submit it again! Please wait patiently while your GIFs are being reviewed."
+    GifEmpty:
+      - Please set at least one GIF before you submit your pack!
+    GifCheckSuccess: 
+      - "\U0001F389 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! \U0001F43A✨"
+  TransferMenu:
+    Transfer:
+      - ""
+    TransferSelf:
+      - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
+    TransferFailed:
+      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for transferring {0} is {1}. Please check your balance item and try again."
+    TransferItems:
+      - "\U0001F504 Transfer Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    ConfirmTransfer:
+      - "\U0001F504 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"  
+    TransferSuccess:
+      - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
+    TransferReceived:
+      - "\U0001F389 You've received a Gift \U0001F381\n\nYou have received {0} from {1}.\n\nEnjoy your new items and thank you for playing!"
+    TransferRole:
+      - "\U0001F9E9 Transfer a {0}\n\nYou're about to transfer a powerful role to {1}!\n\nShare the thrill, change their destiny, and shake up the game!\nChoose the role you'd like to send their way."
+    TransferEmoji:
+      - "\U0001F604 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
+    TransferTicket:
+      - "\U0001F3AB Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
+    TransferLimit:
+      - ""
+  PlayerTAGS:
+    TagSuccess:
+      - "Your new name tag was set successfully. Tag: {0}" 
+    TagError:
+      - "The player tag you specified could not be set. Please set a tag {0} characters long and do not use special characters. Example usage: /settag PRO"
+    TAGInvalid:
+      - "❗ Cannot activate Player TAG Ticket!\nYou need to set a tag first. Use the /settag command to choose a tag, then try activating the ticket again."
+  CustomMessages:
+    CustomMessageLenght:
+      - "❗ Invalid Message!\nYour message must be between {0} and {1} characters long. Please choose a valid message and try again."
+    CustomMessageSuccess:
+      - "✅ Custom Message Set Successfully!\nYou can now use this message in the game!\nYour new message is: {0}"
+    CustomMessageAllLetter:
+      - "❗ Invalid Message!\nYour message must contain only letters. Please choose a valid message and try again."
+    CustomMessageInvalid:
+      - "❗ Cannot activate Custom Message Ticket!\nYou need to set a custom message first. Use the /specialmessage command to choose a message, then try activating the ticket again." 
+  FakeNames:
+    FakeNameLenght:
+      - "❗ Invalid Name!\nYour name must be between {0} and {1} characters long. Please choose a valid name and try again."
+    FakeNameSuccess:
+      - "✅ Fake Name Tag Set Successfully!\nYour new name tag is: {0}. You can now use this name in the game!"
+    FakeNameInvalid:
+      - "❗ Cannot activate Fake Name Ticket!\nYou need to set a fake name first. Use the /fakename command to choose a name, then try activating the ticket again."
+  FakeRoles:
+    FakeRoleSuccess:
+      - "✅ Fake Role Set Successfully!\nYour new role is: {0}. Now you can imitate this role in the play!"
+    NoRole:
+      - "❗ The role of '{0}' is invalid. Please type a valid role name and try again."
+    RoleInvalid:
+      - "❗ Cannot activate Fake Role Ticket!\nYou need to set a role first. Use the /fakerole command to choose a role, then try activating the ticket again."
+  Others:
+    Donate:
+      - "Telegram Stars is a fun way to support your favorite bots and creators on Telegram. By sending Stars, you help keep the bot running — and show your appreciation!\n\n\U0001F4B0 How to donate:\n1. Open the bot chat\n2. Send the /donate command\n3. Tap the Telegram Stars button\n4. Enter the amount you want to donate\n5. Confirm the invoice\n\nNote: This is for donations only — no special features are unlocked here.\nWant cool perks? Head over to the /stars menu! \U0001F680\n\nThanks for supporting Wolf Blood Bot! \U0001F43A✨"
+    UserNotFound:
+      - "⚠️ User Not Found\n\nThe specified User ID or Username could not be found. Please make sure you have entered the correct User ID or Username and try again."
+    ForceJoinSuccess:
+      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
+    TicketRequired: 
+      - "❗ Ticket Required!\nYou need a {0} Ticket to use this command. Please purchase one first using the /stars command! \U0001F39F️"
+    JoinButton:
+      - "⁣⁣⁣⁣"
+    Skip:
+      - "⁣⁣⁣⁣"
+    Yes:
+      - "Yes"
+    No:
+      - "No"
+    VoteBtn:
+      - ⁣⁣⁣⁣
+    GoToBtn:
+      - ⁣⁣⁣⁣
+    RolList:
+      - "Role List :"
+    NoClaims:
+      - "⁣⁣⁣⁣"
+    Cancel:
+      - "Cancel"
+    OfficialBtn:
+      - Offical Groups
+    SupportBtn:
+      - Support Group
+    NewsBtn:
+      - News
+    Done:
+      - "Done!"
+    Back:
+      - "Back"
+    EndTime:
+      - "Game Length: {0}"
+    TimesUp:
+      - "⁣⁣⁣⁣"
+    GetLang:
+      - "Get which language file?"
+    GenericDeathNoReveal:
+      - "{0}"
+      - "As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night..."
+    ErrorBotMessagePM:
+      - "Please specify the recipient of your message by using the appropriate command: Type /love to message your lover, or /team to communicate with your wolf pack or cult members."
+    SecondsAdded:
+      - "{0}\n{1}"
+    SecondsRemoved:
+      - "{0}\n{1}"
+    LeftToJoin:
+      - "{0}"
+    HaveJoined:
+      - "{0}"
+    AlreadyInGame:
+      - "{0}"
+    CountPlayersAdded:
+      - "{0}"
+    NotEnoughLovePlayers:
+      - "To play in Love mode you need to reach an even number (6,8,10,12...) This game has been canceled..."
+    NotEnoughPlayers:
+      - "Not enough players, cancelling game!"
+    StartingGameWait:
+      - "Game is starting, please wait while I assign roles and update the database."
+    AlreadyJoined:
+      - "You've already joined!"
+    ChoiceAccepted:
+      - "⁣⁣⁣⁣"
+    And:
+      - "and"
+    NewUnlocks:
+      - ""
+    PlayersAlive:
+      - "Players Alive"
+    Players:
+      - "Players"
+    Was:
+      - "was"
+    NoGame:
+      - "There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
+    NotifyNewGame:
+      - "A new game is starting in {0}."
+    NotPlaying:
+      - "You don't seem to be playing..."
+    NotHome:
+      - "{0}" 
+    GamesPlayed:
+      - "New Member: {0} ({1})\n\nPlayer Game Counts\n∙ Wolf Blood: {2}\n∙ Other Bots: {3}\n\nTotal Games: {4}"
+    LoverDied:
+      - "{0}/n{1}\n{2}"
+    NoAttack:
+      - "⁣⁣⁣⁣"
+    LynchDead:
+      - "⁣⁣⁣⁣"
+    SentPrivate:
+      - "I have sent you a PM"
+    Help:
+      - "If you want to browse the roles in the game, you can use the /rolelist command.\nYou can select the language with the /setlang command.\nStart a game with the /startranked command immediately. Have fun."
+    StartMe:
+      - "Please start me so I can PM you"
+    LatestList:
+      - "⁣⁣⁣⁣"
+    UnableToGetList:
+      - "Unable to get latest list"
+    YouJoined:
+      - "{0}"
+    CantExtend:
+      - "admins"
+    NotMember:
+      - "You can't join this game because you don't seem to be a member of {0}."
+    GroupNotFound:
+      - "Couldn't find the group. Please run this command in the group you want to stop waiting for, or add link, id, or username next to the command."
+    RoleCommand:
+      - 'No such role was found. Search by adding role next to the command. Example usage: /role villager'
+    DisableGameMode:
+      - "Sorry {0}, Group Admins have disabled this mode in this group. How about asking them to enable it first :)"
+    DeadSlient:
+      - "Because you are dead, you cannot send messages to the group until the end of the game. After the game ends, you will be able to write again. If you want to receive notifications for the next game, please click on the button below."
+    PlayerLimitReached:
+      - "Sorry, max player limit has been reached!"
+    DeadFlee:
+      - "You can't run away! YOU'RE DEAD! Get back in the ground... jeez!"
+    Flee:
+      - "{0}"
+    FleeDisabled:
+      - "Fleeing while the game is running has been disabled by the group admin!"
+    PlayerRoleWas:
+      - "{0} {1}"
+    CountPlayersRemain:
+      - "{0}"
+    ByForceStart:
+      - "A command was sent by {0} to start the game by force."
+    PlayersGifPack:
+      - "Players with custom gif packs :"
+    ForceStarted:
+      - 'Force Started By: {0}'
+    TreasureWin:
+      - "\U0001F381 Mystery Unveiled! \U0001F381\n\nCongratulations to the following Treasure Hunters! \U0001F929\U0001F973\n\n\U0001F3C6 Prize Announcement:\nHere’s the adventurers who have been selected to receive a mysterious treasure chest:\n\n<b>{0}</b>\n\nJoin us in celebrating their victories and stay tuned for more adventures ahead! \U0001F31F"
+    NameExists:
+      - "@{1}, a player with the name {0} has already joined. Please change your name to join."
+    ChangeNameToJoin:
+      - "{0}, please change your name to join"
+    ExitAnonymousMode:
+      - "You can't use this bot as anonymous admin! Please exit the anonymous mode (or ask the admin who promoted you to do so) and try again!"
+    MaintBreak:
+      - "Sorry, I'm about to start a short maintenance break, you can't start a game right now...\nGo to @wolfbloodnews for more information"
+    NoPlayerName:
+      - "I can't find a player by that name!"
+    NodeShutsDown:
+      - "An error has occured, and this node has shut down :/"
+    NoNodes:
+      - "There are no nodes online right now, please try again in a few seconds"
+  BonusPoints:
+    DieAsAFK_Penalty:
+      - ""

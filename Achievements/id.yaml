@@ -1,0 +1,256 @@
+strings:
+  None:
+    Name: "None"
+    Description: "Anda belum memainkan permainan apa pun!"
+  WelcomeToHell:
+    Name: "Selamat Datang di neraka"
+    Description: "Bermain dalam permainan"
+  WelcomeToAsylum:
+    Name: "Selamat datang di Rumah Sakit Jiwa"
+    Description: "Mainkan permainan chaos"
+  AlzheimerPatient:
+    Name: "Pasien Alzheimer"
+    Description: "Mainkan game dengan paket bahasa amnesia"
+  Enochlophobia:
+    Name: Enochlophobia
+    Description: Mainkan permainan dengan 35 pemain
+  Introvert:
+    Name: Introvert
+    Description: Mainkan permainan dengan 5 pemain
+  Naughty:
+    Name: Nakal!
+    Description: Mainkan game menggunakan paket bahasa NSFW apa pun
+  Dedicated:
+    Name: Dedikasi
+    Description: Memainkan 100 Permainan
+  Obsessed:
+    Name: Terobsesi
+    Description: Memainkan 1000 Permainan
+  Masochist:
+    Name: Masokis
+    Description: Menangkan permainan sebagai Tanner
+  Wobble:
+    Name: Adu Goyang
+    Description: Bertahan dalam permainan sebagai pemabuk (setidaknya 10 pemain)
+  Inconspicuous:
+    Name: Tidak mencolok
+    Description: Dalam permainan yang terdiri dari 20 orang atau lebih, jangan mendapatkan satu pun suara lynch yang menentang Anda (dan bertahanlah)
+  Survivalist:
+    Name: Ahli bertahan hidup
+    Description: Bertahan hidup dalam 100 permainan
+  Promiscuous:
+    Name: Kacau
+    Description: Sebagai pelacur, selamat dari permainan 5+ malam tanpa tinggal di rumah atau mengunjungi orang yang sama lebih dari sekali
+  MasonBrother:
+    Name: Saudara Mason
+    Description: Jadilah salah satu dari setidaknya dua tukang batu yang masih hidup dalam sebuah game
+  DoubleShifter:
+    Name: Pemindah Berganda
+    Description: Ganti peran dua kali dalam satu permainan (konversi kultus tidak dihitung)
+  HeyManNiceShot:
+    Name: Hey kawan, tembakan yang bagus
+    Description: Sebagai pemburu, gunakan tembakan terakhir Anda untuk membunuh serigala atau pembunuh berantai
+  DontStayHome:
+    Name: Itu sebabnya Anda tidak tinggal di rumah
+    Description: Sebagai serigala atau kultus, bunuh atau ubahlah pelacur yang tinggal di rumah
+  DoubleVision:
+    Name: Penerawang Ganda
+    Description: Jadilah salah satu dari dua penerawang pada saat yang sama
+  DoubleKill:
+    Name: Bunuh berganda
+    Description: Jadilah bagian dari akhir Serial Killer / Hunter
+  ShouldHaveKnown:
+    Name: Seharusnya Diketahui
+    Description: Sebagai Penerawang, ungkapkan Juru Bicara Penerawang
+  LackOfTrust:
+    Name: Saya Melihat Kurangnya Kepercayaan
+    Description: Sebagai Penerawang, digantung pada hari pertama
+  BloodyNight:
+    Name: Minggu Yang Berdarah
+    Description: Menjadi salah satu dari setidaknya 4 korban meninggal dalam satu malam
+  ChangingSides:
+    Name: Beralih Sisi Dalam Bekerja
+    Description: Ubah peran dalam permainan, dan menangkan
+  ForbiddenLove:
+    Name: Cinta Terlarang
+    Description: Menang sebagai pasangan serigala/penduduk desa (penduduk desa, bukan tim desa)
+  FirstStone:
+    Name: Batu Pertama
+    Description: Jadilah orang pertama yang memberikan suara lynch sebanyak 5 kali dalam satu permainan
+  SmartGunner:
+    Name: Penembak Handal
+    Description: Sebagai Penembak, kedua peluru Anda mengenai serigala, pembunuh berantai, atau kultus
+  Streetwise:
+    Name: Jalanan
+    Description: Temukan serigala, pembunuh berantai, pelaku pembakaran, atau kultus yang berbeda 4 malam berturut-turut sebagai detektif
+  OnlineDating:
+    Name: Kencan Kilat
+    Description: Minta bot memilih Anda sebagai kekasih (cupid gagal memilih)
+  BrokenClock:
+    Name: Bahkan Jam yang Berhenti pun Tetap Benar Dua Kali Sehari
+    Description: Sebagai si penerawang palsu, pastikan setidaknya dua penerawangan Anda benar di akhir permainan
+  SoClose:
+    Name: Jadi Tutup!
+    Description: Sebagai Tanner, bersiaplah untuk mendapatkan suara vote terbanyak
+  CultCon:
+    Name: Konversi Kultus
+    Description: Jadilah salah satu dari 10 atau lebih kultus yang masih hidup di akhir permainan
+  SelfLoving:
+    Name: Mencintai Diri Sendiri
+    Description: Sebagai dewa asmara, pilihlah diri Anda sebagai salah satu kekasih
+  ShouldveMentioned:
+    Name: Seharusnya Mengatakan Sesuatu
+    Description: Sebagai serigala, kawananmu memakan kekasihmu (malam pertama tidak dihitung)
+  TannerOverkill:
+    Name: Tanner Berlebihan
+    Description: Sebagai Tanner, mintalah semua orang (kecuali Anda sendiri) memilih untuk menghukum mati Anda
+  SerialSamaritan:
+    Name: Serial Samarinda
+    Description: Sebagai Pembunuh Berantai, bunuh setidaknya 3 serigala dalam satu game
+  CultFodder:
+    Name: Kultus Feeder
+    Description: Jadilah kultus yang dikirim untuk mencoba mengubah Pemburu Kultus
+  LoneWolf:
+    Name: Serigala Pendiam
+    Description: Dalam permainan chaos yang terdiri dari 10 orang atau lebih, jadilah satu-satunya serigala - dan menangkan
+  PackHunter:
+    Name: Paket Pemburu
+    Description: Jadilah salah satu dari 7 serigala hidup sekaligus
+  GunnerSaves:
+    Name: Diselamatkan oleh Peluru
+    Description: Sebagai penduduk desa, serigala menyamai jumlah penduduk desa, namun permainan tidak berakhir karena penembaknya mempunyai peluru
+  LongHaul:
+    Name: Dalam Jangka Panjang
+    Description: Bertahan setidaknya satu jam dalam satu permainan
+  OhShi:
+    Name: OH SHI-
+    Description: Bunuh kekasihmu di malam pertama
+  Veteran:
+    Name: Sesepuh
+    Description: Memainkan 500 permainan. Anda sekarang dapat bergabung dengan @wolfbloodvets
+  NoSorcery:
+    Name: Tanpa Penyihir!
+    Description: Sebagai serigala, bunuh penyihirmu
+  CultistTracker:
+    Name: Pelacak Kultus
+    Description: Sebagai pemburu kultus, bunuh setidaknya 3 kultus dalam satu permainan
+  ImNotDrunk:
+    Name: AKU TIDAK MABUK-- *BURPPP
+    Description: Sebagai orang yang kikuk, miliki setidaknya 3 vote yang benar di akhir permainan
+  WuffieCult:
+    Name: Wuffie-Kultus
+    Description: Sebagai serigala alpha, berhasil mengkonversi minimal 3 korban menjadi serigala
+  DidYouGuardYourself:
+    Name: Apakah Anda menjaga diri sendiri?
+    Description: Sebagai malaikat pelindung, bertahan setelah 3 kali mencoba menjaga serigala yang tidak diserang
+  SpoiledRichBrat:
+    Name: Bocah Kaya yang Manja
+    Description: Sebagai seorang pangeran, dia tetap akan digantung bahkan setelah identitasnya diungkapkan
+  ThreeLittleWolves:
+    Name: Tiga Serigala Kecil dan Seekor Babi Besar yang Jahat
+    Description: Sebagai penyihir, selamat dari permainan dengan tiga atau lebih serigala hidup
+  President:
+    Name: Presiden
+    Description: Sebagai walikota, berhasil memberikan 3 suara lynch setelah mengungkapkannya
+  IHelped:
+    Name: Aku Membantunya!
+    Description: Sebagai anak serigala, kawanan yang masih hidup memiliki 2 kali percobaan makan yang berhasil setelah Anda mati
+  ItWasABusyNight:
+    Name: Itu adalah malam yang sibuk!
+    Description: Pada malam yang sama, dikunjungi oleh 3 atau lebih peran kunjungan yang berbeda
+  StrongestAlpha:
+    Name: Alpha Terkuat
+    Description: Sebagai serigala alpha, berhasil menginfeksi pembunuh berantai!
+  AmIYourSeer:
+    Name: Apakah Aku Penerawangmu?
+    Description: Sebagai penerawang palsu, melihat juru bicara penerawang
+  DemotedByTheDeath:
+    Name: Diturunkan karena Kematian
+    Description: Sebagai pemburu, tembak orang tua yang bijak dengan tembakan terakhirmu dan matilah sebagai penduduk desa rendahan
+  WastedSilver:
+    Name: Perak yang Terbuang
+    Description: Sebagai pandai besi, sebarkan debu perak Anda pada hari yang sama saat manusia pasir bernyanyi
+  Trustworthy:
+    Name: Dapat dipercaya!
+    Description: Sebagai manusia serigala, bertahan dan menangkan permainan setelah diperiksa oleh penerawang
+  DeepLove:
+    Name: Cinta Yang Dalam
+    Description: Sebagai doppelgänger, pilihlah kekasih Anda sebagai panutan. Sungguh cinta yang mendalam <3
+  TimeToRetire:
+    Name: Saatnya pensiun...
+    Description: Sebagai penyihir, jadilah orang terakhir yang hidup di desa dan kalah
+  SeeingBetweenTeams:
+    Name: Melihat Antar Tim
+    Description: Jadilah pasangan penerawang/penyihir
+  JustABeardyGuy:
+    Name: Hanya Pria Berjanggut..
+    Description: Sebagai manusia serigala, tertular serigala alpha dan jadilah manusia serigala sejati. WOLOOOOO!
+  ThatCameUnexpected:
+    Name: Hal Itu Tidak Terduga!
+    Description: Sebagai tanner, digantung dan menangkan permainan saat hanya tersisa 3 orang
+  NowImBlind:
+    Name: Sekarang Aku Buta
+    Description: Sebagai oracle, gagal mendapatkan visi karena semua orang mempunyai peran yang sama.
+  EveryManForHimself:
+    Name: Setiap Manusia Untuk Dirinya Sendiri!
+    Description: Sebagai seorang pasifis, selamatkan diri Anda dari hukuman gantung (setidaknya 50% suara telah diberikan untuk Anda)
+  MySweetieSoStrong:
+    Name: Ayangku sangat kuat!
+    Description: Jatuh cintalah dengan pasifis, dan selamat dari hukuman mati tanpa pengadilan oleh mereka (setidaknya 50% suara telah diberikan untuk Anda)
+  CultLeader:
+    Name: Pemimpin Kultus
+    Description: Jadilah kultus sejak awal permainan, bertahan dan menang.
+  ThanksJunior:
+    Name: Terima Kasih, Junior!
+    Description: Setelah kawanan serigala memakan si pemabuk, Anda berubah menjadi serigala dan dapat mencoba memakan seseorang sementara kawanan serigala lainnya mabuk!
+  DeathVillage:
+    Name: Desa Mati
+    Description: Berpartisipasilah dalam permainan yang tidak memiliki pemenang.
+  ILostMyWisdom:
+    Name: Saya Kehilangan Kebijaksanaan Saya
+    Description: Sebagai orang tua yang bijaksana, ubahlah peran Anda! Tiba-tiba kamu tidak bijaksana lagi...
+  Affectionate:
+    Name: Penuh Kasih Sayang
+    Description: Sebagai pelacur, kunjungi kekasihmu!
+  LuckyDay:
+    Name: Hari Keberuntungan
+    Description: Sebagai Serigala Alpha, menginfeksi orang yang mabuk dan tetap sadar! Fiuh...
+  ConditionRed:
+    Name: Kondisi Merah!
+    Description: Sebagai serigala terakhir yang hidup, makanlah pengkhianat itu. Oh tidak!
+  Indestructible:
+    Name: Tidak bisa dihancurkan
+    Description: Jadilah Doppelgänger atau Anak Liar dengan panutan Anda adalah diri Anda sendiri!
+  PsychopathKiller:
+    Name: Pembunuh Psikopat
+    Description: Sebagai pembunuh berantai, menangkan permainan dengan 35 pemain!
+  TodaysSpecial:
+    Name: Hari Spesial!
+    Description: "Ikut serta dalam acara manusia serigala khusus! Saat ini: Tertipu pada April Mop tahun 2020!"
+  RomeoAndJuliet:
+    Name: Romeo Dan Juliet
+    Description: Jatuh cintalah dengan tanner, dan menangkan dengan menghukum mati kekasih Anda!
+  ReallyBadLuck:
+    Name: Sungguh sial
+    Description: Sebagai seorang pembunuh berantai, tersandung di kuburan, lalu membunuh seseorang secara acak dan dilawan oleh malaikat pelindung.
+  Domino:
+    Name: Haram
+    Description: Sebagai seorang pemburu, tembaklah pemburu lain yang menyebabkan mereka menembak juga.
+  DoubleShot:
+    Name: Tembakan Ganda
+    Description: Sebagai pemburu atau penembak, tembak peran buruk yang jatuh cinta dengan peran buruk lainnya!
+  PlayingWithTheFire:
+    Name: Bermain dengan Api
+    Description: Sebagai pelaku pembakaran, bakar 5 rumah atau lebih dalam satu malam.
+  Firework:
+    Name: Kembang api
+    Description: Sebagai pelaku pembakaran, bakar 10 rumah atau lebih dalam satu malam! Kembang api yang bagus :)
+  ColdAsIce:
+    Name: Sedingin Es
+    Description: Sebagai Serigala Salju, bekukan pelacur itu. Cinta mereka sedingin es.
+  GoodChoiceForYou:
+    Name: Pilihan Bagus... Untuk Anda
+    Description: Sebagai ahli kimia, kunjungi pemain dan bertahan 3 kali dalam satu permainan.
+  IncreaseThePack:
+    Name: Tingkatkan Paket!
+    Description: Setelah anak serigala mati, infeksi 2 pemain sebagai serigala alpha!

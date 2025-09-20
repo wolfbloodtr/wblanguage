@@ -1,0 +1,259 @@
+strings:
+  None:
+    Name: "Hiç"
+    Description: "Henüz bir oyun oynamış değilsin!"
+  WelcomeToHell:
+    Name: "Cehenneme Hoş geldin"
+    Description: "Bir oyun oyna"
+  WelcomeToAsylum:
+    Name: "Tımarhaneye Hoş geldin"
+    Description: "Kaotik bir oyun oyna"
+  AlzheimerPatient:
+    Name: "Alzheimer Hastası"
+    Description: "Unutkan dil varyantında bir oyun oyna"
+  Enochlophobia:
+    Name: Enoklofobi
+    Description: 35 kişilik bir oyun oyna
+  Introvert:
+    Name: İçe Dönük
+    Description: 5 kişilik bir oyun oyna
+  Naughty:
+    Name: Edepsiz!
+    Description: NSFW dil pakediyle bir oyun oyna
+  Dedicated:
+    Name: Adanmış
+    Description: 100 oyun oyna
+  Obsessed:
+    Name: Bağımlı
+    Description: 1000 oyun oyna
+  Masochist:
+    Name: Mazoşist
+    Description: İblis rolü ile bir oyun kazan
+  Wobble:
+    Name: Wobble Wobble
+    Description: Sarhoş rolü ile hayatta kal (en az 10 oyunculu bir oyunda)
+  Inconspicuous:
+    Name: Göze Çarpmayan
+    Description: 20 veya daha büyük bir oyunda, tek bir linç dâhi almadan oyunu kazan (ve hayatta kal)
+  Survivalist:
+    Name: Hayatta Kalan
+    Description: 100 oyunda hayatta kal
+  Promiscuous:
+    Name: Gelişi Güzel
+    Description: Yancı olarak 5'den fazla gecede, evde kalmadan veya aynı kişileri ziyaret etmeyerek hayatta kal
+  MasonBrother:
+    Name: Mason Kardeşliği
+    Description: Oyundaki en az 2 masondan biri olarak hayatta kal
+  DoubleShifter:
+    Name: Çift Taraflı
+    Description: Bir oyunda 2 kez rol değiştir (Tarikat dönüşümleri hariç)
+  HeyManNiceShot:
+    Name: Hey Adamım, Güzel Atış
+    Description: Avcı olarak, ölmek üzere iken bir Kurt Adam ya da Seri Katile ateş et
+  DontStayHome:
+    Name: İşte bu yüzden evde kalmamalısın
+    Description: Kurt Adam/Tarikatçı olarak, evde kalan Yancıyı öldür/dönüştür
+  DoubleVision:
+    Name: Çift Görüş
+    Description: Oyundaki aynı anda olan 2 Gözcüden biri ol
+  DoubleKill:
+    Name: Çiftte Ölüm
+    Description: Seri Katil vs Avcı finalinin bir parçası ol
+  ShouldHaveKnown:
+    Name: Bunu Bilmeliydin
+    Description: Gözcü rolü ile, Seyirciyi tespit et
+  LackOfTrust:
+    Name: Bir güven eksikliği görüyorum
+    Description: Gözcü olarak, ilk günde linç edil
+  BloodyNight:
+    Name: Kanlı Pazar
+    Description: Tek gece ölen en az 4 kurbandan biri ol
+  ChangingSides:
+    Name: Taraf değişikliği işe yarar
+    Description: Bir oyunda rolünü değiştir ve kazan
+  ForbiddenLove:
+    Name: Yasak Aşk
+    Description: Kurt Adam/Köylü çifti ile kazan (Köylü ile, köy takımı ile değil)
+  FirstStone:
+    Name: İlk Taş
+    Description: Bir oyundaki 5 linçte ilk oy atarak köye önderlik edecek kişi ol
+  SmartGunner:
+    Name: Akıllı Silahşör
+    Description: Silahşör rolü ile, 2 kurşununu da bir Kurt Adam/Seri Katil/Tarikatçı vurarak harca
+  Streetwise:
+    Name: Araştırmacı
+    Description: Dedektif rolü ile üst üste 4 gün boyunca, farklı türde Kurt Adam/Seri Katil/Kundakçı/Tarikatçı bul
+  OnlineDating:
+    Name: Alel Acele Randevu
+    Description: Moderatör tarafından seçilen (Eros zamanında seçim yapamadığı zaman) aşık çiftlerden biri ol
+  BrokenClock:
+    Name: Bozuk saat bile günde 2 kez doğruyu gösterir
+    Description: Aptal rolü ile, oyun sonuna kadar en az 2 doğru görüşe sahip ol
+  SoClose:
+    Name: Çok çok yakındı!
+    Description: İblis rolü ile, en çok oya sahip olduğun linçte beraberlikte kal
+  CultCon:
+    Name: Tarikatçı Kongresi
+    Description: Oyun sonunda hayatta kalan en az 10 Tarikatçı üyesinden biri ol
+  SelfLoving:
+    Name: Öz Sevgi
+    Description: Eros olarak, aşıklardan biri olarak kendini seç
+  ShouldveMentioned:
+    Name: Bir şeyler söylemeliydin
+    Description: Bir Kurt Adam olarak, sürünün aşık partneri yemesi ile öl (ilk gece sayılmaz)
+  TannerOverkill:
+    Name: Şeytani İnfaz
+    Description: İblis rolü ile, tüm oyuncuların seni oylamasını sağla
+  SerialSamaritan:
+    Name: Seri Samaritan
+    Description: Seri Katil rolü ile, bir oyunda en az 3 Kurt Adam öldür
+  CultFodder:
+    Name: Tarikatçı Yemi
+    Description: Tarikatçı Avcısını dönüştürmeye giden Tarikatçı ol
+  LoneWolf:
+    Name: Yalnız Kurt
+    Description: Bir kaos oyununda en az 10 oyunculu oyunda, sürüdeki tek Kurt Adam ol ve kazan
+  PackHunter:
+    Name: Sürü Avlanması
+    Description: Yaşayan 7 kişilik bir sürünün parçası ol
+  GunnerSaves:
+    Name: Son Kademe Kurşunu
+    Description: Bir köylü olarak, Kurt ve Köy takımı oyuncuları eşit sayıdadır ancak oyun bitmez çünkü silahşörün hâlâ mermisi vardır.
+  LongHaul:
+    Name: Uzun bir yol
+    Description: Bir oyunda en az 1 saat boyunca hayatta kal
+  OhShi:
+    Name: OH SHI-
+    Description: İlk gece aşık partnerini öldür
+  Veteran:
+    Name: Gazi
+    Description: 500 oyun oyna.
+  NoSorcery:
+    Name: Falcısız Dünya
+    Description: Kurt Adam rolü ile, falcıyı öldür
+  CultistTracker:
+    Name: Tarikat İzcisi
+    Description: Tarikat Avcısı rolü ile , tek oyunda en az 3 Tarikatçı üyesini avla
+  ImNotDrunk:
+    Name: NE MEMURU ALKOL BEY-- *BURPPP*
+    Description: Beceriksiz rolü ile, oyun sonuna kadar en az 3 oyu doğru şekilde kullan
+  WuffieCult:
+    Name: Tarikatçı-Kurt
+    Description: Alfa Kurt rolü ile, en az 3 kişiyi başarıyla enfekte et ve dönüşüm geçirmelerini sağla
+  DidYouGuardYourself:
+    Name: Kendini korudun mu?
+    Description: Koruyucu Melek rolü ile , saldırmayan bir kurdu 3 kez koruyarak hayatta kal
+  SpoiledRichBrat:
+    Name: Şımarık zengin velet
+    Description: Prens rolü ile, kendi kimliğini ortaya çıkarmana rağmen tekrar linç edil
+  ThreeLittleWolves:
+    Name: Üç küçük kurtçuk ve Büyük kötü domuz
+    Description: Falcı rolü ile, En az 3 kurtla birlikte hayatta kal ve oyunu kazan
+  President:
+    Name: Başkan
+    Description: Muhtar rolü ile, ortaya çıktıktan sonra başarıyla 3 kez oylamaya katıl
+  IHelped:
+    Name: Yardım ettim!
+    Description: Yavru Kurt rolü ile, sen öldükten sonra hayatta kalan sürünün 2 kez başarılı saldırı gerçekleştirmesini sağla
+  ItWasABusyNight:
+    Name: Çok yoğun bir geceydi!
+    Description: Tek bir gecede, en az 3 farklı ziyaretçi roller tarafından ziyaret edil
+  StrongestAlpha:
+    Name: En güçlü Alfa
+    Description: Alfa Kurt rolü ile, başarılı bir şekilde Seri Katili enfekte et!
+  AmIYourSeer:
+    Name: Ben senin Gözcün müyüm?
+    Description: Aptal rolü ile, Seyirci rolünü doğru bir şekilde tespit et
+  DemotedByTheDeath:
+    Name: Ölümle Rütbe Düşürüldü
+    Description: Avcı rolü ile, son anlarında Yaşlı Bilgeyi vur ve sıradan bir köylü olarak öl
+  WastedSilver:
+    Name: Boşa Harcanan Gümüş
+    Description: Demirci rolü ile, gümüş tozunu Uyutucunun ortaya çıktığı gün ile aynı zamanda serp
+  Trustworthy:
+    Name: Güvenilirlik!
+    Description: Kurdumsu rolü ile, Gözcü tarafından kontrol edildikten sonra hayatta kal ve oyunu kazan
+  DeepLove:
+    Name: Derin Aşk
+    Description: Çift-giden rolü ile, aşık partnerini rol modelin olarak seç.
+  TimeToRetire:
+    Name: Emeklilik Zamanı...
+    Description: Falcı rolü ile, oyunda hayatta kalan son oyuncu ol ve kaybet
+  SeeingBetweenTeams:
+    Name: Takımlar Arası Görüş
+    Description: Gözcü/Falcı çiftinden biri ol
+  JustABeardyGuy:
+    Name: Sadece sakallı bir adam...
+    Description: Kurdumsu rolü ile, Alfa Kurt tarafından enfekte ol ve bir Kurt Adam'a dönüş.
+  ThatCameUnexpected:
+    Name: İşte bu beklenmedikti!
+    Description: İblis rolü ile, oyunda yalnızca 3 kişi kaldığında linç edil ve oyunu kazan
+  NowImBlind:
+    Name: Artık Kör Oldum!
+    Description: Kâhin rolü ile, herhangi bir görüş almakta başarısız ol (çünkü oyunda kalan herkes aynı role sahip)
+  EveryManForHimself:
+    Name: Herkes kendine Müslüman!
+    Description: Barışçıl rolü ile, kendini linç edilmekten kurtar (hali hazırda oyların %50'si senden yana olmalı)
+  MySweetieSoStrong:
+    Name: Benim aşkımın gücü olağanüstü!
+    Description: Barışçıl rolü ile aşık partneri olarak, linçlenirken onun tarafından kurtarıl (hali hazırda oyların %50'si senden yana olmalı)
+  CultLeader:
+    Name: Önder Tarikatçı
+    Description: Saf (orijinal) Tarikatçı olarak, hayatta kal ve oyunu kazan
+  ThanksJunior:
+    Name: Aferin, Çocuk Adam!
+    Description: Sürü Sarhoş yedikten sonra, sıradan bir Kurt Adam'a dönüş ve tüm sürü sarhoş iken başka birini yemeyi dene!
+  DeathVillage:
+    Name: Ölü Köy
+    Description: Kazananı olmayan bir oyunda yer al.
+  ILostMyWisdom:
+    Name: Bilgeliğimi Kaybettim
+    Description: Yaşlı Bilge rolü ile, rolünü değiştir! Bir anda artık Bilge değilsin...
+  Affectionate:
+    Name: Şefkat Dolu
+    Description: Yancı rolü ile, aşık partnerini ziyaret et!
+  LuckyDay:
+    Name: Şanslı Gün
+    Description: Alfa Kurt rolü ile, sarhoş rolünü enfekte et ve ayık kal!
+  ConditionRed:
+    Name: Kırmızı Durum!
+    Description: Hayatta kalan son Kurt Adam olarak, haini ye!
+  Indestructible:
+    Name: Yok Edilemez
+    Description: Kendini rol model alarak Çift-giden/Yabani Çocuk ol
+  PsychopathKiller:
+    Name: Sosyopat Katil
+    Description: Seri Katil rolü ile, 35 oyunculu bir oyun kazan!
+  TodaysSpecial:
+    Name: Günün Spesiyali!
+    Description: "Özel bir Werewolf oyununda yer alın! Mevcut: 2020 yılında Nisan ayında kandırılan ol!"
+  RomeoAndJuliet:
+    Name: Adem ve Havva
+    Description: İblis rolü ile aşık partneri ol ve aşkını linç ederek kazan!
+  ReallyBadLuck:
+    Name: Üst Düzey Talihsizlik
+    Description: Seri Katil rolü ile, boş bir mezarda tökezle, ardından rastgele birini öldürmeye yelten ve Koruyucu Melek ile rastlaş.
+  Domino:
+    Name: Domino
+    Description: Avcı rolü ile, başka bir Avcıyı vur ve onun da başkasını öldürmesine vesile ol.
+  DoubleShot:
+    Name: Çiftte Vuruş
+    Description: Avcı/Silahşör rolü ile, başka bir kötü rol ile aşık partneri olan bir kötü rolü vur!
+  PlayingWithTheFire:
+    Name: Ateşle Oyun
+    Description: Kundakçı rolü ile, tek gecede başarıyla 5 kişiyi yak.
+  Firework:
+    Name: CEHENNEM
+    Description: Kundakçı rolü ile, tek gecede başarıyla 10 kişiyi yak.
+  ColdAsIce:
+    Name: Buz gibi Soğuk
+    Description: Beyaz Kurt rolü ile, Yancı ro başarıyla dondur.
+  GoodChoiceForYou:
+    Name: Doğru seçim... Senin için
+    Description: Kimyager rolü ile, bir oyuncuyu ziyaret et ve tek bir oyunda 3 kez hayatta kal.
+  IncreaseThePack:
+    Name: Sürünün Yükselişi!
+    Description: Yavru Kurt öldükten sonra, Alfa Kurt rolü ile 2 kişiyi de enfekte et!
+  Developer:
+    Name: "Kayıtlara Geçti: Geliştirici Kadiri Buldun 🐾"
+    Description: "10'dan fazla oyuncunun yer aldığı bir oyunda geliştirici Kadir ile birlikte oynama ayrıcalığını yaşadın."

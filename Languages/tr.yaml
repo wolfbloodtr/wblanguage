@@ -1,0 +1,1670 @@
+language:
+  base: '🇹🇷 Türkçe'
+  variant: Normal
+strings:
+  GameStartMessages:
+    StartNormal:
+      - "{0} yeni bir oyun başlattı. Maceraya dahil olmak için /join tıkla ve oyuna katıl!"
+      - "{0} tarafından yeni bir oyun başlatıldı! Durma orada öyle hadi sen de /join tıklayarak eğlenceye katıl!"
+    StartChaos:
+      - "{0} dehşet bir oyun başlattı! Aksiyon ve katliamın tam ortasında bulunmak için 'Katıl'a tıkla!"
+      - "{0} kaotik modunda yeni bir oyun başlattı! Kargaşanın ortasında kim vurduya gitmeye hazır ol!"
+    StartRanked:
+      - "{0} sıralamalı yeni bir oyun başlattı. Zirveye oynamak ve tüm rakiplerine fark atmak için /join tıkla."
+    StartLove:
+      - "{0} toksik aşklarla dolu yeni bir oyun başlattı. Ruh eşini bulmak için yada romantizmden tiksinmek için hemen oyuna dahil ol!"
+    StartCustom:
+      - "{0} özel rollerden oluşan bir oyun başlattı! Eğlenceye katılmak için şimdi /join tıkla ve oyuna katıl..."
+  Villager:
+    Villager:
+      - "Köylü \U0001F471"
+    RoleInfoVillager:
+      - ""
+  Drunk:
+    Drunk:
+      - "Sarhoş \U0001F37B"
+    RoleInfoDrunk:
+      - ""
+  Harlot:
+    Harlot:
+      - "Yancı \U0001F48B"
+    RoleInfoHarlot:
+      - ""
+    AskVisit:
+      - "Kimi ziyaret etmek istiyorsun?"
+    HarlotFuckWolf:
+      - "Bu gece {0}'in evinde beleşcilik yapayım dedin, ama karşında kurt adam vardı. Şimdi ölüsün."
+    HarlotFuckedWolfPublic:
+      - "Dün gece yancı {0} yanlış müşteriyi seçti. Bir kurt adamı ziyaret etti ve sonuç olarak öldü. Vaizin sözünü dinleyip belki de bu işleri bırakmalıydı :("
+    HarlotFuckedVictimPublic:
+      - "{0} bu gece {1}'in evinde çılgın bir gece geçirmeyi planlıyordu. Hedefinin evine geldiğinde kanlı bir manzara ile karşılaştı. Kurt adamlar onu lime lime ediyordu! {0} tam kaçmak üzereyken ahşap gıcırtısını duyan kurtlar bir anda ona döndü ve davetsiz misafiri de parçalarına ayırdılar."
+    HarlotVisitNonWolf:
+      - "{0} kurt değil, sabaha kadar alem yaptınız!"
+    HarlotVisitYou:
+      - "Bu gece yapacak bir şey yok derken yancı geldi. Tüm gece yemek ve eğlenceyle geçti..."
+    HarlotDiscoverCult:
+      - "Biraz eğlenmek için {0}’in evine gittin... Tam evi terk edecekken yan odada üstünkörü saklanmış ışıklar saçan garip bir sunak fark ettin. 0o0"
+    HarlotFuckKiller:
+      - "Bu gece {0}'in evine eğlenmeye gittin. Herşey senin için fevkaladenin ötesinde idi. Ancak bir anda keskin ve soğuk bir maddenin içini deştiğini hissettin... Acıdan tek kelime dahi edemedin ve seri katil seni süzgeçe çevirdi."
+    HarlotVisitNotHome:
+      - "{0} ile biraz eğlenmek için evine gittin, ama ev boş!"
+  Seer:
+    Seer:
+      - "Gözcü \U0001F473"
+    RoleInfoSeer:
+      - ""
+    AskSee:
+      - "Kimi görmek istiyorsun?"
+    SeerSees:
+      - "Kartların sana {0}’in {1} olduğunu söyledi!"
+  Traitor:
+    Traitor:
+      - "Hain \U0001F595"
+    RoleInfoTraitor:
+      - ""
+    TraitorTurnWolf:
+      - "Seni hain!!! Tüm kurt adamlar öldü ve köy bir an olsun huzura kavuştuğunu zannetti. Onlara bu kâbusu tekrar musallat etmek senin görevin. Yaşayan kurt adam kalmadı ve kanındaki hainlik gereğiyle kurt adama dönüştün!"
+  GuardianAngel:
+    GuardianAngel:
+      - "Koruyucu Melek \U0001F47C"
+    RoleInfoGuardianAngel:
+      - ""
+    AskGuard:
+      - "Kimi korumak istiyorsun?"
+    GuardWolf:
+      - "Kurt adamı korumaya çalıştın, kurt adam da seni yedi."
+    GuardSaved:
+      - "{0}'in hayatını kurtardın!"
+    GuardNoAttack:
+      - "{0} saldırıya uğramadı, yani pek de bir şey yapmış olmadın."
+    GuardEmptyHouse:
+      - "{0}’i korumaya gittin ama evde kimse yoktu!"
+    GuardSavedYou:
+      - "Kapında davetsiz bir misafir belirdi ancak sakın endişe etme! Koruyucu melek senin için mücadele etti ve seni korudu!"
+    GAGuardedKiller:
+      - "Dün gece Koruyucu melek {0}'in beklendiği üzere hedefini koruyup davetsiz misafirlere karşı mücadele ettiği bekleniyordu. Ancak davetsiz misafir olan ta kendisiydi. Seri katilin evindeydi, hayatta kalmak ve kaçıp kurtulmak için mücadele verdi ancak her şey o kapının eşiğinden içeri girdiği an bitmişti."
+    GAGuardedWolf:
+      - "Koruyucu melek {0}, dün akşam hedefini koruması gerekirdi ancak kendisini hedefinden koruyamadı. Kurt sürüsünün bir üyesine göz kulak oluyordu ancak hain bir saldırı ile arkasından aldığı ısırık darbesiyle vücudu parçalara ayrıldı."
+    GuardSavedYouFromFire:
+      - "Evinde bir yangın çıktı, ama neyse ki koruyucu melek oradaydı ve onu hemen söndürdü! İnsanları korumakla meşgul olmasaydı iyi bir itfaiyeci yaparlardı..."
+    GuardSavedFromFire:
+      - "{0}’in ziyaretine gittiğinde bir yangının patlamasını pek beklemiyordun ama yine de onu kurtardın! Kimse sana kötü bir koruyucu diyemez..."
+    CleanDoused:
+      - "Bu gece {0}'in evinde hiçbir düşmanla savaşmak zorunda kalmadın, bu yüzden etrafa biraz bakmaya karar verdin ve evin benzin içinde olduğunu fark ettin! Yapacak daha iyi bir işin olmadığından, evi onun için temizledin..."
+    GuardBlockedWolf:
+      - "Sürü  doğrudan {0}'in evini hedef alıyor. Kapıdan girer girmez büyük bir sürprizle karşılaştılar! Devasa kanatları ve elinde kılıç olan bir figürle savaş verdiler. Eninde sonunda bu savaştan galip gelemeyeceğini anlıyor ve geri çekilmeye karar veriyorsunuz. Bir sonraki sefere önce Koruyucu Meleği hedef alman daha akıllıca olur."
+    GuardKiller:
+      - "Seri katili korumaya çalıştın, ama o geldi ve seni 89 defa bıçakladı! Ölüsün...."
+    GuardBlockedKiller:
+      - "{0}'in ciğerini sökmek için evine doğru gidiyordun... Ancak sürpriz bir bozguna uğradın! Koruyucu meleği aşmak için her ne kadar mücadele etsen de sonunda pes ediyor ve geri çekiliyorsun."
+    GuardBlockedSnowWolf:
+      - "Sürüden ayrılıp {0}'in evine gittiğin zaman onu dondurmayı hedefliyordun. Aniden devasa kanatları olan bir figür önüne çıktı! Sadece dondurma işlevin var ona karşı hiç şansın yok! Yakalanmadan önce oradan hemen uzaklaştın."
+  Detective:
+    Detective:
+      - "Dedektif \U0001F575️"
+    RoleInfoDetective:
+      - ""
+    AskDetect:
+      - "Kimi tespit etmek istiyorsun?"
+    DetectiveCaught:
+      - "{0}’i seni dikizlerken yakaladın! Kesin dedektif!"
+    DetectiveSnoop:
+      - "Uzun ve geniş çaplı araştırmalarının sonucunda {0}'in {1} olduğunu tespit ettin."
+  Wolf:
+    Wolf:
+      - "Kurtadam \U0001F43A"
+    RoleInfoWolf:
+      - ""
+    AskEat:
+      - "Kimi yemek istiyorsun?"
+    WolfVotedKill:
+      - "{0} yemek için seçimini yaptı: {1}."
+    WolvesEatDrunk:
+      - "Hayırrr olamaz! {0} köyün sarhoşuydu! Şimdi sen de kafayı buldun, yarın akşam kimseye saldıramazsın..."
+    WolvesEatDrunkBlockSecondKill:
+      - "Oh hayır! {0} sarhoşun tekiydi! Şimdi sen de sarhoşsun ve saldıramayacaksın {1}..."
+    AllWolfDead:
+      - "Yaşayan kurt kalmadı ve sen normal bir kurt adama dönüşüyorsun."
+    WolvesEatYou:
+      - "Olamaz! Kurt adamlar tarafından saldırıya uğradın ve artık ölüsün. NOMNOMNOMNOM"
+    WolfPackList:
+      - "Kurt Sürüsü :"
+    DiscussWith:
+      - " Karar vermeden önce {0} ile bi görüşsen iyi olur."
+  Cursed:
+    Cursed:
+      - "Lanetli \U0001F63E"
+    RoleInfoCursed:
+      - ""
+    CursedBitten:
+      - "Kurt adamlar sana saldırdı! Öldürülmek üzereyken bir anda gözlerinin rengi değişmeye başladı... Vücudundaki kemikler değişim geçirdi! Kanındaki lanet sayesinde ölmek yerine bir kurt adam olarak yaşamına devam edeceksin!"
+    CursedBittenToWolves:
+      - "Sürü {0}'e saldırdı... Ancak o lanetliydi ve yeni bir kurt adama dönüştü!"
+  Gunner:
+    Gunner:
+      - "Silahşör \U0001F52B"
+    RoleInfoGunner:
+      - ""
+    AskShoot:
+      - ""
+    HarlotShot:
+      - "{0} bir anlık duygularına yenik düştü ve kendisini kandırılmış hissetti. Halbuki köyün yancısı yalnızca ona ait değildi... {1} kurşunların hedefi oldu."
+    DefaultShot:
+      - "Linç öncesi köylüler sandıkların başına gitmek üzere iken aniden bir silah sesi yankılanır. Elinde silahıyla {0} emin adımlarla linç sandığına doğru ilerliyordu ve ardında ise {1}'in cesedi vardı. İki seksen alnının ortasındaki mermi ile yerde yatıyordu. [{2}]"
+    GunnerShotWiseElder:
+      - "Silahşör {0}, Yaşlı Bilge {1}'i vurdu. {0} büyük bir üzüntüyle ağlıyor. Büyük hatasından pişmanlık duyuyor ve geri çekilmeye karar veriyor, bu da onu sürmek için çok fazla toprağı olan basit bir köylü yapıyor."
+  Tanner:
+    Tanner:
+      - "İblis \U0001F47A"
+    RoleInfoTanner:
+      - ""
+  Fool:
+    Fool:
+      - "Aptal \U0001F0CF"
+    RoleInfoFool:
+      - ""
+  WildChild:
+    WildChild:
+      - "Yabani Çocuk \U0001F476"
+    RoleInfoWildChild:
+      - ""
+    WildChildToWolves:
+      - "{0}’in rol modeli öldü! Nefret içinde Kurt adama dönüştü!"
+    WildChildTransform:
+      - "{0} hakkın rahmetine kavuştu! Öfke içinde sen de Kurt adama dönüştün!"
+  Beholder:
+    Beholder:
+      - "Seyirci \U0001F441"
+    RoleInfoBeholder:
+      - ""
+    BeholderSeer:
+      - "\nGözcü {0}."
+    BeholderNewSeer:
+      - "{0} çıraktı, şimdi ise {1}'in boşluğunu dolduracak yeni Gözcü oldu."
+    NoSeer:
+      - "Gözcü yok!"
+    BeholderSeerStolen:
+      - "Hırsız Gözcünün rolünü çaldı. {0} şimdi yeni Gözcü, ve {1} artık görü yeteneklerini kaybetti!"
+  ApprenticeSeer:
+    ApprenticeSeer:
+      - "Gözcü Çırağı \U0001F647"
+    RoleInfoApprenticeSeer:
+      - ""
+    ApprenticeNowSeer:
+      - "{0} Gözcüydü. Halefisi olarak onun yerini alma ve yeni Gözcü olma sırası sende."
+  Cultist:
+    Cultist:
+      - "Tarikatçı \U0001F464"
+    RoleInfoCultist:
+      - ""
+    CultistVotedConvert:
+      - "{0} mezhebine dahil etmek için {1}'i ikna etmeyi seçti."
+    AskConvert:
+      - "Kimi tarikata çekmek istiyorsun?"
+    CultConvertCultHunter:
+    - "Tarikatçılar yeni üyelerini mezheplerine dahil etmek için {0}'i gönderdiler. Lakin hiç hesaba katmadıkları bir durum meydana geldi. Çevirmek için seçtikleri {1} Tarikat Avcısıydı ve gözünü kırpmadan en toy üyeniz olan {0}'in kafasını uçurdu!"
+    CultJoin:
+      - "{0} Tarikata katıldı!"
+    CultistsList:
+      - "Tarikat üyeleri:"
+    CultConvertWolf:
+      - "Tarikat {0}’i, {1}’i döndürsün diye gönderdi fakat onun yerine {0}'ın kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü..."
+    CultistBitten:
+      - "İlginç... Bugünkü cemaat toplantısında yeni hedefinizi tartışırken, {0}'i saflarında göremedin. Ne oldu acaba ona?"
+    CultConvertHunter:
+      - "Tarikatçılar {0}'i cemaatlerine dahil etmek için {1}'in evine gönderdiler. Ancak {1} boş vaatlere ve süslü sözlere kanacak biri değildi. {0} kapının eşiğine gelir gelmez saçmalı tüfekle vuruldu! Tüm tarikatçılar korkudan kaçtı."
+    CultConvertSerialKiller:
+      - "Tarikat üyeleri {0}’i, {1}’i kendi mezheplerine çekmek için gönderdi. Genç tarikatçı, hedefin evine girmesi ile camdan fırlaması bir oldu! Sırtında sayısız bıçak darbesi ile kanlar içinde öylece yatıyordu!"
+      - "{0}, hedefinin evine gizlice girer, kapıyı açar ve hemen çılgın bir manyak tarafından bıçakla karşılanır!!! {1} bıçağı, genç tarikatçının organlarına alfabetik sıraya göre sokar ve acı çekerek can vermesini sağlar! {0} öldü."
+    CHHuntedYou:
+      - "Sen evinde dua ederken Tarikat Avcısı seni ziyaret etti ve kelleni uçurdu şimdi ölüsün.."
+    HunterKilledCultist:
+      - "Köyün vaizi gündüz vakti kilise kapısının önündeki cesedi görünce adeta dehşete kapıldı. Ancak sıradan bir köylünün cesedi değildi. Tarikatçı avcısı bu yobaz ve yozlaşmış sahte cemaat üyelerinden biri olan {0}'i avlamış ve cesedini ibretlik olarak kilisenin önüne bırakmış."
+    CultConvertWolfPublic:
+      - "Karanlık cemaat üyelerinden biri olan {0}'in, vahşi bir yaratığı kendi mezhebine dahil edebileceği ihtimalini düşünmesi... Yorum bile yapılamayacak düzeyde. Kurtlar net bir şekilde tarikatçıların teklifini reddetmiş."
+      - "Kurt sürüsü avlanmamaya çıkamamış olsa bile, Tanrının bir lütfu olsa gerek ki {0} onların evine geldi. Tanrı bir şekilde tarikatçı üyelerini şanssızlığa uğratıyor gibiydi. Kurt adamı tarikata çevirme düşüncesi gerçek olamayacak düzeyde."
+    CultConvertKillerPublic:
+      - "Bugün hissedilen korku, ürperti... Asla unutulmayacak. Köyün lideri olan Tarikat avcısı {0} yozlaşmış dinci tarikatlarla meşgul olmalıydı ancak bir hata ile seri katili ziyaret etti. Köy halkı başıboş ve lidersiz kaldı."
+      - "Dün gece amansız ve dehşet verici bir savaşın sesleri duyuldu. Köyün kudretli lideri {0}, seri katili bilmeden ziyaret etmiş olsa da mücadele etmeye çalıştı. Tüm köy halkının başı eğik, şapkaları önünde saygı içerisinde Tarikatçı Avcısını anıyorlar..."
+    HunterKilledVisiter:
+      - "Köy meydanının ortasında herkes {0}’in cesedini bulur. Vücudunda sayısız mermi izi vardı. Görünüşe göre avcıya gizlice yaklaşmak pek akıl kârı bir hareket değildi... {1}"
+    CultVisitEmpty:
+      - ""
+    CultConvertYou:
+      - "Tarikatçılar saflarına seni de dahil ettiler. Her gece başka birilerinin inançlarını sarsabilir ve kendi safına çekebilirsin."
+    CultUnableToConvert:
+      - "Tarikatçılar {1}'in ikna olması için {0}'i gönderdiler. Ancak hedeflerinin inancı çok yüksekti ya da gönderdiğiniz üye çok da ikna edici bir konuşmada bulunmadı..."
+    CultTargetDead:
+      - "Tarikatçılar en yeni üyelerini {0}'in evine yolladılar. Ancak tarikatçı üyesi eve vardığında bir enkazla karşılaştı ve yerlerde tüyler vardı..."
+    CultAttempt:
+      - "Kapşonlu biri seni tarikat üyesine döndürmeye çalıştı ama senin inancın çok kuvvetliydi, aldırış dahi etmedin."
+  CultistHunter:
+    CultistHunter:
+      - "Tarikatçı Avcısı \U0001F482"
+    RoleInfoCultistHunter:
+      - ""
+    AskHunt:
+      - "Kimi avlamak istiyorsun?"
+    CultHunterKilledCultVisit:
+      - "{0} dün gece evine geldi, seni süslü sözlerle palavralarla dolu olan mezhebine dahil edecekti... Alaycı bir gülümseme attın, ardından kılıcını çektin ve onun kafasını uçurdun. Beleş av! Tarikatçı yerde... {1} Tarikat üyesi kaldı!"
+    HunterVisitDead:
+      - "{0}’i avlamaya gittin, ama o zaten ölü!"
+    HunterFailedToFind:
+      - "{0}'in evine gittin ama sıradışı bir şey yoktu. Eve döndün, {0}’in tarikat üyesi olmadığına eminsin artık."
+    HunterFindCultist:
+      - "{0}'in evine gittin ve onu sunağın önünde ne idüğü belirsiz bir tanrıya taparken gördün. Sinsice kılıcını çektin ve arkasından geçirdin. {0} artık öldü."
+    SerialKillerKilledCH:
+      - "Köylüler sabahleyin uyandığında Tarikatçı Avcısı {0}'in kesip biçilmiş vücudunu belediye binasının kapısının önünde buldular. Sunakların bulunduğu gizli tarikat yuvalarını harap etmesi beklenirken, Tarikatçı Avcısı için Seri katili avlamak pek de uygun bir hedef değildi..."
+  Mason:
+    Mason:
+      - ""
+    RoleInfoMason:
+      - ""
+    MasonTeam:
+      - "Masonlar: {0}"
+    MasonConverted:
+      - "İlginç... {0} bu sabahki mason toplantısına katılmadı..."
+  Doppelganger:
+    Doppelganger:
+      - "Çift Giden \U0001F3AD"
+    RoleInfoDoppelganger:
+      - ""
+    AskRoleModel:
+      - "Rol modelin kim?"
+    AskDoppelganger:
+      - "Öldürülürse kimin rolünde olmak istersin?"
+    RoleModelChosen:
+      - "Seçmeyi beceremedin, bu yüzden moderatör senin için seçti: {0}"
+    DGTransformToMason:
+      - "{0} öldü ve sen masona dönüştün. Takım arkadaşların (eğer varsa): {1}"
+    DGTransformToCult:
+      - "{0} öldü ve sen tarikat üyesine dönüştün. Takım arkadaşların (eğer varsa): {1}"
+    DGToMason:
+      - "Çift-giden {0} şimdi mason oldu, tıpkı senin gibi!"
+    DGToCult:
+      - "Çift-giden {0} şimdi tarikat üyesi oldu, tıpkı senin gibi!"
+    DGToWolf:
+      - "Çift-giden {0} şimdi Kurt adam oldu, tıpkı senin gibi!"
+  Cupid:
+    Cupid:
+      - "Eros \U0001F3F9"
+    RoleInfoCupid:
+      - ""
+    AskCupid1:
+      - "Kimlerin aşık olmasını istersin? İlk oyuncuyu seç"
+    AskCupid2:
+      - "Kimlerin aşık olmasını istersin? İkinci oyuncuyu seç"
+    CupidChosen:
+      - "Seni aşk çarpmış.\n{0} hep senin gönlünde yatan kişi olacak. Eğer olur da hayatının aşkı herhangi bir şekilde ölürse, sen de öleceksin. Sen ölürsen de o aşkının acısından ölecek."
+      - "Aşk oku tam kalbine saplandı!\n{0}’i deli gibi seviyorsun! Eğer biriniz ölürse diğeriniz de acısından ölecek. Eğer biriniz kazanırsa da ikiniz de kazanacaksınız."
+  Hunter:
+    Hunter:
+      - "Avcı \U0001F3AF"
+    RoleInfoHunter:
+      - ""
+    HunterLynchedChoice:
+      - "Köy seni asmayı seçti! Bu son şansın... Gider ayak yanında kimi yanında götürmek istiyorsun?"
+    HunterNoChoiceLynched:
+      - "{0} tabancasına uzanmaya çalışır ancak zamanında yakalayamaz. Boynundan gelen kırılan kemik sesi {0}'in sonu olur..."
+    HunterSkipChoiceLynched:
+      - "{0} silahını çekti! Dehşet ve intikam dolu gözlerle kalabalığa bakınır ancak kurbanını seçemez ve kaderine razı olur."
+    HunterKilledFinalLynched:
+      - "Darağacının ipi boynunu sıkarken herkes {0}'in ölümünü bekliyordu. Ancak o belinden çıkardığı silah ile kalabalığı hedef alır. Kurban olarak {1}'i seçer ve tetiği ateşler. Boynunun kırılması ile ölürken, {1} gövdesinin içinden geçen mermi yüzünden hakkın rahmetine kavuşur. [{2}]"
+    HunterShotChoice:
+      - "Öldün! Son anlarında birini öldürebilirsin... hızlı ol!"
+    HunterNoChoiceShot:
+      - "{0}’e çok fena şekilde daldılar. Etraf adeta kan ve organ gölüne dönmüştü. Bu halde iken {0} her ne kadar efor sarf etse de silahına uzanamaz ve oracıkta ölür..."
+    HunterSkipChoiceShot:
+      - "{0} yerde son nefesini verirken kimi yanında götüreceğine karar vermeye çalışıyor. Ancak vücudundan kayıp olan kan düzgün düşünmesine mani oluyor. En sonunda silahını bırakır ve kimseyi vurmamayı tercih eder..."
+    HunterKilledFinalShot:
+      - "Ecel {0}'in kapısına dayanıyor... Yine de tek başına gitmemekte ısrarcı ve son anlarında tetiği çeker. {1} göğüsünde bir saçma deliği ile yere düşer ve ölür. [{2}]"
+    HunterShotWolfMulti:
+      - "Kurtlar dün geceki saldırılarında hiç beklemedikleri bir hedefle karşılaştılar. Köyün avcısı kurtların diş ve pençelerinden kaçmak için ne kadar mücadele etse de eninde sonunda ölüme mahkûm olur. Ancak saldırının en başında sürüden birini eksiltmeyi başarır. {0} avcının tüfeği ile öldürüldü."
+    HunterShotWolf:
+      - "{0} dün gece tek başına büyük bir riski göğüsledi. Ancak pek de umduğu gibi gitmedi işler. Avcı teke tekte kurdu kolayca alt edebildi."
+    HunterKilledWiseElder:
+      - "Avcı {0}, Yaşlı Bilge {1}'i vurdu... {0}, avcılık becerilerini kaybetmesine neden olan büyük hatasından pişmanlık duyarak büyük bir üzüntüyle ağlıyor. Sırf bir köylü olarak öldü."
+  SerialKiller:
+    SerialKiller:
+      - "Seri Katil \U0001F52A"
+    RoleInfoSerialKiller:
+      - ""
+    AskKill:
+      - "Bu gece kimi öldürmek istersin?"
+    KillerRandomKill:
+      - "{0} evine giderken bacağında keskin bir ağrı hissediyorsun. {1}'in evine benzeyen en yakın eve gitmeye ve onları öldürmeye karar verdin."
+    KillerStumbled:
+      - "Karaciğeri {0}'in vücudundan kopardın, ama dönüş yolunda bitmemiş bir mezarın üzerine çok fazla eğildin ve içine düştün. Belki de cesedin karaciğerini aramamalıydın... Şimdi bacağın gerçekten ağrıyor."
+    SerialKillerKilledYou:
+      - "Şanssız gece! Akıl hastanesinden kaçan bir delinin (Seri Katil) kurbanı oldun. Öldün!"
+      - "Uykunun tam ortasındayken sırtında bir acı hissettin. Son hissettiğin şey Seri katilin ensendeki nefesi oldu..."
+    SerialKillerKilledWolf:
+      - "Kurtlar dün gece rutin atıştırmalık saldırılarından birini gerçekleştiriyordu. Ancak hedeflerinde çılgın bir seri katil vardı! Kapışma esnasında seri katil sürünün bir parçası olan {0}'i alt etti ve diğer kurtlar daha fazla kayıp vermemek için kaçtı."
+  Sorcerer:
+    Sorcerer:
+      - "Falcı \U0001F52E"
+    RoleInfoSorcerer:
+      - ""
+  AlphaWolf:
+    AlphaWolf:
+      - "Alfa Kurt ⚡️"  
+    RoleInfoAlphaWolf:
+      - ""
+    BittenTurned:
+      - "Gecenin karanlığı çöktüğünde vücudundaki eklemlerin kırılıp bükülmeye başladı. Seçimini yapmışsın!!! Kurt adamların tarafını seçtin ve Alfa kurt sayesinde artık sen de onlardan birisisin."
+    PlayerBitten:
+      - "Dün gece kurt adamlar tarafından saldırıya uğradın ancak sürü seni öldürmek üzere iken Alfa Kurt seni seçti. Vücudundaki enfeksiyon ertesi gece etkisini gösterecek. Ya kurtlarla birlik olup Alfa kurda biat edecek ve takımına ihanet edeceksin, ya da şerefinle ölüp takımına sadık kalacaksın. Seçim senin!"
+    PlayerBittenWolves:
+      - "Kurtlar {0}'in vücudu ile ziyafet çekmek üzereydi. Ancak sürünün lideri olan alfa kurt {1} herkesi durdurdu. Köylüler için böylesine önemli bir kişiliği kendi safına çekerek avantaj elde etmeyi düşündü ve {0}'e kudretli zehrinden enfekte etti. Yarın gece {0} yaşam ve ölüm arasında bir tercih yapmak zorunda kalacak."
+  WolfCub:
+    WolfCub:
+      - "Yavru Kurt \U0001F436"
+    RoleInfoWolfCub:
+      - ""
+  Blacksmith:
+    Blacksmith:
+      - "Demirci ⚒"
+    RoleInfoBlacksmith:
+      - ""
+    SpreadDust:
+      - "Gümüş tozunu bugün serperek, Kurtları bu gece engellemek ister misin?"
+    BlacksmithSpreadSilver:
+      - "Köylüler olaylar üzerine tartışırken birden {0}’i yerlere gümüş tozu serperek etrafta dolaşırken gördüler. Köylüler en azından bu geceliğine kurt saldırılarından güvende olacak [Kurtlar bu gece iptal!]."
+  ClumsyGuy:
+    ClumsyGuy:
+      - "Beceriksiz \U0001F915"
+    RoleInfoClumsyGuy:
+      - ""
+  Mayor:
+    Mayor:
+      - "Muhtar \U0001F396"
+    RoleInfoMayor:
+      - ""
+    AskMayor:
+      - "Hazır olduğunda kendini ortaya çıkarmak için “Ortaya Çık”a bas."
+    MayorReveal:
+      - "{0} öne çıktı ve resmi Muhtarlık mührünü masaya vurdu. Artık {0} oy kullandığı zaman diğer köylülerin aksine oyları 2 sayılacak."
+    Reveal:
+      - "Ortaya çık!"
+  Prince:
+    Prince:
+      - "Prens \U0001F451"
+    RoleInfoPrince:
+      - ""
+    PrinceLynched:
+      - "Köylüler ellerinde meşaleler ile {0}’in üzerine doğru ilerleyerek linç etmeye çalışıyorlar. \"Durun! Ben Prens'im. Bu Kral'ın bana verdiği kraliyet yüzüğü ve kralın mührü bunu kanıtlıyor. Siz sefiller beni linç edemezsiniz çünkü ben kötü değilim\". Köylüler aptal gibi hissederek, koyun gibi gece için inzivaya çekildiler."
+  Lycan:
+    Lycan:
+      - "" 
+    RoleInfoLycan:
+      - ""
+  Pacifist:
+    Pacifist:
+      - "Barışçıl ☮️"
+    RoleInfoPacifist:
+      - ""
+    AskPacifist:
+      - "Köye barış ve huzuru getirip bu kaosa son vermek için düğmeye bas! Herhangi bir anda bu yürekten konuşmayı yapabilirsin."
+    PacifistNoLynch:
+      - "Barışçıl ☮️ {0}, taburenin üstüne çıkarak yüksek sesle konuşmaya başlar: \"Eyyy köy halkı! Yetmedi mi bu kadar kaos, bu kadar infaz, bu kadar kargaşa?! Hepimiz mutlu mesut, huzur ve barış içinde yaşayabiliriz!\". Köylüler sonunda {0}'in söylediklerine ikna oldu ve bugünlük linçten vazgeçtiler."
+    PacifistNoLynchNow:
+      - "Barışçıl’ın yürekten dostluk,birlik ve beraberlik mesajları sayesinde, linç aşaması bugün atlanacak! ☮️"
+    LynchPeaceTimeout:
+      - ""
+    Peace:
+      - "Barış!"
+  WiseElder:
+    WiseElder:
+      - "Yaşlı Bilge \U0001F475\U0001F3FB"
+    RoleInfoWiseElder:
+      - ""
+    WolvesTriedToEatWiseElder:
+      - "Sürü {0}'in evine ziyafet çekmek için gidiyor. Ancak karşılarında çerezlik bir köylü yerine asası ile adeta şov yapan yaşlı bilge \U0001F475\U0001F3FB ile karşılaşıyorlar! Yaşına rağmen {0} yine de size karşı kusursuz bir savunma gerçekleştirdi. Daha fazla rezil olmadan hızlıca ayrıldınız ve şanslısınız ki hiçbirinizi tanıyamadı."
+    WolvesAteWiseElderPM:
+      - "Gecenin ortasında daversiz misafirler belirdi... Kurt adamlar! Neyse ki sen o eski boomerlardan değilsin. Asanı çektin ve alayına karşı koymayı başardın. Saldrıyı def etmiş olsan da, yine de hiçbir saldırganı tanıyamadın."
+  Oracle:
+    Oracle:
+      - "Kâhin \U0001F300" 
+    RoleInfoOracle:
+      - ""
+    NegSeerSees:
+      - "{0}’in {1} OLMADIĞINI gördün!"
+  Sandman:
+    Sandman:
+      - "Uyutucu \U0001F4A4" 
+    RoleInfoSandman:
+      - ""
+    AskSandman:
+      - "Tüm oyuncuları bu gece uyutmak ister misin?"
+    SandmanSleepAll:
+      - "Kasaba halkı kendi aralarında tartışırken, {0} evine geri döner ve yumuşak bir melodiyi mırıldanmaya başlar (Dandini dandini dastanaa). Bu gece, herkes çok derinden uyuyacak. Derin uyku yüzünden gece oyuncuları bile aksiyonlarını gerçekleştiremeyecek."
+    SandmanNight:
+      - "Linç sonrası köy halkı zar zor evlerinin yolunu bulmaya çalıştı. Uyutucunun melodisi bütün halkı adeta yorgunluktan harap bitap etmiş durumdaydı. Kimse gece aksiyonlarını gerçekleştiremeden doğrudan yataklarına girdiler."
+  WolfMan:
+    WolfMan:
+      - "Kurdumsu \U0001F471\U0001F31A"
+    RoleInfoWolfMan:
+      - ""
+  Thief:
+    Thief:
+      - "Hırsız \U0001F608" 
+    RoleInfoThief:
+      - ""
+    RoleInfoThiefFull:
+      - ""
+    AskThief:
+      - "Kimden rol çalmak istiyorsun?"
+    ThiefStealFailed:
+      - "{0}’in rolünü çalmayı denedin, ama ne yazık ki başarısız oldun..."
+    ThiefStealDead:
+      - "{0}’in rolünü çalmayı denedin, ancak {0} çoktan ölmüştü..."
+    ThiefStoleRole:
+      - "{0}’in rolünü başarıyla çaldın!"
+    ThiefToMason:
+      - "{0} artık takım arkadaşın değil ama üzülme {1} artık senin gibi yani mason oldu!"
+    ThiefToCult:
+      - "{0} artık takım arkadaşın değil ama üzülme {1} artık sana katılıyor yani Tarikatçı oluyor!"
+    ThiefToWolf:
+      - "{0} artık takım arkadaşın değil ama üzülme {1} artık sana katılıyor yani Kurt oluyor!!"
+    ThiefStealChosen:
+      - "Hırsızlık yapacağın hedef {0}."
+    ThiefStoleYourRoleThief:
+      - "Rolün çalındı! Artık yeni hırsızsın \U0001F608 ve yarın gece birinin rolünü çalmayı deneyeceksin!"
+    ThiefStoleYourRoleVillager:
+      - "Rolün çalındı! Düz köylüye dönüştün \U0001F471. Yallah tarlaya"
+    StealKiller:
+      - "Rol çalmaya çalıştın... ama hedefin seri katil! Seni evinin etrafında gördü ve bir dakika sonra bıçaklandın..."
+    ThiefStoleKiller:
+      - "Hırsız {0}, seri katilin rolünü çalmaya çalıştı! Ve başarısız oldu... {0} birçok kez bıçaklandı ve şimdi karaciğeri eksik."
+    NewDGRoleModel:
+      - "Çift-giden'e dönüştün! {0} öldükten sonra onun rolünü alacaksın."
+    NewWCRoleModel:
+      - "Yabani çocuk oldun. Rol modelin {0}"
+  Troublemaker:
+    Troublemaker:
+      - "Baş Belası \U0001F92F"
+    RoleInfoTroublemaker:
+      - "\U0001F92F Baş Belası.\nKöyün ergen, kızgın genci. Bir gün öyle bir sinirlenecek ki o gün köy 1 yerine 2 kere linç edecek!\nTarikat oranı: 100%\nTakım: Köy."
+    AskTroublemaker:
+      - "Bugün bela çıkarmak ister misin?"
+    TroublemakerDoubleLynch:
+      - "Baş Belası {0} \U0001F92F çok kızdı! Bugün 2 kere linç gerçekleşecek!"
+    TroubleDoubleLynchNow:
+      - "Baş belası yüzünden bugün iki kez linç edeceksin! Umarım yarın sessiz bir gün olur."
+  Chemist:
+    Chemist:
+      - ""
+    RoleInfoChemist:
+      - ""
+    AskChemist:
+      - ""
+    AskChemistPill:
+      - ""
+    ChemistFail:
+      - ""
+    ChemistDeadYou:
+      - ""
+    ChemistSuccessPublic:
+      - ""
+    ChemistFailPublic:
+      - ""
+    ChemistBrewing:
+      - ""
+    ChemistExtraPill:
+      - ""
+  SnowWolf:
+    SnowWolf:
+      - "Beyaz Kurt \U0001F43A☃️"
+    RoleInfoSnowWolf:
+      - ""
+    AskFreeze:
+      - "Bu gece kimi dondurmak istersin?"
+    SuccessfulFreeze:
+      - "{0}'in evine gittin ve her tarafını dondurdun! Bu gece, gece yeteneklerini (varsa) kullanamayacak."
+    HarlotFrozen:
+      - "Gece işlerini halletmek için evden çıkmak üzereydin. Ancak kapıdan esen kasvetli rüzgar senin donmana sebep oldu. Görünüşe göre beyaz kurt \U0001F43A☃️ bu geceki eğlencene mani oldu."
+    CultistFrozen:
+      - "Pelerinini takıp evinden ayrılmaya hazırlanırken, kapıdan donmuş bir rüzgar sesi geldi \U0001F43A☃️. Dost tarikatçılar seni kapıda görüp durumuna bir süre güldüler, merak etme sensiz de başarabilirler."
+    CHFrozen:
+      - "Kılıcını alırken kapı altından bir soğukluk hissettin ve o da ne, elin soğuktan kılıca ayakların da yere yapışmıştı \U0001F43A☃️. Zihinsel olarak inledin, uzuvların bunca süre boyunca bu pozisyonda olmaktan ağrıyor."
+    SeeingFrozen:
+      - "Masana oturduğunda, psişik güçlerini kullanmaya hazır olduğunda, pencereden bir rüzgar esiyor ve donuyorsun \U0001F43A☃️. Bağlanmak genellikle bir sorun olmasa da, dondurucu büyü sana ayrıca ciddi bir beyin donması sorunu da yaşattı. Yine de endişelenmedin, güneşin doğuşunun bu dünyanın sabitlerinden biri olduğunu ve şimdi çözüleceğinin farkındasın."
+    GAFrozen:
+      - "Kanatlarını gökyüzüne doğru açacakken, pencerelerden esen büyük bir rüzgar donmana neden oluyor \U0001F43A☃️. Bir Noel ağacını süslerken kendini hayal ettini. Neyse ki, güneş doğduğunda bu iş bitecek."
+    SKFrozen:
+      - "Evini terk etmeden önce son bir kez karaciğer koleksiyonuna hayran kalırken, camlardan bir miktar rüzgar esiyor. Cam kavanozları donduruyor... Seni de donduruyor \U0001F43A☃️. O kurtun ciğerini kendi ellerinle söküp alacağına yemin ettin!"
+    ThiefFrozen:
+      - "Köyün etrafında somurtkan, sert bir rüzgâr hissettin. Kelimenin tam anlamıyla hareket edemediğin pistlerde donmuş kaldın \U0001F43A☃️. Neyse ki, o gece seni etraftan geçen herhangi biri tarafından tanınmaman için yeterince karanlıktı. Şafakla tamamen çözüldüğünde, herkes seni görmeden evine geri döndün."
+    DefaultFrozen:
+      - "Dün gece uyurken hiç hareket edemedin, su içmeye dahi kalkamadın. Beyaz Kurtun işi gibi \U0001F43A☃️"
+  Augur:
+    Augur:
+      - "Müneccim \U0001F985"
+    RoleInfoAugur:
+      - ""
+    AugurSees:
+      - "Gökyüzüne bakarken, kuşların çok sıradışı bir desen oluşturduğunu farkettin. Bunun anlamı köyde {0} yok."
+      - "Kuşlar sana, köyde {0} rolünün olmadığını söylüyor."
+    AugurSeesNothing:
+      - "Bugün gökyüzünde kesinlikle kuş yok. Bu muhtemelen köyde olmayan tüm rolleri gördüğün anlamına geliyor..."
+  Arsonist:
+    Arsonist:
+      - "Kundakçı \U0001F525"
+    RoleInfoArsonist:
+      - ""
+    AskArsonist:
+      - "Başka bir evi mi benzinlemek istiyorsun yoksa tüm evlerin yandığını görmek mi istiyorsun?"
+    AskArsonistNoDoused:
+      - "Kimin evini benzinlemek istersin?"
+    AlreadyDousedList:
+      - "\nBenzinlenenler listesi: {0}"
+    ExtraDouse:
+      - "Köyde yaşayan kurt kalmadı ve sen de başka birini benzinleme fırsatını yakaladın."
+    Doused:
+      - "{0}'in evini başarıyla benzinledin!"
+    Burning:
+      - "Gündüz vakti köy halkı zar zor nefes alarak uyanabildi. Kasabadaki birçok hane alevler içinde, havayı adeta karbonik gazlar kaplıyordu. Kundakçı birçok haneyi ateşe verdi ve birçok köylü bu durumdan muzdarip...\n{0}"
+    Burn:
+      - "Bir yangın söndürücü almalıydın! Şimdi evin yandı ve sen öldün..."
+    WolvesVisitBurn:
+      - "{1} bu gece çerezlik atıştırma için {0}'i seçti. Ancak Kundakçının hedefine göz dikmek onun hayatına mâl oldu ve {0} ile beraber yanıp kül oldu."
+    DefaultVisitBurn:
+      - "{0} bu gece evde kalmalıydı... Yanan bir evi ziyaret etti ve alevler içinde öldü! {1}"
+    WolfVisitBurn:
+      - ""
+    ArsonistWinsOverpower:
+      - "Sadece {0} ve {1} kaldı... Birden {0} gülümsedi, bir kibrit çıkardı, yaktı ve {1}’in ayağına fırlattı!"
+    ArsonistVisitKiller:
+      - "Kundakçı {0}, seri katilin evini yakmaya çalıştı.."
+    Spark:
+    - "\U0001F525Ateşe Ver\U0001F525"
+  Boss:
+    Boss:
+      - "Patron \U0001F3A9"
+    RoleInfoBoss:
+      - ""
+    CultCount:
+      - "\U0001F464 Tarikatıçı nüfusunun {0} olduğunu görüyorsun."
+  Shadow:
+    Shadow:
+      - "Gölge Kurt \U0001F43A\U0001F31A"
+    RoleInfoShadow:
+      - ""
+    AskShadow:
+      - "Bugün gölge yeteneğini kullanmak ister misin ?"
+    ShadowPower:
+      - "Yeteneklerini başarıyla kullandın. Linç aşaması başladığında köylüler kimi linç ettiğini göremeyecekler ve tüm linçler \"?\" olarak görülecek. Kurtadamlar kimi linç ettiğini görmeye devam edecek."
+  Skeleton:
+    Skeleton:
+      - "İskelet \U0001F480"
+    RoleInfoSkeleton:
+      - ""
+    ButtonAppears:
+      - ""
+    AskSkeleton:
+      - ""
+    ChoiceConfirmation:
+      - ""
+    BlockedNotice:
+      - ""
+    HauntButton:
+      - ""
+  Doctor:
+    Doctor:
+      - "Doktor \U0001F9D1‍⚕️"
+    RoleInfoDoctor:
+      - ""
+    AskDoctor:
+      - "Kimi canlandırmak istiyorsun?"
+    DoctorRevive:
+      - "Gece vakti ölen köylülerden biri morga kaldırılmadan önce köyün doktoru {0}, yaptığı müdaheleler sonucunda ölü olan {1}'i hayata geri döndürmeyi başardı."
+    DoctorYouRevive:
+      - "Doktor seni hayata geri döndürdü. Şimdi köye geri dön!"
+  Preacher:
+    Preacher:
+      - "Vaiz \U0001F6D0"
+    RoleInfoPreacher:
+      - ""
+    AskPreacher:
+      - "Kim için dua etmek istiyorsun?"
+    PreacherDone:
+      - "Gece boyunca dua ettiğin {0} öldürüldü. Onu öldüren {1}'in rolü {2}."
+    PreacherFailed:
+      - "Gece boyunca {0} için dualar ettin. Ancak herhangi bir ölüm tehlikesi ile karşılaşmadı. Üzülme, duaların boşa değildir sadece bunu sürdürmeye devam et."
+    OhNoPreacher:
+      - "Hayır... Gece vaizin dua ettiği oyuncuyu öldürdün. Vaiz {0} şimdi senin kim olduğunu ve rolünü biliyor."
+  GraveDigger:
+    GraveDigger:
+      - "Mezarcı ☠️"
+    RoleInfoGraveDigger:
+      - ""
+    AskGraveDigger:
+      - ""
+    DigNoGraves:
+      - "Ölüler gömülüdür ve yaşayanlar değildir. Her şey olması gerektiği gibi olduğu için iyi bir gece uykusu çekebilirsin."
+    DigGraves:
+      - "Gecenin geç saatlerine kadar, {0}’in mezarını kazıyorsun. Bedenleri huzur içinde yatsın."
+    DefaultFellDigger:
+      - ""
+    DefaultVisitDigger:
+      - ""
+    WolfFellWolves:
+      - "{0}’i yemek için gittin ancak o da ne??? {1} aniden bir ayı tuzağına adım attı. Açık bir mezara düştü ve gömüldü!"
+    WolvesSpotted:
+      - "Kurdun avı mezarlıktan geçiyordu, aniden mezar kazıcı {0}’i farkettin. Tepki vermeden önce, sırtına atlar ve bir ısırıkla öldürürsün."
+    WolvesSpottedYou:
+      - "Sadece işinizi yapmaya çalışıyordun ancak bir kurt arkandan atlayarak seni midesine indirdi!"
+    SerialKillerSpotted:
+      - "Kanlı bıçağınla mezarlıktan geçerken, mezar kazıcı {0}’i görüyorsun. İçgüdülerin, bugün senin için iki kurban olacağına karar verdi.."
+    SerialKillerSpottedYou:
+      - "Sadece işini yapmaya çalışıyordun, aniden çılgın bir katil seni gördü ve bıçakladı! Ne yazık..."
+    CultConvertGraveDigger:
+      - "{1}'in evine giderken, {0} birdenbire kiliseyi de ziyaret etmenin iyi bir fikir olduğuna karar verir. Birdenbire bir ayı tuzağı ayak bileği çevresine oturarak mezara kapaklanır! Duyabildiğin tek şey onların bir mezara düşmeden önceki çığlıkları ve hayatın için kaçıyorsun."
+    DefaultFell:
+      - ""
+  Conjurer:
+    Conjurer:
+      - "Hokkabaz Kurt \U0001F43A✨"
+    RoleInfoConjurer:
+      - ""
+    AskConjurer:
+      - "Yeteneğini bugün kullanmak ister misin?"
+    ConjurerChoice:
+      - "Köylüler Dikkat! Hokkabaz kurt bugün yeteneklerini kullandı. Oylamada en çok oy alan yerine, EN AZ OY ALAN OYUNCU ÖLECEK!"
+  Miner:
+    Miner:
+      - "Madenci ⛏"
+    RoleInfoMiner:
+      - ""
+    AskMiner:
+      - "Kimin evine tünel kazmak istiyorsun?"
+    MinerDone:
+      - "{0}'in evine başarıyla tünel kazdın. Şimdi gece aksiyonu olan oyuncular hedeflerini şaşıracak ve farklı bir eve çıkacaklar."
+    MinerChanged:
+      - ""
+  Pawn:
+    Pawn:
+      - "Piyon ♟"
+    RoleInfoPawn:
+      - "" 
+    AskPawn:
+      - "Kim için kendini feda etmek istiyorsun ?"
+    PawnSaved:
+      - "Korumak için {0}'i seçtin ve hedefin saldırı aldı. Onurlu bir fedai olarak hedefinin hayatta kalması için kendini feda ettin ve öldün."
+    PawnSavedYou:
+      - ""
+    PawnNoAttack:
+      - ""
+    PawnWolf:
+      - ""
+    PawnKiller:
+      - ""
+    PawnEmptyHouse:
+      - ""
+    PawnKilledCH:
+      - ""
+    PawnGuardedKiller:
+      - ""
+    PawnGuardedWolf:
+      - ""
+    PawnBlockedWolf:
+      - ""
+    PawnBlockedKiller:
+      - ""
+    PawnBlockedCH:
+      - ""
+  Soldier:
+    Soldier:
+      - "Komando \U0001FA96"
+    RoleInfoSoldier:
+      - ""
+    AskSoldier:
+      - "Linç oylamasında kimi korumak istiyorsun?"
+    AskSoldier2:
+      - "Linç oylamasını kime yönlendirmek istiyorsun?"
+    SoldierChoice:
+      - "Korumak için {0}'i seçtin eğer linç aşamasında ölecek olursa başka birini seçebilirsin."
+    SoldierDone:
+      - "Köylüler linç aşamasında başarıyla oylarını kullandılar. Linç edilmek üzere {0} seçildi. Ancak {0}'i kollayan bir komando vardı ve linç aşamasını {1}'e yönlendirmeyi tercih etti. {2}"
+  Rogue:
+    Rogue:
+      - ""
+    RoleInfoRogue:
+      - ""
+    AskRogue:
+      - ""
+    AskRogue2:
+      - ""
+    RogueSuccess:
+      - ""
+  Executioner:
+    Executioner:
+      - "Cellat \U0001F9B8‍♂️"
+    RoleInfoExecutioner:
+      - ""
+    AskExecutioner:
+      - ""
+    AskExecutionerLynch:
+      - ""
+    ExecutionerLynch:
+      - ""
+  Slave:
+    Slave:
+      - "Köle \U0001F635‍\U0001F4AB"
+    RoleInfoSlave:
+      - ""
+    SlaveLynched:
+      - "Başarılı bir şekilde {0}'i linç ettirdin. Köydeki adalet arayışın artık sona erdi ve amacınıza ulaştın. Sana verilen görevi yerine getirdin ve bu karanlık oyundan galip ayrıldın."
+    SlaveTarget:
+      - "Hedefin: {0}.\nHedefini linç ettirerek bu karanlık görevi tamamlamak zorundasın."
+  Poseidon:
+    Poseidon:
+      - ""
+    RoleInfoPoseidon:
+      - ""
+    AskPoseidon:
+      - "Bugün tsunami başlatmak ister misin?"
+    PoseidonRevealInfo:
+      - "Köyün her yerinde şiddetli dalgaların sesleri yankı ediyordu. Denizlerin tanrısı Poseidon derin denizlerden çıkarak öfkesini yeryüzündeki köy halkına yönlendirecek. Eğer ki Poseidonu bulamazsanız ertesi gün, aranızdan biri dalgaların içinde boğulacak."
+    PoseidonReveal:
+      - "Gün ağırdıktan hemen sonra köye vuran şiddetli dalgalar tsunamiye sebep oldu. Denizlerin görkemli tanrısı Poseidon kendisi için bir günah keçisi arıyordu ve kızgın dalgaların hedefi {0} oldu!\n{1}."
+  Snitch:
+    Snitch:
+      - ""
+    RoleInfoSnitch:
+      - ""   
+    SnitchLynchSuccess:
+      - ""
+    SnitchFinalSuccess:
+      - ""
+    AskSnitch:
+      - ""
+    SnitchNoChoice:
+      - ""
+  Illusionist:
+    Illusionist:
+      - ""
+    RoleInfoIllusionist:
+      - ""
+    AskIllusionist:
+      - ""
+    IllusionistNoChoice:
+      - ""
+    IllusionistKillTarget:
+      - ""
+    IllusionistFakeTarget:
+      - ""
+    IllusionistKillYou:
+      - ""
+  KilledMessages:
+    BlacksmithKilled:
+      - "Gündüz vakti olduğunda köylüler herhangi bir dövme sesi duymuyordu. İmalathaneyi kontrol etmeye gittiklerinde ise demirci başı olan {0}'in cesedi ile karşılaşırlar. Seri katil elindeki bıçağı daha iyi bilemek için imalathaneye girmiş ve fırsattan istifade köyün demircisinden de kurtulmuş."
+    CultistKilled:
+      - "Köyün vaizi kilisenin önünde bulduğu cesedin yine Tarikatçı Avcısına ait olduğunu sanıyordu ancak yanıldığı bir nokta vardı. Bazı incil sayfaları koparılmış ve kanlar içerisinde {0}'in kalbine saplanmıştı. Sosyopat katil din, dil, ırk, insan tanımaksızın önüne geleni öldürüyordu ve bu sefer hedefinde kâfir Tarikatçılardan biri vardı."
+    CupidKilled:
+      - "İnsanlara şehvetli bir aşk yaşatma uğruna gönderilen aşk tanrısı bile olsan, seri katil tarafından yine de saygı görmek mümkün değil. Seri katil {0}'in yayını kullanarak onu iç organlarına geçirerek öldürmüş. Aşk tanrısına bunu yapan bize neler yapmaz..."
+    DrunkKilled:
+      - "Gecenin geç saatlerinde kasaba sarhoşu hâlâ barda shot atmakla meşguldü. Davetsiz misafiri bu ayyaş hareketlerden bıkmış olmalıydı ve {0}'in kafasına shot bardağını patlattı. Kafasını koparıp değersiz ciğerini tezgahın üzerinde bıraktı. Kasaba sarhoşu katledildi."
+    GuardianAngelKilled:
+      - "Gecenin ilerleyen saatlerinde amansız çığlıklar duyuldu. Köyün muhtarı gördüğü manzara karşısında nutku tutulmuş durumdaydı. Köyün ilahi koruyucu meleği {0}, normal şartlar altında mücadele vermesi gerekirdi ancak Seri katil karşısında direnişi yetersizdi. Kanatları kayıp, belli ki katilin koleksiyonun parçası olmuştu."
+    GunnerKilled:
+      - "Geceleyin silah sesleri susmak bilmedi. Bu amansız çatışmanın sonucu gündüz vakti köylüler {0}'in cansız bedeni ile karşılaştılar. Etrafta sayısız mermi kovanı vardı ve silahşörünüzün tüm parmakları kesilmişti. Tam seri katile göre bir cinayet!"
+    MayorKilled:
+      - "Suikast! Belediye binasının etrafında bir silüet dolanıyordu. Köyün muhtarı binanın içinde kıstırılmış şekilde ve endişeyle kan ter içerisindeydi. Elindeki feneri aniden başka yöne çevirdi ve saniyesinde bıçak darbelerine maruz kaldı. Seri katil {0}'in ağzını kapatarak ses çıkarmasını engellemiş sessizce işini halletmiş."
+    PrinceKilled:
+      - "Güneş doğumuna yakın vakit köyde muhafızlar tarafından alarm verildi. Bütün kraliyet teyakkuza geçerek kralın varisi olan {0}'i arıyordu ancak alınan son haber ise akıl hastanesinden kaçmış bir seri katilin sarayın etrafında dolandığı idi..."
+      - "Gündüz olduğunda tüm köy hazır olda bekliyordu. Dün gece Kral için kara bir geceydi. Gecenin geç vakitlerinde prens {0} seri katilin kurbanlarından biriydi. Hiçbir asil kan ölümsüz değildir ve bu olay bunun ispatı oldu. {0} için amansız bir son..."
+    SeerKilled:
+      - "Görüş kazanmak için yaptığı ritüeller sırasında Gözcü {0}, beklenmedik bir sürprizle karşılaştı. Gözüne kestiremediği bir seri katil ironik bir şekilde onu kesip doğradı. Vücudundaki her bir kesik, detaylı bir şekilde oluşturulmuştu..."
+    PawnKilled:
+      - ""
+    DefaultKilled:
+      - "{0} için yeterince sessiz bir gece olması bekleniyordu. Rüyasının tam ortasında ciğerine saplanmış bir bıçak olacağını kim bilebilirdi! Köylüler {0}'i yatağında organlarından bazılarını eksik şekilde buldular. Görünüşe göre katil kurbanlarını kâbuslarında avlamakla yetinmemiş! {1}."
+  EatenMessages:
+    ApprenticeSeerEaten:
+      - "Dün gece köyün gözcüsü tarot kartlarında anlam veremediği bir kötülük sezdi. Gündüz vakti ise her şeyin yerli yerinde olduğunu görmek için çırağı {0}'i kontrol etmeye gitti ancak eve vardığında yüzleşemeyeceği bir manzara vardı... Henüz eğitimini bile tamamlayamamış olan çırağı kurt adamlar tarafından öldürülmüştü."
+    SorcererEaten:
+      - "Kurtlar için kusursuz olması gereken av, büyük bir facia ile sonuçlandı. {0} evinde bu denli davetsiz misafirleri beklemiyordu, hele ki bu misafirler kendi kurt sürüsüydü! Falcı bir hiç uğruna yem oldu."
+      - "Dolunay vakti tepelerdeki kurt sürüsünün uğultusu hayli ürpertici idi. Ancak bu uğultunun kaynağı tamamıyla kederliydi. Kurt sürüsünün gözü öyle dönmüş olmalı ki kendi müttefikleri olan Falcı {0}'i öldürdüler."
+    WildChildEaten:
+      - "OOOOYYYYYYY! Gece vakti duyulan çığlıklar hiç de normal sesler değildi. Bir çocuğun çığlık sesleriydi. Kurt sürüsü gittikçe tehlikeli ve onursuz bir hâl almaya başlıyor. {0} gibi böylesine masum, küçük bir çocuğu atıştırmalık olarak görmek nereden baksak omurgasızlık!"
+    PawnEaten:
+      - ""
+    DetectiveEaten:
+      - "Sabah vakti köy halkı telaşla {0}'in evinin önünde toplandılar. Köyün muhtarı kalabalığın arasından geçerek ne olduğunu anlamaya çalıştı ancak karşılaştığı manzara içler acısıydı. Köy halkının büyük umudu olan Dedektif {0} kurt adamlar tarafından tespit edilmiş ve öldürülmüş!"
+    GuardianEaten:
+      - ""
+    GunnerEaten:
+      - "Gece vakti yaşanan gürültüden sonra sabah vakti tüm köy halkı alel acele meydana toplandı. Sadece silah tutan, bedeninden kopmuş bir el buldular. Az biraz ötede ise {0}'in cansız bedenini. Silahşörünüzü kaybettiniz."
+    SeerEaten:
+      - "Gündüz vakti köylüler {0}'in evine gittiklerinde, bir ruh çağırma tahtası üzerinde onun cansız bedeni ile karşılaştılar. Tarot kartları ve ruhlar, Gözcü {0}'i zamanında uyaramamış olsa gerek ya da Gözcü kaderinde başına gelecekleri göremeyecek kadar körelmişti!"
+    DrunkEaten:
+      - "Şafak vakti sökmeden itfaiyeciler alarma geçti. Köyün pub bar'ı alevler içerisinde. Ahşap ve alkolden dolayı yangını söndürmek zor oldu ancak içeriden {0}'in yanmış bedenini çıkartabildiler [Kurtlar ertesi gece etkisiz olacak]."
+    FoolEaten:
+      - "Sabahleyin köylüler {0}'i ortalıkta göremedi. {0}'in evine gittiklerinde 2. el ruh çağırma tahtası ve ters duran tarot kartlarını buldular. 1 dakika... Bunlar tarot kartları değil, Avengers kartları! Hulk ve Iron Man mi??? Görünüşe göre kurtlar köyün aptalına tahammül edememiş ve onu ortadan kaldırmışlar."
+    DefaultEaten:
+      - "Gündüz vakti köy halkı meydanda toplandı ancak aralarından bir kişi eksik... {0}'in evine gittiklerinde tüm organlarını ve vücudunu parçalanmış halde buldular. Ne vahşet!!! NOMNOMNOMNOM\n{1}."
+    HarlotEaten:
+      - "Gecelerin çılgın kadını {0} ölü bulundu. İlginçtir ki cesedi başka birinin adresinde değil de kendi evindeydi... \U0001F914"
+    MasonEaten:
+      - "Herkes kalkarken, {0}’in vücudunu bir taş yığınına atılmış halde buldular. Kanı heryere sıçramış. Kurtlar masonlarınızdan birini öldürdü!"
+  WinMessages:
+    WolfWins:
+      - "Kurt adam kazandı!"
+    WolvesWin:
+      - "Kurt adamlar kazandı!"
+    VillageWins:
+      - "Köylüler kazandı!"
+    TannerWins:
+      - "Ups! İblisi linç ettiniz! İblis oyunu kazanır, saflar."
+    CultWins:
+      - "Tüm kurtlar öldü, tüm kalanlar da tarikata girdi... Tarikat kazandı!"
+    SerialKillerWins:
+      - "Kalan tek kişi seri katil! Kazandı!"
+    NoWinner:
+      - "Köydeki herkes öldü... Cesetlerden başka bir şey kalmadı. Bu oyunu kimse kazanmıyor, akbabalar dışında..."
+    ArsonistWins:
+      - "Sadece kundakçı hayatta kaldı, bir kül yığını üzerinde duran kundakçı oldu. Kundakçı kazandı.."
+    LoversWin:
+      - "Gerçek aşk sonsuza dek devam eder! Aşıklar kazandı! *-*"
+    SerialKillerWinsOverpower:
+      - "Sabah olur ve kalan son iki köylü köy meydanına yürür. {1} her şeyden habersiz önden yürürken, {0} arkadan bıçağını çıkarır ve {1}'in sırtına saplar, yine saplar ve yine, yine..."
+  GroupConfig:
+    ThankYou:
+      - "Teşekkür ederim, iyi günler :)"
+    RoleConfig:
+      - Rol yapılandırması
+    Mechanics:
+      - Oyun mekanikleri
+    GroupSettings:
+      - Grup ayarları
+    Timers:
+      - Oyun zamanlayıcısı
+    WhatToDo:
+      - "Ne yapmak istersin?"
+    EnableSecretLynch:
+    - "Gizli linçe izin ver"
+    EnableSecretLynchA:
+      - "Gizli linç durumu: {0}"
+    EnableSecretLynchQ:
+      - "Gizli linçe izin verilsin mi?\nMevcut: {0}"
+    RandomMode:
+      - "Rastgele Modu Etkinleştir"
+    RandomModeA:
+      - "Rastgele modun etkinleştirilmesi: {0}"
+    RandomModeQ:
+      - "Rastgele mod açılsın mı?\nEğer rastgele mod açılırsa, Kaos, Gizli Linç, Ölümden Sonra Rol Gösterme, ve Tarikat / Aptal / İblis her zaman rastgele olarak belirnerek oyun başlar.\nMevcut:{0}"
+    AllowExtend:
+      - "Zamanlayıcıyı Genişletmeye İzin Ver"
+    AllowExtendQ:
+      - "Oyuncuların katılım süresini uzatmasına izin verilsin mi?\nMevcut: {0}\nNot: Yöneticiler her zaman değiştirebilir"
+    AllowExtendA:
+      - "Oyuncuların süreyi uzatmasına {0}"
+    AllowFlee:
+      - "Kaçışa İzin Ver"
+    AllowFleeQ:
+      - "Oyun başladıktan sonra çıkışa izin veriyor musun?\nNot: Oyuncular oyuna katılma aşamasında ayrılabilirler.\nMevcut: {0}"
+    AllowFleeA:
+      - "{0} oyun başladıktan sonra çıkış"
+    ShowIDs:
+    - "Katılımcı ID’lerini Göster"
+    ShowIDsQ:
+      - "Oyuncuların ID’leri gösterilsin mi?\nMevcut: {0}"
+    ShowIDsA:
+      - "Oyuncu ID'lerini {0}"
+    ThiefFull:
+      - "Tam Hırsız Modu"
+    ThiefFullA:
+      - "Hırsız her gece oynanacak: {0}"
+    ThiefFullQ:
+      - "Hırsız her gece kullanılabilsin mi?\nMevcut: {0}"
+    SecretLynchShowVotes:
+      - "Gizli: Oy sayısı"
+    SecretLynchShowVotesQ:
+      - "Gizli linç açıldığında, linç sonunda oy sayısı gösterilsin mi\nMevcut: {0}"
+    SecretLynchShowVotesA:
+      - "Gizli linç açıldığında, linç sonunda oy sayısı: {0}"
+    SecretLynchShowVoters:
+      - "Gizli: Oylar"
+    SecretLynchShowVotersA:
+      - "Gizli linç açıksa ve oy sayısı gösterildiğinde, oy veren her seçmenin ismi: {0}"
+    SecretLynchShowVotersQ:
+      - "Gizli linç açıksa ve oy sayısı gösterildiğinde, oy veren her oyuncunun oy verdiği kişiyi göster?\nMevcut: {0}"
+    PinChatMessage:
+      - "Oyun Mesajlarını Sabitle"
+    PinChatMessageQ:
+      - "Oyun Mesajları Otomatik Sabitlensin mi?\nMevcut: {0}"
+    PinChatMessageA:
+      - "Mesajları Sabitleme Ayarlandı {0}."
+    ShowRolesDeath:
+      - Ölümlerde rolleri göster
+    ShowRolesDeathQ:
+      - ""
+    ShowRolesDeathA:
+      - "Ölümlerde roller {0} olarak ayarlandı"
+    WelcomeMessage:
+      - ""
+    WelcomeMessageQ:
+      - ""
+    WelcomeMessageA:
+      - ""
+    PMMessage:
+      - ""
+    PMMessageQ:
+      - ""
+    PMMessageA:
+      - ""
+    RoleCards:
+      - ""
+    RoleCardsQ:
+      - ""
+    RoleCardsA:
+      - ""
+    MaxExtend:
+      - Max extend süresini ayarla
+    MaxExtendQ:
+      - "Oyuna katılım aşamasında /extend komutu ile tek seferde eklenebilecek max süre sayısını belirle\r\nVarsayılan: {0}\r\nMevcut: {1}"
+    MaxExtendA:
+      - "Max süre uzatma {0} saniye olarak ayarlandı"
+    DisableGModes:
+      - ""
+    DisableGModesInfo:
+      - ""
+    MuteModes:
+      - ""
+    MuteModesInfo:
+      - ""
+    Lang:
+      - "Dili Değiştir"
+    DayTimer:
+      - Gündüz süresi
+    SetDayTimeA:
+      - "Temel gündüz süresi {0} saniye olarak ayarlandı."
+    SetDayTimeQ:
+      - "Gündüz için temel süre (saniye) belirle. Bu yine de oyuncu sayısına göre ayarlanacak.\nOyunculara bağlı olarak, olabilecek en az süre 60 saniye.\nVarsayılan: {0}\nMevcut: {1}"
+    NightTimer:
+      - Gece süresi
+    SetNightTimeQ:
+      - "Gece için süre (saniye) belirle.\nVarsayılan: {0}\nMevcut: {1}"
+    SetNightTimeA:
+      - "Gece süresi {0} saniye olarak ayarlandı."
+    LynchTimer:
+      - Linç süresi
+    SetLynchTimeQ:
+      - "Linç oylaması için süre (saniye) belirle.\nVarsayılan: {0}\nMevcut: {1}"
+    SetLynchTimeA:
+      - "Linç oylaması süresi {0} saniye olarak ayarlandı."
+    MaxPlayer:
+      - "Max Oyuncu Ayarı"
+    MaxPlayersQ:
+      - "En fazla kaç oyuncu olabilsin?\nMevcut: {0}"
+    MaxPlayersA:
+      - "En fazla oyuncu sayısı ayarlandı: {0}"
+    RoleConfigInfo:
+      - "Oyun içinde hangi rolü kullanmak istersin?\nKonfigürasyon Eğitim:\n\n✅ = Aktif Rol\n❌ = İnaktif Rol\n\nRolleri seçtikten sonra, rol seçimini doğrulamak ve etkinleştirmek için sol alt köşedeki ONAY butonuna tıkla! Seçimini doğrulamazsan, göz ardı edilecek ve tüm roller kullanılacaktır!\n\nOnaylama başarılı olursa, sol alt köşedeki buton ✅ Geçerli ✅ diyecek ve seçtiğin rol yapılandırman kullanılacak."
+    Validate:
+      - Onay
+    WhatLang:
+      - "Hangi dil?\nMevcut: {0}"
+    WhatVariant:
+      - "Hangi Değişken?\nMevcut: {0}"
+    LangSet:
+      - "Dil ayarlandı: {0}"
+    Allow:
+    - "İzin ver"
+    Disallow:
+      - "İzin Verme"
+    Show:
+      - "Göster"
+    Hide:
+      - "Gizle"
+  SocialCommand:
+    MostPlayedWith:
+      - "\U0001F3AE En çok oyun oynananlar"
+    Killed:
+      - "\U0001F52A En çok öldürdükleri"
+    KilledBy:
+      - "☠️ En çok öldürüldüğü"
+    DeathType:
+      - "\U0001F4CA Ölüm türleri"
+    SocialStats:
+      - "Hangi sosyal istatistiksel bilgileri görmek istiyorsun?"
+  SetLinkCommand:
+    SetLinkSuccess:
+      - "Link Başarıyla ayarlandı: {0}"
+    SetLinkFailed:
+      - "/setlink komutunu grup davet linki ile birlikte kullanmalısınız."
+    SetLinkError:
+      - "Bu geçersiz bir telegram davet linkidir."
+    SetLinkDelete:
+      - "Grubunuzun linki başarıyla silindi."
+  RepCommand:
+    RepCommandSuccess:
+      - "Bug başarıyla geliştiricilere gönderildi. İncelendikten sonra gerekli düzeltmeler yapılacaktır. Teşekkür ederiz."
+    ErrorRepCommand:
+      - "Lütfen bir oyun başlangıç mesajını yanıtlayarak komutu kullanın. Hangi oyunda hata var ise o oyunun #players listesine cevap vererek komutu kullanabilirsiniz."
+    EmptyReason:
+      - "Lütfen komutun yanına hatanın açıklamasını yazınız. Örnek kullanım: \"/rep hata oyuncu linç edilemiyor\""
+  Ping:
+    PingInfo:
+      - "Anlık mesaj almak için geçen süre: {0}\nSaniye başı mesaj: {1}"
+    Ping2:
+      - "Ping mesajı gönderirken geçen süre: {0}"
+  ModeInfo:
+    LoveInfo:
+      - "Aşk Modunda, her oyuncu oyuna bir başka bir oyuncu ile eşleşerek başlar ve biri öldüğünde partneri de ölür. Aşıklar bot aracılığıyla özel olarak iletişim kurabilir. Hayatta kalan son 2 aşık oyunu kazanır. Bu mod istatistik ve puan durumunu etkilemez. Aşk modunda otomatik olarak devre dışı olan istisnai roller mevcuttur;\n\n• Eros \U0001F3F9\n• Lanetli \U0001F63E\n• Hain \U0001F595\n• Yabani Çocuk \U0001F476\n• Doktor \U0001F9D1‍⚕️"
+    NormalInfo:
+      - "Normal modda puan yoktur ve tüm roller ortaya çıkabilir. Oyun, kötüler ve köylüler arasında dengeli bir dağılım sağlayarak tüm oyuncular için adil ve eşit bir mücadele yaratır."
+    RankedInfo:
+      - "Dereceli modda, oyunculara performanslarına ve rollerinin efektifliğine göre puan verilir. Oyun, adil oyun için dengeli rol dağılımı sağlar. Bazı katılımcılar, 10 veya daha fazla oyuncuyla oynanan bir oyunun sonunda, rol veya emoji satın almak için kullanılabilecek mint ödülleri alır. Küresel sıralamanızı kontrol etmek için /topscore komutunu kullanın."
+    ChaosInfo:
+      - "Kaos modunda denge yoktur, roller tamamen rastgele atanır. Bu, ya kötülerin ya da köylülerin önemli bir güce sahip olabileceği anlamına gelir. Her şeyin olabileceği, öngörülemez ve kaotik bir oyuna hazır olun!"
+    CustomInfo:
+      - "Custom (Özel) modlu oyunda, oyun yalnızca komutu kullanan moderatörün dahil ettiği roller ile başlar. Oyun başlamadan önce eklenmek istenen roller seçilir lakin ilk dört rolden biri kötü rollerden herhangi biri olmalı. Aksi takdirde oyun başlatılmayacaktır. Bu moddaki oyunlar oyuncu istatistiklerini etkilemez."
+    ModeInfo:
+      - "Mevcut oyun modu hakkında bilgi almak için /modeinfo komutunu kullanın.\n\nOyun Modu: {0}"
+    BonusModeActivated:
+      - "Ne kadar çok oyuncu, o kadar çok puan! Oyuna hemen dahil ol ve ödüllerin defalarca katlanmasına şahit ol. Lig yükselmek için paha biçilemez bir fırsat! \U0001F680"
+    RankedMode:
+      - Puanlı
+    LoveMode:
+      - Aşk
+    CustomMode:
+      - Özel
+    NormalMode:
+      - ""
+    ChaosMode:
+      - Kaos
+  RoleList:
+    HelpRoleList:
+      - "İşte Wolf Blood botunun sahip olduğu tüm roller:\n\nWolf Blood toplamda {2} role sahip.\nKlasik roller {0}, Özel Wolf Blood rolleri sayısı ise {1}."
+    VG:
+      - Köylü Takımı 🧑‍🌾
+    Baddie:
+      - Kurt Takımı 🐺
+    Solo:
+      - Solo Roller 👣
+    AboutVGTeam:
+      - "Köylü Takımı\n\nMasum kasaba halkı, aralarında saklanan katilleri tespit etmek ve ortadan kaldırmak için birlikte çalışır. Ölümcül saldırılarının kurbanı olmadan önce kötülerin kim olduğunu bulmak için çıkarımsal akıl yürütmelerini ve stratejik düşünme yeteneklerini kullanmalılar.\n\nDüşmanlar: Kurt Adamlar, Seri Katil, Kundakçı, Tarikatçılar"
+    AboutBaddieTeam:
+      - "Kurt Takımı\n\nBir grup köylü, dolunayın altında büyülü bir gecede vahşi bir kurt sürüsünün saldırısına uğramış, ancak mucizevi bir şekilde ölümden kurtulmuşlardır. Vücutlarında garip bir dönüşüm yaşadılar ve o andan itibaren geceleri kurt adamlara dönüştüler, gündüzleri topluluğun masum üyeleri gibi davranırken masum köylüleri avlamaya başladılar.\n\nDüşmanlar: Seri Katil, Kundakçı, Tarikatçılar"
+    AboutSoloTeam:
+      - "Solo Takım\n\nKöyde bir takımın parçası olmak yerine tek başına hareket etmeyi tercih eden bireyler. Kurt adamların aksine, oyuncuları bireysel olarak ortadan kaldırma yeteneğine sahiptirler. Amaçları köyde hayatta kalan tek kişi olmaktır, bu da onları zafere götürecektir.\n\nSolo Oyuncular: Seri Katil, Kundakçı, İblis, Hırsız (rol çalana dek), Çift Giden (rol modeli ölene dek)"
+  Requirements:
+    MemberCount:
+      - ""
+    RestrictPermission:
+      - ""
+    GameCount:
+      - ""
+    GroupUnderReview:
+      - ""
+    GroupApprovedButNotReady:
+      - ""
+    GroupRejected:
+      - ""
+    GroupApprovedNotification:
+      - ""
+    RequestSent:
+      - ""    
+  EndMessages:
+    SKHunterEnd:
+      - "Köy meydanında ayakta duran yalnızca iki kişi vardı... {0} hiç düşünmeden hedefinin üzerine elindeki bıçakla saldırmaya başladı. Tüfeğine davranamadan sayısız bıçak darbesi alan {1}, kan kaybından ölmek üzereydi ancak büyük bir acı çekmek uğruna risk aldı ve bıçağın üzerine atlayarak son anda tüfeğine ulaştı ve {0}'i vurmayı başardı... ancak bu köyde kazanan kimse yok!"
+    HunterKillsWolfEnd:
+      - "Köyde hayatta kalan son iki kişi meydanda karşı karşıya geldi... Ölüm sessizliği ortama hakimdi. {0} bir anca tüfeğine davranmak için doğru anı bekliyordu. Şansına, {1}'in sabrı tükenmiş ve doğrudan hedefine dişlerini geçirmeye çalışmıştı ancak avcı {0} o kadar da kolay lokma değildi. Kalan son kurt adam nakavt!"
+    WolfKillsHunterEnd:
+      - "Köy meydanında hayatta kalan sadece iki kişi vardı. Avcı {0} tüfeğini doğrultmuş vaziyette, son hedefini gözetliyordu. Ummadığıbir anda {1} üzerine atlar ve dişleriyle o tüfeği paramparça eder... Köyün son umudu da böylelikle tükenmiş oldu."
+    CHKillsCultistEnd:
+      - "{1} ve {0} gün ışığına çıkar. {0} durumun farkına varır... Tek başına ezeli düşmanı Tarikat avcısı ile teke tek kaldı. Son duasını etmek isterken {1} duymaya dahi tahammül edemeden ona diz çöktürür ve doğrudan kellesini uçurur!"
+    TannerEnd:
+      - "Yeni günün şafağında, {0} büyük bir sessizliğin ortasında uyanır. Kimsenin kalmadığını anlayan {0}, kasaba boyunca tek başına yürümeye başlar. Sonra {0} eski komşularının cansız bedenlerini görünce iç çeker; linç edilme hayalleri onlar kadar ölüdür. Bu yüzden etrafı karıştırır ve çok can alan eski ipi bulur, onu hassasiyetle boynuna bağlar ve intihar eder."
+      - "Şafak yükselirken {0}, çaresizli içerisinde mazoşist görevinin sefil bir şekilde başarısızlığa uğradığını anlar... Basit bir görevi bile yerine getiremeyecek kadar aciz olmanın yükünü daha fazla taşıyamadan boynuna bir ip bağlar ve kendisini asar"
+    SorcererEnd:
+      - "{0}'in mistik gözleri genişler, ancak kasabanın tipik koşuşturması yerine ölümcül bir sessizlikle karşılanır. Sıkıcı tavana bakıyor ve gerçeğin içine çökmesine izin veriyor. Herkes öldü. Kurtlarınız asla geri dönmeyecek. Siyah kalbinde büyük bir kederle, {0} ayağa kalkar ve eşyalarını eski sandığına koyar; sonra şehrin sonuna gider. Sürüsünün zafere ne kadar yaklaştığını hatırlayan {0}'in gözünden bir damla gözyaşı dökülür. Oh, buna ihtiyaç duyan diğer kurtlarla yeni bir hayata başlama zamanı. {0} kasvetli ormana girer ve sevgili kurtlarını mezarlarında geride bırakır."
+      - "{0} en iyi çabalarına rağmen, hayatındakı zarafet duygusu yoksunluğunu kurtlarından gelmesini umduğu zaferle geri kazanamadı. Kurtların zaferiyle bile, başarının tadını çıkaracak kimse kalmadı ve alay edecek köylüler yok. {0} özlemlerinin yoğun bir pus içinde sessizce kaybolduğu kristal küreye bakar. Bu nedenle, karanlık hayatını doldurmasına ve insanlığa zarar vermek için susuzluğunu gidermesine yardımcı olacak yeni kurtlar, müttefikler aramaya koyulur."
+    DoppelgangerEnd:
+      - "Ah! Yaratıldığı tek görevi bile yapamayan birinin hayatı ne kadar sefil olabilir? Başkalarının görünümünü alma yeteneği sadece bir efsane miydi? Bunu asla bilemeyeceğiz!\n{0} artık köyde yalnız ve rolüne bürünebileceği herhangi biri yok. Yapabileceği tek şey aynadaki kişiyi kopyalamaktı!"
+    ThiefEnd:
+      - "{0} köyün etrafında dolaşırken, çalmak için daha eğlenceli bir rol bulunmadığını öğrendi. Hızla bu fakir köyden ayrıldı ve şanlı kariyerini yeniden başlatmak için başka bir köy aradı.."
+  RankedTable:
+    RoleTable: 
+      - ""
+    PointTable:
+      - ""
+    PenaltyTable:
+      - ""
+    BonusModeTable:
+      - ""
+    TotalTable:
+      - ""
+    ResultTable: 
+      - ""
+    WonGame:
+      - ""
+    LostGame:
+      - ""
+    Loots:
+      - "Ganimetler!"
+  Stats:
+    AchievementsUnlocked:
+      - "Başarı Kilidi Açıldı"
+    Score:
+      - "Puan"
+    GamesWon:
+      - "Kazandığı oyun"
+    GamesLost:
+      - "Kaybettiği oyun"
+    GamesSurvived:
+      - "Hayatta kalabildiği oyun"
+    TotalGames:
+      - "Toplam Oyun"
+    TimesKilled:
+      - "En çok öldürdüğü oyuncu"
+    TimesKilledBy:
+      - "En çok öldürüldüğü oyuncu"
+    Afk:
+      - "kere AFK öldü"
+  TimeMessages:
+    LynchTime:
+      - "Gece vakti yaklaşıyor ve gündüz yaşanan tartışmalar sonucu köy halkı kimi linç edeceğine karar vermek için toplanıyor.\nHerkesin oy kullanmak için {0} saniyesi var!"
+    DayTime:
+      - "Gün doğdu. Suçlamalar, yalanlar, ikna etme çabaları ya da hoşbeş etmek için sadece {0} saniyeniz var."
+    NightTime:
+      - "Gece oldu. Böylesine yoğun ve stres dolu geçen bir günün ardından herkes yorgun bir şekilde yataklarına geri dönüyor.\nGece oyuncuları, aksiyonlarınızı gerçekleştirmek için {0} saniyeniz var."
+  CustomMode:
+    CustomRoleInvalid:
+      - Belirttiğin rol geçersiz. Lütfen aşağıdaki rolleri yeniden yazıp oyunu yeniden başlat. Emoji veya rol ismi kullanabilirsin.
+    CustomFirstRole:
+      - "İlk 4 rolden biri baddie (kötü) takımına dahil olmalı. Herhangi bir Kurt, İblis, Tarikatçı, Kundakçı veya Seri Katil. Lütfen bu az önce bahsedilen rollerden en az birinin rol listenin ilk 4 rollerinden birine dahil olduğundan emin ol."
+    CustomMinimumRole:
+      - Oyunu başlatmak için minimum 4 role ihtiyacın var.
+    CustomMaxRole:
+      - 100 rolden fazla olan bir oyun başlatamazsın. Lütfen sayıyı max 100 adete indirgeyerek bazılarını sil.
+    CustomNoRole:
+      - Oyuna başlamadan önce rolleri ekle lütfen.
+  BanMessages:
+    GroupBan:
+      - ""
+    GlobalBan:
+      - ""
+    BanReason:
+     - ""
+    BanExpire:
+      - ""
+    GroupBanPlayer:
+      - ""
+    Year:
+      - ""
+    Day:
+      - ""
+    Minutes:
+      - ""
+    Hours:
+      - ""
+    Seconds:
+      - ""
+  TeamsMessages:
+    MyTeam:
+      - ""
+    NothingTeam:
+      - "Şuan herhangi bir takıma üye değilsin.\n/jointeam komutu ile, var olan herhangi bir takıma üye olabilirsin.\nBir takımın üyesi ol ve zafere giden yolda mücadeleci bir ekibin parçası ol!"
+    JoinTeam:
+      - "\U0001F389 Tebrikler! \U0001F389\n{0} takımına başarıyla katıldın.\nHadi hep birlikte oynayarak oyunu domine edelim! \U0001F680\U0001F3AE"
+    AlreadyTeam:
+      - "ℹ️ Bilgilendirme: Zaten {0} takımının üyesisin. İyi işlerine devam et ve başarıya birlikte erişelim! \U0001F389\U0001F680"
+    LeaveTeam:
+      - "\U0001F44B {0} grubundan ayrıldın.\n/jointeam komutu ile tekrardan bu takıma katılabilrisin.\nGeri dönüşünü bekliyor olacağız! \U0001F31F"
+  NotAdmin:
+    GroupAdminOnly:
+      - "Bu komutu sadece admin kullanabilir dostum."
+    NotGlobalAdmin:
+      - "Genel yönetici değilsin..."
+    NotKadir:
+      - "Defol buradan, sen Kadir değilsin!"
+    GroupCommandOnly:
+      - "Bu komutu bir grupta çalıştırman gerekiyor"
+  NextGame:
+    DeletedFromWaitList:
+      - "{0} için bekleme listesinden silindiniz."
+    AlreadyOnWaitList:
+      - "{0} grubu için zaten bekleme listesindesin."
+    AddedToWaitList:
+      - "{0} grubu için bekleme listesine alındın. Sonraki oyun başlarken sana özel mesaj göndereceğim." 
+  LynchMessages:
+    PlayerVotedLynch:
+      - "{0} oy hakkını {1} kişisinden yana kullandı."
+    AskLynch:
+      - "Kimi linç etmek istiyorsun?"
+    LynchKill:
+      - "Köylüler hırs ve şüphe içerisinde oylarını kullandılar ve {0}'i linç etmeye karar verdiler. {0} köylüler tarafından idam sehpasına çıkartıldı. {1}"
+    LynchTie:
+      - "Köylüler laf kalabalığı arasında linç için yoğun bir tartışma içerisindeydi. Görünüşe göre her kafadan çıkan farklı bir ses oyların bölünmesine sebep oldu. Linç için herhangi bir karara varılamadı. Oylar berabere!"
+    NoLynchVotes:
+      - "Bu çok tuhaf, kimse oy kullanmadı! Bu akşam linç yok..."
+    PlayerVoteCounts:
+      - "{0} oyuncu oy kullandı. Toplam {1} Kişi"
+    SecretLynchResultEach:
+      - "{0} kişi oy verdi {1}: {2}"
+    SecretLynchResultFull:
+      - "Bugünün linç sonucu:\n{0}"
+    SecretLynchResultNumber:
+      - "{0} kişi {1}’a oy verdi."
+  PublicMessages:
+    DefaultFellPublic:
+      - ""
+    KillerSpottedDiggerPublic:
+      - ""
+    WolvesSpottedDiggerPublic:
+      - ""
+    HarlotFuckKillerPublic:
+      - "Köy {0}'in cesedini görür, sayısız bıçak yarası ile meydanda ölü yatıyor. {0} öldü."
+    HarlotFuckedKilledPublic:
+      - "{0} biraz eğlenmek için {1}'in evine girdi. Ama bunun yerine, tımarhaneden kaçmış, kendini insanların organlarını çıkarmaya adamış gizemli bir varlık buldu! Yine de seri katil, {0}'in isteklerini yerine getirmeye karar veriyor ve yancının kalbini koleksiyonuna eklemeden önce, son gecesini geçirmesine izin veriyor!"
+  WelcomeMessages:
+    OfficialGrp:
+      - Burada tüm topluluklara erişebileceğin Resmi Gruplar mevcut. Katılmak istediğin topluluk grubuna tıkla.
+    Welcome:
+      - "Merhaba {0}! \U0001F43E Wolf Blood'a hoşgeldin!\n\nKöy kasabasının kurt sürüsüne karşı olduğu, inanılmaz derecede heyecanlı ve gizemli olan bir yolculuğa hazır ol. Klasik Kurt Adam oyununu mod ve rol yenilikleri ile üst düzey bir deneyim seviyesine çıkar.\n\nResmi gruplara katıl ve global'de birçok oyuncu ile mücadelelere gir. Yeni güncellemeleri Wolf Blood News kanalından takip edebilir ve herhangi bir yardım için Destek grubuna ulaşım sağlayabilirsin.\n\n\U0001F43E İyi Oyunlar\U0001F43A"
+    CreditsText:
+      - ""
+  AFKs:
+    IdleKill:
+      - "{0} üst üste iki gece oylamaya katılmadı. AFK kalmanın bedelini canını vererek ödedi. {0} yere kapaklandı ve öldü. {1}"
+    IdleCount:
+      - "Oyuncu {0} geçen 24 saatte {1} defa oylamadığı için öldürüldü."
+    GroupIdleCount:
+      - "Öldürülenlerin {0} tanesi bu gruptaydı."
+  StoreMessages:
+    Store:
+      - "\U0001F6D2 WB Mağazasına Hoş geldiniz!\nSatın alınabilecek öğelerin listesini keşfederek oyun deneyiminizi geliştirmek için WB Mint kullanın. Devam etmek için aşağıdaki butonlara tıklayın.\n\nMevcut Mint: {0} \U0001FA99\nMevcut Emoji Parçası: {1} \U0001F9E9\n\nNe satın almak istersin?"
+    BuyFailed:
+      - ""
+    BuyConfirm:
+      - ""
+    BuySuccess:
+      - "\U0001F389 Satın alma işlemi başarılı!\nBaşarılı bir şekilde {0} itemini satın aldın\nMevcut bakiyen {1}\nSatın alma için teşekkürler!"
+    BuyItems:
+      - ""
+    BuyTicket:
+      - ""
+    BuyRole:
+      - ""
+    BuyEmoji:
+      - ""
+    BuyEmojiDuration:
+      - ""
+  TicketButtons:
+    ForceToken:
+      - ''
+    RoleVouchers:
+      - ''
+    FJoin:
+      - ''
+    FName:
+      - ''
+    BonusPointTicket:
+      - ''
+    Fragment:
+      - ''
+    Mint:
+      - ''
+    BonusRankedModeTicket:
+      - ''
+    CustomMessageTicket:
+      - ''
+    CustomEmoji:
+      - ''
+    PlayerTAG:
+      - ''
+    CustomGifs:
+      - ''
+    FakeRole:
+      - ''
+    MyTicketButton:
+      - ''
+    MyItemButton:
+      - ''
+    TournamentPoint:
+      - ''
+    Month:
+      - ""
+    Week:
+      - ""
+    Permanent:
+      - ""
+    Yearly:
+      - ""
+  TopMessages:
+    GroupStats:
+      - "{0}'daki en iyi ilk 10 :"
+    TopScore:
+      - "En yüksek puana sahip ilk 10 oyuncu :"
+    YourRanking:
+      - 'Lig Sıralaman:'
+    MostPlayedWithMonth:
+      - Bu ayın en çok oyun oynayan oyuncuları
+  ProfileMessages:
+    ItemsText:
+      - ""
+    Profile:
+      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    LockEmoji:
+      - ""
+    MaxEmoji:
+      - Maksimum emoji aktif etme sayısına ulaştınız. Daha fazla aktif etmek için /donate komutu ile bağış yapın.
+    EmojiChoice:
+      - "Aşağıda sahip olduğunuz emojiler gösterilmektedir. Hangi emojinin isminin yanında görünmesini istiyorsun?"
+    NoMyRoles:
+      - "Henüz herhangi bir role sahip değilsin.\nRolleri kazanmak ve envanterini genişletmek için oynamaya devam et!"
+    MyRoles:
+      - "\U0001F6C5 Rollerim\n\nBu kısımdan sahip olduğun rolleri görüntüleyip yönetebilirsin. Oyun stratejine ve oyun stili tercihine bağlı olarak istediğin rolleri aktif edebilirsin.\n\nRollerin: {0}\nAktif etmek istediğin rolün butonuna tıkla."
+    ActivateRole:
+      - '✅ {0} rolü başarıyla aktif edildi!'
+    DeactivateRole:
+      - '❌ {0} rolü başarıyla inaktif edildi!'
+    TicketsMenu:
+      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+  RewardPM:
+    - ""
+    - ""
+    - ""
+    - ""
+  TelegramStars:
+    StarShop:
+      - ""
+    StarTicket:
+      - ""  
+    StarItems:
+      - ""
+    StarConfirm:
+      - ""
+    StarCustomMessage:
+      - ""
+    StarPlayerTAG:
+      - ""
+    StarGifMenu:
+      - ""
+    StarRole:
+      - ""
+    StarEmoji:
+      - ""
+    StarEmojiDuration:
+      - ""
+    StarSuccess:
+      - ""
+    StarPayment:
+      - ""
+    StarPaidSuccess:
+      - ""
+  GiftMenu:
+    GiftShop: 
+      - ""
+    GiftItems:
+      - ""
+    GiftConfirm:
+      - ""
+    GiftTicket:
+      - ""
+    GiftCustomMessage:
+      - ""
+    GiftPlayerTAG:
+      - ""
+    GiftCustomGif:
+      - ""
+    GiftRole:
+      - ""
+    GiftEmoji:
+      - ""
+    GiftEmojiDuration:
+      - ""
+    GiftSentSuccess:
+      - ""
+  CustomGifs:
+    NotPack:
+      - "Henüz özel GIF paketinin kilidini açmadın.\n/donate komutunu kullanarak bunu sağkayabilirsin."
+    GifPackStatus:
+      - 'Current Approval Status:
+
+        Approved Gifs: {0} ✅
+
+        Pending Gifs: {1} ⏳
+
+        Rejected Gifs: {2} ⛔️'
+    GifPack:
+      - "Kendi özel, kişisel GIF paketini oluşturmaya hazır mısın? İşte bilmen gerekenler;\n\n• Paketin oyunlarda kullanmadan önce yönetici onayından geçmesi lazım.\n• İzin verilmeyen içerik: Vahşet ya da illegal içerikli GIFler ve yönetimin takdirine bağlı olan kriterler.\n• GIF seçmek için, bir açıklama mesajı göreceksin.\n• GIF paketini yeniden düzenlemek, değiştirmek tekrardan yönetici tarafından onay sürecine girer.\n\nMevcut paketinin durumuna göre sana uygun GIF paketi oluşturalım!"
+    GifSubmitBtn:
+      - Onay için talepte bulun
+    GifSend:
+      - ""
+    GifReset:
+      - "GIFleri sıfırla"
+    GifResetSuccess:
+      - ""
+    GifStatus:
+      - ''
+    Approved:
+      - ''
+    Disapproved:
+      - ''
+    GifError:
+      - "Bu GIF boyutu çok fazla, en fazla 2MB boyutunda olan GIFlere izin verilebilir. Lütfen bu koşula uygun olarak, mesajı yanıtlayarak istediğin bir GIF gönder."
+    GifSuccess:
+      - "Tanımlandı! Başka bir şey?"
+    GifSubmit:
+      - "Özel GIF paketin onay için yöneticilere gönderildi!\n\nYöneticilerin incelemesi gereken çok sayıda GIF paketi olduğunu, dolayısıyla bu sürecin 1 iş gününe kadar sürebileceğini lütfen unutmayın.\n\nYöneticiler gönderilen GIF paketlerini takip edecektir, onlara doğrudan PM (özel mesaj) göndermene gerek yok. Sabrın için teşekkür ederiz!"
+    GifSubmitHour:
+      - "GIF paketini son bir saat içinde zaten gönderdin! GIF'lerini gönderir ve onaylanmadan önce bir şeyleri değiştirirsen, tekrar göndermene gerek yok! Lütfen GIF paketin incelenirken sabırla bekle."
+    GifEmpty:
+      - Lütfen paketini göndermeden önce en az bir GIF ayarla!
+    GifCheckSuccess: 
+      - ""
+  TransferMenu:
+    Transfer:
+      - ""
+    TransferSelf:
+      - "⚠️ Geçersiz Transfer\n\nİtemleri kendine transfer edemezsin. Nesin sen dahi falan mı? Başka bir alıcı belirle lütfen."
+    TransferFailed:
+      - ""
+    TransferItems:
+      - ""
+    ConfirmTransfer:
+      - "\U0001F504 Transfer Onayı\n{0} itemini {1} kullanıcısına transfer etmek üzeresin.\n\nÜcret: {2} WB Mint\nMevcut Mint: {3} WB Mint\n\nİşlemi gerçekleştirmek istiyor musun?\nTransfer sonrası bakiye: {4} WB Mint"  
+    TransferSuccess:
+      - "✅ Transfer işlemi başarılı\n\n{0} başarı ile {1} kullanıcısına transfer ettin. Mevcut bakiyen {2} Mint.\n\nWolf Blood mağazasını kullandığın için teşekkürler."
+    TransferReceived:
+      - "\U0001F389 Bir Hediye Elde Ettin \U0001F381\n\n{1} tarafından sana {0} gönderildi.\n\nYeni itemlerinin tadını çıkar!"
+    TransferRole:
+      - ""
+    TransferEmoji:
+      - ""
+    TransferTicket:
+      - ""
+    TransferLimit:
+      - ""
+  PlayerTAGS:
+    TagSuccess:
+      - "Yeni isim etiketin başarıyla ayarlandı. Etiket: {0}" 
+    TagError:
+      - ""
+    TAGInvalid:
+      - ""
+  CustomMessages:
+    CustomMessageLenght:
+      - ""
+    CustomMessageSuccess:
+      - ""
+    CustomMessageAllLetter:
+      - ""
+    CustomMessageInvalid:
+      - "" 
+  FakeNames:
+    FakeNameLenght:
+      - ""
+    FakeNameSuccess:
+      - ""
+    FakeNameInvalid:
+      - ""
+  FakeRoles:
+    FakeRoleSuccess:
+      - ""
+    NoRole:
+      - ""
+    RoleInvalid:
+      - ""
+  Others:
+    Donate:
+      - ""
+    UserNotFound:
+      - "⚠️ Kullanıcı Bulunamadı\n\nSpesifik olarak belirtilen Kullanıcının ID/Kullanıcı Adı bulunamadı. Doğru ID/Kullanıcı Adı girdiğine emin ol ve ardından lütfen tekrar dene."
+    ForceJoinSuccess:
+      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
+    TicketRequired: 
+      - ""
+    JoinButton:
+      - "Katıl"
+    Skip:
+      - "Geç"
+    Yes:
+      - ""
+    No:
+      - ""
+    VoteBtn:
+      - OY VER 🗳
+    GoToBtn:
+      - Bota Git
+    RolList:
+      - "Rol Listesi:"
+    NoClaims:
+      - "Rol Yazmayanlar"
+    Cancel:
+      - "İptal"
+    OfficialBtn:
+      - Resmi Gruplar
+    SupportBtn:
+      - Destek
+    NewsBtn:
+      - Haberler
+    Done:
+      - "Bitti!"
+    Back:
+      - "Geri"
+    EndTime:
+      - "Oyun Süresi: {0}"
+    TimesUp:
+      - "Zaman doldu!"
+    GetLang:
+      - "Hangi dil dosyası alınsın?"
+    GenericDeathNoReveal:
+      - "Köy halkı gün doğumu ile güne başlamaya hazırdı ancak {0} aralarında yoktu... Yalnızca {0}'den arta kalanları bulabildiler."
+      - "Gün tepeden doğarken, köylüler {0}'den geriye kalan parçaları fark ederler. Dün gece nasıl olduğu bilinmeyen bir şekilde bu hâle gelmiş..."
+    ErrorBotMessagePM:
+      - "Lütfen hangi takıma mesaj göndermek istediğinizi komut ile belirtin. Aşk takımına mesaj göndermek istiyorsanız /love komutunu, diğer takımına mesaj göndermek istiyorsanız mesajınızı /team komutu ile birlikte yazınız."
+    SecondsAdded:
+      - "Katılma süresi {0} saniye uzatıldı!\n{1} kaldı"
+    SecondsRemoved:
+      - "Katılma süresi {0} saniye düşürüldü!\n{1} saniye kaldı"
+    LeftToJoin:
+      - "Oyuna katılmak için {0} kaldı. /join tıkla ve bu eğlenceye katıl !"
+    HaveJoined:
+      - "{0} son 30 saniyede katıldı."
+    AlreadyInGame:
+      - "Zaten oyundasın dostum! ({0})"
+    CountPlayersAdded:
+      - "Toplam {0} oyuncu."
+    NotEnoughLovePlayers:
+      - "Aşk modunda oynamak için çift sayıda oyuncu bulunması gerekir. (6,8,10,12...) Bu oyun iptal edildi..."
+    NotEnoughPlayers:
+      - "Yeterince oyuncu bulamadınız. Oyunu iptal etmek zorundayım."
+    StartingGameWait:
+      - "Oyun başlıyor... Ben rolleri dağıtana kadar bekleyin."
+    AlreadyJoined:
+      - "Sayın kullanıcı zaten oyundasın. Daha fazla zorlama!"
+    ChoiceAccepted:
+      - "Seçim kabul edildi."
+    And:
+      - " ve "
+    NewUnlocks:
+      - "Başarı Kilidi Açıldı!"
+    PlayersAlive:
+      - "Oyuncu Hayatta"
+    Players:
+      - "Oyuncular"
+    Was:
+      - "idi"
+    NoGame:
+      - "Şu anda başlatılmış bir oyun yok. /startranked ile dereceli modda bir oyun başlat!"
+    NotifyNewGame:
+      - "{0} grubunda yeni bir oyun başlıyor"
+    NotPlaying:
+      - "Pek oyunda değilsin gibi.."
+    NotHome:
+      - "Garip... {0} evde değil! Bu akşam aç kalacaksın..." 
+    GamesPlayed:
+      - "Yeni Üye: {0} ({1})\n\nOyuncunun Oyun Sayıları\n∙ Wolf Blood: {2}\n∙ Diğer Botlar: {3}\n\nToplam Oyun Sayısı: {4}"
+    LoverDied:
+      - "{0}'in kesilen soluğu ile köyü hüzün kaplar. Ancak {1} için bu hüzün çok daha derindi. Bir an olsun bile {0}'in yokluğuna dayanamıyordu ve en sonunda kendine yakın bulduğu silahı alır... Ve tetiği çeker! Oracıkta son nefesini verir ama o zaten {0}'in ölümü ile son nefesini vermişti. {2}"
+    NoAttack:
+      - "Köylüler sabah olduğunda köyün merkezinde toplandı ve aralarında eksik kimse yoktu. Gece vakti hiçbir saldırı olmamıştı ve köylüler derin bir oh çekti."
+    LynchDead:
+      - "Bu oyunu kazanmayı düşünmüş olabilirsin ama köylüler tarafından linç edildin ve sen öldün..."
+    SentPrivate:
+      - "Sana özel mesaj gönderdim."
+    Help:
+      - "Oyundaki rollere göz atmak istersen /rolelist komutunu kullanabilirsin\n/setlang komutu ile dil seçimi yapabilirsin\n/rules komutuyla rehber ve oyun kurallarına ulaşabilirsin\n/startranked komutuyla hemen sıralamalı modda bir oyun başlatın. İyi eğlenceler."
+    StartMe:
+      - "Lütfen beni başlat, böylece sana özel mesaj atabilirim."
+    LatestList:
+      - "İşte son liste"
+    UnableToGetList:
+      - "En son listeye ulaşamıyorsun."
+    YouJoined:
+      - "{0}’daki oyuna başarıyla katıldın."
+    CantExtend:
+      - "Süreyi arttırmak için yöneticiler ile görüşsen iyi olur."
+    NotMember:
+      - "Bu oyuna katılamazsınız çünkü {0} ait bir üye değilsiniz."
+    GroupNotFound:
+      - "Grup bulunamadı. Lütfen bu komutu grubunuzda çalıştırın ve beklememek için komuttan sonra yanına link, id veya kullanıcı adı bırakın."
+    RoleCommand:
+      - ''
+    DisableGameMode:
+      - ""
+    DeadSlient:
+      - "Öldüğün için gruba mesaj göndermen oyun sonuna kadar kısıtlandı. Oyun bittikten sonra yeniden yazmaya başlayabilirsin. Bir sonraki oyun için bildirim almak istiyorsan aşağıdaki butona tıkla."
+    PlayerLimitReached:
+      - "Maksimum oyuncu sayısına ulaşıldı... Başka yer kalmadı."
+    DeadFlee:
+      - "Oyundan çıkamazsın! SEN ÖLÜSÜN! Ölüler konuşamaz, yalnızca toprağın altında ebedi sessizlikle yatarlar..."
+    Flee:
+      - "{0} aniden oyun lobisini terk etti!"
+    FleeDisabled:
+      - "Oyun devam ederken kaçmak yok!"
+    PlayerRoleWas:
+      - "{0} idi {1}"
+    CountPlayersRemain:
+      - "{0} oyuncu kaldı."
+    ByForceStart:
+      - "Bu komut {0} tarafından oyunu doğrudan başlatmak için kullanıldı."
+    PlayersGifPack:
+      - "Özel GIF paketi olan oyuncular:"
+    ForceStarted:
+      - 'Forcestart yapan oyuncu: {0}'
+    TreasureWin:
+      - ""
+    NameExists:
+      - "@{1}, {0} isminde bir oyuncu zaten katıldı. Lütfen katılmak için ismini değiştir."
+    ChangeNameToJoin:
+      - "{0} hey sen! Oyuna katılmak istiyorsan ismini değiştirmek zorundasın."
+    ExitAnonymousMode:
+      - "Anonim yönetici olarak bu botu kullanamazsın! Anonim moddan çık (ya da seni yetkilendiren yöneticiden bunu yapmasını iste) ve yeniden dene."
+    MaintBreak:
+      - "Üzgünüm şuan oyun başlatamazsın kısa bir bakım çalışması var...\nDaha fazla bilgi için @wolfbloodnews"
+    NoPlayerName:
+      - "O isimde oyuncu yok!"
+    NodeShutsDown:
+      - "Bir hata oluştu, bu ağ kapandı :/"
+    NoNodes:
+      - "Şu an herhangi bir çevrimiçi ağ yok; birkaç saniye sonra yine dene."
+  BonusPoints:
+    DieAsAFK_Penalty:
+      - ""

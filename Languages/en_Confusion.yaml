@@ -1,0 +1,1670 @@
+language:
+  base: '🇬🇧 English'
+  variant: Confusion
+strings:
+  GameStartMessages:
+    StartNormal:
+      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+      - "A new game has been started by {0}! Use /join to be eaten!"
+    StartChaos:
+      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+      - "A new game has been started by {0}! Use /join to be eaten!"
+    StartRanked:
+      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+    StartLove:
+      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+    StartCustom:
+      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+  Villager:
+    Villager:
+      - "Villager \U0001F471"
+    RoleInfoVillager:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Drunk:
+    Drunk:
+      - "Drunk \U0001F37B"
+    RoleInfoDrunk:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Harlot:
+    Harlot:
+      - "Harlot \U0001F48B"
+    RoleInfoHarlot:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskVisit:
+      - "Whose house do you want to dig a tunnel into?"
+    HarlotFuckWolf:
+      - "You slip into {0}'s house for a little fun, only to be confronted by a wolf. You are dead."
+    HarlotFuckedWolfPublic:
+      - "{0} slipped into the wrong house last night! {0}'s slutty remains are found pinned to the church doors with an iron rod... how sad :("
+    HarlotFuckedVictimPublic:
+      - "{0} slips into {1}'s house, ready to have a little fun to ease off the stress. Instead, {0} finds a werewolf eating {1}! The werewolf quickly turns on {0} and jumps... {0} is dead."
+    HarlotVisitNonWolf:
+      - "You see {0} is not a wolf, as you got fucked good and hard all night long!"
+    HarlotVisitYou:
+      - "A guardian angel was watching over you last night and fought off an attacker!"
+    HarlotDiscoverCult:
+      - "You slipped into {0}'s house for a bit of fun... but as you are leaving, you happen to notice a strange altar, poorly hidden off in a side room, with a strange glowing coming from it..."
+    HarlotFuckKiller:
+      - "You slip into {0}'s house, and start having a little fun. All seems great until {0} pulls out a knife and starts stabbing you, laughing like a maniac! You have died...."
+    HarlotVisitNotHome:
+      - "You went to guard {0}, but they weren't home!"
+  Seer:
+    Seer:
+      - "Seer \U0001F473"
+    RoleInfoSeer:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskSee:
+      - "Whose house do you want to dig a tunnel into?"
+    SeerSees:
+      - "Your snooping has shown you that {0} is {1}."
+  Traitor:
+    Traitor:
+      - "Traitor \U0001F595"
+    RoleInfoTraitor:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    TraitorTurnWolf:
+      - "You have been killed by the wolves. As you were cursed, you have now become a wolf!"
+  GuardianAngel:
+    GuardianAngel:
+      - "Guardian Angel \U0001F47C"
+    RoleInfoGuardianAngel:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskGuard:
+      - "Whose house do you want to dig a tunnel into?"
+    GuardWolf:
+      - "You tried to guard a wolf! The wolf has eaten you."
+    GuardSaved:
+      - "You have saved {0}'s life!"
+    GuardNoAttack:
+      - "{0} was not attacked, so you didn't do much of anything."
+    GuardEmptyHouse:
+      - "You went to guard {0}, but they weren't home!"
+    GuardSavedYou:
+      - "A guardian angel was watching over you last night and fought off an attacker!"
+    GAGuardedKiller:
+      - "{0} tried to guard a wolf last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the wolves had an extra meal god-sent, free-of-charge, to their homes."
+    GAGuardedWolf:
+      - "{0} tried to guard a wolf last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the wolves had an extra meal god-sent, free-of-charge, to their homes."
+    GuardSavedYouFromFire:
+      - "A fire broke out in your house, but luckily the guardian angel was there and extinguished it right away! They'd make a good firefighter, if they weren't so busy protecting people..."
+    GuardSavedFromFire:
+      - "You didn't quite expect a fire to break out when you went to visited {0}, but you saved them nevertheless! Ain't nobody gonna call you a bad protector..."
+    CleanDoused:
+      - "You didn't have to fight off any enemies at {0}'s house tonight, so you had time to look around a bit and noticed that the house was doused in kerosene! Since you got nothing better to do, you cleaned the house for them..."
+    GuardBlockedWolf:
+      - "The pack heads to {0}'s house to eat them, but they are met by a tall dark figure, armed to the teeth. The Guardian Angel fights everyone off, and you head back defeated."
+    GuardKiller:
+      - "You tried to guard the serial killer, but they came out and stabbed you 89 times! You are dead...."
+    GuardBlockedKiller:
+      - "The pack heads to {0}'s house to eat them, but they are met by a tall dark figure, armed to the teeth. The Guardian Angel fights everyone off, and you head back defeated."
+    GuardBlockedSnowWolf:
+      - "The pack heads to {0}'s house to eat them, but they are met by a tall dark figure, armed to the teeth. The Guardian Angel fights everyone off, and you head back defeated."
+  Detective:
+    Detective:
+      - "Detective \U0001F575️"
+    RoleInfoDetective:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskDetect:
+      - "Whose house do you want to dig a tunnel into?"
+    DetectiveCaught:
+      - "You caught {0} snooping about! That must be the detective!"
+    DetectiveSnoop:
+      - "Your snooping has shown you that {0} is {1}."
+  Wolf:
+    Wolf:
+      - "Wolf \U0001F43A"
+    RoleInfoWolf:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskEat:
+      - "Whose house do you want to dig a tunnel into?"
+    WolfVotedKill:
+      - "{0} has voted to eat {1}."
+    WolvesEatDrunk:
+      - "Oh no! {0} was a drunk! Now you are drunk, and can't attack tomorrow night..."
+    WolvesEatDrunkBlockSecondKill:
+      - "Oh no! {0} was a drunk! Now you are drunk, and can't attack {1}..."
+    AllWolfDead:
+      - "There are no more living wolves left, and you lost your powers turning into a normal werewolf."
+    WolvesEatYou:
+      - "Oh no! The wolves eated you. NOMNOMNOMNOM"
+    WolfPackList:
+      - "The wolf pack consists of:"
+    DiscussWith:
+      - "Make sure you discuss with {0}"
+  Cursed:
+    Cursed:
+      - "Cursed \U0001F63E"
+    RoleInfoCursed:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    CursedBitten:
+      - "You have been killed by the wolves. As you were cursed, you have now become a wolf!"
+    CursedBittenToWolves:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+  Gunner:
+    Gunner:
+      - "Gunner \U0001F52B"
+    RoleInfoGunner:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskShoot:
+      - "Who do you want to shoot? {0} bullet(s) remain."
+    HarlotShot:
+      - "Looks like {0} came back positive after a night with the Harlot! The gunner got revenge. {1} is dead."
+    DefaultShot:
+      - "Suddenly, a shot rings out. The village turns to see {0} standing over {1}'s body, a gun still aimed at the head. {2}"
+    GunnerShotWiseElder:
+      - "The Gunner \U0001F52B, {0} shot the Wise Elder \U0001F4DA, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a simple Villager\U0001F471 with a field to plow."
+  Tanner:
+    Tanner:
+      - "Tanner \U0001F47A"
+    RoleInfoTanner:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Fool:
+    Fool:
+      - "Fool \U0001F0CF"
+    RoleInfoFool:
+      - "The fool is told they are the seer.... when they choose to see someone's role at night, they are told a random role."
+  WildChild:
+    WildChild:
+      - "Wild Child \U0001F476"
+    RoleInfoWildChild:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    WildChildToWolves:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+    WildChildTransform:
+      - "{0} has died! In your rage, you have become a werewolf!"
+  Beholder:
+    Beholder:
+      - "Beholder \U0001F441"
+    RoleInfoBeholder:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    BeholderSeer:
+      - "\nThe seer \U0001F473 is {0}."
+    BeholderNewSeer:
+      - "{0} was an apprentice, and has now stepped up to fill {1}'s place as the new Seer \U0001F473."
+    NoSeer:
+      - "No seer!"
+    BeholderSeerStolen:
+      - "The thief has stolen the seer's role! {0} is now the seer, and {1} does no longer have seeing abilities!"
+  ApprenticeSeer:
+    ApprenticeSeer:
+      - "Apprentice Seer \U0001F647"
+    RoleInfoApprenticeSeer:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    ApprenticeNowSeer:
+      - "{0} was the seer. As the apprentice, you step up to become the new seer \U0001F473."
+  Cultist:
+    Cultist:
+      - "Cultist \U0001F464"
+    RoleInfoCultist:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    CultistVotedConvert:
+      - "{0} has voted to eat {1}."
+    AskConvert:
+      - "Whose house do you want to dig a tunnel into?"
+    CultConvertCultHunter:
+    - "{0} was sent to do your dirty work, and convert {1}... however, they were the cult hunter! {0} is dead!"
+    CultJoin:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+    CultistsList:
+      - "The cult members are currently:"
+    CultConvertWolf:
+      - "{0} was sent to do your dirty work, and convert {1}... however, they were the cult hunter! {0} is dead!"
+    CultistBitten:
+      - "Strange... The second you start discussing on whom to convert tonight, you realize that {0} isn't here! What has happened to them??"
+    CultConvertHunter:
+      - "{0} was sent to do your dirty work, and convert {1}... however, they were the cult hunter! {0} is dead!"
+    CultConvertSerialKiller:
+      - "{0} was sent to do your dirty work, and convert {1}... however, they were the cult hunter! {0} is dead!"
+      - "The cult sends {0} to try to convert {1}, but instead {0}'s Head comes flying out of the Window... Wonder why they thought it was inedible! {0} is dead..."
+    CHHuntedYou:
+      - "The Cultist Hunter \U0001F482‍♀️ visited you while you were praying at your altar. You were greeted with a sword, now you are dead."
+    HunterKilledCultist:
+      - "A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!"
+    CultConvertWolfPublic:
+      - "While it seemed that the wolves decided to stay good for once, punishing {0}, a cultist that decided to court trouble with the wolves, proved too difficult to resist. {0}'s head was converted to a fine supper, delivered to the wolves' doorsteps!"
+      - "The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a wolf on the night the wolves decided to stay home, and the wolf found {0} quite delicious. Unfortunately for {0}, wolves have no interest in joining the new religious movement."
+    CultConvertKillerPublic:
+      - "The cult thought they would have a new member in their ranks, but they were wrong! {0}, a cultist, was minced to pieces and placed at the town square in the morning! Strangely their 'holy' book was found stabbed with a knife, as if a statement to show whose religion was triumphant."
+      - "Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs."
+    HunterKilledVisiter:
+      - "In the middle of the town square, everyone finds the body of {0}, multiple shots to the body. Looks like they tried to sneak up on the Hunter! Well, {1}."
+    CultVisitEmpty:
+      - "{0} went to guard {1}, but they weren't home!"
+    CultConvertYou:
+      - "You have been killed by the wolves. As you were cursed, you have now become a wolf!"
+    CultUnableToConvert:
+      - "You send {0} to try to convert {1}, however their belief was too strong, and you were unable to convert them :("
+    CultTargetDead:
+      - "Your newest member heads over to {0}'s house to convert them, but instead finds the house a complete wreck, blood everywhere, and bits of wolf fur snagged on the doorway..."
+    CultAttempt:
+      - "A guardian angel was watching over you last night and fought off an attacker!"
+  CultistHunter:
+    CultistHunter:
+      - "Cultist Hunter \U0001F482"
+    RoleInfoCultistHunter:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskHunt:
+      - "Whose house do you want to dig a tunnel into?"
+    CultHunterKilledCultVisit:
+      - "{0} came to your house last night, ready to convert you.... but you shoved your sword right through them. A cultist is dead... {1} remain!"
+    HunterVisitDead:
+      - "Your newest member heads over to {0}'s house to convert them, but instead finds the house a complete wreck, blood everywhere, and bits of wolf fur snagged on the doorway..."
+    HunterFailedToFind:
+      - "You have successfully dug a tunnel in {0}'s house. Now players with night action will miss their targets and land in a different house!"
+    HunterFindCultist:
+      - "You go into {0}'s house and find them praying before an altar to some unknown god. You quickly run your sword right through the evil cultist."
+    SerialKillerKilledCH:
+      - "The villagers wake up in the morning, only to find the severed body parts of {0}, the Cultist Hunter, in a cart placed in full view outside the town hall. Lesson learnt: don't visit the serial killer!"
+  Mason:
+    Mason:
+      - "Mason \U0001F477"
+    RoleInfoMason:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    MasonTeam:
+      - "The masons are: {0}"
+    MasonConverted:
+      - "Odd.... {0} didn't show up for the masons meeting this morning... O.o"
+  Doppelganger:
+    Doppelganger:
+      - "Doppelgänger \U0001F3AD"
+    RoleInfoDoppelganger:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskRoleModel:
+      - "Whose house do you want to dig a tunnel into?"
+    AskDoppelganger:
+      - "Whose house do you want to dig a tunnel into?"
+    RoleModelChosen:
+      - "You failed to make a choice, so the moderator has chosen for you: {0}"
+    DGTransformToMason:
+      - "{0} has died, and you transform into a mason. Your teammates (if any) are: {1}"
+    DGTransformToCult:
+      - "{0} has died, and you transform into a mason. Your teammates (if any) are: {1}"
+    DGToMason:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+    DGToCult:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+    DGToWolf:
+      - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
+  Cupid:
+    Cupid:
+      - "Cupid \U0001F3F9"
+    RoleInfoCupid:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskCupid1:
+      - "Whose house do you want to dig a tunnel into?"
+    AskCupid2:
+      - "Whose house do you want to dig a tunnel into?"
+    CupidChosen:
+      - "You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If one of you wins, the other one wins too."
+      - "Cupid's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win."
+  Hunter:
+    Hunter:
+      - "Hunter \U0001F3AF"
+    RoleInfoHunter:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    HunterLynchedChoice:
+      - "The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!"
+    HunterNoChoiceLynched:
+      - "{0} fumbles for their pistol as the noose tightens, but cannot get it in time, and falls to their death with a loud snap of their neck..."
+    HunterSkipChoiceLynched:
+      - "{0} whips out their pistol and looks at the crowd... and cannot make a decision on who to shoot. They fall to their death, accepting their fate..."
+    HunterKilledFinalLynched:
+      - "As the noose tightens, {0} whips out a pistol, takes aim, and shoots {1} as the floor drops out! {1} falls over, dead. {2}"
+    HunterShotChoice:
+      - "The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!"
+    HunterNoChoiceShot:
+      - "The blow to {0} was too much, so much that they couldn't even reach for their sidearm, as they lay in a pool of blood..."
+    HunterSkipChoiceShot:
+      - "As {0} lays there, gasping for their final breaths, they can't decide who to shoot... and accept their fate."
+    HunterKilledFinalShot:
+      - "Dying, {0} falls to the ground.... but not without grasping their pistol, and firing upon {1}, who takes a bullet right between the eyes. {2}"
+    HunterShotWolfMulti:
+      - "The wolves tried to attack the hunter last night, but the hunter was able to take one down with them as they died! {0} has died."
+    HunterShotWolf:
+      - "The wolf tried to attack the hunter last night, but the hunter was able to take the wolf \U0001F43A {0} down with their rifle!"
+    HunterKilledWiseElder:
+      - "The Hunter \U0001F3AF, {0} shot the Wise Elder \U0001F4DA, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Hunter abilities. They died a simple Villager \U0001F471."
+  SerialKiller:
+    SerialKiller:
+      - "Serial Killer \U0001F52A"
+    RoleInfoSerialKiller:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskKill:
+      - "Whose house do you want to dig a tunnel into?"
+    KillerRandomKill:
+      - "You were on your way to {0}'s house, but suddenly, you slipped and fell into a tunnel dug by miner. While you try to realize what happened, you see you've appeared at {1}'s house."
+    KillerStumbled:
+      - "You cut the liver out of {0}'s body, but on your way back you leaned too far over an unfinished grave and stumbled into it. Maybe you shouldn't have looked for the liver of the corpse... Now your leg really hurts."
+    SerialKillerKilledYou:
+      - "Knock knock, you've been visited by the resident serial killer!"
+      - "The Serial Killer ambushed you, tied you up, and then stabbed you in the heart!"
+    SerialKillerKilledWolf:
+      - "The wolves attempted to have a nice late night snack, but were instead greeted by a crazed murderer! {0} was killed in the fight!"
+  Sorcerer:
+    Sorcerer:
+      - "Sorcerer \U0001F52E"
+    RoleInfoSorcerer:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  AlphaWolf:
+    AlphaWolf:
+      - "Alpha Wolf ⚡️"  
+    RoleInfoAlphaWolf:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    BittenTurned:
+      - "You have been killed by the wolves. As you were cursed, you have now become a wolf!"
+    PlayerBitten:
+      - "You were attacked by the wolves, but the Alpha Wolf chose you. Instead of being killed, you have been infected... and will become a wolf tomorrow night!"
+    PlayerBittenWolves:
+      - "As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf. {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection. They will become a werewolf tomorrow night."
+  WolfCub:
+    WolfCub:
+      - "Wolf Cub \U0001F436"
+    RoleInfoWolfCub:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Blacksmith:
+    Blacksmith:
+      - "Blacksmith ⚒"
+    RoleInfoBlacksmith:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    SpreadDust:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    BlacksmithSpreadSilver:
+      - "As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight.)"
+  ClumsyGuy:
+    ClumsyGuy:
+      - "Clumsy Guy \U0001F915"
+    RoleInfoClumsyGuy:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Mayor:
+    Mayor:
+      - "Mayor \U0001F396"
+    RoleInfoMayor:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskMayor:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    MayorReveal:
+      - "{0} steps forward and presents the official seal of the Mayor, declaring themselves as such. From now on, {0}'s votes for lynching will count twice."
+    Reveal:
+      - "Skip"
+  Prince:
+    Prince:
+      - "Prince \U0001F451"
+    RoleInfoPrince:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    PrinceLynched:
+      - "As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night."
+  Lycan:
+    Lycan:
+      - "Lycan \U0001F43A\U0001F31D" 
+    RoleInfoLycan:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Pacifist:
+    Pacifist:
+      - "Pacifist ☮️"
+    RoleInfoPacifist:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskPacifist:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    PacifistNoLynch:
+      - "The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!"
+    PacifistNoLynchNow:
+      - "As everyone heads home, they barely make it to their beds from exhaustion. They all fall asleep so strongly, they don't even remember going to sleep..."
+    LynchPeaceTimeout:
+      - Today's Lynching got skipped because of the Pacifist's heartfelt speech!.
+    Peace:
+      - "Skip"
+  WiseElder:
+    WiseElder:
+      - "Wise Elder \U0001F4DA"
+    RoleInfoWiseElder:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    WolvesTriedToEatWiseElder:
+      - "You tried to intrude {0}'s home but unfortunately they were the Wise Elder \U0001F4DA! {0} successfully thwart the attack, luckily they did not recognize any of you."
+    WolvesAteWiseElderPM:
+      - "A guardian angel was watching over you last night and fought off an attacker!"
+  Oracle:
+    Oracle:
+      - "Oracle \U0001F300" 
+    RoleInfoOracle:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    NegSeerSees:
+      - "You see that {0} is NOT {1}!"
+  Sandman:
+    Sandman:
+      - "Sandman \U0001F4A4" 
+    RoleInfoSandman:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskSandman:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    SandmanSleepAll:
+      - "As the town talks, {0} goes back to their house and begins humming a soft melody. Tonight, everyone will sleep very deeply, and no one will be able to use their night actions"
+    SandmanNight:
+      - "As everyone heads home, they barely make it to their beds from exhaustion. They all fall asleep so strongly, they don't even remember going to sleep..."
+  WolfMan:
+    WolfMan:
+      - "WolfMan \U0001F471\U0001F31A"
+    RoleInfoWolfMan:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+  Thief:
+    Thief:
+      - "Thief \U0001F608" 
+    RoleInfoThief:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    RoleInfoThiefFull:
+      - "You are the Thief \U0001F608! Since the [Full Thief] mode is turned on, you get 50% chance to steal a player's role every night, if successful, that player will become the new thief and continues with the theft!"
+    AskThief:
+      - "Whose house do you want to dig a tunnel into?"
+    ThiefStealFailed:
+      - "You went to try to convert {0}, however their belief was too strong, and you were unable to convert them :("
+    ThiefStealDead:
+      - "Your newest member heads over to {0}'s house to convert them, but instead finds the house a complete wreck, blood everywhere, and bits of wolf fur snagged on the doorway..."
+    ThiefStoleRole:
+      - "You successfully stole {0}'s role!"
+    ThiefToMason:
+      - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
+    ThiefToCult:
+      - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
+    ThiefToWolf:
+      - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
+    ThiefStealChosen:
+      - "Your theft target is now {0}."
+    ThiefStoleYourRoleThief:
+      - "Your role got stolen! You are now the new thief \U0001F608 and can steal a role the next night!"
+    ThiefStoleYourRoleVillager:
+      - "Your role got stolen! You are now a villager \U0001F471, plowing your fields all day."
+    StealKiller:
+      - "You tried to steal a role... but your target was the serial killer! They saw you around their house, and not a minute later, you were stabbed..."
+    ThiefStoleKiller:
+      - "The Thief, {0}, tried to steal the role from the serial killer! This didn't work out so well: {0} got stabbed multiple times and now their liver is missing..."
+    NewDGRoleModel:
+      - "You have become the doppelgänger. You will take over {0}'s role after their death."
+    NewWCRoleModel:
+      - "You have become the wild child. You role model is {0}."
+  Troublemaker:
+    Troublemaker:
+      - "Troublemaker \U0001F92F"
+    RoleInfoTroublemaker:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskTroublemaker:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    TroublemakerDoubleLynch:
+      - "{0}, the troublemaker \U0001F92F is making trouble! Run around and scream for satisfaction! You will lynch twice today!"
+    TroubleDoubleLynchNow:
+      - "As everyone heads home, they barely make it to their beds from exhaustion. They all fall asleep so strongly, they don't even remember going to sleep..."
+  Chemist:
+    Chemist:
+      - "Chemist \U0001F9EA"
+    RoleInfoChemist:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskChemist:
+      - "Who do you want to give the potion to? You have {0} potions left."
+    AskChemistPill:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    ChemistFail:
+      - "Chemist {0} compelled you to select a potion. You picked the right one, and now you're safe... atleast for now!"
+    ChemistDeadYou:
+      - "Chemist {0} compelled you to select a potion. You chose the poisonous one and now you're dead... Nobody else to blame but your stinky hands :P"
+    ChemistSuccessPublic:
+      - "The merciless chemist {0} forced {1} to select a potion. {1} picked the poisoned one and died. Looks like they weren't cut out for gambling after all :P"
+    ChemistFailPublic:
+      - "The merciless chemist {0} forced {1} to select a potion last night. However, {1} was self-assured in his skills and picked the most effective potion and survived. pew... LUCKY!"
+    ChemistBrewing:
+      - "While everyone else is getting ready for the day, you're still in the lab making potions. You can give one person their potions for the next day."
+    ChemistExtraPill:
+      - "You have successfully killed a bad role. As a reward, you recieved extra 2 potions."
+  SnowWolf:
+    SnowWolf:
+      - "Snow Wolf \U0001F43A☃️"
+    RoleInfoSnowWolf:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskFreeze:
+      - "Whose house do you want to dig a tunnel into?"
+    SuccessfulFreeze:
+      - "You went to {0}'s house and froze them! Tonight, they won't be able to use their night actions (if any)."
+    HarlotFrozen:
+      - "As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks \U0001F43A☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now."
+    CultistFrozen:
+      - "As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks \U0001F43A☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now."
+    CHFrozen:
+      - "As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks \U0001F43A☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now."
+    SeeingFrozen:
+      - "As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks \U0001F43A☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now."
+    GAFrozen:
+      - "As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks \U0001F43A☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now."
+    SKFrozen:
+      - "As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you \U0001F43A☃️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver."
+    ThiefFrozen:
+      - "As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you \U0001F43A☃️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver."
+    DefaultFrozen:
+      - "As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you \U0001F43A☃️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver."
+  Augur:
+    Augur:
+      - "Augur \U0001F985"
+    RoleInfoAugur:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AugurSees:
+      - "As you look into the skies, you see the birds form a very unusual pattern. That can only mean that {0} is not in the village."
+      - "The birds tell you that {0} is not part of the village right now."
+    AugurSeesNothing:
+      - "There are absolutely no birds in the skies today. That probably means you have seen all the roles that are not in the village already..."
+  Arsonist:
+    Arsonist:
+      - "Arsonist \U0001F525"
+    RoleInfoArsonist:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskArsonist:
+      - "Whose house do you want to dig a tunnel into?"
+    AskArsonistNoDoused:
+      - "Whose house do you want to dig a tunnel into?"
+    AlreadyDousedList:
+      - "\nYou have already doused the house of: {0}"
+    ExtraDouse:
+      - "The werewolf dropped the village guard and you got the opportunity to repel someone else."
+    Doused:
+      - "You successfully doused {0}'s house with kerosene!"
+    Burning:
+      - "The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but you're too late to save the people whose houses were mysteriously doused in kerosene. Today you mourn the deaths of the following people:\n{0}"
+    Burn:
+      - "You should have kept a fire extinguisher! Now your house burnt down and you died inside..."
+    WolvesVisitBurn:
+      - "The pack storms into {0}'s house, when suddenly you notice smoke. You try to escape, but it's too late for {1}, who dies in the flames."
+    DefaultVisitBurn:
+      - "{0} should have stayed home tonight... They visited a burning house and died in the flames! {1}"
+    WolfVisitBurn:
+      - "The wolves tried to eat someone tonight again, but the arsonist was quicker! {0} couldn't escape from the burning house in time... {1}"
+    ArsonistWinsOverpower:
+      - "Only {0} and {1} are left... Suddenly {0} smiles, pulls out a match, lights it and throws it to the feet of {1}, who goes up in flames!"
+    ArsonistVisitKiller:
+      - "The arsonist {0} tried to douse the house of the serial killer... They didn't quite survive that."
+    Spark:
+    - "Reveal"
+  Boss:
+    Boss:
+      - "Boss \U0001F3A9"
+    RoleInfoBoss:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    CultCount:
+      - "\U0001F464 You see that the Cult has {0} people."
+  Shadow:
+    Shadow:
+      - "Shadow Wolf \U0001F43A\U0001F31A"
+    RoleInfoShadow:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskShadow:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    ShadowPower:
+      - "You have successfully used your abilities. When the lynching phase begins, the villagers will not be able to see who they are lynching, and all lynchings will be seen as '?'. Werewolves will continue to see who they lynch.."
+  Skeleton:
+    Skeleton:
+      - ""
+    RoleInfoSkeleton:
+      - ""
+    ButtonAppears:
+      - ""
+    AskSkeleton:
+      - ""
+    ChoiceConfirmation:
+      - ""
+    BlockedNotice:
+      - ""
+    HauntButton:
+      - ""
+  Doctor:
+    Doctor:
+      - "Doctor \U0001F9D1‍⚕️"
+    RoleInfoDoctor:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskDoctor:
+      - "Whose house do you want to dig a tunnel into?"
+    DoctorRevive:
+      - "Doctor {0}'s efforts resulted in the player {1}, who was killed last night, returning back to the game. Now it's time to take revenge."
+    DoctorYouRevive:
+      - "The Doctor revived you. Now go back to the village!"
+  Preacher:
+    Preacher:
+      - "Preacher \U0001F6D0"
+    RoleInfoPreacher:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskPreacher:
+      - "Whose house do you want to dig a tunnel into?"
+    PreacherDone:
+      - "The {0} you prayed for during the night has been killed. The role of {1}, who killed him, is {2}."
+    PreacherFailed:
+      - "The player {0}, you prayed for last night has survived and is alive. You didn't learn anyone's role today. You can continue praying the next night"
+    OhNoPreacher:
+      - "Oh no... You killed the player on whom the preacher prayed at night. Preacher {0} now knows who you are and your role!"
+  GraveDigger:
+    GraveDigger:
+      - "Grave Digger ☠️"
+    RoleInfoGraveDigger:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskGraveDigger:
+      - "Whose house do you want to dig a tunnel into?"
+    DigNoGraves:
+      - "The dead are buried, and the living are not. Everything is as it should be, and you can get a good night's sleep."
+    DigGraves:
+      - "Until late into the night, you dig the grave(s) for {0}. May their souls come to rest and their bodies lie in peace."
+    DefaultFellDigger:
+      - "After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice there is dried blood on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. How foolish of {1} visiting you..."
+    DefaultVisitDigger:
+      - "You head towards {0}'s house, just to find that they are not home. All you can see is a candle shining lonely on a grave..."
+    WolfFellWolves:
+      - "The pack heads to the house of {0}, but on the way there, {1} suddenly steps into a bear trap, falls into an open grave and gets impaled by a silver spear!"
+    WolvesSpotted:
+      - "The packs runs across the graveyard, as they suddenly notice {0}, the grave digger. Before they can react, one of you jumps on their back and kills them with one bite."
+    WolvesSpottedYou:
+      - "You're just trying to do your job, when suddenly a wolf jumps onto you from behind and kills you!"
+    SerialKillerSpotted:
+      - "As you walk past the graveyard with your bloody knife, you notice {0}, the grave digger. Following your instinct, you decide there will be two victims for you today..."
+    SerialKillerSpottedYou:
+      - "You're just trying to do your job, when suddenly a crazy killer spots and stabs you! What a pity..."
+    CultConvertGraveDigger:
+      - "On your way to {1}'s house, {0} suddenly decides that it would be a good idea to burn down the church as well. They lead you through the graveyard when suddenly a bear trap snaps around their ankle! All you can hear is their scream before they fall into a grave and you run for your lives."
+    DefaultFell:
+      - "You should watch your step when you go to visit someone's house next time... You stepped into a bear trap, fell into an open grave, and got a silver spear right through your heart! What were you thinking coming to visit {0} like that? Serves you right, you little fool!"
+  Conjurer:
+    Conjurer:
+      - "Conjurer Wolf \U0001F43A✨"
+    RoleInfoConjurer:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskConjurer:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    ConjurerChoice:
+      - "Villages Attention! The conjurer wolf used his skills today. Instead of the one with the most votes, THE PLAYER WITH THE LEAST VOTES WILL DIE!"
+  Miner:
+    Miner:
+      - "Miner ⛏"
+    RoleInfoMiner:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskMiner:
+      - "Whose house do you want to dig a tunnel into?"
+    MinerDone:
+      - "You have successfully dug a tunnel in {0}'s house. Now players with night action will miss their targets and land in a different house!"
+    MinerChanged:
+      - "You were on your way to {0}'s house, but suddenly, you slipped and fell into a tunnel dug by miner. While you try to realize what happened, you see you've appeared at {1}'s house."
+  Pawn:
+    Pawn:
+      - "Pawn ♟"
+    RoleInfoPawn:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated." 
+    AskPawn:
+      - "Whose house do you want to dig a tunnel into?"
+    PawnSaved:
+      - "You chose {0} to protect and your target was attacked. As an honorable soldier, you sacrificed yourself and died for your target's survival."
+    PawnSavedYou:
+      - "Last night, Pawn {0} chose to protect you and sacrificed themselves in the battle."
+    PawnNoAttack:
+      - "{0} was not attacked, so you didn't do much of anything."
+    PawnWolf:
+      - "You chose to protect {0}, but he was a wolf and now you are dead."
+    PawnKiller:
+      - "You chose to protect {0}, but he was the Serial Killer and now you are dead."
+    PawnEmptyHouse:
+      - "You chose to protect {0}, but he wasn't home."
+    PawnKilledCH:
+      - "Last night pawn {0} made a huge sacrifice, but guess he wanted to protect a cultist from dying :( Cultist Hunter killed him instead."
+    PawnGuardedKiller:
+      - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the serial killer, and the serial killer stabbed him 80 times."
+    PawnGuardedWolf:
+      - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the wolf, and pawn is now dead"
+    PawnBlockedWolf:
+      - "Last night you chose to attack {0} for a snack. But pawn was there and he chose to sacrifice himself instead."
+    PawnBlockedKiller:
+      - "Last night you chose to attack {0} for a snack. But pawn was there and he chose to sacrifice himself instead."
+    PawnBlockedCH:
+      - "Last night you chose to attack {0} for a snack. But pawn was there and he chose to sacrifice himself instead."
+  Soldier:
+    Soldier:
+      - "Soldier \U0001FA96"
+    RoleInfoSoldier:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskSoldier:
+      - "Whose house do you want to dig a tunnel into?"
+    AskSoldier2:
+      - "Whose house do you want to dig a tunnel into?"
+    SoldierChoice:
+      - "You chose {0} to save, and if he dies during the lynching phase, you can choose someone else."
+    SoldierDone:
+      - "The villagers successfully cast their votes in the lynching phase. {0} was selected to be lynched. However, there was a soldier watching over {0} and he chose to direct the entire votes towards {1}. {2}"
+  Rogue:
+    Rogue:
+      - "Rogue Wolf \U0001F43A\U0001F9E7"
+    RoleInfoRogue:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskRogue:
+      - "Whose house do you want to dig a tunnel into?"
+    AskRogue2:
+      - "Do you want to use your ability?"
+    RogueSuccess:
+      - "You have chosen to imitate {0}. The role you are imitating is {1}!"
+  Executioner:
+    Executioner:
+      - ""
+    RoleInfoExecutioner:
+      - ""
+    AskExecutioner:
+      - ""
+    AskExecutionerLynch:
+      - ""
+    ExecutionerLynch:
+      - ""
+  Slave:
+    Slave:
+      - "Slave \U0001F635‍\U0001F4AB"
+    RoleInfoSlave:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    SlaveLynched:
+      - "You successfully had {0} lynched. Your quest for justice in the village has ended, and you have achieved your goal. You fulfilled the task assigned to you and emerged victorious in this dark game."
+    SlaveTarget:
+      - "Your target: {0}. Complete this dark task by having your target lynched."
+  Poseidon:
+    Poseidon:
+      - "Poseidon \U0001F9DC"
+    RoleInfoPoseidon:
+      - "You are a lowly villager \U0001F471, doomed to spend your days plowing a field and get eated."
+    AskPoseidon:
+      - "Would you like to spread the silver today, disabling the wolves tonight?"
+    PoseidonRevealInfo:
+      - "Attention, villagers! An approaching tsunami will impact the entire village. Poseidon, the god of the sea who resides in the village, seems to have emerged from his majestic palace at the bottom of the sea. Get ready because when the tsunami arrives, it will randomly kill one person from the village."
+    PoseidonReveal:
+      - "Poseidon, the god of the seas, has emerged from his majestic palace, and a tsunami is sweeping through the village. The entire village attempts to escape the tsunami, but {0} fails. {0} drowns to death.\n{1}"
+  Snitch:
+    Snitch:
+      - ""
+    RoleInfoSnitch:
+      - ""   
+    SnitchLynchSuccess:
+      - ""
+    SnitchFinalSuccess:
+      - ""
+    AskSnitch:
+      - ""
+    SnitchNoChoice:
+      - ""
+  Illusionist:
+    Illusionist:
+      - ""
+    RoleInfoIllusionist:
+      - ""
+    AskIllusionist:
+      - ""
+    IllusionistNoChoice:
+      - ""
+    IllusionistKillTarget:
+      - ""
+    IllusionistFakeTarget:
+      - ""
+    IllusionistKillYou:
+      - ""
+  KilledMessages:
+    BlacksmithKilled:
+      - "Seems like {0}, the resident blacksmith, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe the serial killer was hoping to expand their weapon collection alongside their organ one..."
+    CultistKilled:
+      - "{0} was found stabbed to death with a candlestick by their altar. The serial killer has struck again, regardless of race, language or religion! {0} was a Cultist."
+    CupidKilled:
+      - "The next morning, the villagers were heartbroken to find {0} a.k.a. Cupid split from head to toe. Strangely the heart was missing..."
+    DrunkKilled:
+      - "The villagers had hoped to meet {0} to compliment their Martell, but all they found in {0}'s home was a broken knife and liver. All those years of drinking led to a liver so hard that even the Serial Killer probably does not fancy it..."
+    GuardianAngelKilled:
+      - "{0} would normally have managed to fight off the serial killer, but it was an irony that the Guardian Angel's halo has extinguished. {0} is dead."
+    GunnerKilled:
+      - "Looks like {0} was caught napping last night! A gunshot was heard last night, but all there was was the remains of a gunner, with a bullet hole to the head and a stab to the torso. Clearly the serial killer has won."
+    MayorKilled:
+      - "Assassination! {0} the mayor was found pinned with a knife on the table while working overnight at the mayor office! Clearly it's the serial killer exacting revenge for the asylum robbing them of years of their life!"
+    PrinceKilled:
+      - "Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose..."
+      - "{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade."
+    SeerKilled:
+      - "The villagers wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was the Seer."
+    PawnKilled:
+      - "This night was expected to be quiet, but the villagers discovered {0} in the town square, missing several organs. It seems the killer was displeased with the pawn's efforts to protect {1}! In a tragic turn of events, {0}, who tried to protect {1}, became the victim of the serial killer. {2}"
+    DefaultKilled:
+      - "It seemed a quiet enough night for {0}, but they were wrong. The villagers gather in the morning to find {0} split from head to toe, but oddly the liver was missing... The serial killer has struck again! {1}"
+  EatenMessages:
+    ApprenticeSeerEaten:
+      - "The villagers awake to find {0} hunched over a second-hand Ouija board while practising fortune-telling, with head missing. The Apprentice Seer is dead."
+    SorcererEaten:
+      - "The sound of mournful howls can be heard across the village. A mistake has been made. The wolves have killed one of their own. The Sorcerer {0} is dead."
+      - "Cries of 'I'm your ally!' were heard last night. All the villagers found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship..."
+    WildChildEaten:
+      - "NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The village wondered if the wolves felt any guilt tearing apart the defenceless child."
+    PawnEaten:
+      - "Last Night, {0} made the ultimate sacrifice, willingly offering themselves to protect {1} in the ongoing battle against the werewolves. Their selfless act, a beacon of courage, leaves an indelible mark on the village. May the village find solace in the courage shown by {0}, the Pawn who became a legend in the village. {2}"
+    DetectiveEaten:
+      - "The villagers gather in the morning, but do not see {0}. They wander over to the house, to find {0} disemboweled, an old badge shoved down their throat."
+    GuardianEaten:
+      - "Morning comes, and to everyone's dismay, impaled on top of the church's cross is {0}, the Guardian Angel \U0001F47C."
+    GunnerEaten:
+      - "As everyone comes out of their houses, they find pieces of a shotgun strewn about... then legs... then fingers... then the body of {0}, floating in the fountain in the town square, dead from a werewolf attack. You have lost your gunner \U0001F52B."
+    SeerEaten:
+      - "The villagers awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The Seer \U0001F473 is dead."
+    DrunkEaten:
+      - "Everyone wakes to the smell of alcohol and blood... the pub is destroyed! After cleaning the blood out, the remains of {0} are found, torn apart."
+    FoolEaten:
+      - "As the sun rises above the village, the villagers find the corpse of {0} sitting over a Ouija board, but with a deck of... Bicycle playing cards? WHAT A FOOL!"
+    DefaultEaten:
+      - "As everyone rises in the morning, they smell a terrible stink. They follow the smell to find {0} shredded apart in the pig pen, head missing. NOMNOMNOMNOM\n{1}"
+    HarlotEaten:
+      - "The harlot chose the wrong night to stay home. {0} has been eaten by the wolves!"
+    MasonEaten:
+      - "As everyone rises, they find the body of {0} shoved into a pile of stone, blood splattered everywhere. One of your masons has died!"
+  WinMessages:
+    WolfWins:
+      - "The werewolf has won!"
+    WolvesWin:
+      - "The werewolves have won!"
+    VillageWins:
+      - "The villagers have won!"
+    TannerWins:
+      - "Oh no! You lynched the Tanner! The Tanner wins the game, silly."
+    CultWins:
+      - "All the wolves have died, and the only people left standing have all been converted to cultists.. The cult has won!"
+    SerialKillerWins:
+      - "The only person left standing is the serial killer! They have won!"
+    NoWinner:
+      - "Everyone in the village has died... there's nothing but bodies left. No one wins this round, except the vultures..."
+    ArsonistWins:
+      - "The only one left is the arsonist, standing on a pile of ashes. The arsonist wins..."
+    LoversWin:
+      - "True love endures! The lovers have won!"
+    SerialKillerWinsOverpower:
+      - "Morning comes, and the remaining two villagers walk out to the town square. {0} takes a look at {1}, gets a big grin on their face, pulls out a knife, and takes {1} out."
+  GroupConfig:
+    ThankYou:
+      - "Thank you, have a good day :)"
+    RoleConfig:
+      - Role Configuration
+    Mechanics:
+      - Game Mechanics
+    GroupSettings:
+      - Group Settings
+    Timers:
+      - Game Timers
+    WhatToDo:
+      - "What would you like to do?"
+    EnableSecretLynch:
+    - "Enable Secret Lynch"
+    EnableSecretLynchA:
+      - "Enabling of secret Lynch set to: {0}"
+    EnableSecretLynchQ:
+      - "Enable Secret Lynch?\nCurrent: {0}"
+    RandomMode:
+      - "Enable Random Mode"
+    RandomModeA:
+      - "Enabling of random mode set to: {0}"
+    RandomModeQ:
+      - "Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}"
+    AllowExtend:
+      - "Allow Extending Timer"
+    AllowExtendQ:
+      - "Allow players to extend join time?\nCurrent: {0} extending\nNote: Admins will always be able to extend"
+    AllowExtendA:
+      - "{0} players to extend join time"
+    AllowFlee:
+      - "Allow Fleeing"
+    AllowFleeQ:
+      - "Do you want to allow fleeing once the game has started?\nNote: players can still flee during join phase\nCurrent: {0} fleeing"
+    AllowFleeA:
+      - "{0} fleeing after game start"
+    ShowIDs:
+    - "Show IDs on joining"
+    ShowIDsQ:
+      - "Show IDs of players while they join the game?\nCurrent: {0}"
+    ShowIDsA:
+      - "{0} IDs"
+    ThiefFull:
+      - "Thief Full Game"
+    ThiefFullA:
+      - "Thief will play every night: {0}"
+    ThiefFullQ:
+      - "Thief can be used every night?\nCurrent: {0}"
+    SecretLynchShowVotes:
+      - "Secret: Votes Count"
+    SecretLynchShowVotesQ:
+      - "When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}"
+    SecretLynchShowVotesA:
+      - "When secret lynch is turned on, the vote count at the end of the lynch will: {0}"
+    SecretLynchShowVoters:
+      - "Secret: Voters"
+    SecretLynchShowVotersA:
+      - "When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}"
+    SecretLynchShowVotersQ:
+      - "When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}"
+    PinChatMessage:
+      - "Pin Game Messages"
+    PinChatMessageQ:
+      - "Automatically Pin Game Messages? Default: {0}"
+    PinChatMessageA:
+      - "Pinning Messages Set {0}."
+    ShowRolesDeath:
+      - Show Roles on Death
+    ShowRolesDeathQ:
+      - "Show or Hide roles on death?\n\nCurrent: {0}"
+    ShowRolesDeathA:
+      - "Roles will be {0} on death"
+    WelcomeMessage:
+      - "Welcome Messages"
+    WelcomeMessageQ:
+      - "Show welcome messages? Default: {0}"
+    WelcomeMessageA:
+      - "Welcome Messages Set {0}."
+    PMMessage:
+      - "Team Chat"
+    PMMessageQ:
+      - "Can teams message each other via PM? Default: {0}"
+    PMMessageA:
+      - "Team Chat Set {0}."
+    RoleCards:
+      - "Role Cards"
+    RoleCardsQ:
+      - "Show Role Cards? Default: {0}"
+    RoleCardsA:
+      - "Role Cards Set {0}."
+    MaxExtend:
+      - Set Max Extend Time
+    MaxExtendQ:
+      - "Choose maximum number of seconds which can be added to joining timer by a single /extend command.\r\nDefault setting: {0}\r\nCurrent:{1}"
+    MaxExtendA:
+      - "Maximum extending time set to {0} seconds"
+    DisableGModes:
+      - Disable Game Mode
+    DisableGModesInfo:
+      - "Which game modes would you like to enable in the group?"
+    MuteModes:
+      - Mute Settings
+    MuteModesInfo:
+      - "In which game mode do you want to disable muting dead players?"
+    Lang:
+      - "Change Language"
+    DayTimer:
+      - Set Day Timer
+    SetDayTimeA:
+      - "Base day time set to {0} seconds"
+    SetDayTimeQ:
+      - "Choose the base time (in seconds) for day time. This will still be modified based on number of players.\nDefault setting: {0}\nCurrent: {1}"
+    NightTimer:
+      - Set Night Timer
+    SetNightTimeQ:
+      - "Choose the time (in seconds) for night time. Default setting: {0}\nCurrent:{1}"
+    SetNightTimeA:
+      - "Night time set to {0} seconds"
+    LynchTimer:
+      - Set Lynch Timer
+    SetLynchTimeQ:
+      - "Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}"
+    SetLynchTimeA:
+      - "Lynch voting time set to {0} seconds"
+    MaxPlayer:
+      - "Set Max Players"
+    MaxPlayersQ:
+      - "How many players would like to set as the maximum?\nCurrent: {0}"
+    MaxPlayersA:
+      - "Max players set to {0}"
+    RoleConfigInfo:
+      - "Which roles would you like to use in the game?\nConfiguration Tutorial:\n\n✅ = Role enabled\n❌ = Role disabled\n\nAfter selecting the roles, you need to use the VALIDATE button in the bottom left corner to validate and enable your role selection! If you don't validate your selection, it will be ignored and all roles will be used!\n\nIf the validation succeeded, the bottom left button says ✅ Valid ✅ and your role configuration will be used!"
+    Validate:
+      - Validate
+    WhatLang:
+      - "What Language?\nCurrent: {0}"
+    WhatVariant:
+      - "What Variant?\nCurrent: {0}"
+    LangSet:
+      - "Language set to {0}"
+    Allow:
+    - "Allow"
+    Disallow:
+      - "Disallow"
+    Show:
+      - "Show"
+    Hide:
+      - "Hide"
+  SocialCommand:
+    MostPlayedWith:
+      - "\U0001F3AE Most played with"
+    Killed:
+      - "\U0001F52A Kills"
+    KilledBy:
+      - "☠️ Killed by"
+    DeathType:
+      - "\U0001F4CA Death type"
+    SocialStats:
+      - "What social statistical information do you want to see?"
+  SetLinkCommand:
+    SetLinkSuccess:
+      - "Link Successfully Set: {0}"
+    SetLinkFailed:
+      - "You must use the /setlink command with the group invite link."
+    SetLinkError:
+      - "This is an invalid telegram invite link."
+    SetLinkDelete:
+      - "Your group's link has been successfully deleted."
+  RepCommand:
+    RepCommandSuccess:
+      - "Bug successfully sent to developers. After review, necessary corrections will be made. Thank you."
+    ErrorRepCommand:
+      - "Please reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
+    EmptyReason:
+      - "Please write the description of the error, next to the command. Example usage: /rep error player cannot be lynched"
+  Ping:
+    PingInfo:
+      - "Time to receive ping message: {0}\nMessages per second: {1}"
+    Ping2:
+      - "Time to send ping message: {0}"
+  ModeInfo:
+    LoveInfo:
+      - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476, and \U0001F9D1‍⚕️ roles are disabled."
+    NormalInfo:
+      - "In Normal mode, there are no points, and all roles are visible. The game ensures a balanced distribution between baddies and villagers, creating a fair and even challenge for all players."
+    RankedInfo:
+      - "In Ranked mode, players are awarded points based on their performance and role effectiveness. The game ensures balanced role distribution for fair play. At the end of a game with 10 or more players, some participants receive mint rewards, which can be used to purchase roles or emojis. Use the /topscore command to check your global ranking."
+    ChaosInfo:
+      - "In Chaos mode, there is no balance, roles are assigned completely at random. This means that either the villains or the villagers could end up with significant power. Prepare for an unpredictable and chaotic game where anything can happen!"
+    CustomInfo:
+      - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics."
+    ModeInfo:
+      - "To learn more about the current game mode, click /modeinfo.\n\nGame Mode: {0}"
+    BonusModeActivated:
+      - "More players, more points! Join the game, and watch rewards get doubled. Boost your rank fast! \U0001F680"
+    RankedMode:
+      - Ranked (Confusion)
+    LoveMode:
+      - Love (Confusion)
+    CustomMode:
+      - Custom (Confusion)
+    NormalMode:
+      - Normal (Confusion)
+    ChaosMode:
+      - Chaos (Confusion)
+  RoleList:
+    HelpRoleList:
+      - "Here are the roles of Wolf Blood:\n\nWolf Blood has a total of {2} roles.\nThere are {0} classic roles and {1} wb special roles."
+    VG:
+      - Village Team 🧑‍🌾
+    Baddie:
+      - Wolf Team 🐺
+    Solo:
+      - Solo Team 👣
+    AboutVGTeam:
+      - "Team Village\n\nThe innocent townspeople who are working together to identify and eliminate the killers hiding among them. They must use their deductive reasoning and strategic thinking to figure out who the killers are before they become victims of their deadly attacks.\n\nRivals : Werewolves , Serial Killer, Arsonist, Cultists"
+    AboutBaddieTeam:
+      - "Team Werewolf\n\nA group of villagers who got attacked by a pack of feral wolves on a magical night under the full moon, but miraculously escaped death. They experienced a strange transformation in their bodies, and from that moment on, they turned into werewolves at night, hunting unsuspecting villagers while pretending to be innocent members of the community during the day.\n\nRivals : Serial Killer, Arsonist, Cultists"
+    AboutSoloTeam:
+      - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
+  Requirements:
+    MemberCount:
+      - ""
+    RestrictPermission:
+      - ""
+    GameCount:
+      - ""
+    GroupUnderReview:
+      - ""
+    GroupApprovedButNotReady:
+      - ""
+    GroupRejected:
+      - ""
+    GroupApprovedNotification:
+      - ""
+    RequestSent:
+      - ""    
+  EndMessages:
+    SKHunterEnd:
+      - "As the sun rises, {0} and {1} walk out into the village. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the village is empty, there is no winner..."
+    HunterKillsWolfEnd:
+      - "Knowing only {0} was left, {1} tries to eat {0} up, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious hunter for the village!"
+    WolfKillsHunterEnd:
+      - "Knowing only {0} was left, {1} chose a time where {0}'s guard was at their lowest. Eliminating the final villager proved to be effortless for {1}, for all there remains is a mutiliated body of {0}, the hunter, adorned with parallel slashes to the face."
+    CHKillsCultistEnd:
+      - "{1} and {0} walk out in daylight. Seeing a shimmering cross worn around {0}'s neck, the righteous {1} draws their sword for the final time, putting an end to the twisted learnings of the cult that have contaminated the village."
+    TannerEnd:
+      - "As the sun starts to shine on the village, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the village, {0} sighs. Their lifelong dream of being chosen to be lynched by the villagers is as dead as the villagers are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face."
+      - "{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left."
+    SorcererEnd:
+      - "{0} opens their eyes, but instead of hearing the usual bustle of the village, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the village. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village."
+      - "For all of {0}'s efforts, {0}'s wolf friends lay motionless and lifeless. Even if the wolves have been brought victory, there is no one to savour the success with, neither are there any living villagers to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new wolves, new allies, and new treachery to commit new crimes against humanity."
+    DoppelgangerEnd:
+      - "Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!"
+    ThiefEnd:
+      - "As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career."
+  RankedTable:
+    RoleTable: 
+      - ""
+    PointTable:
+      - ""
+    PenaltyTable:
+      - ""
+    BonusModeTable:
+      - ""
+    TotalTable:
+      - ""
+    ResultTable: 
+      - ""
+    WonGame:
+      - ""
+    LostGame:
+      - ""
+    Loots:
+      - "Loots!"
+  Stats:
+    AchievementsUnlocked:
+      - "Achievement Unlocked"
+    Score:
+      - "Point"
+    GamesWon:
+      - "Games Won"
+    GamesLost:
+      - "Games Lost"
+    GamesSurvived:
+      - "Games Survived"
+    TotalGames:
+      - "Total Games"
+    TimesKilled:
+      - "Most Killed"
+    TimesKilledBy:
+      - "Most Killed By"
+    Afk:
+      - "AFK Deaths"
+  TimeMessages:
+    LynchTime:
+      - "Dusk draws near, and the villagers gather to decide who they are lynching this evening... Everyone now has {0} seconds to vote!"
+    DayTime:
+      - "Dusk draws near, and the villagers gather to decide who they are lynching this evening... Everyone now has {0} seconds to vote!"
+    NightTime:
+      - "Dusk draws near, and the villagers gather to decide who they are lynching this evening... Everyone now has {0} seconds to vote!"
+  CustomMode:
+    CustomRoleInvalid:
+      - The following roles are invalid. Please rewrite the roles below and then restart the game. You can use emoji or role names.
+    CustomFirstRole:
+      - "One of the first 4 roles must be a wolf team, tanner, cultist, arsonist, or serial killer. Please make sure these roles are included among the first roles added."
+    CustomMinimumRole:
+      - You need a minimum of 4 roles to start the game.
+    CustomMaxRole:
+      - You cannot start the game with more than 100 roles. Please delete some roles and try again.
+    CustomNoRole:
+      - Please add roles before starting the game.
+  BanMessages:
+    GroupBan:
+      - "You have been banned from joining the game."
+    GlobalBan:
+      - "You are globally banned from using the bot."
+    BanReason:
+     - "Reason: {0}"
+    BanExpire:
+      - "Expiration: {0}"
+    GroupBanPlayer:
+      - "You can't join the game because you have been banned by the admins of the {0} group."
+    Year:
+      - "Year"
+    Day:
+      - "Day"
+    Minutes:
+      - "Minute"
+    Hours:
+      - "Hour"
+    Seconds:
+      - "Second"
+  TeamsMessages:
+    MyTeam:
+      - "\U0001F465 Team Information\n\nYou are a member of the team {0}\n\nTo leave this team, use the /leaveteam command.\nLet's work together and achieve greatness! \U0001F680\U0001F3C6"
+    NothingTeam:
+      - "You are not currently a member of any team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
+    JoinTeam:
+      - "\U0001F389 Congratulations! \U0001F389\nYou have successfully joined the team {0}.\nLet's play together and dominate the game! \U0001F680\U0001F3AE"
+    AlreadyTeam:
+      - "ℹ️ Information: You are already a member of the team {0}. Keep up the good work and let's achieve victory together! \U0001F389\U0001F680"
+    LeaveTeam:
+      - "\U0001F44B You have successfully left the team {0}.\nIf you ever want to rejoin the team, you can use the /jointeam command.\nWe look forward to having you back! \U0001F31F"
+  NotAdmin:
+    GroupAdminOnly:
+      - "Only a group admin can run this command."
+    NotGlobalAdmin:
+      - "You aren't a global admin..."
+    NotKadir:
+      - "You aren't Kadir!"
+    GroupCommandOnly:
+      - "You must run this command in a group"
+  NextGame:
+    DeletedFromWaitList:
+      - "You have been deleted from the wait list for {0}."
+    AlreadyOnWaitList:
+      - "You are already on the wait list for {0}."
+    AddedToWaitList:
+      - "You have been added to the wait list for {0}. I will PM you when the next game is starting." 
+  LynchMessages:
+    PlayerVotedLynch:
+      - "{0} has voted to eat {1}."
+    AskLynch:
+      - "Whose house do you want to dig a tunnel into?"
+    LynchKill:
+      - "The villagers have cast their votes, amid doubts and suspicions. {0} is dead. {1}"
+    LynchTie:
+      - "Unable to come up with a proper decision on who to lynch, the mob returns to their homes for the night, frustrated..."
+    NoLynchVotes:
+      - "Something is fishy, for no one voted! No lynch mob tonight..."
+    PlayerVoteCounts:
+      - "{0} players have voted, {1} total."
+    SecretLynchResultEach:
+      - "{0} votes went to {1}: {2}"
+    SecretLynchResultFull:
+      - "The lynch result for today:\n{0}"
+    SecretLynchResultNumber:
+      - "{0} votes went to {1}."
+  PublicMessages:
+    DefaultFellPublic:
+      - "One of the graves on the graveyard contained too many people tonight... Apparently {0} tried to visit the grave digger, fell into a grave and died! {1}"
+    KillerSpottedDiggerPublic:
+      - "{0} is missing today... Did they maybe oversleep? You go look for them and find them dead on the graveyard, still holding their shovel. It seems they died from several stabbing wounds..."
+    WolvesSpottedDiggerPublic:
+      - "{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by wolves in the night..."
+    HarlotFuckKillerPublic:
+      - "The village sees {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead."
+    HarlotFuckedKilledPublic:
+      - "{0} slips into {1}'s house, ready for a night of passion, only to find a mysterious stranger surgically removing {1}'s innards! The serial killer decides to satisfy {0} before adding a slutty heart to their collection!"
+  WelcomeMessages:
+    OfficialGrp:
+      - Here are our Official Groups across all communities. Click on the community group you want to join!
+    Welcome:
+      - "Hello, {0}! \U0001F43E Welcome to Wolf Blood!\n\nGet ready for an exciting and mysterious journey ahead where villagers battle against werewolves. Experience the classic werewolf gameplay with exclusive features including new roles and game modes.\n\nJoin Official Groups to compete with other players. Find new updates at Wolf Blood News and reach Support Group for assistance.\n\n\U0001F43E Happy wolfing \U0001F43A"
+    CreditsText:
+      - "\U0001D400\U0001D40F\U0001D40F\U0001D411\U0001D404\U0001D402\U0001D408\U0001D400\U0001D413\U0001D408\U0001D40E\U0001D40D \U0001D40F\U0001D400\U0001D406\U0001D404 \U0001F54A️\n\nWolfbloodbot was developed on May 2022 and mainly inspired from @werewolfbot which is a fantastic creation of the Father of Telegram Werewolf Game and the original developer of the said game bot- Para.\n\nWe will be forever grateful to Para for inventing and coding this game.\n\n\U0001F91D We would also like to thank Para and the whole GreyWolf Development Team for keeping the og bot running since 2016.\n\n\U0001F64F We would also like to grab this opportunity to thank everyone who helped us in Wolf Blood Community, not just limited to our developer Kadir {0}, Core Team {1}, Translators {2}, Moderators {3}, Donors {4}, Sponsors {5}, and to our beloved Players {6} who have shown an unending love and support for the bot. \n\nRole and Feature Ideas:\n✦ Most of our role ideas for the new roles are originally from our own, while some are adapted from Wolvesville and GreyWolf role suggestions.\n\n✦ The rest of the roles are from original {7}\n\n✦ Meanwhile, all feature ideas came from the Core Team and Wolf Blood players who have reached us through @wolfbloodsupport and @wolfbloodadminbot.\n\nPlease see the below links as references:\n\n\U0001F517 {8}\n\U0001F517 {9}"
+  AFKs:
+    IdleKill:
+      - "{0} has not voted for 2 nights in a row. The forces of good have seen this as a terrible crime, and {0} suddenly falls, dead. {1}"
+    IdleCount:
+      - "Player {0} has been killed for not voting {1} times in the past 24 hours."
+    GroupIdleCount:
+      - "{0} of those kills were in this group."
+  StoreMessages:
+    Store:
+      - "\U0001F6D2 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nAvailable Emoji Fragment: {1} \U0001F9E9\n\nWhat would you like to buy?"
+    BuyFailed:
+      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for purchasing {0} is {1}. Please check your balance and try again."
+    BuyConfirm:
+      - "\U0001F504 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1}\nAvailable: {2}\nDo you want to proceed?\nBalance after purchase: {3}"
+    BuySuccess:
+      - "\U0001F389 Purchase Successful!\nYou have successfully purchased {0}\nYour new balance is {1}\nThank you for your purchase!"
+    BuyItems:
+      - "\U0001F6D2 Purchase Items\nHow many {1}'s would you like to purchase?\nPlease select the item and quantity you wish to buy.\nAvailable Mints: {0} \U0001FA99"
+    BuyTicket:
+      - "\U0001F39F Ticket Menu\n\nWelcome to the Ticket Menu! Here, you can purchase special tickets to enhance your gameplay experience. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nWhat would you like to buy?"
+    BuyRole:
+      - "\U0001F3AB Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} \U0001FA99\nChoose a role to purchase!"
+    BuyEmoji:
+      - "\U0001F604 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (\U0001F9E9).\nAvailable Fragments: {0} \U0001F9E9\n\nPick an emoji to buy and personalize your experience!"
+    BuyEmojiDuration:
+      - ""
+  TicketButtons:
+    ForceToken:
+      - '{0} FS Token'
+    RoleVouchers:
+      - '{0} Roles'
+    FJoin:
+      - '{0} Force Join'
+    FName:
+      - '{0} Fake Name'
+    BonusPointTicket:
+      - '{0} Bonus Point'
+    Fragment:
+      - '{0} Fragment'
+    Mint:
+      - '{0} Mint'
+    BonusRankedModeTicket:
+      - '{0} Bonus Ranked'
+    CustomMessageTicket:
+      - '{0} Custom Message'
+    CustomEmoji:
+      - '{0} Emojis'
+    PlayerTAG:
+      - '{0} Player TAG'
+    CustomGifs:
+      - '{0} Custom Gifs'
+    FakeRole:
+      - '{0} Fake Role'
+    MyTicketButton:
+      - '{0} Tickets'
+    MyItemButton:
+      - '{0} Items'
+    TournamentPoint:
+      - '{0} Tournament Point'
+    Month:
+      - ""
+    Week:
+      - ""
+    Permanent:
+      - ""
+    Yearly:
+      - ""
+  TopMessages:
+    GroupStats:
+      - "Top 10 in {0} :"
+    TopScore:
+      - "Top 10 players with the highest score :"
+    YourRanking:
+      - 'Your Ranking:'
+    MostPlayedWithMonth:
+      - Players with the most games this month.
+  ProfileMessages:
+    ItemsText:
+      - "Hey {0}! Check out your awesome loot!\\n\\nYour Inventory:\\n\\n{1}"
+    Profile:
+      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    LockEmoji:
+      - This emoji is locked and cannot be changed...
+    MaxEmoji:
+      - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
+    EmojiChoice:
+      - "The emojis you acquire are shown below. Turn on/off an emoji appearing next to your name by toggling below:"
+    NoMyRoles:
+      - "You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
+    MyRoles:
+      - "\U0001F6C5 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
+    ActivateRole:
+      - '✅ {0} role activated successfully!'
+    DeactivateRole:
+      - '❌ {0} role deactivated successfully!'
+    TicketsMenu:
+      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+  RewardPM:
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Way to go! You’ve gained {0} in your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Fantastic! You have obtained {0} for your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Congratulations! You've earned {0} for your inventory!"
+    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Well done! You now have extra {0} in your inventory!"
+  TelegramStars:
+    StarShop:
+      - "\U0001F31F Welcome to the Telegram Stars Shop!\n\nReady to level up your gameplay?\nUse your Telegram Stars to unlock exclusive items and features.\n\nTap a button below to explore what’s available."
+    StarTicket:
+      - "\U0001F3AB Telegram Stars Ticket Menu\n\nWelcome to the Telegram Stars Ticket Menu! Here, you can purchase special tickets using your Telegram Stars. Click on the buttons below to proceed.\n\nWhat would you like to buy?"  
+    StarItems:
+      - "\U0001F6CD Purchase Items\nHow many {0} would you like to buy?\nPlease choose the quantity."
+    StarConfirm:
+      - "\U0001F6D2 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1} ⭐️\nDo you want to proceed?"
+    StarCustomMessage:
+      - "\U0001F4AC Purchase a {0}\n\nYou’re about to purchase a custom message slot using your Telegram Stars. Select how many letters or options you’d like."
+    StarPlayerTAG:
+      - "\U0001F3F7 Purchase a {0}\n\nYou’re about to purchase a custom player tag using your Telegram Stars. Select how many letters or options you’d like."
+    StarGifMenu:
+      - "\U0001F4F8 Purchase a {0}\n\nYou’re about to purchase a custom GIF pack using your Telegram Stars. Select which GIF pack you want to buy."
+    StarRole:
+      - "\U0001F9E9 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
+    StarEmoji:
+      - "\U0001F604 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
+    StarEmojiDuration:
+      - ""
+    StarSuccess:
+      - "\U0001F4E6 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} \U0001F6CD️\nIt'll cost you {2} Telegram Stars \U0001F31F\nCheck your messages — once you complete the payment, your goodies will be on their way! \U0001F381\U0001F680"
+    StarPayment:
+      - "\U0001FA99 Time to Pay Up!\nThis invoice was prepared for {0} \U0001F4BC\nYou're one step away from claiming {1} for {2} Telegram Stars \U0001F31F\nHit that 'Pay' button below and it's all yours!"
+    StarPaidSuccess:
+      - "\U0001F389 Payment Complete!\n\n{0}, your payment of {1} Telegram Stars was successful! \U0001F31F\n\nThe following item(s) have been delivered to you:\n{2} \U0001F4E6\n\nEnjoy your new goodies and keep shining in the game! ✨"
+  GiftMenu:
+    GiftShop: 
+      - "\U0001F381 Gift Sending Menu\n\nReady to send a surprise?\nSelect a special gift and make {0}'s day unforgettable! \U0001F31F\n\nTap a button below to choose a gift."
+    GiftItems:
+      - "\U0001F381 Gift Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    GiftConfirm:
+      - "✅ Confirm Sending\n\nYou are about to send {0} gift(s) to {1}.\nCost: {2} ⭐️\nDo you want to proceed?"
+    GiftTicket:
+      - "\U0001F3AB Gift a {0}\n\nYou're about to gift a special ticket to {1}!\n\nUse your Telegram Stars to help them join games more easily. Select a ticket below to continue."
+    GiftCustomMessage:
+      - "\U0001F4AC Gift a {0}\n\nYou're about to gift a custom message slot to {1}!\n\nLet them express themselves freely. Choose the number of letters or options."
+    GiftPlayerTAG:
+      - "\U0001F3F7 Gift a {0}\n\nYou're about to gift a custom player tag to {1}!\n\nAllow them to stand out with a unique identity. Choose the tag to send."
+    GiftCustomGif:
+      - "\U0001F4F8 Gift a {0}\n\nYou're about to gift a custom GIF pack to {1}!\n\nSend them a personalized touch to their game experience. Pick the GIF you want to send."
+    GiftRole:
+      - "\U0001F9E9 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
+    GiftEmoji:
+      - "\U0001F604 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
+    GiftEmojiDuration:
+      - ""
+    GiftSentSuccess:
+      - "\U0001F381 Gift Delivered!\n\nYour gift to {0} has been successfully sent! \U0001F4E8\nYou've just shared:\n{1} \U0001F389\n\nKindness like this keeps the game fun and full of surprises. \U0001F31F"
+  CustomGifs:
+    NotPack:
+      - You have not unlocked a custom GIF pack. Please use /donate.
+    GifPackStatus:
+      - 'Current Approval Status:
+
+        Approved Gifs: {0} ✅
+
+        Pending Gifs: {1} ⏳
+
+        Rejected Gifs: {2} ⛔️'
+    GifPack:
+      - "Ready to build your custom gif pack? Here's what you need to know:\n\n• Your pack will need approval before you can use it in games.\n• Not allowed: brutal or illegal gifs, and others at our discretion.\n• You'll receive a description of the image to choose the gif.\n• Changing gifs will require re-approval by an admin.\n\nLet's get started by selecting a situation for your gif!"
+    GifSubmitBtn:
+      - Submit for approval
+    GifSend:
+      - "Okay. Reply to this message with which gif you want to use for this."
+    GifReset:
+      - "Reset Gifs"
+    GifResetSuccess:
+      - "Your {0} GIFs have successfully been reset."
+    GifStatus:
+      - 'Gif Status: {0}'
+    Approved:
+      - 'Approved ✅'
+    Disapproved:
+      - 'Disapproved ⛔️'
+    GifError:
+      - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    GifSuccess:
+      - "Got it! Any more?"
+    GifSubmit:
+      - "Your GIF pack has been submitted to the admins for approval!\n\nPlease keep in mind that admins have a huge number of GIF packs to review, hence this process may take up to 1 working days.\n\nOur admins will keep track of the submitted GIF packs, you don’t have to PM them directly. Thank you for your patience!"
+    GifSubmitHour:
+      - "You have already submitted your GIF pack in the last hour! If you submit your GIFs and then change something before it gets approved, you don't have to submit it again! Please wait patiently while your GIFs are being reviewed."
+    GifEmpty:
+      - Please set at least one GIF before you submit your pack!
+    GifCheckSuccess: 
+      - "\U0001F389 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! \U0001F43A✨"
+  TransferMenu:
+    Transfer:
+      - ""
+    TransferSelf:
+      - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
+    TransferFailed:
+      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for transferring {0} is {1}. Please check your balance item and try again."
+    TransferItems:
+      - "\U0001F504 Transfer Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    ConfirmTransfer:
+      - "\U0001F504 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"  
+    TransferSuccess:
+      - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
+    TransferReceived:
+      - "\U0001F389 You've received a Gift \U0001F381\n\nYou have received {0} from {1}.\n\nEnjoy your new items and thank you for playing!"
+    TransferRole:
+      - "\U0001F9E9 Transfer a {0}\n\nYou're about to transfer a powerful role to {1}!\n\nShare the thrill, change their destiny, and shake up the game!\nChoose the role you'd like to send their way."
+    TransferEmoji:
+      - "\U0001F604 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
+    TransferTicket:
+      - "\U0001F3AB Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
+    TransferLimit:
+      - ""
+  PlayerTAGS:
+    TagSuccess:
+      - "Your new name tag was set successfully. Tag: {0}" 
+    TagError:
+      - "The player tag you specified could not be set. Please set a tag {0} characters long and do not use special characters. Example usage: /settag PRO"
+    TAGInvalid:
+      - "❗ Cannot activate Player TAG Ticket!\nYou need to set a tag first. Use the /settag command to choose a tag, then try activating the ticket again."
+  CustomMessages:
+    CustomMessageLenght:
+      - "❗ Invalid Message!\nYour message must be between {0} and {1} characters long. Please choose a valid message and try again."
+    CustomMessageSuccess:
+      - "✅ Custom Message Set Successfully!\nYou can now use this message in the game!\nYour new message is: {0}"
+    CustomMessageAllLetter:
+      - "❗ Invalid Message!\nYour message must contain only letters. Please choose a valid message and try again."
+    CustomMessageInvalid:
+      - "❗ Cannot activate Custom Message Ticket!\nYou need to set a custom message first. Use the /specialmessage command to choose a message, then try activating the ticket again." 
+  FakeNames:
+    FakeNameLenght:
+      - "❗ Invalid Name!\nYour name must be between {0} and {1} characters long. Please choose a valid name and try again."
+    FakeNameSuccess:
+      - "✅ Fake Name Tag Set Successfully!\nYour new name tag is: {0}. You can now use this name in the game!"
+    FakeNameInvalid:
+      - "❗ Cannot activate Fake Name Ticket!\nYou need to set a fake name first. Use the /fakename command to choose a name, then try activating the ticket again."
+  FakeRoles:
+    FakeRoleSuccess:
+      - "✅ Fake Role Set Successfully!\nYour new role is: {0}. Now you can imitate this role in the play!"
+    NoRole:
+      - "❗ The role of '{0}' is invalid. Please type a valid role name and try again."
+    RoleInvalid:
+      - "❗ Cannot activate Fake Role Ticket!\nYou need to set a role first. Use the /fakerole command to choose a role, then try activating the ticket again."
+  Others:
+    Donate:
+      - "Telegram Stars is a fun way to support your favorite bots and creators on Telegram. By sending Stars, you help keep the bot running — and show your appreciation!\n\n\U0001F4B0 How to donate:\n1. Open the bot chat\n2. Send the /donate command\n3. Tap the Telegram Stars button\n4. Enter the amount you want to donate\n5. Confirm the invoice\n\nNote: This is for donations only — no special features are unlocked here.\nWant cool perks? Head over to the /stars menu! \U0001F680\n\nThanks for supporting Wolf Blood Bot! \U0001F43A✨"
+    UserNotFound:
+      - "⚠️ User Not Found\n\nThe specified User ID or Username could not be found. Please make sure you have entered the correct User ID or Username and try again."
+    ForceJoinSuccess:
+      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
+    TicketRequired: 
+      - "❗ Ticket Required!\nYou need a {0} Ticket to use this command. Please purchase one first using the /stars command! \U0001F39F️"
+    JoinButton:
+      - "Join"
+    Skip:
+      - "Skip"
+    Yes:
+      - "Yes"
+    No:
+      - "No"
+    VoteBtn:
+      - Vote 🗳
+    GoToBtn:
+      - Go To Bot
+    RolList:
+      - "Role List :"
+    NoClaims:
+      - "Non-Claims"
+    Cancel:
+      - "Cancel"
+    OfficialBtn:
+      - Offical Groups
+    SupportBtn:
+      - Support Group
+    NewsBtn:
+      - News
+    Done:
+      - "Done!"
+    Back:
+      - "Back"
+    EndTime:
+      - "Game Length: {0}"
+    TimesUp:
+      - "Time's up!"
+    GetLang:
+      - "Get which language file?"
+    GenericDeathNoReveal:
+      - "Everyone wakes up in the morning, and notices that {0} is not around... They check the house to find the remains of {0}."
+      - "As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night..."
+    ErrorBotMessagePM:
+      - "Please specify the recipient of your message by using the appropriate command: Type /love to message your lover, or /team to communicate with your wolf pack or cult members."
+    SecondsAdded:
+      - "Join time extended by {0}!\n{1} left to Join"
+    SecondsRemoved:
+      - "Join time decreased by {0} seconds!\n{1} left to Join"
+    LeftToJoin:
+      - "{0} left to Join"
+    HaveJoined:
+      - "{0} joined the game in the last 30 seconds."
+    AlreadyInGame:
+      - "You are already in a game! ({0})"
+    CountPlayersAdded:
+      - "Total {0} players."
+    NotEnoughLovePlayers:
+      - "To play in Love mode you need to reach an even number (6,8,10,12...) This game has been canceled..."
+    NotEnoughPlayers:
+      - "Not enough players, cancelling game!"
+    StartingGameWait:
+      - "Game is starting, please wait while I assign roles and update the database."
+    AlreadyJoined:
+      - "You've already joined!"
+    ChoiceAccepted:
+      - "Choice accepted."
+    And:
+      - "and"
+    NewUnlocks:
+      - ""
+    PlayersAlive:
+      - "Players Alive"
+    Players:
+      - "Players"
+    Was:
+      - "was"
+    NoGame:
+      - "There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
+    NotifyNewGame:
+      - "A new game is starting in {0}."
+    NotPlaying:
+      - "You don't seem to be playing..."
+    NotHome:
+      - "You went to guard {0}, but they weren't home!" 
+    GamesPlayed:
+      - "New Member: {0} ({1})\n\nPlayer Game Counts\n∙ Wolf Blood: {2}\n∙ Other Bots: {3}\n\nTotal Games: {4}"
+    LoverDied:
+      - "With {0}'s dying breath, {1} rushes over and falls, crying. They cannot stand the loss of their loved one, and shoot themselves with the nearest pistol they can find. {2}"
+    NoAttack:
+      - "The villagers gather the next morning in the village center, to sighs of relief - it appears there was no attack the previous night."
+    LynchDead:
+      - "The village chose to lynch you, and you died..."
+    SentPrivate:
+      - "I have sent you a PM"
+    Help:
+      - "If you want to browse the roles in the game, you can use the /rolelist command.\nYou can select the language with the /setlang command.\nStart a game with the /startranked command immediately. Have fun."
+    StartMe:
+      - "Please start me so I can PM you"
+    LatestList:
+      - "Here is the latest list"
+    UnableToGetList:
+      - "Unable to get latest list"
+    YouJoined:
+      - "You have successfully joined the game in {0}"
+    CantExtend:
+      - "Only group admins can extend the time more than once!"
+    NotMember:
+      - "You can't join this game because you don't seem to be a member of {0}."
+    GroupNotFound:
+      - "Couldn't find the group. Please run this command in the group you want to stop waiting for, or add link, id, or username next to the command."
+    RoleCommand:
+      - 'No such role was found. Search by adding role next to the command. Example usage: /role villager'
+    DisableGameMode:
+      - "Sorry {0}, Group Admins have disabled this mode in this group. How about asking them to enable it first :)"
+    DeadSlient:
+      - "Because you are dead, you cannot send messages to the group until the end of the game. After the game ends, you will be able to write again. If you want to receive notifications for the next game, please click on the button below."
+    PlayerLimitReached:
+      - "Sorry, max player limit has been reached!"
+    DeadFlee:
+      - "You can't run away! YOU'RE DEAD! Get back in the ground... jeez!"
+    Flee:
+      - "{0} has fled in terror!"
+    FleeDisabled:
+      - "Fleeing while the game is running has been disabled by the group admin!"
+    PlayerRoleWas:
+      - "{0} was {1}"
+    CountPlayersRemain:
+      - "{0} players remain."
+    ByForceStart:
+      - "A command was sent by {0} to start the game by force."
+    PlayersGifPack:
+      - "Players with custom gif packs :"
+    ForceStarted:
+      - 'Force Started By: {0}'
+    TreasureWin:
+      - "\U0001F381 Mystery Unveiled! \U0001F381\n\nCongratulations to the following Treasure Hunters! \U0001F929\U0001F973\n\n\U0001F3C6 Prize Announcement:\nHere’s the adventurers who have been selected to receive a mysterious treasure chest:\n\n<b>{0}</b>\n\nJoin us in celebrating their victories and stay tuned for more adventures ahead! \U0001F31F"
+    NameExists:
+      - "@{1}, a player with the name {0} has already joined. Please change your name to join."
+    ChangeNameToJoin:
+      - "{0}, please change your name to join"
+    ExitAnonymousMode:
+      - "You can't use this bot as anonymous admin! Please exit the anonymous mode (or ask the admin who promoted you to do so) and try again!"
+    MaintBreak:
+      - "Sorry, I'm about to start a short maintenance break, you can't start a game right now...\nGo to @wolfbloodnews for more information"
+    NoPlayerName:
+      - "I can't find a player by that name!"
+    NodeShutsDown:
+      - "An error has occured, and this node has shut down :/"
+    NoNodes:
+      - "There are no nodes online right now, please try again in a few seconds"
+  BonusPoints:
+    DieAsAFK_Penalty:
+      - ""

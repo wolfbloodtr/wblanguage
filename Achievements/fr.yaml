@@ -1,0 +1,256 @@
+strings:
+  None:
+    Name: "Aucun"
+    Description: "Vous n'avez encore joué à aucun un jeu !"
+  WelcomeToHell:
+    Name: "Bienvenue en enfer"
+    Description: "Jouer à un jeu"
+  WelcomeToAsylum:
+    Name: "Bienvenue à l'asile"
+    Description: "Jouez à une partie de chaos"
+  AlzheimerPatient:
+    Name: "Patient atteint d'Alzheimer"
+    Description: "Jouer à un jeu en mode amnésique"
+  Enochlophobia:
+    Name: Enochlophobie
+    Description: Jouer une partie à 35 joueurs
+  Introvert:
+    Name: Introverti
+    Description: Jouer une partie à 5 joueurs
+  Naughty:
+    Name: Méchant !
+    Description: Jouer à un jeu en utilisant un pack de langage NSFW
+  Dedicated:
+    Name: Dédié
+    Description: Jouer à 100 jeux
+  Obsessed:
+    Name: Obsédé
+    Description: Jouer à 1000 jeux
+  Masochist:
+    Name: Masochiste
+    Description: Gagner une partie en tant que Tanneur
+  Wobble:
+    Name: Wobble Wobble
+    Description: Survivre à une partie en tant qu'ivrogne (au moins 10 joueurs)
+  Inconspicuous:
+    Name: Discret
+    Description: Dans une partie de 20 personnes ou plus, ne pas obtenir un seul vote de lynchage contre vous (et survivre)
+  Survivalist:
+    Name: Survivaliste
+    Description: Survivre à 100 jeux
+  Promiscuous:
+    Name: Promiscuité
+    Description: En tant que prostituée, survivre à une partie de plus de 5 nuits sans rester à la maison ou rendre visite à la même personne plus d'une fois
+  MasonBrother:
+    Name: Frère maçon
+    Description: Soyez l'un des deux maçons survivants au moins dans un jeu
+  DoubleShifter:
+    Name: Changement de vitesse
+    Description: Changer de rôle deux fois au cours d'une même partie (la conversion au culte ne compte pas)
+  HeyManNiceShot:
+    Name: Eh mec, joli tir ! 
+    Description: En tant que Fusiller, utilisez votre dernier coup pour tuer un loup ou un tueur en série.
+  DontStayHome:
+    Name: C'est pourquoi vous ne restez pas à la maison
+    Description: En tant que loup ou cultiste, tuer ou convertir une prostituée restée à la maison
+  DoubleVision:
+    Name: Double vision
+    Description: Être l'un des deux voyants en même temps
+  DoubleKill:
+    Name: Double meurtre
+    Description: Participez à la fin du Tueur en serie / Fusiller
+  ShouldHaveKnown:
+    Name: J'aurais dû savoir
+    Description: En tant que voyant, révéler le Tyranoeil
+  LackOfTrust:
+    Name: Je constate un manque de confiance
+    Description: En tant que Voyant, soyez lynché le premier jour
+  BloodyNight:
+    Name: Dimanche sanglant
+    Description: Être au moins l'une des 4 victimes à mourir au cours d'une même nuit
+  ChangingSides:
+    Name: Changer de camp
+    Description: Changer de rôle dans une partie et gagner
+  ForbiddenLove:
+    Name: Amour interdit
+    Description: Gagner en tant que couple loup / villageois (villageois, pas l'équipe du village)
+  FirstStone:
+    Name: La première pierre
+    Description: Être le premier à voter pour le lynchage 5 fois dans une même partie
+  SmartGunner:
+    Name: Tireur d'élite
+    Description: En tant Chasseur, vos deux balles touchent un loup, un tueur en série ou un cultiste
+  Streetwise:
+    Name: Les rues sont très sécurisées
+    Description: Trouvez un loup, un tueur en série, un pyromane ou un cultiste différent 4 nuits d'affilée en tant que détective.
+  OnlineDating:
+    Name: Rencontres rapides
+    Description: Demandez au bot de vous choisir comme amant (cupidon n'a pas réussi à choisir)
+  BrokenClock:
+    Name: Même une montre arrêtée donne l'heure exacte deux fois par jour
+    Description: En tant que Fou, au moins deux de vos visions doivent être correctes à la fin du jeu.
+  SoClose:
+    Name: Si près du but !
+    Description: En tant que Tanner, soyez à égalité pour le plus grand nombre de votes de lynchage
+  CultCon:
+    Name: Convention des cultistes
+    Description: Être l'un des 10 cultistes ou plus en vie à la fin d'une partie
+  SelfLoving:
+    Name: L'amour de soi
+    Description: En tant que cupidon, soyez l'un des amoureux.
+  ShouldveMentioned:
+    Name: J'aurais dû dire quelque chose
+    Description: En tant que loup, ta meute mange ton amant (la première nuit ne compte pas).
+  TannerOverkill:
+    Name: Tanneur excessif
+    Description: En tant que Tanneur, tout le monde (sauf vous) vote pour vous lyncher.
+  SerialSamaritan:
+    Name: Samaritain en série
+    Description: Dans le rôle du Tueur en série, tuez au moins 3 loups en une seule partie.
+  CultFodder:
+    Name: Fourrage de cultistes
+    Description: Soyez le cultiste envoyé pour tenter de convertir l'inquisiteur
+  LoneWolf:
+    Name: Loup solitaire
+    Description: Dans une partie de chaos de 10 personnes ou plus, soyez le seul loup - et gagnez
+  PackHunter:
+    Name: Chasseur de meute
+    Description: Soyez l'un des 7 loups vivants à la fois
+  GunnerSaves:
+    Name: Sauvé par une balle
+    Description: En tant que villageois, les loups correspondent au nombre de villageois, mais le jeu ne se termine pas car le Chasseur a une balle
+  LongHaul:
+    Name: Un engagement à long terme
+    Description: Survivre pendant au moins une heure dans une seule partie
+  OhShi:
+    Name: EH MERD-
+    Description: Tuez votre amant dès la première nuit
+  Veteran:
+    Name: Vétéran
+    Description: "Jouez 500 parties.\nVous pouvez maintenant rejoindre @wolfbloodvets"
+  NoSorcery:
+    Name: Pas de sorcellerie !
+    Description: En tant que loup, tuez votre sorcière
+  CultistTracker:
+    Name: Traqueur de cultistes
+    Description: En tant qu'Inquisiteur, tuer au moins 3 cultistes dans une partie.
+  ImNotDrunk:
+    Name: JE NE SUIS PAS IVRE... *BURPPP*
+    Description: En tant que maladroit, ayez au moins 3 lynchages corrects à la fin de la partie.
+  WuffieCult:
+    Name: La secte Wuffie
+    Description: En tant que loup alpha, convertissez avec succès au moins 3 victimes en loups.
+  DidYouGuardYourself:
+    Name: Vous êtes-vous protégé ?
+    Description: En tant qu'ange gardien, survivre après 3 essais en gardant un loup non attaqué.
+  SpoiledRichBrat:
+    Name: Un gosse de riche gâté
+    Description: En tant que prince, vous êtes lynché même après avoir révélé votre identité.
+  ThreeLittleWolves:
+    Name: Trois petits loups et un grand méchant cochon
+    Description: En tant que sorcier, survivez à une partie avec trois loups vivants ou plus.
+  President:
+    Name: Président
+    Description: En tant que maire, réussissez à faire 3 votes de lynchage après avoir révélé
+  IHelped:
+    Name: J'ai aidé !
+    Description: En tant que louveteau, la meute vivante réussit 2 tentatives de manger après votre mort.
+  ItWasABusyNight:
+    Name: Une soirée bien remplie !
+    Description: Au cours de la même nuit, vous avez reçu la visite d'au moins trois rôles différents
+  StrongestAlpha:
+    Name: Un Alpha puissant ! 
+    Description: En tant que loup alpha, infectez avec succès le tueur en série !
+  AmIYourSeer:
+    Name: Suis-je votre voyant ?
+    Description: En tant que Fou, identifiez correctement le Tyranoeil
+  DemotedByTheDeath:
+    Name: Rétrogradé par la mort
+    Description: En tant que Fusiller, tirez sur le sage avec votre dernier coup et mourez en tant que simple villageois.
+  WastedSilver:
+    Name: Poussière d'argent gaspillé
+    Description: En tant que forgeron, répandez votre poussière d'argent le jour où le marchand de sable fredonne
+  Trustworthy:
+    Name: Digne de confiance !
+    Description: En tant qu'homme-loup, survivez et gagnez la partie après avoir été contrôlé par le voyant
+  DeepLove:
+    Name: Amour profond
+    Description: En tant que doppelgänger, choisissez votre amant comme modèle. Quel amour profond &lt;3
+  TimeToRetire:
+    Name: L'heure de la retraite a sonné...
+    Description: En tant que sorcière, soyez la dernière personne en vie dans le village et perdez la partie.
+  SeeingBetweenTeams:
+    Name: Voir entre les équipes
+    Description: Faire partie d'un couple de voyants/sorcières
+  JustABeardyGuy:
+    Name: Juste un barbu...
+    Description: En tant qu'homme-loup, soyez infecté par le loup alpha et devenez un vrai loup-garou. AWOOOOOOOUU !
+  ThatCameUnexpected:
+    Name: C'est inattendu !
+    Description: En tant que tanneur, soyez lynché et gagner le jeu alors qu'il ne reste plus que 3 personnes.
+  NowImBlind:
+    Name: Maintenant je suis aveugle
+    Description: En tant qu'oracle, vous ne parvenez pas à obtenir une vision parce que tout le monde joue le même rôle.
+  EveryManForHimself:
+    Name: Chacun pour soi !
+    Description: En tant que pacifiste, évitez d'être lynché (au moins 50 % des votes ont déjà été exprimés en votre faveur).
+  MySweetieSoStrong:
+    Name: Mon chéri si fort !
+    Description: Être amoureux du pacifiste, et être sauvé du lynchage par lui (au moins 50% des votes ont déjà été exprimés pour vous).
+  CultLeader:
+    Name: Chef de secte
+    Description: Soyez un cultiste dès le début du jeu, survivez et gagnez.
+  ThanksJunior:
+    Name: Merci, Junior !
+    Description: Après que la meute de loups a mangé l'ivrogne, tu te transformes en loup et tu peux essayer de manger quelqu'un pendant que le reste de la meute de loups est ivre !
+  DeathVillage:
+    Name: Village de la mort
+    Description: Participer à un jeu qui n'a pas de gagnant.
+  ILostMyWisdom:
+    Name: J'ai perdu ma sagesse
+    Description: En tant que sage, changez de rôle ! Soudain, vous n'êtes plus aussi sage...
+  Affectionate:
+    Name: Affectueux
+    Description: En tant que prostituée, rends visite à ton amant !
+  LuckyDay:
+    Name: Jour de fête ? Non, Jour de chance ! 
+    Description: En tant que loup alpha, contaminez l'ivrogne et restez sobre ! Ouf...
+  ConditionRed:
+    Name: État rouge !
+    Description: En tant que dernier loup vivant, mangez le traître. Oh non !
+  Indestructible:
+    Name: Indestructible
+    Description: Devenez Doppelgänger ou Enfant sauvage en prenant pour modèle votre propre personne !
+  PsychopathKiller:
+    Name: Tueur psychopathe
+    Description: Dans la peau d'un tueur en série, gagnez une partie à 35 joueurs !
+  TodaysSpecial:
+    Name: Offre spéciale du jour !
+    Description: "Participez à un événement spécial loup-garou ! Actuellement : Le poisson d'avril 2020 !"
+  RomeoAndJuliet:
+    Name: Roméo et Juliette
+    Description: Soyez amoureux du tanneur, et gagnez en lynchant votre amant !
+  ReallyBadLuck:
+    Name: Pas de chance ! 
+    Description: En tant que tueur en série, tombez dans une tombe, puis tuez quelqu'un au hasard et faites-vous repousser par l'ange gardien.
+  Domino:
+    Name: Domino
+    Description: En tant que Fusiller, tirez sur un autre Fusiller et faites-le tirer à son tour.
+  DoubleShot:
+    Name: Coup double
+    Description: En tant que chasseur ou Fusiller, tirez sur un mauvais rôle qui est amoureux d'un autre mauvais rôle !
+  PlayingWithTheFire:
+    Name: Jouer avec le feu
+    Description: En tant que pyromane, brûlez 5 maisons ou plus en une nuit.
+  Firework:
+    Name: Feu d'artifice
+    Description: En tant que pyromane, brûlez 10 maisons ou plus en une nuit ! Quel beau feu d'artifice :)
+  ColdAsIce:
+    Name: Froid comme la glace
+    Description: En tant que le loup des neiges, gèle la prostituée. Leur amour est froid comme la glace.
+  GoodChoiceForYou:
+    Name: Bon choix... pour vous
+    Description: En tant que chimiste, rendez visite à un joueur et survivez 3 fois dans une même partie.
+  IncreaseThePack:
+    Name: Augmentez la meute !
+    Description: Après la mort du louveteau, infectez 2 joueurs en tant que loup alpha !
