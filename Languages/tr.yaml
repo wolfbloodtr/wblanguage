@@ -19,7 +19,7 @@ strings:
     Villager:
     - "Köylü 👱"
     RoleInfoVillager:
-    - ""
+    - "Sıradan bir köylüsün, tarlanı ekip biçmek ve zamanı gelince ölmeye mahkumsun."
   Drunk:
     Drunk:
     - "Sarhoş 🍻"
