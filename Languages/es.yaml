@@ -4,1667 +4,1667 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-      - "¡{0} ha empezado una partida! Pulsa el botón para unirte a la diversión… ¡y probablemente morir!"
-      - "¡{0} ha iniciado una nueva partida! ¡Pulsa el botón para ser comido!"
+    - "¡{0} ha empezado una partida! Pulsa el botón para unirte a la diversión… ¡y probablemente morir!"
+    - "¡{0} ha iniciado una nueva partida! ¡Pulsa el botón para ser comido!"
     StartChaos:
-      - "¡{0} ha empezado una partida caótica! Pulsa el botón para unirte a la diversión… y probablemente morir :P"
-      - "¡{0} ha iniciado una nueva partida caótica! ¡Pulsa el botón para ser comido!"
+    - "¡{0} ha empezado una partida caótica! Pulsa el botón para unirte a la diversión… y probablemente morir :P"
+    - "¡{0} ha iniciado una nueva partida caótica! ¡Pulsa el botón para ser comido!"
     StartRanked:
-      - "{0} has iniciado un juego por puntos! Click /join para unirte a la diversión... y probablemente morir :P"
+    - "{0} has iniciado un juego por puntos! Click /join para unirte a la diversión... y probablemente morir :P"
     StartLove:
-      - "{0}¡Inició una partida llena de gente enamorada! ¿Estás listo para experimentar el más cálido romance? Click /join y prepárate para enamorarte"
+    - "{0}¡Inició una partida llena de gente enamorada! ¿Estás listo para experimentar el más cálido romance? Click /join y prepárate para enamorarte"
     StartCustom:
-      - "{0}¡Inició un juego de roles especiales! Para unirte a la diversión, haz clic en /join ahora y participarás."
+    - "{0}¡Inició un juego de roles especiales! Para unirte a la diversión, haz clic en /join ahora y participarás."
   Villager:
     Villager:
-      - "Un aldeano \U0001F471"
+    - "Un aldeano 👱"
     RoleInfoVillager:
-      - "Eres un simple aldeano \U0001F471. Estás condenado a pasar tus días labrando el campo... y ser comido. (una mierda de vida)"
+    - "Eres un simple aldeano 👱. Estás condenado a pasar tus días labrando el campo... y ser comido. (una mierda de vida)"
   Drunk:
     Drunk:
-      - "El borracho \U0001F37B"
+    - "El borracho 🍻"
     RoleInfoDrunk:
-      - "¡Enhorabuena! ¡Eres el borracho \U0001F37B del pueblo! (en realidad, todo el mundo lo sabe...)."
+    - "¡Enhorabuena! ¡Eres el borracho 🍻 del pueblo! (en realidad, todo el mundo lo sabe...)."
   Harlot:
     Harlot:
-      - "La ramera \U0001F48B"
+    - "La ramera 💋"
     RoleInfoHarlot:
-      - "¡Putón! Eres la ramera \U0001F48B. Durante la noche puedes visitar a otro jugador y sabrás si es un aldeano (no es un hombre lobo). Si visitas a un hombre lobo o a su víctima esa noche, morirás. Por otro lado, si esa noche los hombres lobo tratan de matarte, no te encontrarán en casa y sobrevivirás."
+    - "¡Putón! Eres la ramera 💋. Durante la noche puedes visitar a otro jugador y sabrás si es un aldeano (no es un hombre lobo). Si visitas a un hombre lobo o a su víctima esa noche, morirás. Por otro lado, si esa noche los hombres lobo tratan de matarte, no te encontrarán en casa y sobrevivirás."
     AskVisit:
-      - "¿A quién quieres visitar?"
+    - "¿A quién quieres visitar?"
     HarlotFuckWolf:
-      - "Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con un hombre lobo. Has muerto (has visitado a un hombre lobo)."
+    - "Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con un hombre lobo. Has muerto (has visitado a un hombre lobo)."
     HarlotFuckedWolfPublic:
-      - "¡{0} se escabulló anoche en la casa equivocada! Se ha encontrado su cuerpo lujurioso clavado en la puerta de la iglesia con varas de hierro… ¡Qué tristeza! :( (Visitó a un hombre lobo)."
+    - "¡{0} se escabulló anoche en la casa equivocada! Se ha encontrado su cuerpo lujurioso clavado en la puerta de la iglesia con varas de hierro… ¡Qué tristeza! :( (Visitó a un hombre lobo)."
     HarlotFuckedVictimPublic:
-      - "{0} se escabulló anoche en la casa de {1} para pasar un buen rato y liberar el estrés. ¡Desafortunadamente, lo que se encontró fue a un hombre lobo que se estaba comiendo a {1}! ¡El hombre lobo se giró en un segundo y saltó a su yugular! {0} ha muerto."
+    - "{0} se escabulló anoche en la casa de {1} para pasar un buen rato y liberar el estrés. ¡Desafortunadamente, lo que se encontró fue a un hombre lobo que se estaba comiendo a {1}! ¡El hombre lobo se giró en un segundo y saltó a su yugular! {0} ha muerto."
     HarlotVisitNonWolf:
-      - "¡Después de una noche loca de sexo y perversión con {0}, puedes asegurar que no es un hombre lobo!"
+    - "¡Después de una noche loca de sexo y perversión con {0}, puedes asegurar que no es un hombre lobo!"
     HarlotVisitYou:
-      - "En mitad de la noche soñaste que la ramera del pueblo te estaba cabalgando. ¡Pero al despertarte te diste cuenta de que no fue un sueño! Por desgracia, la noche era oscura y no pudiste ver bien su cara. En cuanto terminasteis, se fue en silencio para dejarte a solas con tus pensamientos. ¡y una buena satisfacción en el cuerpo! [La ramera te ha visitado]."
+    - "En mitad de la noche soñaste que la ramera del pueblo te estaba cabalgando. ¡Pero al despertarte te diste cuenta de que no fue un sueño! Por desgracia, la noche era oscura y no pudiste ver bien su cara. En cuanto terminasteis, se fue en silencio para dejarte a solas con tus pensamientos. ¡y una buena satisfacción en el cuerpo! [La ramera te ha visitado]."
     HarlotDiscoverCult:
-      - "Te escabulliste anoche a la casa de {0} para pasar un buen rato, pero cuando te fuiste, notaste algo extraño: un extraño altar escondido en un cuarto con un brillo extraño… [{0} es un cultista]."
+    - "Te escabulliste anoche a la casa de {0} para pasar un buen rato, pero cuando te fuiste, notaste algo extraño: un extraño altar escondido en un cuarto con un brillo extraño… [{0} es un cultista]."
     HarlotFuckKiller:
-      - "Te cuelas en la casa de {0} y empiezas a tener un poco de diversión. Todo va estupendamente hasta que. {0} saca un cuchillo y ¡empieza a acuchillarte 98 veces riendo como un maníaco! Has muerto."
+    - "Te cuelas en la casa de {0} y empiezas a tener un poco de diversión. Todo va estupendamente hasta que. {0} saca un cuchillo y ¡empieza a acuchillarte 98 veces riendo como un maníaco! Has muerto."
     HarlotVisitNotHome:
-      - "Te escabulliste en la casa de {0} para divertirte un rato, ¡pero su casa está vacía!"
+    - "Te escabulliste en la casa de {0} para divertirte un rato, ¡pero su casa está vacía!"
   Seer:
     Seer:
-      - "La vidente \U0001F473‍♀️"
+    - "La vidente 👳‍♀️"
     RoleInfoSeer:
-      - "Eres la vidente \U0001F473. Cada noche puedes elegir un personaje para percibir su rol."
+    - "Eres la vidente 👳. Cada noche puedes elegir un personaje para percibir su rol."
     AskSee:
-      - "¿A quién quieres percibir?"
+    - "¿A quién quieres percibir?"
     SeerSees:
-      - "¡Percibes que {0} es {1}!"
+    - "¡Percibes que {0} es {1}!"
   Traitor:
     Traitor:
-      - "El traidor \U0001F595"
+    - "El traidor 🖕"
     RoleInfoTraitor:
-      - "¡Traidor \U0001F595! Por ahora, eres un aldeano, pero una vez el resto de hombre lobo muera, te convertirás en uno de ellos. Si la vidente te elige, puede que te identifique como hombre lobo o no."
+    - "¡Traidor 🖕! Por ahora, eres un aldeano, pero una vez el resto de hombre lobo muera, te convertirás en uno de ellos. Si la vidente te elige, puede que te identifique como hombre lobo o no."
     TraitorTurnWolf:
-      - "¡¡¡Tú, traidor!!! Ahora eres un hombre lobo."
+    - "¡¡¡Tú, traidor!!! Ahora eres un hombre lobo."
   GuardianAngel:
     GuardianAngel:
-      - "El ángel de la guarda \U0001F47C"
+    - "El ángel de la guarda 👼"
     RoleInfoGuardianAngel:
-      - "Eres el ángel de la guarda \U0001F47C. Cada noche, puedes elegir un jugador para proteger. Sin embargo, si eliges un hombre lobo existe un 50% de probabilidad de que mueras."
+    - "Eres el ángel de la guarda 👼. Cada noche, puedes elegir un jugador para proteger. Sin embargo, si eliges un hombre lobo existe un 50% de probabilidad de que mueras."
     AskGuard:
-      - "¿A quién quieres proteger?"
+    - "¿A quién quieres proteger?"
     GuardWolf:
-      - "¡Has intentado proteger a un hombre lobo! Has tenido mala suerte y... te ha comido. :("
+    - "¡Has intentado proteger a un hombre lobo! Has tenido mala suerte y... te ha comido. :("
     GuardSaved:
-      - "¡Has salvado la vida de {0}!"
+    - "¡Has salvado la vida de {0}!"
     GuardNoAttack:
-      - "{0} no fue atacado anoche. Básicamente, no has hecho nada."
+    - "{0} no fue atacado anoche. Básicamente, no has hecho nada."
     GuardEmptyHouse:
-      - "¡Fuiste a proteger a {0}, pero no había nadie en casa! [Estaba visitando a otro jugador]."
+    - "¡Fuiste a proteger a {0}, pero no había nadie en casa! [Estaba visitando a otro jugador]."
     GuardSavedYou:
-      - "¡Tu ángel de la guarda estuvo velando por ti anoche y luchó contra el atacante que te acechaba! (Fuiste elegido por un atacante —asesina u hombre lobo—, pero te salvaron)."
+    - "¡Tu ángel de la guarda estuvo velando por ti anoche y luchó contra el atacante que te acechaba! (Fuiste elegido por un atacante —asesina u hombre lobo—, pero te salvaron)."
     GAGuardedKiller:
-      - "Se suponía que iba a ser una noche donde {0}, el ángel de la guarda, salvaría al pueblo de los asesinos, pero la asesina en serie extinguió su halo y le arrancó las alas! A la izquierda del cuerpo dejó una nota que decía: «Sé protegerme mejor que tú»."
+    - "Se suponía que iba a ser una noche donde {0}, el ángel de la guarda, salvaría al pueblo de los asesinos, pero la asesina en serie extinguió su halo y le arrancó las alas! A la izquierda del cuerpo dejó una nota que decía: «Sé protegerme mejor que tú»."
     GAGuardedWolf:
-      - "El ángel de la guarda, {0}, trató de proteger a un lobo anoche. Al amanecer, el pueblo se encontró las alas de {0} colgadas en la cruz de la iglesia. Sin comerlo ni beberlo, los hombres lobo recibieron un buen aperitivo extra por parte de Dios, gratis, y sin tener que desplazarse. ¡Todo un lujo, vaya!"
+    - "El ángel de la guarda, {0}, trató de proteger a un lobo anoche. Al amanecer, el pueblo se encontró las alas de {0} colgadas en la cruz de la iglesia. Sin comerlo ni beberlo, los hombres lobo recibieron un buen aperitivo extra por parte de Dios, gratis, y sin tener que desplazarse. ¡Todo un lujo, vaya!"
     GuardSavedYouFromFire:
-      - "Se produjo una llamarada en tu casa, ¡pero afortunadamente, el ángel guardián estaba allí y lo extinguió inmediatamente! Sería un gran bombero si no estuviera tan ocupado protegiendo gente..."
+    - "Se produjo una llamarada en tu casa, ¡pero afortunadamente, el ángel guardián estaba allí y lo extinguió inmediatamente! Sería un gran bombero si no estuviera tan ocupado protegiendo gente..."
     GuardSavedFromFire:
-      - "No esperabas realmente encontrar un incendio que apagar cuando visitaste a {0}, ¡pero sin embargo lo salvaste! Ahora nadie va a llamarte mal protector..."
+    - "No esperabas realmente encontrar un incendio que apagar cuando visitaste a {0}, ¡pero sin embargo lo salvaste! Ahora nadie va a llamarte mal protector..."
     CleanDoused:
-      - "No debiste luchar contra ningún enemigo en casa de {0} esta noche, por lo que tuviste tiempo de mirar un segundo a su alrededor, ¡y notar que la casa estaba mojada en keroseno! Como no tenías nada mejor que hacer, limpiaste la casa por él"
+    - "No debiste luchar contra ningún enemigo en casa de {0} esta noche, por lo que tuviste tiempo de mirar un segundo a su alrededor, ¡y notar que la casa estaba mojada en keroseno! Como no tenías nada mejor que hacer, limpiaste la casa por él"
     GuardBlockedWolf:
-      - "La manada se dirige a la casa de {0} para darse un festín con su cuerpo, pero se encuentran con una figura alta y oscura armada hasta los dientes. El ángel de la guarda os impide la entrada y volvéis a vuestro cubil derrotados."
+    - "La manada se dirige a la casa de {0} para darse un festín con su cuerpo, pero se encuentran con una figura alta y oscura armada hasta los dientes. El ángel de la guarda os impide la entrada y volvéis a vuestro cubil derrotados."
     GuardKiller:
-      - "Intentaste proteger al asesino, ¡pero él te acuchilló 98 veces! Me parece que has muerto."
+    - "Intentaste proteger al asesino, ¡pero él te acuchilló 98 veces! Me parece que has muerto."
     GuardBlockedKiller:
-      - "Quisiste incorporar el cuerpo de {0} para tu colección, ¡pero el ángel de la guarda lo protegió! No ha habido muertes esta noche."
+    - "Quisiste incorporar el cuerpo de {0} para tu colección, ¡pero el ángel de la guarda lo protegió! No ha habido muertes esta noche."
     GuardBlockedSnowWolf:
-      - "Fuiste a casa de {0} para congelarlo, pero te encontraste con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu cubil derrotado."
+    - "Fuiste a casa de {0} para congelarlo, pero te encontraste con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu cubil derrotado."
   Detective:
     Detective:
-      - "El detective \U0001F575️"
+    - "El detective 🕵️"
     RoleInfoDetective:
-      - "Eres el detective \U0001F575️. Durante el día, puedes elegir un jugador para investigar su rol. Sin embargo, si lo haces, tienes un 40% de probabilidad de que tu rol se revele a los hombres lobo."
+    - "Eres el detective 🕵️. Durante el día, puedes elegir un jugador para investigar su rol. Sin embargo, si lo haces, tienes un 40% de probabilidad de que tu rol se revele a los hombres lobo."
     AskDetect:
-      - "¿A quién quieres investigar?"
+    - "¿A quién quieres investigar?"
     DetectiveCaught:
-      - "¡Has pillado a {0} husmeando por ahí! ¡Es el detective!"
+    - "¡Has pillado a {0} husmeando por ahí! ¡Es el detective!"
     DetectiveSnoop:
-      - "Tus investigaciones te han mostrado que {0} es {1}."
+    - "Tus investigaciones te han mostrado que {0} es {1}."
   Wolf:
     Wolf:
-      - "Un hombre lobo \U0001F43A"
+    - "Un hombre lobo 🐺"
     RoleInfoWolf:
-      - "¡¡ERES UN HOMBRE LOBO \U0001F43A!! (bien por ti). Cada noche podrás elegir comerte a alguien. MUAJAJAJAJA"
+    - "¡¡ERES UN HOMBRE LOBO 🐺!! (bien por ti). Cada noche podrás elegir comerte a alguien. MUAJAJAJAJA"
     AskEat:
-      - "¿A quién quieres comerte?"
+    - "¿A quién quieres comerte?"
     WolfVotedKill:
-      - "{0} ha votado comerse a {1}."
+    - "{0} ha votado comerse a {1}."
     WolvesEatDrunk:
-      - "¡Oh, no! ¡{0} era el borracho! Ahora estáis borrachos y no podréis atacar mañana por la noche."
+    - "¡Oh, no! ¡{0} era el borracho! Ahora estáis borrachos y no podréis atacar mañana por la noche."
     WolvesEatDrunkBlockSecondKill:
-      - "¡Oh, no! {0} era la borracha, y, al comérosla, os ha provocado una intoxicación que os impide actuar la siguiente noche {1}."
+    - "¡Oh, no! {0} era la borracha, y, al comérosla, os ha provocado una intoxicación que os impide actuar la siguiente noche {1}."
     AllWolfDead:
-      - "Ya no quedan lobos vivos, y perdiste tus poderes convirtiéndote en un hombre lobo normal."
+    - "Ya no quedan lobos vivos, y perdiste tus poderes convirtiéndote en un hombre lobo normal."
     WolvesEatYou:
-      - "¡Oh, no! ¡Los hombres lobo te han comido! ÑAMÑAMÑAM"
+    - "¡Oh, no! ¡Los hombres lobo te han comido! ÑAMÑAMÑAM"
     WolfPackList:
-      - "La manada de lobos está formada por :"
+    - "La manada de lobos está formada por :"
     DiscussWith:
-      - "Asegúrate de discutirlo con {0}."
+    - "Asegúrate de discutirlo con {0}."
   Cursed:
     Cursed:
-      - "El maldito \U0001F63E"
+    - "El maldito 😾"
     RoleInfoCursed:
-      - "Estás maldito \U0001F63E. Por el momento, eres un aldeano, pero si los hombres lobo te matan, en lugar de morir te convertirás en uno de ellos."
+    - "Estás maldito 😾. Por el momento, eres un aldeano, pero si los hombres lobo te matan, en lugar de morir te convertirás en uno de ellos."
     CursedBitten:
-      - "Has sido mordido por los hombres lobo. ¡Como estabas maldito, te has convertido en uno de ellos!"
+    - "Has sido mordido por los hombres lobo. ¡Como estabas maldito, te has convertido en uno de ellos!"
     CursedBittenToWolves:
-      - "¡Fuisteis a morder a {0}... pero estaba maldito y se ha convertido en un hombre lobo más! ¡Felicidades por vuestro nuevo compañero!"
+    - "¡Fuisteis a morder a {0}... pero estaba maldito y se ha convertido en un hombre lobo más! ¡Felicidades por vuestro nuevo compañero!"
   Gunner:
     Gunner:
-      - "El justiciero \U0001F52B"
+    - "El justiciero 🔫"
     RoleInfoGunner:
-      - "Eres el justiciero \U0001F52B. Tienes dos balas. Durante el día, puedes elegir disparar a otro jugador. Todo el mundo oirá los disparos y sabrá que eres el justiciero (y no un hombre lobo)."
+    - "Eres el justiciero 🔫. Tienes dos balas. Durante el día, puedes elegir disparar a otro jugador. Todo el mundo oirá los disparos y sabrá que eres el justiciero (y no un hombre lobo)."
     AskShoot:
-      - ""
+    - ""
     HarlotShot:
-      - "Parece que el justiciero pilló la sífilis después de pasar la noche con la ramera. {0} se ha tomado la venganza por su mano y {1} ha muerto. [{0} es el justiciero y ha eliminado a {1}]."
+    - "Parece que el justiciero pilló la sífilis después de pasar la noche con la ramera. {0} se ha tomado la venganza por su mano y {1} ha muerto. [{0} es el justiciero y ha eliminado a {1}]."
     DefaultShot:
-      - "De repente, el sonido de un disparo inunda el aire. La aldea se gira para ver a {0} de pie sobre el cadáver de {1} con una pistola apuntando aún a su cabeza. {2}. [{0} es el justiciero y ha eliminado a {1}]."
+    - "De repente, el sonido de un disparo inunda el aire. La aldea se gira para ver a {0} de pie sobre el cadáver de {1} con una pistola apuntando aún a su cabeza. {2}. [{0} es el justiciero y ha eliminado a {1}]."
     GunnerShotWiseElder:
-      - "El justiciero \U0001F52B, {0} disparó a la anciana sabia \U0001F4DA, {1}. {0} solloza con gran tristeza, lamentando su grave error, y decide retirarse, lo que lo convierte en un simple aldeano con mucha tierra que arar."
+    - "El justiciero 🔫, {0} disparó a la anciana sabia 📚, {1}. {0} solloza con gran tristeza, lamentando su grave error, y decide retirarse, lo que lo convierte en un simple aldeano con mucha tierra que arar."
   Tanner:
     Tanner:
-      - "El veterano \U0001F47A"
+    - "El veterano 👺"
     RoleInfoTanner:
-      - "Eres el veterano \U0001F47A. Si consigues ser linchado, ¡ganas inmediatamente!"
+    - "Eres el veterano 👺. Si consigues ser linchado, ¡ganas inmediatamente!"
   Fool:
     Fool:
-      - "El necio \U0001F0CF"
+    - "El necio 🃏"
     RoleInfoFool:
-      - "Al necio se le dice que es el vidente... cuando eligen ver el papel de alguien por la noche, se les dice un papel aleatorio."
+    - "Al necio se le dice que es el vidente... cuando eligen ver el papel de alguien por la noche, se les dice un papel aleatorio."
   WildChild:
     WildChild:
-      - "El niño salvaje \U0001F476"
+    - "El niño salvaje 👶"
     RoleInfoWildChild:
-      - "¡Eres el niño salvaje \U0001F476! Elige un jugador para que sea tu «guía»; si muere, te convertirás en hombre lobo."
+    - "¡Eres el niño salvaje 👶! Elige un jugador para que sea tu «guía»; si muere, te convertirás en hombre lobo."
     WildChildToWolves:
-      - "¡El guía de {0} acaba de morir! En un ataque de rabia, ¡se convierte en hombre lobo!"
+    - "¡El guía de {0} acaba de morir! En un ataque de rabia, ¡se convierte en hombre lobo!"
     WildChildTransform:
-      - "¡{0} ha muerto! En un ataque de rabia, ¡te has convertido en hombre lobo!"
+    - "¡{0} ha muerto! En un ataque de rabia, ¡te has convertido en hombre lobo!"
   Beholder:
     Beholder:
-      - "La observadora \U0001F441"
+    - "La observadora 👁"
     RoleInfoBeholder:
-      - "Eres la observadora \U0001F441. Se te dirá quién es la (verdadera) vidente. Esta es tu única función."
+    - "Eres la observadora 👁. Se te dirá quién es la (verdadera) vidente. Esta es tu única función."
     BeholderSeer:
-      - "\nLa vidente es {0}."
+    - "\nLa vidente es {0}."
     BeholderNewSeer:
-      - "{0} era una aprendiz, ahora ha llegado su turno de relevar a {1} como la nuevo vidente."
+    - "{0} era una aprendiz, ahora ha llegado su turno de relevar a {1} como la nuevo vidente."
     NoSeer:
-      - "¡No hay vidente!"
+    - "¡No hay vidente!"
     BeholderSeerStolen:
-      - "¡El ladrón ha robado el rol de la vidente! ¡{0} es la nueva vidente y {1} ha perdido sus habilidades!"
+    - "¡El ladrón ha robado el rol de la vidente! ¡{0} es la nueva vidente y {1} ha perdido sus habilidades!"
   ApprenticeSeer:
     ApprenticeSeer:
-      - "La aprendiz de vidente \U0001F647"
+    - "La aprendiz de vidente 🙇"
     RoleInfoApprenticeSeer:
-      - "Eres la aprendiz de vidente \U0001F647. Si la (verdadera) vidente muere, ocuparás su puesto como vidente."
+    - "Eres la aprendiz de vidente 🙇. Si la (verdadera) vidente muere, ocuparás su puesto como vidente."
     ApprenticeNowSeer:
-      - "{0} era la vidente. Como su aprendiz, es tu turno de convertirte en vidente."
+    - "{0} era la vidente. Como su aprendiz, es tu turno de convertirte en vidente."
   Cultist:
     Cultist:
-      - "Un cultista \U0001F464"
+    - "Un cultista 👤"
     RoleInfoCultist:
-      - "Eres un cultista \U0001F464. Cada noche puedes elegir a otro jugador para convertirlo en cultista. Si al final de la partida todos los jugadores vivos sois cultistas, ganáis."
+    - "Eres un cultista 👤. Cada noche puedes elegir a otro jugador para convertirlo en cultista. Si al final de la partida todos los jugadores vivos sois cultistas, ganáis."
     CultistVotedConvert:
-      - "{0} ha votado convertir a {1}."
+    - "{0} ha votado convertir a {1}."
     AskConvert:
-      - "¿A quién quieres convertir a tu orden?"
+    - "¿A quién quieres convertir a tu orden?"
     CultConvertCultHunter:
     - "Enviaron a {0} para hacer el trabajo sucio y convertir a {1}...; sin embargo, ¡era la cazadora de cultistas! ¡{0} ha muerto!"
     CultJoin:
-      - "¡{0} se ha unido al culto!"
+    - "¡{0} se ha unido al culto!"
     CultistsList:
-      - "Los miembros del culto son:"
+    - "Los miembros del culto son:"
     CultConvertWolf:
-      - "El Culto envía a {0} para intentar convertir a {1}, pero en su lugar, la cabeza de {0} sale volando por la ventana. Me pregunto si pensaban que {0} era incomestible porque ahora está muerto."
+    - "El Culto envía a {0} para intentar convertir a {1}, pero en su lugar, la cabeza de {0} sale volando por la ventana. Me pregunto si pensaban que {0} era incomestible porque ahora está muerto."
     CultistBitten:
-      - "¡Qué extraño! Mientras discutís a quién convertir esta noche, os dais cuenta de que… ¡{0} no está por aquí! \U0001F914 ¿Qué le habrá pasado?"
+    - "¡Qué extraño! Mientras discutís a quién convertir esta noche, os dais cuenta de que… ¡{0} no está por aquí! 🤔 ¿Qué le habrá pasado?"
     CultConvertHunter:
-      - "El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, suena un disparo y ¡el cuerpo de {0} sale volando por la ventana! {0} ha muerto."
+    - "El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, suena un disparo y ¡el cuerpo de {0} sale volando por la ventana! {0} ha muerto."
     CultConvertSerialKiller:
-      - "El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, el cuerpo de {0} sale volando por la ventana, ¡con cuchillos clavados por todo el cuerpo! ¡QUÉ PSICÓPATA! {0} ha muerto."
-      - "{0} se cuela en casa de {1}, abre la puerta, ¡¡y es recibido por un loco con un cuchillo!! {1} hunde el cuchillo en cada uno de los órganos internos de {0} por orden alfabético, ¡carcajeando todo el tiempo! {0} ha muerto."
+    - "El culto envía a {0} para intentar convertir a {1}, pero en vez de eso, el cuerpo de {0} sale volando por la ventana, ¡con cuchillos clavados por todo el cuerpo! ¡QUÉ PSICÓPATA! {0} ha muerto."
+    - "{0} se cuela en casa de {1}, abre la puerta, ¡¡y es recibido por un loco con un cuchillo!! {1} hunde el cuchillo en cada uno de los órganos internos de {0} por orden alfabético, ¡carcajeando todo el tiempo! {0} ha muerto."
     CHHuntedYou:
-      - "La cazadora de cultistas \U0001F482‍♀️ te ha visitado mientras estabas rezando en el altar. Has sido atravesado con una espada y ahora estás muerto."
+    - "La cazadora de cultistas 💂‍♀️ te ha visitado mientras estabas rezando en el altar. Has sido atravesado con una espada y ahora estás muerto."
     HunterKilledCultist:
-      - "Un gran hedor viene de la casa de {0}. Los aldeanos la inspeccionan hasta encontrar un cuerpo yaciente frente a un altar oscuro. ¡Un cultista ha sido asesinado por la cazadora!"
+    - "Un gran hedor viene de la casa de {0}. Los aldeanos la inspeccionan hasta encontrar un cuerpo yaciente frente a un altar oscuro. ¡Un cultista ha sido asesinado por la cazadora!"
     CultConvertWolfPublic:
-      - "Aunque parecía que los hombres lobo habían decidido quedarse en casa, un cultista decidió visitarlos, siendo demasiado difícil de resistir para los hombres lobo. ¡La cabeza de {0} se convirtió en una deliciosa cena!"
-      - "El culto se encontró con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a un hombre lobo, justo la noche que los hombres lobo habían decidido quedarse en casa. Desafortunadamente para el culto, los hombres lobo no tienen ningún interés en unirse al nuevo movimiento religioso y era una oportunidad que no podían dejar pasar. {0} ha muerto."
+    - "Aunque parecía que los hombres lobo habían decidido quedarse en casa, un cultista decidió visitarlos, siendo demasiado difícil de resistir para los hombres lobo. ¡La cabeza de {0} se convirtió en una deliciosa cena!"
+    - "El culto se encontró con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a un hombre lobo, justo la noche que los hombres lobo habían decidido quedarse en casa. Desafortunadamente para el culto, los hombres lobo no tienen ningún interés en unirse al nuevo movimiento religioso y era una oportunidad que no podían dejar pasar. {0} ha muerto."
     CultConvertKillerPublic:
-      - "El culto pensaba que tendría un nuevo miembro en sus filas, pero ¡nada más lejos de la realidad! {0}, un cultista, fue descuartizado y sus restos fueron esparcidos por todo el pueblo. El libro «santo» estaba colocado junto a un cuchillo, como muestra clara de que la religión es la que manda."
-      - "Anoche, el culto trató de convertir al aldeano más loco del pueblo. Su miembro más reciente, {0}, trató de convertir a la asesina en serie, y esta hizo una nueva obra de arte en la plaza del pueblo, exhibiendo todos los órganos internos al pueblo."
+    - "El culto pensaba que tendría un nuevo miembro en sus filas, pero ¡nada más lejos de la realidad! {0}, un cultista, fue descuartizado y sus restos fueron esparcidos por todo el pueblo. El libro «santo» estaba colocado junto a un cuchillo, como muestra clara de que la religión es la que manda."
+    - "Anoche, el culto trató de convertir al aldeano más loco del pueblo. Su miembro más reciente, {0}, trató de convertir a la asesina en serie, y esta hizo una nueva obra de arte en la plaza del pueblo, exhibiendo todos los órganos internos al pueblo."
     HunterKilledVisiter:
-      - "En medio de la plaza de la ciudad, encuentran el cuerpo de {0}, con múltiples disparos en el cuerpo. ¡Parece ser que intentó acercarse sigilosamente al cazador! {1}"
+    - "En medio de la plaza de la ciudad, encuentran el cuerpo de {0}, con múltiples disparos en el cuerpo. ¡Parece ser que intentó acercarse sigilosamente al cazador! {1}"
     CultVisitEmpty:
-      - "{0} Fue enviado a hacer tu trabajo sucio y convertir a {1}..., ¡pero no había nadie en casa!"
+    - "{0} Fue enviado a hacer tu trabajo sucio y convertir a {1}..., ¡pero no había nadie en casa!"
     CultConvertYou:
-      - "¡El culto te ha convertido a su secta! Ahora eres un cultista. Cada noche tendrás ocasión de convertir a otra persona."
+    - "¡El culto te ha convertido a su secta! Ahora eres un cultista. Cada noche tendrás ocasión de convertir a otra persona."
     CultUnableToConvert:
-      - "Enviasteis a {0} para intentar convertir a {1}; sin embargo, su voluntad era demasiado fuerte y fue imposible unirlo a vuestra causa :("
+    - "Enviasteis a {0} para intentar convertir a {1}; sin embargo, su voluntad era demasiado fuerte y fue imposible unirlo a vuestra causa :("
     CultTargetDead:
-      - "El miembro más reciente del culto fue a convertir a {0} a su casa, pero en su lugar encontró la casa destrozada, sangre por todas partes y pelo de hombre lobo en la entrada."
+    - "El miembro más reciente del culto fue a convertir a {0} a su casa, pero en su lugar encontró la casa destrozada, sangre por todas partes y pelo de hombre lobo en la entrada."
     CultAttempt:
-      - "Una figura encapuchada trató de convertirte a su culto, pero tu fe es demasiado fuerte y has resistido a sus oraciones y convicciones."
+    - "Una figura encapuchada trató de convertirte a su culto, pero tu fe es demasiado fuerte y has resistido a sus oraciones y convicciones."
   CultistHunter:
     CultistHunter:
-      - "La cazadora de cultistas \U0001F482"
+    - "La cazadora de cultistas 💂"
     RoleInfoCultistHunter:
-      - "Eres la cazadora de cultistas \U0001F482. Cada noche, elige un jugador; si es un cultista, ese jugador muere. Si el culto trata de convertirte, el último miembro que se unió al culto muere"
+    - "Eres la cazadora de cultistas 💂. Cada noche, elige un jugador; si es un cultista, ese jugador muere. Si el culto trata de convertirte, el último miembro que se unió al culto muere"
     AskHunt:
-      - "¿A quién quieres dar caza?"
+    - "¿A quién quieres dar caza?"
     CultHunterKilledCultVisit:
-      - "{0} vino a tu casa esta noche para que te unieras a su causa…, pero enterraste tu espada en su pecho. Un cultista ha muerto… ¡Queda(n) {1}!"
+    - "{0} vino a tu casa esta noche para que te unieras a su causa…, pero enterraste tu espada en su pecho. Un cultista ha muerto… ¡Queda(n) {1}!"
     HunterVisitDead:
-      - "¡Fuiste a cazar a {0}, pero ya estaba muerto!"
+    - "¡Fuiste a cazar a {0}, pero ya estaba muerto!"
     HunterFailedToFind:
-      - "Vas a casa de {0}, pero no hay ningún cántico misterioso. No es un cultista, por lo que te vuelves a casa."
+    - "Vas a casa de {0}, pero no hay ningún cántico misterioso. No es un cultista, por lo que te vuelves a casa."
     HunterFindCultist:
-      - "Vas a la casa de {0} y te lo encuentras orando frente al altar de un dios desconocido… Rápidamente, introduces tu espada en su pecho y le das muerte en el acto."
+    - "Vas a la casa de {0} y te lo encuentras orando frente al altar de un dios desconocido… Rápidamente, introduces tu espada en su pecho y le das muerte en el acto."
     SerialKillerKilledCH:
-      - "Los aldeanos se despertaron por la mañana y se encontraron los restos del cuerpo de {0}, el cazador de cultistas, cortados en pedazos en un carro al lado del ayuntamiento. Lección aprendida: ¡no hay que visitar a la asesina en serie!"
+    - "Los aldeanos se despertaron por la mañana y se encontraron los restos del cuerpo de {0}, el cazador de cultistas, cortados en pedazos en un carro al lado del ayuntamiento. Lección aprendida: ¡no hay que visitar a la asesina en serie!"
   Mason:
     Mason:
-      - "Un masón \U0001F477"
+    - "Un masón 👷"
     RoleInfoMason:
-      - "Eres un masón \U0001F477. Si hay otro, sabrás quién es; en caso contrario, eres un aldeano más."
+    - "Eres un masón 👷. Si hay otro, sabrás quién es; en caso contrario, eres un aldeano más."
     MasonTeam:
-      - "Los masones son: {0}"
+    - "Los masones son: {0}"
     MasonConverted:
-      - "¡Qué raro! {0} no apareció esta mañana en la reunión de masones. O.o"
+    - "¡Qué raro! {0} no apareció esta mañana en la reunión de masones. O.o"
   Doppelganger:
     Doppelganger:
-      - "Doppelganger \U0001F3AD"
+    - "Doppelganger 🎭"
     RoleInfoDoppelganger:
-      - "Eres un doppelgänger \U0001F3AD (el doble). La leyenda dice que tus ancestros eran metamorfos, y podían escoger cualquier forma que quisieran. Tú has heredado algunas de sus capacidades. Escoge a un jugador; cuando muera, te quedarás con su rol."
+    - "Eres un doppelgänger 🎭 (el doble). La leyenda dice que tus ancestros eran metamorfos, y podían escoger cualquier forma que quisieran. Tú has heredado algunas de sus capacidades. Escoge a un jugador; cuando muera, te quedarás con su rol."
     AskRoleModel:
-      - "¿Quién quieres que sea tu guía?"
+    - "¿Quién quieres que sea tu guía?"
     AskDoppelganger:
-      - "¿En quién te quieres convertir si muere?"
+    - "¿En quién te quieres convertir si muere?"
     RoleModelChosen:
-      - "No has elegido un rol, el moderador eligió por ti: {0}"
+    - "No has elegido un rol, el moderador eligió por ti: {0}"
     DGTransformToMason:
-      - "{0} ha muerto y tú te conviertes en masón. Tus compañeros de equipo (si los hay) son: {1}"
+    - "{0} ha muerto y tú te conviertes en masón. Tus compañeros de equipo (si los hay) son: {1}"
     DGTransformToCult:
-      - "{0} ha muerto y tú te conviertes en cultista. Tus compañeros de equipo (si los hay) son: {1}"
+    - "{0} ha muerto y tú te conviertes en cultista. Tus compañeros de equipo (si los hay) son: {1}"
     DGToMason:
-      - "El doppelgänger (el doble) {0} se ha convertido en masón, ¡igual que tú!"
+    - "El doppelgänger (el doble) {0} se ha convertido en masón, ¡igual que tú!"
     DGToCult:
-      - "El doppelgänger (doble) {0} se ha convertido en cultista, ¡igual que tú!"
+    - "El doppelgänger (doble) {0} se ha convertido en cultista, ¡igual que tú!"
     DGToWolf:
-      - "El doppelgänger (doble) {0} se ha convertido en hombre lobo, ¡igual que tú!"
+    - "El doppelgänger (doble) {0} se ha convertido en hombre lobo, ¡igual que tú!"
   Cupid:
     Cupid:
-      - "Cupido \U0001F3F9"
+    - "Cupido 🏹"
     RoleInfoCupid:
-      - "Eres Cupido \U0001F3F9. Enviado a la Tierra con solo tu ropa interior, un arco y dos flechas, debes elegir a dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena."
+    - "Eres Cupido 🏹. Enviado a la Tierra con solo tu ropa interior, un arco y dos flechas, debes elegir a dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena."
     AskCupid1:
-      - "¿A quiénes quieres convertir en amantes?\nEscoge al primer jugador:"
+    - "¿A quiénes quieres convertir en amantes?\nEscoge al primer jugador:"
     AskCupid2:
-      - "¿A quiénes quieres convertir en amantes?\nEscoge al segundo jugador:"
+    - "¿A quiénes quieres convertir en amantes?\nEscoge al segundo jugador:"
     CupidChosen:
-      - "Has sido golpeado por el amor. El recuerdo de {0} nunca desaparecerá de tu corazón. Si uno de los dos muere, el otro morirá de pena. Si estando vivos los dos, uno de los dos gana, el otro ganará también."
-      - "¡Las flechas de Cupido te han alcanzado! ¡Estás locamente enamorado(a) de {0}! Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!"
+    - "Has sido golpeado por el amor. El recuerdo de {0} nunca desaparecerá de tu corazón. Si uno de los dos muere, el otro morirá de pena. Si estando vivos los dos, uno de los dos gana, el otro ganará también."
+    - "¡Las flechas de Cupido te han alcanzado! ¡Estás locamente enamorado(a) de {0}! Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!"
   Hunter:
     Hunter:
-      - "El cazador \U0001F3AF"
+    - "El cazador 🎯"
     RoleInfoHunter:
-      - "Eres el cazador de la ciudad \U0001F3AF. No duermes bien, y nunca deberías irte a la cama sin tu rifle. Si mueres, puedes escoger a alguien para matar. Si te comen, tienes una oportunidad de matar a un hombre lobo, pero no podrás escoger a quién."
+    - "Eres el cazador de la ciudad 🎯. No duermes bien, y nunca deberías irte a la cama sin tu rifle. Si mueres, puedes escoger a alguien para matar. Si te comen, tienes una oportunidad de matar a un hombre lobo, pero no podrás escoger a quién."
     HunterLynchedChoice:
-      - "¡Los aldeanos han decidido colgarte! Esta es tu última oportunidad, ¡escoge a quién disparar mientras caes!"
+    - "¡Los aldeanos han decidido colgarte! Esta es tu última oportunidad, ¡escoge a quién disparar mientras caes!"
     HunterNoChoiceLynched:
-      - "{0} trata de alcanzar su pistola mientras el nudo se va apretando, pero no puede cogerla a tiempo, y muere con un sonoro chasquido del cuello."
+    - "{0} trata de alcanzar su pistola mientras el nudo se va apretando, pero no puede cogerla a tiempo, y muere con un sonoro chasquido del cuello."
     HunterSkipChoiceLynched:
-      - "{0} alcanza su pistola, mira a la multitud... y no puede escoger a quien disparar. Muere aceptando su destino."
+    - "{0} alcanza su pistola, mira a la multitud... y no puede escoger a quien disparar. Muere aceptando su destino."
     HunterKilledFinalLynched:
-      - "Mientras el nudo se aprieta alrededor del cuello de {0}, saca la pistola, la carga, apunta, aprieta el gatillo ¡y dispara a {1} mientras el suelo se acerca! {1} cae y muere. {2}"
+    - "Mientras el nudo se aprieta alrededor del cuello de {0}, saca la pistola, la carga, apunta, aprieta el gatillo ¡y dispara a {1} mientras el suelo se acerca! {1} cae y muere. {2}"
     HunterShotChoice:
-      - "¡Has sido asesinado! En tus últimos momentos, puedes escoger a quién disparar. ¡Hazlo rápido!"
+    - "¡Has sido asesinado! En tus últimos momentos, puedes escoger a quién disparar. ¡Hazlo rápido!"
     HunterNoChoiceShot:
-      - "El ataque a {0} fue tan fuerte que no pudo alcanzar su arma, mientras yacía en un charco de sangre..."
+    - "El ataque a {0} fue tan fuerte que no pudo alcanzar su arma, mientras yacía en un charco de sangre..."
     HunterSkipChoiceShot:
-      - "Mientras {0} yace ahí, luchando por su último aliento, no puede decidir a quién disparar. Muere aceptando su destino."
+    - "Mientras {0} yace ahí, luchando por su último aliento, no puede decidir a quién disparar. Muere aceptando su destino."
     HunterKilledFinalShot:
-      - "Mientras la bala perfora a {0}, cae al suelo, pero no sin antes agarrar su pistola, y dispara a {1}, que se lleva una bala entre los ojos. {2}"
+    - "Mientras la bala perfora a {0}, cae al suelo, pero no sin antes agarrar su pistola, y dispara a {1}, que se lleva una bala entre los ojos. {2}"
     HunterShotWolfMulti:
-      - "Los hombres lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a uno mientras moría! {0} ha muerto y era un hombre lobo."
+    - "Los hombres lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a uno mientras moría! {0} ha muerto y era un hombre lobo."
     HunterShotWolf:
-      - "{0} intentó atacar al cazador anoche, ¡pero el cazador pudo alcanzarlo con su rifle! {0} era un hombre lobo."
+    - "{0} intentó atacar al cazador anoche, ¡pero el cazador pudo alcanzarlo con su rifle! {0} era un hombre lobo."
     HunterKilledWiseElder:
-      - "El cazador, {0}, disparó a la anciana sabia \U0001F4DA, {1}. {0} solloza con gran tristeza, lamentando su grave error, que le ha hecho perder sus habilidades de cazador. Ha muerto como un simple aldeano."
+    - "El cazador, {0}, disparó a la anciana sabia 📚, {1}. {0} solloza con gran tristeza, lamentando su grave error, que le ha hecho perder sus habilidades de cazador. Ha muerto como un simple aldeano."
   SerialKiller:
     SerialKiller:
-      - "La asesina en serie \U0001F52A"
+    - "La asesina en serie 🔪"
     RoleInfoSerialKiller:
-      - "Eres la asesina en serie \U0001F52A. Hace poco que escapaste del manicomio local, tu objetivo es que todos los demás mueran. Cada noche, puedes añadir un cuerpo a tu colección."
+    - "Eres la asesina en serie 🔪. Hace poco que escapaste del manicomio local, tu objetivo es que todos los demás mueran. Cada noche, puedes añadir un cuerpo a tu colección."
     AskKill:
-      - "¿A quién quieres matar esta noche?"
+    - "¿A quién quieres matar esta noche?"
     KillerRandomKill:
-      - "En el camino a casa de {0}, notas un agudo dolor en tu pierna. Decides ir a la casa más cercana, que parece ser la de {1}, por lo que lo asesinas y te apresuras por volver a casa."
+    - "En el camino a casa de {0}, notas un agudo dolor en tu pierna. Decides ir a la casa más cercana, que parece ser la de {1}, por lo que lo asesinas y te apresuras por volver a casa."
     KillerStumbled:
-      - "Cortaste el hígado del cuerpo de {0}, pero en tu camino de regreso, te inclinaste demasiado sobre una tumba sin finalizar y tropezaste dentro de ella. Quizás no debiste haber buscado el hígado del cadáver... Ahora tu pierna está realmente lastimada."
+    - "Cortaste el hígado del cuerpo de {0}, pero en tu camino de regreso, te inclinaste demasiado sobre una tumba sin finalizar y tropezaste dentro de ella. Quizás no debiste haber buscado el hígado del cadáver... Ahora tu pierna está realmente lastimada."
     SerialKillerKilledYou:
-      - "Toc, toc. ¿Tiene un momento para hablar de Nuestra Señora la asesina en serie?"
-      - "La asesina en serie te ha tendido una emboscada, te ha inmovilizado ¡y te ha cosido a puñaladas!"
+    - "Toc, toc. ¿Tiene un momento para hablar de Nuestra Señora la asesina en serie?"
+    - "La asesina en serie te ha tendido una emboscada, te ha inmovilizado ¡y te ha cosido a puñaladas!"
     SerialKillerKilledWolf:
-      - "Los hombres lobo intentaron tener un buen aperitivo nocturno, ¡pero en vez de eso, fueron recibidos por una asesina en serie! ¡{0} fue asesinado en la pelea!"
+    - "Los hombres lobo intentaron tener un buen aperitivo nocturno, ¡pero en vez de eso, fueron recibidos por una asesina en serie! ¡{0} fue asesinado en la pelea!"
   Sorcerer:
     Sorcerer:
-      - "La hechicera \U0001F52E"
+    - "La hechicera 🔮"
     RoleInfoSorcerer:
-      - "Eres la hechicera \U0001F52E. Prefieres aliarte con las criaturas de la noche en vez de con los aldeanos. Por la noche usarás tus poderes para encontrar a los hombres lobo o a la vidente. Solo ganas si los hombres lobo ganan. ¡¡Disfruta ayudando a los hombres lobo a librarse de los miserables aldeanos!!"
+    - "Eres la hechicera 🔮. Prefieres aliarte con las criaturas de la noche en vez de con los aldeanos. Por la noche usarás tus poderes para encontrar a los hombres lobo o a la vidente. Solo ganas si los hombres lobo ganan. ¡¡Disfruta ayudando a los hombres lobo a librarse de los miserables aldeanos!!"
   AlphaWolf:
     AlphaWolf:
-      - "El lobo alfa ⚡️"  
+    - "El lobo alfa ⚡️"
     RoleInfoAlphaWolf:
-      - "Eres el lobo alfa ⚡️. Eres el origen de la maldición. Tu mordisco es la causa de la enfermedad que convierte a los aldeanos en hombres lobo. Cada noche, podrás elegir un aldeano para atacarlo y matarlo, pero mientras estés vivo, existe un 20% de probabilidad de que se convierta en un hombre lobo."
+    - "Eres el lobo alfa ⚡️. Eres el origen de la maldición. Tu mordisco es la causa de la enfermedad que convierte a los aldeanos en hombres lobo. Cada noche, podrás elegir un aldeano para atacarlo y matarlo, pero mientras estés vivo, existe un 20% de probabilidad de que se convierta en un hombre lobo."
     BittenTurned:
-      - "Mientras cae la noche, sientes un extraño hormigueo y cómo tu cuerpo empieza a transformarse. ¡Ahora eres un hombre lobo!"
+    - "Mientras cae la noche, sientes un extraño hormigueo y cómo tu cuerpo empieza a transformarse. ¡Ahora eres un hombre lobo!"
     PlayerBitten:
-      - "Fuiste mordido por los hombres lobo, pero el lobo alfa te escogió. En lugar de morir, has sido infectado ¡y te convertirás en hombre lobo la próxima noche!"
+    - "Fuiste mordido por los hombres lobo, pero el lobo alfa te escogió. En lugar de morir, has sido infectado ¡y te convertirás en hombre lobo la próxima noche!"
     PlayerBittenWolves:
-      - "Mientras los hombres lobo atacan a {0}, {1} para a la manada, ya que es el lobo alfa. {1} le dice a la manada que {0} debería unirse a ellos en lugar de morir, por lo que la manada lo suelta y deja que la infección siga su curso. Se convertirá en hombre lobo la próxima noche."
+    - "Mientras los hombres lobo atacan a {0}, {1} para a la manada, ya que es el lobo alfa. {1} le dice a la manada que {0} debería unirse a ellos en lugar de morir, por lo que la manada lo suelta y deja que la infección siga su curso. Se convertirá en hombre lobo la próxima noche."
   WolfCub:
     WolfCub:
-      - "El lobezno \U0001F436"
+    - "El lobezno 🐶"
     RoleInfoWolfCub:
-      - "Eres el lobezno \U0001F436. ¡¡Tu manada te adora!! Como el resto de hombres lobo, elegirás atacar a un aldeano y matarlo cada noche. Si mueres, tu manada entrará en cólera y atacará a dos aldeanos la próxima noche. Por desgracia, seguirás muerto."
+    - "Eres el lobezno 🐶. ¡¡Tu manada te adora!! Como el resto de hombres lobo, elegirás atacar a un aldeano y matarlo cada noche. Si mueres, tu manada entrará en cólera y atacará a dos aldeanos la próxima noche. Por desgracia, seguirás muerto."
   Blacksmith:
     Blacksmith:
-      - "El herrero ⚒"
+    - "El herrero ⚒"
     RoleInfoBlacksmith:
-      - "Eres el herrero ⚒. El trabajador del metal en el pueblo. Tienes una pequeña cantidad de polvo de plata, suficiente para prevenir el ataque de los hombres lobo durante una noche. Durante el día, podrás elegir si deseas esparcirla por el pueblo. Aparte de eso, eres un simple aldeano."
+    - "Eres el herrero ⚒. El trabajador del metal en el pueblo. Tienes una pequeña cantidad de polvo de plata, suficiente para prevenir el ataque de los hombres lobo durante una noche. Durante el día, podrás elegir si deseas esparcirla por el pueblo. Aparte de eso, eres un simple aldeano."
     SpreadDust:
-      - "¿Quieres esparcir la plata por pueblo para impedir que los hombres lobo ataquen esta noche al pueblo?"
+    - "¿Quieres esparcir la plata por pueblo para impedir que los hombres lobo ataquen esta noche al pueblo?"
     BlacksmithSpreadSilver:
-      - "Mientras los aldeanos discuten sobre los hechos acontecidos, de repente ven a {0}, que se pone a dar vueltas por el pueblo y a espolvorear plata por todo el suelo. Por ahora, el pueblo estará a salvo de los ataques de los hombres lobo; los hombres lobo no atacan esta noche."
+    - "Mientras los aldeanos discuten sobre los hechos acontecidos, de repente ven a {0}, que se pone a dar vueltas por el pueblo y a espolvorear plata por todo el suelo. Por ahora, el pueblo estará a salvo de los ataques de los hombres lobo; los hombres lobo no atacan esta noche."
   ClumsyGuy:
     ClumsyGuy:
-      - "El torpe \U0001F915"
+    - "El torpe 🤕"
     RoleInfoClumsyGuy:
-      - "Eres el torpe \U0001F915: Al votar, tienes un 50% de probabilidades de votar por otra persona distinta a la que elegiste. Aun así, eres aldeano."
+    - "Eres el torpe 🤕: Al votar, tienes un 50% de probabilidades de votar por otra persona distinta a la que elegiste. Aun así, eres aldeano."
   Mayor:
     Mayor:
-      - "El alcalde \U0001F396"
+    - "El alcalde 🎖"
     RoleInfoMayor:
-      - "Eres el alcalde \U0001F396. Tu voto a la hora de linchar contará el doble una vez hayas revelado tu rol al pueblo. Estás en el equipo de los aldeanos."
+    - "Eres el alcalde 🎖. Tu voto a la hora de linchar contará el doble una vez hayas revelado tu rol al pueblo. Estás en el equipo de los aldeanos."
     AskMayor:
-      - "Haz clic en «Revelar rol» cuando quieras revelarte al pueblo como el alcalde."
+    - "Haz clic en «Revelar rol» cuando quieras revelarte al pueblo como el alcalde."
     MayorReveal:
-      - "{0} Da un paso al frente y muestra su placa de la alcaldía, que demuestra que es el alcalde del pueblo. Desde ahora, los votos de {0} a la hora de linchar contarán el doble."
+    - "{0} Da un paso al frente y muestra su placa de la alcaldía, que demuestra que es el alcalde del pueblo. Desde ahora, los votos de {0} a la hora de linchar contarán el doble."
     Reveal:
-      - "Revelar rol"
+    - "Revelar rol"
   Prince:
     Prince:
-      - "La princesa \U0001F451"
+    - "La princesa 👑"
     RoleInfoPrince:
-      - "Eres la princesa \U0001F451. Dejaste tu aburrida y mimada vida por pasar el día con los aldeanos (¡qué campechana!). Si intentan lincharte, se arrepentirán y nadie será linchado."
+    - "Eres la princesa 👑. Dejaste tu aburrida y mimada vida por pasar el día con los aldeanos (¡qué campechana!). Si intentan lincharte, se arrepentirán y nadie será linchado."
     PrinceLynched:
-      - "Mientras el pueblo empieza a linchar a {0}, de repente dice: «¡Esperad, soy la princesa! Este anillo real, junto con el sello del rey lo demuestran. ¡Mis sirvientes me acompañan día y noche, por lo que no puedo ser malo!». Avergonzados, los aldeanos se marchan a sus casas."
+    - "Mientras el pueblo empieza a linchar a {0}, de repente dice: «¡Esperad, soy la princesa! Este anillo real, junto con el sello del rey lo demuestran. ¡Mis sirvientes me acompañan día y noche, por lo que no puedo ser malo!». Avergonzados, los aldeanos se marchan a sus casas."
   Lycan:
     Lycan:
-      - "El licántropo \U0001F43A\U0001F31D" 
+    - "El licántropo 🐺🌝"
     RoleInfoLycan:
-      - "¡Eres el licántropo \U0001F43A\U0001F31D! Eres un lobo, pero la vidente se confundirá y te percibirá como un aldeano. :)"
+    - "¡Eres el licántropo 🐺🌝! Eres un lobo, pero la vidente se confundirá y te percibirá como un aldeano. :)"
   Pacifist:
     Pacifist:
-      - "El pacifista ☮️"
+    - "El pacifista ☮️"
     RoleInfoPacifist:
-      - "Eres el pacifista ☮️. Tienes el poder de persuadir a tu vecinos para que nadie linche. Solo podrás hacerlo una vez."
+    - "Eres el pacifista ☮️. Tienes el poder de persuadir a tu vecinos para que nadie linche. Solo podrás hacerlo una vez."
     AskPacifist:
-      - "¿Quieres evitar que se linche esta noche?"
+    - "¿Quieres evitar que se linche esta noche?"
     PacifistNoLynch:
-      - "El pacifista ☮️, {0}, está dando un emotivo discurso de paz, amor y amistad en la plaza del pueblo. Conmovido por su retórica, el pueblo decide no linchar a nadie esta noche."
+    - "El pacifista ☮️, {0}, está dando un emotivo discurso de paz, amor y amistad en la plaza del pueblo. Conmovido por su retórica, el pueblo decide no linchar a nadie esta noche."
     PacifistNoLynchNow:
-      - "A causa del enternecedor discurso del pacifista ☮️, no habrá linchamientos por hoy."
+    - "A causa del enternecedor discurso del pacifista ☮️, no habrá linchamientos por hoy."
     LynchPeaceTimeout:
-      - ""
+    - ""
     Peace:
-      - "¡Haya paz!"
+    - "¡Haya paz!"
   WiseElder:
     WiseElder:
-      - "La anciana sabia \U0001F4DA"
+    - "La anciana sabia 📚"
     RoleInfoWiseElder:
-      - "Eres la anciana sabia \U0001F4DA. Podrás sobrevivir al ataque de los hombres lobo una única vez; la siguiente vez no tendrás tanta suerte. Si el justiciero o el cazador te matan, perderán sus poderes y se convertirán en aldeanos."
+    - "Eres la anciana sabia 📚. Podrás sobrevivir al ataque de los hombres lobo una única vez; la siguiente vez no tendrás tanta suerte. Si el justiciero o el cazador te matan, perderán sus poderes y se convertirán en aldeanos."
     WolvesTriedToEatWiseElder:
-      - "Intentasteis entrar en la casa de {0}, ¡pero desgraciadamente la anciana sabia\U0001F4DA se encontraba ahí! {0} impidió con éxito el ataque, pero, afortunadamente, no han reconocido a ninguno de vosotros."
+    - "Intentasteis entrar en la casa de {0}, ¡pero desgraciadamente la anciana sabia📚 se encontraba ahí! {0} impidió con éxito el ataque, pero, afortunadamente, no han reconocido a ninguno de vosotros."
     WolvesAteWiseElderPM:
-      - "Los lobos intentaron darse un festín con tu deliciosa carne, ¿pero no te convertiste en la anciana sabia \U0001F4DA siendo fácil de matar por un intruso! Evitaste con éxito el ataque, pero por desgracia no reconociste a ninguno de los atacantes."
+    - "Los lobos intentaron darse un festín con tu deliciosa carne, ¿pero no te convertiste en la anciana sabia 📚 siendo fácil de matar por un intruso! Evitaste con éxito el ataque, pero por desgracia no reconociste a ninguno de los atacantes."
   Oracle:
     Oracle:
-      - "El oráculo \U0001F300" 
+    - "El oráculo 🌀"
     RoleInfoOracle:
-      - "Eres el oráculo \U0001F300. Cada noche podrás elegir a alguien para ver lo que NO es. Verás el rol de otro que esté vivo todavía, así que presta atención al rol, porque significa que aún queda uno de ellos. :)"
+    - "Eres el oráculo 🌀. Cada noche podrás elegir a alguien para ver lo que NO es. Verás el rol de otro que esté vivo todavía, así que presta atención al rol, porque significa que aún queda uno de ellos. :)"
     NegSeerSees:
-      - "¡Percibes que {0} NO es {1}!"
+    - "¡Percibes que {0} NO es {1}!"
   Sandman:
     Sandman:
-      - "el arenero \U0001F4A4" 
+    - "el arenero 💤"
     RoleInfoSandman:
-      - "Eres el arenero \U0001F4A4. Una única vez en la partida podrás dormir profundamente a todos, haciendo que nadie pueda usar sus acciones esa noche."
+    - "Eres el arenero 💤. Una única vez en la partida podrás dormir profundamente a todos, haciendo que nadie pueda usar sus acciones esa noche."
     AskSandman:
-      - "¿Quieres dormir a toda la aldea esta noche?"
+    - "¿Quieres dormir a toda la aldea esta noche?"
     SandmanSleepAll:
-      - "Mientras la aldea discute, {0} vuelve a su casa y comienza a tatarear una dulce melodía. Esta noche, todos caerán en un sueño profundo, y nadie podrá realizar acciones nocturnas."
+    - "Mientras la aldea discute, {0} vuelve a su casa y comienza a tatarear una dulce melodía. Esta noche, todos caerán en un sueño profundo, y nadie podrá realizar acciones nocturnas."
     SandmanNight:
-      - "Cae la noche y los aldeanos apenas llegan a sus camas por el agotamiento. Se quedan dormidos profundamente, ni siquiera recuerdan haberse ido a dormir…"
+    - "Cae la noche y los aldeanos apenas llegan a sus camas por el agotamiento. Se quedan dormidos profundamente, ni siquiera recuerdan haberse ido a dormir…"
   WolfMan:
     WolfMan:
-      - "El guardabosques \U0001F471\U0001F31A"
+    - "El guardabosques 👱🌚"
     RoleInfoWolfMan:
-      - "Eres el guardabosques \U0001F471\U0001F31A; es decir, un aldeano más; sin embargo, dado que pasas mucho tiempo en el bosque junto a los lobos, la vidente te percibirá como uno. ¡Oh, no!"
+    - "Eres el guardabosques 👱🌚; es decir, un aldeano más; sin embargo, dado que pasas mucho tiempo en el bosque junto a los lobos, la vidente te percibirá como uno. ¡Oh, no!"
   Thief:
     Thief:
-      - "El ladrón \U0001F608" 
+    - "El ladrón 😈"
     RoleInfoThief:
-      - "¡Eres el ladrón \U0001F608! Puedes robar el rol del jugador que elijas durante la primera noche y convertirlo en un simple aldeano."
+    - "¡Eres el ladrón 😈! Puedes robar el rol del jugador que elijas durante la primera noche y convertirlo en un simple aldeano."
     RoleInfoThiefFull:
-      - "¡Eres el ladrón \U0001F608! Dado que el modo «Ladrón completo» está activado, tienes un 50% de posibilidades de robar el rol de algún jugador cada noche. Si lo consigues, dicho jugador se convertirá en el nuevo ladrón y seguirá con los robos."
+    - "¡Eres el ladrón 😈! Dado que el modo «Ladrón completo» está activado, tienes un 50% de posibilidades de robar el rol de algún jugador cada noche. Si lo consigues, dicho jugador se convertirá en el nuevo ladrón y seguirá con los robos."
     AskThief:
-      - "¿A quién quieres robarle el rol?"
+    - "¿A quién quieres robarle el rol?"
     ThiefStealFailed:
-      - "Intentaste robarle el rol a {0}, pero no lo conseguiste."
+    - "Intentaste robarle el rol a {0}, pero no lo conseguiste."
     ThiefStealDead:
-      - "Intentaste robarle el rol a {0}, pero {0} ya está criando malvas."
+    - "Intentaste robarle el rol a {0}, pero {0} ya está criando malvas."
     ThiefStoleRole:
-      - "Le robaste con éxito el rol a {0}."
+    - "Le robaste con éxito el rol a {0}."
     ThiefToMason:
-      - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en masón y trabajaréis mano a mano."
+    - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en masón y trabajaréis mano a mano."
     ThiefToCult:
-      - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en cultista, ¡como tú!"
+    - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en cultista, ¡como tú!"
     ThiefToWolf:
-      - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en hombre lobo, ¡como tú!"
+    - "{0} ya no forma parte de tu equipo, y {1} se ha convertido en hombre lobo, ¡como tú!"
     ThiefStealChosen:
-      - "Tu objetivo de robo ahora es {0}."
+    - "Tu objetivo de robo ahora es {0}."
     ThiefStoleYourRoleThief:
-      - "¡Te han robado el rol! ¡Ahora eres el nuevo ladrón\U0001F608 y podrás robar un rol la próxima noche!"
+    - "¡Te han robado el rol! ¡Ahora eres el nuevo ladrón😈 y podrás robar un rol la próxima noche!"
     ThiefStoleYourRoleVillager:
-      - "¡Te han robado el rol! Ahora eres un aldeano, ¡prepárate para arar la tierra!"
+    - "¡Te han robado el rol! Ahora eres un aldeano, ¡prepárate para arar la tierra!"
     StealKiller:
-      - "Has intentado robar un rol, pero... ¡era el de la asesina en serie! En cuestión de segundos has pasado de estar acechando su casa a acabar apuñado por entrometerte en sus asuntos."
+    - "Has intentado robar un rol, pero... ¡era el de la asesina en serie! En cuestión de segundos has pasado de estar acechando su casa a acabar apuñado por entrometerte en sus asuntos."
     ThiefStoleKiller:
-      - "¡El ladrón, {0}, intentó robar el rol de la asesina en serie! Pero parece que le salió el tiro por la culata: encontráis el cuerpo de {0} apuñalado por todas partes, aunque su hígado no ha aparecido…"
+    - "¡El ladrón, {0}, intentó robar el rol de la asesina en serie! Pero parece que le salió el tiro por la culata: encontráis el cuerpo de {0} apuñalado por todas partes, aunque su hígado no ha aparecido…"
     NewDGRoleModel:
-      - "Te has convertido en el doppelgänger y tomarás el rol de {0} después de su muerte."
+    - "Te has convertido en el doppelgänger y tomarás el rol de {0} después de su muerte."
     NewWCRoleModel:
-      - "Eres el niño salvaje. Tu modelo a seguir es {0}"
+    - "Eres el niño salvaje. Tu modelo a seguir es {0}"
   Troublemaker:
     Troublemaker:
-      - "El buscapleitos \U0001F92F"
+    - "El buscapleitos 🤯"
     RoleInfoTroublemaker:
-      - "Eres el buscapleitos \U0001F92F. Como adolescente de la aldea, estás en plena pubertad, con lo que conlleva. Una vez por partida, cuando te sientas muy molesto por todo, podrás causar un enorme furor en la aldea, y los aldeanos lincharán 2 veces ese día."
+    - "Eres el buscapleitos 🤯. Como adolescente de la aldea, estás en plena pubertad, con lo que conlleva. Una vez por partida, cuando te sientas muy molesto por todo, podrás causar un enorme furor en la aldea, y los aldeanos lincharán 2 veces ese día."
     AskTroublemaker:
-      - "¿Quieres liarla hoy?"
+    - "¿Quieres liarla hoy?"
     TroublemakerDoubleLynch:
-      - "{0}, el buscapleitos \U0001F92F, está armando un escándalo tremendo. ¡Corre por ahí y grita de satisfacción! Hoy lincharás 2 veces."
+    - "{0}, el buscapleitos 🤯, está armando un escándalo tremendo. ¡Corre por ahí y grita de satisfacción! Hoy lincharás 2 veces."
     TroubleDoubleLynchNow:
-      - "Gracias al buscapleitos, ¡hoy podrás linchar 2 veces! Esperemos que el día de mañana sea más calmado."
+    - "Gracias al buscapleitos, ¡hoy podrás linchar 2 veces! Esperemos que el día de mañana sea más calmado."
   Chemist:
     Chemist:
-      - "Químico \U0001F9EA"
+    - "Químico 🧪"
     RoleInfoChemist:
-      - "Eres el Químico \U0001F9EA, un científico loco que experimenta con seres vivos. En la primera noche, preparas 4 pociones 2 son venenos mortales y 2 son analgésicos inofensivos. Puedes elegir un objetivo para darle uno de cada, ¡dejándole decidir su propio destino!\n\nSi un rol malo muere por el veneno, recibes 2 pociones extra. Después de visitar a alguien, debes esperar 1 día antes de visitar a otro jugador."
+    - "Eres el Químico 🧪, un científico loco que experimenta con seres vivos. En la primera noche, preparas 4 pociones 2 son venenos mortales y 2 son analgésicos inofensivos. Puedes elegir un objetivo para darle uno de cada, ¡dejándole decidir su propio destino!\n\nSi un rol malo muere por el veneno, recibes 2 pociones extra. Después de visitar a alguien, debes esperar 1 día antes de visitar a otro jugador."
     AskChemist:
-      - ""
+    - ""
     AskChemistPill:
-      - "El químico te insta a elegir una poción. Una es mortal y la otra segura. ¿Cuál elegirás?"
+    - "El químico te insta a elegir una poción. Una es mortal y la otra segura. ¿Cuál elegirás?"
     ChemistFail:
-      - ""
+    - ""
     ChemistDeadYou:
-      - ""
+    - ""
     ChemistSuccessPublic:
-      - ""
+    - ""
     ChemistFailPublic:
-      - ""
+    - ""
     ChemistBrewing:
-      - ""
+    - ""
     ChemistExtraPill:
-      - ""
+    - ""
   SnowWolf:
     SnowWolf:
-      - "El lobo de nieve \U0001F43A☃️"
+    - "El lobo de nieve 🐺☃️"
     RoleInfoSnowWolf:
-      - "Eres el lobo de nieve \U0001F43A☃️. Cada noche, en lugar de seguir a tu manada para cazar, merodearás para congelar a un aldeano, que será incapaz de usar ninguna acción nocturna; no obstante, tu víctima tendrá residuos de tu poder y no podrá ser congelado dos noches seguidas."
+    - "Eres el lobo de nieve 🐺☃️. Cada noche, en lugar de seguir a tu manada para cazar, merodearás para congelar a un aldeano, que será incapaz de usar ninguna acción nocturna; no obstante, tu víctima tendrá residuos de tu poder y no podrá ser congelado dos noches seguidas."
     AskFreeze:
-      - "¿A quien quieres congelar esta noche?"
+    - "¿A quien quieres congelar esta noche?"
     SuccessfulFreeze:
-      - "Fuiste a casa de {0} y lograste congelarlo. Esta noche no será capaz de usar sus acciones."
+    - "Fuiste a casa de {0} y lograste congelarlo. Esta noche no será capaz de usar sus acciones."
     HarlotFrozen:
-      - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Te quedas en tu puerta maldiciendo sileciosamente esta extraña forma de «bondage»."
+    - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Te quedas en tu puerta maldiciendo sileciosamente esta extraña forma de «bondage»."
     CultistFrozen:
-      - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Tus compañeros del culto terminan riéndose al ver la situación en la que has acabado."
+    - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Tus compañeros del culto terminan riéndose al ver la situación en la que has acabado."
     CHFrozen:
-      - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Tus caderas comienzan a cansarse despues de estar en esa posición durante tantas horas."
+    - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Tus caderas comienzan a cansarse despues de estar en esa posición durante tantas horas."
     SeeingFrozen:
-      - "Mientras te sentabas en la mesa para usar tus poderes psíquicos, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Normalmente el estar sujeta no es un problema, pero el intenso frío te ha congelado el cerebro."
+    - "Mientras te sentabas en la mesa para usar tus poderes psíquicos, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Normalmente el estar sujeta no es un problema, pero el intenso frío te ha congelado el cerebro."
     GAFrozen:
-      - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Ahora pareces un adorno de navidad más."
+    - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Ahora pareces un adorno de navidad más."
     SKFrozen:
-      - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Ahora solo te queda jurar venganza contra el lobo de nieve."
+    - "Mientras abres la puerta para salir de casa, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Ahora solo te queda jurar venganza contra el lobo de nieve."
     ThiefFrozen:
-      - "Mientras merodeabas por la aldea, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Afortunadamente estaba muy oscuro y no te han reconocido."
+    - "Mientras merodeabas por la aldea, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Afortunadamente estaba muy oscuro y no te han reconocido."
     DefaultFrozen:
-      - "Mientras estabas durmiendo, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío \U0001F43A☃️. Parece que has pasado una fría noche."
+    - "Mientras estabas durmiendo, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Parece que has pasado una fría noche."
   Augur:
     Augur:
-      - "El profeta \U0001F985"
+    - "El profeta 🦅"
     RoleInfoAugur:
-      - "Eres el profeta \U0001F985. Tienes el poder de ver cosas, pero de forma muy diferente de la ramera o el oráculo. Eres el único que que puede ver roles que no estén en la aldea, ¡y nunca verás uno de ellos dos veces!"
+    - "Eres el profeta 🦅. Tienes el poder de ver cosas, pero de forma muy diferente de la ramera o el oráculo. Eres el único que que puede ver roles que no estén en la aldea, ¡y nunca verás uno de ellos dos veces!"
     AugurSees:
-      - "Al mirar el cielo, ves en los pájaros un patrón inusual. Eso solo puede significar que {0} no está en la aldea"
-      - "Las aves te dicen que {0} no es parte de la aldea en este momento"
+    - "Al mirar el cielo, ves en los pájaros un patrón inusual. Eso solo puede significar que {0} no está en la aldea"
+    - "Las aves te dicen que {0} no es parte de la aldea en este momento"
     AugurSeesNothing:
-      - "No hay absolutamente ningún pájaro en los cielos hoy. Eso probablemente significa que ya has visto todos los roles que no están en la aldea aún..."
+    - "No hay absolutamente ningún pájaro en los cielos hoy. Eso probablemente significa que ya has visto todos los roles que no están en la aldea aún..."
   Arsonist:
     Arsonist:
-      - "El pirómano \U0001F525"
+    - "El pirómano 🔥"
     RoleInfoArsonist:
-      - "Eres el pirómano \U0001F525. Cada noche, puedes tanto rociar una casa con keroseno, o prender una chispa y quemar todas las casas previamente empapadas. Solo ganas si eres el único superviviente."
+    - "Eres el pirómano 🔥. Cada noche, puedes tanto rociar una casa con keroseno, o prender una chispa y quemar todas las casas previamente empapadas. Solo ganas si eres el único superviviente."
     AskArsonist:
-      - "¿Quieres rociar otra casa o prefieres ver todas las casas mojadas quemarse?"
+    - "¿Quieres rociar otra casa o prefieres ver todas las casas mojadas quemarse?"
     AskArsonistNoDoused:
-      - "¿La casa de cuál jugador te gustaría rociar?"
+    - "¿La casa de cuál jugador te gustaría rociar?"
     AlreadyDousedList:
-      - "Ya has rociado la casa de: {0}"
+    - "Ya has rociado la casa de: {0}"
     ExtraDouse:
-      - "El lobo hizo bajar la guardia a la aldea y tú tienes la oportunidad de repeler a alguien más."
+    - "El lobo hizo bajar la guardia a la aldea y tú tienes la oportunidad de repeler a alguien más."
     Doused:
-      - "Has mojado la casa de {0}"
+    - "Has mojado la casa de {0}"
     Burning:
-      - "La aldea despertó con el olor del fuego... ¡Se está quemando! Intentas extinguir el incendio entre todos, pero es demasiado tarde para salvar a la gente cuyas casas estaban misteriosamente mojadas con keroseno. Hoy lloramos la muerte de \n{0}"
+    - "La aldea despertó con el olor del fuego... ¡Se está quemando! Intentas extinguir el incendio entre todos, pero es demasiado tarde para salvar a la gente cuyas casas estaban misteriosamente mojadas con keroseno. Hoy lloramos la muerte de \n{0}"
     Burn:
-      - "¡Deberías haber dejado un extintor! Ahora tu casa se quemó y tú moriste dentro..."
+    - "¡Deberías haber dejado un extintor! Ahora tu casa se quemó y tú moriste dentro..."
     WolvesVisitBurn:
-      - "La manada asalta la casa de {0}, cuando de repende notan un humo. Intentan escapar, pero es muy tarde para {1}, que muere en llamas."
+    - "La manada asalta la casa de {0}, cuando de repende notan un humo. Intentan escapar, pero es muy tarde para {1}, que muere en llamas."
     DefaultVisitBurn:
-      - "{0} debería haberse quedado en casa esta noche... ¡Visitó una casa quemándose y murió en llamas! {1}"
+    - "{0} debería haberse quedado en casa esta noche... ¡Visitó una casa quemándose y murió en llamas! {1}"
     WolfVisitBurn:
-      - "Los lobos intentaron comer a alguien esta noche otra vez, ¡pero el pirómano fue más rápido! {0} no pudo escapar de la ardiente casa a tiempo... {1}"
+    - "Los lobos intentaron comer a alguien esta noche otra vez, ¡pero el pirómano fue más rápido! {0} no pudo escapar de la ardiente casa a tiempo... {1}"
     ArsonistWinsOverpower:
-      - "Solo {0} y {1} quedan... De repente {0} sonríe, saca un fósforo, lo prende y lo arroja a los pies de {1}, ¡quien se enciende en llamas!"
+    - "Solo {0} y {1} quedan... De repente {0} sonríe, saca un fósforo, lo prende y lo arroja a los pies de {1}, ¡quien se enciende en llamas!"
     ArsonistVisitKiller:
-      - "El pirómano {0} intentó rociar la casa de la asesina en serie... Pero no pudo sobrevivir a ello."
+    - "El pirómano {0} intentó rociar la casa de la asesina en serie... Pero no pudo sobrevivir a ello."
     Spark:
     - "Encender fuego"
   Boss:
     Boss:
-      - "El jefe \U0001F3A9"
+    - "El jefe 🎩"
     RoleInfoBoss:
-      - "\U0001F3A9 Eres el jefe. Odias a los cultistas y dondequiera que ves un culto, te unes a ellos haciéndote pasar por uno. Sin embargo, nunca saben que estás entre ellos, e informas la cantidad de cultistas a la aldea todas las noches."
+    - "🎩 Eres el jefe. Odias a los cultistas y dondequiera que ves un culto, te unes a ellos haciéndote pasar por uno. Sin embargo, nunca saben que estás entre ellos, e informas la cantidad de cultistas a la aldea todas las noches."
     CultCount:
-      - "\U0001F464 Ves que el Culto tiene {0} personas."
+    - "👤 Ves que el Culto tiene {0} personas."
   Shadow:
     Shadow:
-      - "Lobo de las sombras \U0001F43A\U0001F31A"
+    - "Lobo de las sombras 🐺🌚"
     RoleInfoShadow:
-      - "\U0001F43A\U0001F31A Eres el lobo de las sombras\nPuedes matar a alguien todas las noches, como el resto de hombres lobo; pero tienes una habilidad de sombra diferente al resto, cuando la utilices, se ocultarán los votos de los aldeanos y no podrán ver a quién están linchando. Sin embargo, las sombras no afectan a tus compañeros lobos y pueden ver a quién linchan."
+    - "🐺🌚 Eres el lobo de las sombras\nPuedes matar a alguien todas las noches, como el resto de hombres lobo; pero tienes una habilidad de sombra diferente al resto, cuando la utilices, se ocultarán los votos de los aldeanos y no podrán ver a quién están linchando. Sin embargo, las sombras no afectan a tus compañeros lobos y pueden ver a quién linchan."
     AskShadow:
-      - "¿Quieres utilizar tu habilidad sombra hoy?"
+    - "¿Quieres utilizar tu habilidad sombra hoy?"
     ShadowPower:
-      - "Has utilizado con éxito tus habilidades. Cuando comience el linche, los aldeanos no podrán ver a quién están linchando y todos los linches se verán como '?'.  Los hombres lobo seguirán viendo a quién linchan..\n"
+    - "Has utilizado con éxito tus habilidades. Cuando comience el linche, los aldeanos no podrán ver a quién están linchando y todos los linches se verán como '?'.  Los hombres lobo seguirán viendo a quién linchan..\n"
   Skeleton:
     Skeleton:
-      - "Esqueleto \U0001F480"
+    - "Esqueleto 💀"
     RoleInfoSkeleton:
-      - ""
+    - ""
     ButtonAppears:
-      - ""
+    - ""
     AskSkeleton:
-      - ""
+    - ""
     ChoiceConfirmation:
-      - ""
+    - ""
     BlockedNotice:
-      - ""
+    - ""
     HauntButton:
-      - ""
+    - ""
   Doctor:
     Doctor:
-      - ""
+    - ""
     RoleInfoDoctor:
-      - "\U0001F9D1‍⚕️ Eres el Doctor, con un solo toque, puedes devolver la vida a un jugador, y recuerda, a medida que el juego crece, puedes ofrecer la oportunidad de resurrección a más personas."
+    - "🧑‍⚕️ Eres el Doctor, con un solo toque, puedes devolver la vida a un jugador, y recuerda, a medida que el juego crece, puedes ofrecer la oportunidad de resurrección a más personas."
     AskDoctor:
-      - "¿A quién quieres revivir hoy?"
+    - "¿A quién quieres revivir hoy?"
     DoctorRevive:
-      - "Los esfuerzos del doctor {0} dieron como resultado que el jugador {1}, que fue asesinado anoche, volviera al juego. Ahora es el momento de vengarse."
+    - "Los esfuerzos del doctor {0} dieron como resultado que el jugador {1}, que fue asesinado anoche, volviera al juego. Ahora es el momento de vengarse."
     DoctorYouRevive:
-      - "¡El doctor te ha revivido, ve de vuelta a la aldea!"
+    - "¡El doctor te ha revivido, ve de vuelta a la aldea!"
   Preacher:
     Preacher:
-      - "Predicador \U0001F6D0"
+    - "Predicador 🛐"
     RoleInfoPreacher:
-      - "\U0001F6D0 Eres el Predicador [30%].\nCuando cae la noche, puedes orar por un jugador. Si el jugador por el que oras es asesinado, te informarás sobre el jugador que lo ha matado y su rol. Sin embargo, él también sabrá quién eres tú. Se puede utilizar a partir de la segunda noche."
+    - "🛐 Eres el Predicador [30%].\nCuando cae la noche, puedes orar por un jugador. Si el jugador por el que oras es asesinado, te informarás sobre el jugador que lo ha matado y su rol. Sin embargo, él también sabrá quién eres tú. Se puede utilizar a partir de la segunda noche."
     AskPreacher:
-      - "¿Por quién quieres orar?"
+    - "¿Por quién quieres orar?"
     PreacherDone:
-      - "El {0} por el que oraste toda la noche fue asesinado. El rol de {1} que lo mató es {2}."
+    - "El {0} por el que oraste toda la noche fue asesinado. El rol de {1} que lo mató es {2}."
     PreacherFailed:
-      - "Como resultado de tus oraciones por {0}, pudo dormir tranquilamente, No pudiste averiguar el rol de nadie. Puedes continuar orando la próxima noche."
+    - "Como resultado de tus oraciones por {0}, pudo dormir tranquilamente, No pudiste averiguar el rol de nadie. Puedes continuar orando la próxima noche."
     OhNoPreacher:
-      - "No, no, no, no, no, no. Mataste al jugador al que el predicador rezó por la noche. El predicador {0} ahora sabe quién eres y cuál es tu rol."
+    - "No, no, no, no, no, no. Mataste al jugador al que el predicador rezó por la noche. El predicador {0} ahora sabe quién eres y cuál es tu rol."
   GraveDigger:
     GraveDigger:
-      - "El sepulturero ☠️"
+    - "El sepulturero ☠️"
     RoleInfoGraveDigger:
-      - ""
+    - ""
     AskGraveDigger:
-      - "¿Las habilidades de quién te gustaría utilizar por un día?"
+    - "¿Las habilidades de quién te gustaría utilizar por un día?"
     DigNoGraves:
-      - "Los muertos están enterrados, y los vivos no lo están. Todo está donde debería estar y puedes tener una buena noche de sueño"
+    - "Los muertos están enterrados, y los vivos no lo están. Todo está donde debería estar y puedes tener una buena noche de sueño"
     DigGraves:
-      - "Hasta tarde en la noche, cavaste la(s) tumba(s) para {0}. Que sus almas y cuerpos descansen en paz."
+    - "Hasta tarde en la noche, cavaste la(s) tumba(s) para {0}. Que sus almas y cuerpos descansen en paz."
     DefaultFellDigger:
-      - ""
+    - ""
     DefaultVisitDigger:
-      - ""
+    - ""
     WolfFellWolves:
-      - "La manada se dirige a casa de {0}, pero en el camino, ¡{1} pisa una trampa para osos, cae en una tumba abierta y queda empalado por una lanza de plata!"
+    - "La manada se dirige a casa de {0}, pero en el camino, ¡{1} pisa una trampa para osos, cae en una tumba abierta y queda empalado por una lanza de plata!"
     WolvesSpotted:
-      - "La manada corre a través del cementerio, cuando de repente ven a {0}, el sepulturero. Anteds de que pueda reaccionar, uno de ustedes salta en su espalda y lo mata de una mordida."
+    - "La manada corre a través del cementerio, cuando de repente ven a {0}, el sepulturero. Anteds de que pueda reaccionar, uno de ustedes salta en su espalda y lo mata de una mordida."
     WolvesSpottedYou:
-      - "Solo estás intentando hacer tu trabajo, cuando de repente, ¡un lobo salta sobre tí desde atrás y te mata!"
+    - "Solo estás intentando hacer tu trabajo, cuando de repente, ¡un lobo salta sobre tí desde atrás y te mata!"
     SerialKillerSpotted:
-      - "Mientras caminas pasando el cementerio con sangre en tu cuchillo, ves a {0}, el sepulturero. Siguiendo tus instintos, decides que habrán dos víctimas para tí esta noche..."
+    - "Mientras caminas pasando el cementerio con sangre en tu cuchillo, ves a {0}, el sepulturero. Siguiendo tus instintos, decides que habrán dos víctimas para tí esta noche..."
     SerialKillerSpottedYou:
-      - "Solo estás intentando hacer tu trabajo, cuando de repente, ¡una loca asesina te encuentra y acuchilla! Qué lástima..."
+    - "Solo estás intentando hacer tu trabajo, cuando de repente, ¡una loca asesina te encuentra y acuchilla! Qué lástima..."
     CultConvertGraveDigger:
-      - "En el camino a la casa de {1}, {0} decide que sería una buena idea quemar la iglesia. {0} lidera al culto a través del cementerio, ¡cuando de repente una trampa para osos atrapa su tobillo! Todo lo que pueden escuchar es su grito después de caer en una tumba, y el resto del culto corre por su vida."
+    - "En el camino a la casa de {1}, {0} decide que sería una buena idea quemar la iglesia. {0} lidera al culto a través del cementerio, ¡cuando de repente una trampa para osos atrapa su tobillo! Todo lo que pueden escuchar es su grito después de caer en una tumba, y el resto del culto corre por su vida."
     DefaultFell:
-      - ""
+    - ""
   Conjurer:
     Conjurer:
-      - "Lobo Prestidigitador \U0001F43A✨"
+    - "Lobo Prestidigitador 🐺✨"
     RoleInfoConjurer:
-      - "\U0001F43A✨ Eres el Lobo Prestidigitador [0% - \U0001F480(\U0001F3E0)]. Tienes un talento oculto. Cuando lo utilices, la persona con la menor cantidad de votos durante el linchamiento morirá en lugar de la persona con más votos."
+    - "🐺✨ Eres el Lobo Prestidigitador [0% - 💀(🏠)]. Tienes un talento oculto. Cuando lo utilices, la persona con la menor cantidad de votos durante el linchamiento morirá en lugar de la persona con más votos."
     AskConjurer:
-      - "¿Quieres usar tu habilidad hoy? "
+    - "¿Quieres usar tu habilidad hoy? "
     ConjurerChoice:
-      - "¡Atención Aldeanos! El lobo prestidigitador ha usado su habilidad hoy. En lugar de la persona con más votos, ¡EL JUGADOR CON LA MENOR CANTIDAD DE VOTOS SERÁ LINCHADO!"
+    - "¡Atención Aldeanos! El lobo prestidigitador ha usado su habilidad hoy. En lugar de la persona con más votos, ¡EL JUGADOR CON LA MENOR CANTIDAD DE VOTOS SERÁ LINCHADO!"
   Miner:
     Miner:
-      - "Minero ⛏"
+    - "Minero ⛏"
     RoleInfoMiner:
-      - "⛏ Eres el minero\nTodas las noches cavas túneles en las casas de los aldeanos. Gracias a los túneles que cavaste, los jugadores con acciones nocturnas perderán sus objetivos e irán a una casa diferente sin darse cuenta. No puedes excavar en la casa del mismo jugador dos veces seguidas."
+    - "⛏ Eres el minero\nTodas las noches cavas túneles en las casas de los aldeanos. Gracias a los túneles que cavaste, los jugadores con acciones nocturnas perderán sus objetivos e irán a una casa diferente sin darse cuenta. No puedes excavar en la casa del mismo jugador dos veces seguidas."
     AskMiner:
-      - "¿En cuáles casas quieres cavar un gran túnel?"
+    - "¿En cuáles casas quieres cavar un gran túnel?"
     MinerDone:
-      - "Has cavado con éxito un túnel en la casa de {0}.  ¡Ahora los jugadores con acción nocturna no alcanzarán sus objetivos y tocarán en una casa diferente!"
+    - "Has cavado con éxito un túnel en la casa de {0}.  ¡Ahora los jugadores con acción nocturna no alcanzarán sus objetivos y tocarán en una casa diferente!"
     MinerChanged:
-      - ""
+    - ""
   Pawn:
     Pawn:
-      - "Peón ♟"
+    - "Peón ♟"
     RoleInfoPawn:
-      - "♟ Tú eres el Peón. Cada noche elegirás a alguien a quien proteger. Si tu objetivo es atacado, te sacrificarás. Si intentas proteger a un Lobo o a un Asesino en Serie, morirás." 
+    - "♟ Tú eres el Peón. Cada noche elegirás a alguien a quien proteger. Si tu objetivo es atacado, te sacrificarás. Si intentas proteger a un Lobo o a un Asesino en Serie, morirás."
     AskPawn:
-      - "¿Por quién quieres sacrificarte?"
+    - "¿Por quién quieres sacrificarte?"
     PawnSaved:
-      - "Elegiste proteger a {0} y tu objetivo fue atacado. Como eres un honorable soldado, te sacrificaste para salvar a tu objetivo y moriste."
+    - "Elegiste proteger a {0} y tu objetivo fue atacado. Como eres un honorable soldado, te sacrificaste para salvar a tu objetivo y moriste."
     PawnSavedYou:
-      - "Anoche, el Peón {0} eligió protegerte y se sacrificó en la batalla."
+    - "Anoche, el Peón {0} eligió protegerte y se sacrificó en la batalla."
     PawnNoAttack:
-      - "{0} no fue atacado anoche. Básicamente, no has hecho nada."
+    - "{0} no fue atacado anoche. Básicamente, no has hecho nada."
     PawnWolf:
-      - "Elegiste proteger a {0}, pero era un lobo y ahora estás muerto."
+    - "Elegiste proteger a {0}, pero era un lobo y ahora estás muerto."
     PawnKiller:
-      - "Elegiste proteger a {0}, pero él era el Asesino en Serie y ahora estás muerto."
+    - "Elegiste proteger a {0}, pero él era el Asesino en Serie y ahora estás muerto."
     PawnEmptyHouse:
-      - "Elegiste proteger a {0}, pero no estaba en casa."
+    - "Elegiste proteger a {0}, pero no estaba en casa."
     PawnKilledCH:
-      - ""
+    - ""
     PawnGuardedKiller:
-      - ""
+    - ""
     PawnGuardedWolf:
-      - ""
+    - ""
     PawnBlockedWolf:
-      - "Anoche elegiste atacar a {0} para merendar. Pero el peón estaba allí y eligió sacrificarse en su lugar."
+    - "Anoche elegiste atacar a {0} para merendar. Pero el peón estaba allí y eligió sacrificarse en su lugar."
     PawnBlockedKiller:
-      - ""
+    - ""
     PawnBlockedCH:
-      - ""
+    - ""
   Soldier:
     Soldier:
-      - "Soldado \U0001FA96"
+    - "Soldado 🪖"
     RoleInfoSoldier:
-      - ""
+    - ""
     AskSoldier:
-      - "¿A quién salvará de ser linchado? "
+    - "¿A quién salvará de ser linchado? "
     AskSoldier2:
-      - "¿Qué jugador será linchado? "
+    - "¿Qué jugador será linchado? "
     SoldierChoice:
-      - "Seleccionaste {0} a para no ser linchado, si muere durante el linchamiento, puedes seleccionar a alguien más. "
+    - "Seleccionaste {0} a para no ser linchado, si muere durante el linchamiento, puedes seleccionar a alguien más. "
     SoldierDone:
-      - "Los aldeanos han tomado una decisión y han decidido a quien linchar. {0} Ha sido linchado por la aldea. Sin embargo, había un soldado vigilando a {0} y decidió desviar el linchamiento a {1}. {2}"
+    - "Los aldeanos han tomado una decisión y han decidido a quien linchar. {0} Ha sido linchado por la aldea. Sin embargo, había un soldado vigilando a {0} y decidió desviar el linchamiento a {1}. {2}"
   Rogue:
     Rogue:
-      - "Lobo Canalla \U0001F43A\U0001F9E7"
+    - "Lobo Canalla 🐺🧧"
     RoleInfoRogue:
-      - "Eres el Lobo pícaro \U0001F43A\U0001F9E7, conocido por tu astucia y habilidad para disfrazarte de otro jugador. Durante la primera noche, tienes la oportunidad de seleccionar a un jugador para imitar. Si te controlan o te matan, tu rol será visto como el de tu objetivo. Si el jugador al que engañaste tiene alguna habilidad reveladora, también puedes imitarlo, pero ten cuidado porque no tendrá ningún efecto real."
+    - "Eres el Lobo pícaro 🐺🧧, conocido por tu astucia y habilidad para disfrazarte de otro jugador. Durante la primera noche, tienes la oportunidad de seleccionar a un jugador para imitar. Si te controlan o te matan, tu rol será visto como el de tu objetivo. Si el jugador al que engañaste tiene alguna habilidad reveladora, también puedes imitarlo, pero ten cuidado porque no tendrá ningún efecto real."
     AskRogue:
-      - "¿De quién quieres disfrazarte?"
+    - "¿De quién quieres disfrazarte?"
     AskRogue2:
-      - "¿Quieres usar tu habilidad?"
+    - "¿Quieres usar tu habilidad?"
     RogueSuccess:
-      - "Has elegido imitar a {0}. ¡El papel que estás imitando es {1}!"
+    - "Has elegido imitar a {0}. ¡El papel que estás imitando es {1}!"
   Executioner:
     Executioner:
-      - "El verdugo. \U0001F9B8‍♂️"
+    - "El verdugo. 🦸‍♂️"
     RoleInfoExecutioner:
-      - ""
+    - ""
     AskExecutioner:
-      - ""
+    - ""
     AskExecutionerLynch:
-      - ""
+    - ""
     ExecutionerLynch:
-      - ""
+    - ""
   Slave:
     Slave:
-      - "Esclavo \U0001F635‍\U0001F4AB"
+    - "Esclavo 😵‍💫"
     RoleInfoSlave:
-      - "\U0001F635‍\U0001F4AB Tú eres el esclavo. No te pones del lado de ningún equipo del pueblo. Tu único propósito es entregar el objetivo que se te ha dado en las manos despiadadas de la justicia. Tu objetivo ha perturbado la paz de la aldea y debes tenerlos linchados. Si tu objetivo muere por cualquier otra razón que no sea linchar, debes desesperarte y ser linchado. Ganas el juego si tu objetivo es linchado."
+    - "😵‍💫 Tú eres el esclavo. No te pones del lado de ningún equipo del pueblo. Tu único propósito es entregar el objetivo que se te ha dado en las manos despiadadas de la justicia. Tu objetivo ha perturbado la paz de la aldea y debes tenerlos linchados. Si tu objetivo muere por cualquier otra razón que no sea linchar, debes desesperarte y ser linchado. Ganas el juego si tu objetivo es linchado."
     SlaveLynched:
-      - "Tienes {0} linchado con éxito. Tu búsqueda de justicia en el pueblo ha terminado, y has logrado tu objetivo. Cumpliste con la tarea que se te asignó y saliste victorioso en este oscuro juego"
+    - "Tienes {0} linchado con éxito. Tu búsqueda de justicia en el pueblo ha terminado, y has logrado tu objetivo. Cumpliste con la tarea que se te asignó y saliste victorioso en este oscuro juego"
     SlaveTarget:
-      - "Tu objetivo: {0}. Completa esta tarea oscura haciendo que tu objetivo se linche."
+    - "Tu objetivo: {0}. Completa esta tarea oscura haciendo que tu objetivo se linche."
   Poseidon:
     Poseidon:
-      - "Poseidón \U0001F9DC"
+    - "Poseidón 🧜"
     RoleInfoPoseidon:
-      - "\U0001F9DC Eres Poseidón [40%].\nUna vez por partida puedes matar a un jugador aleatorio del equipo de la aldea creando un tsunami. Cuando decidas crear el tsunami, se notificará a la aldea que se acerca un tsunami, pero no se revelará tu identidad"
+    - "🧜 Eres Poseidón [40%].\nUna vez por partida puedes matar a un jugador aleatorio del equipo de la aldea creando un tsunami. Cuando decidas crear el tsunami, se notificará a la aldea que se acerca un tsunami, pero no se revelará tu identidad"
     AskPoseidon:
-      - "¿Quieres provocar un tsunami hoy?"
+    - "¿Quieres provocar un tsunami hoy?"
     PoseidonRevealInfo:
-      - "¡ALDEANOS ATENCION! Un tsunami que se aproxima afectará a toda la aldea. Poseidón, el dios del mar que vive en la aldea, parece haber salido de su magnífico palacio en el fondo del mar. Prepárate porque cuando el tsunami aparece, matará al azar a una persona de la aldea."
+    - "¡ALDEANOS ATENCION! Un tsunami que se aproxima afectará a toda la aldea. Poseidón, el dios del mar que vive en la aldea, parece haber salido de su magnífico palacio en el fondo del mar. Prepárate porque cuando el tsunami aparece, matará al azar a una persona de la aldea."
     PoseidonReveal:
-      - "Poseidón, el dios de los mares, ha salido de su majestuoso palacio y un tsunami arrasa el aldea. Todos los aldeanos intentan escapar del tsunami, pero {0} no lo consigue. {0} se ahoga. \n{1}"
+    - "Poseidón, el dios de los mares, ha salido de su majestuoso palacio y un tsunami arrasa el aldea. Todos los aldeanos intentan escapar del tsunami, pero {0} no lo consigue. {0} se ahoga. \n{1}"
   Snitch:
     Snitch:
-      - ""
+    - ""
     RoleInfoSnitch:
-      - ""   
+    - ""
     SnitchLynchSuccess:
-      - ""
+    - ""
     SnitchFinalSuccess:
-      - ""
+    - ""
     AskSnitch:
-      - ""
+    - ""
     SnitchNoChoice:
-      - ""
+    - ""
   Illusionist:
     Illusionist:
-      - ""
+    - ""
     RoleInfoIllusionist:
-      - ""
+    - ""
     AskIllusionist:
-      - ""
+    - ""
     IllusionistNoChoice:
-      - ""
+    - ""
     IllusionistKillTarget:
-      - ""
+    - ""
     IllusionistFakeTarget:
-      - ""
+    - ""
     IllusionistKillYou:
-      - ""
+    - ""
   KilledMessages:
     BlacksmithKilled:
-      - "Parece que {0}, el herrero del pueblo, ha tenido muy mala suerte durante la noche, ya que se lo ha encontrado en su mesa de herrería junto con 5 cuchillos, sacados de su armería clavados en manos, pies y cabeza. Tal vez la asesina tenía la esperanza de ampliar su colección de armas y órganos con el corazón, hígado y estómago de {0}."
+    - "Parece que {0}, el herrero del pueblo, ha tenido muy mala suerte durante la noche, ya que se lo ha encontrado en su mesa de herrería junto con 5 cuchillos, sacados de su armería clavados en manos, pies y cabeza. Tal vez la asesina tenía la esperanza de ampliar su colección de armas y órganos con el corazón, hígado y estómago de {0}."
     CultistKilled:
-      - "{0} fue apuñalado hasta la muerte con un candelabro al lado de su altar. ¡La asesina en serie ha atacado de nuevo, sin importar la raza, el idioma o la religión! {0} era un cultista."
+    - "{0} fue apuñalado hasta la muerte con un candelabro al lado de su altar. ¡La asesina en serie ha atacado de nuevo, sin importar la raza, el idioma o la religión! {0} era un cultista."
     CupidKilled:
-      - "A la mañana siguiente, los aldeanos se levantaron destrozados al encontrar a Cupido, {0}, dividido en dos. Curiosamente, le faltaba el corazón."
+    - "A la mañana siguiente, los aldeanos se levantaron destrozados al encontrar a Cupido, {0}, dividido en dos. Curiosamente, le faltaba el corazón."
     DrunkKilled:
-      - "Los aldeanos esperaban irse de copazos con su borracho preferido, {0}, pero lo único que encontraron en su casa fue un cuchillo y su hígado sobre la mesa. Tantos años bebiendo hicieron que el hígado estuviera tan podrido que ni la asesina en serie lo quisiera."
+    - "Los aldeanos esperaban irse de copazos con su borracho preferido, {0}, pero lo único que encontraron en su casa fue un cuchillo y su hígado sobre la mesa. Tantos años bebiendo hicieron que el hígado estuviera tan podrido que ni la asesina en serie lo quisiera."
     GuardianAngelKilled:
-      - "{0} normalmente habría luchado contra la asesina en serie, pero es irónico que hasta el halo que rodeaba al ángel de la guarda se haya extinguido. {0} ha muerto."
+    - "{0} normalmente habría luchado contra la asesina en serie, pero es irónico que hasta el halo que rodeaba al ángel de la guarda se haya extinguido. {0} ha muerto."
     GunnerKilled:
-      - "¡Parece que {0} fue sorprendido anoche! Se escuchó un tiro, pero solo se pudo encontrar los restos de lo que parece ser un justiciero, con un agujero de bala en la cabeza y una puñalada al torso. Es evidente que la asesina en serie ha ganado."
+    - "¡Parece que {0} fue sorprendido anoche! Se escuchó un tiro, pero solo se pudo encontrar los restos de lo que parece ser un justiciero, con un agujero de bala en la cabeza y una puñalada al torso. Es evidente que la asesina en serie ha ganado."
     MayorKilled:
-      - "¡Magnicidio! Los aldeanos se han encontrado a {0}, nuestro excelentísimo ilustrísimo señor alcalde, apuñalado por la espalda mientras ordenaba sobres en su despacho por la noche. Parece que la asesina en serie se ha vengado por todos los años que pasó metida dentro de un manicomio por culpa suya."
+    - "¡Magnicidio! Los aldeanos se han encontrado a {0}, nuestro excelentísimo ilustrísimo señor alcalde, apuñalado por la espalda mientras ordenaba sobres en su despacho por la noche. Parece que la asesina en serie se ha vengado por todos los años que pasó metida dentro de un manicomio por culpa suya."
     PrinceKilled:
-      - "Suenan las campanas en todo el pueblo antes del amanecer. Decenas de guardias armados inundan las calles investigando la desaparición de su Majestad la princesa {0}. No se descubrieron pistas, pero se sospecha que la asesina en serie anda suelta. La princesa ha muerto."
-      - "Parece ser que los guardias de la princesa se han dormido esta noche. Se han encontrado los restos de {0} colgados en varias habitaciones del palacio. Resulta que, a pesar de todo, la princesa sigue siendo una simple mortal más a manos de la asesina en serie."
+    - "Suenan las campanas en todo el pueblo antes del amanecer. Decenas de guardias armados inundan las calles investigando la desaparición de su Majestad la princesa {0}. No se descubrieron pistas, pero se sospecha que la asesina en serie anda suelta. La princesa ha muerto."
+    - "Parece ser que los guardias de la princesa se han dormido esta noche. Se han encontrado los restos de {0} colgados en varias habitaciones del palacio. Resulta que, a pesar de todo, la princesa sigue siendo una simple mortal más a manos de la asesina en serie."
     SeerKilled:
-      - "Los aldeanos se despiertan con el hedor del cadáver podrido de {0}. El cuerpo, acuchillado 94 veces, fue decapitado. Extrañamente, el cerebro fue extraído cuidadosamente, por lo que parece ser que poseía poderes paranormales. {0} era la vidente."
+    - "Los aldeanos se despiertan con el hedor del cadáver podrido de {0}. El cuerpo, acuchillado 94 veces, fue decapitado. Extrañamente, el cerebro fue extraído cuidadosamente, por lo que parece ser que poseía poderes paranormales. {0} era la vidente."
     PawnKilled:
-      - "Se esperaba que esta noche fuera tranquila, pero los aldeanos descubrieron a {0} en la plaza del pueblo, al que le faltaban varios órganos. Parece que al asesino no le gustaron los esfuerzos del peón por proteger a {1}. En un trágico giro de los acontecimientos, {0}, que intentó proteger a {1}, se convirtió en la víctima del asesino en serie. {2}"
+    - "Se esperaba que esta noche fuera tranquila, pero los aldeanos descubrieron a {0} en la plaza del pueblo, al que le faltaban varios órganos. Parece que al asesino no le gustaron los esfuerzos del peón por proteger a {1}. En un trágico giro de los acontecimientos, {0}, que intentó proteger a {1}, se convirtió en la víctima del asesino en serie. {2}"
     DefaultKilled:
-      - "Parecía una noche tranquila para {0}, pero se equivocaba. Los aldeanos se reunieron por la mañana y se lo encontraron cortado en pedazos. Curiosamente le faltaba el hígado y un riñón… ¡La asesina en serie ha atacado de nuevo! {1}."
+    - "Parecía una noche tranquila para {0}, pero se equivocaba. Los aldeanos se reunieron por la mañana y se lo encontraron cortado en pedazos. Curiosamente le faltaba el hígado y un riñón… ¡La asesina en serie ha atacado de nuevo! {1}."
   EatenMessages:
     ApprenticeSeerEaten:
-      - "El pueblo se despierta y se encuentra el cuerpo decapitado de {0} sobre un tablero de ouija de segunda mano mientras practicaba tarot. La aprendiz de vidente ha muerto."
+    - "El pueblo se despierta y se encuentra el cuerpo decapitado de {0} sobre un tablero de ouija de segunda mano mientras practicaba tarot. La aprendiz de vidente ha muerto."
     SorcererEaten:
-      - "Se oyen aullidos entristecidos por todo el pueblo… Los lobos han matado a {0}, un gran error, ya que era de los suyos. La hechicera ha muerto."
-      - "Anoche se escucharon unos gritos agudos: «¡Soy tu aliado, tolái!». A la mañana siguiente, los aldeanos encontraron un cuerpo exhumado junto con una bola de cristal pero algo oscura. No parece ser la misma que la que usa la vidente. Pertenecía a {0}, la hechicera. El hambre supera a la camada."
+    - "Se oyen aullidos entristecidos por todo el pueblo… Los lobos han matado a {0}, un gran error, ya que era de los suyos. La hechicera ha muerto."
+    - "Anoche se escucharon unos gritos agudos: «¡Soy tu aliado, tolái!». A la mañana siguiente, los aldeanos encontraron un cuerpo exhumado junto con una bola de cristal pero algo oscura. No parece ser la misma que la que usa la vidente. Pertenecía a {0}, la hechicera. El hambre supera a la camada."
     WildChildEaten:
-      - "¡ÑAMÑAMÑAM! Anoche se oyó el ruido de los dientes de los lobos contra la carne de un tierno niño salvaje, {0}. ¡Dejaron únicamente su pequeño esqueleto! El pueblo se pregunta si los lobos sintieron alguna culpa mientras destripaban al pobre niño indefenso."
+    - "¡ÑAMÑAMÑAM! Anoche se oyó el ruido de los dientes de los lobos contra la carne de un tierno niño salvaje, {0}. ¡Dejaron únicamente su pequeño esqueleto! El pueblo se pregunta si los lobos sintieron alguna culpa mientras destripaban al pobre niño indefenso."
     PawnEaten:
-      - ""
+    - ""
     DetectiveEaten:
-      - "Los aldeanos se reúnen por la mañana, pero no ven a {0}. Miran toda su casa, ¡hasta encontrarlo desmembrado junto con una vieja placa clavada en la garganta! Habéis perdido a vuestro detective."
+    - "Los aldeanos se reúnen por la mañana, pero no ven a {0}. Miran toda su casa, ¡hasta encontrarlo desmembrado junto con una vieja placa clavada en la garganta! Habéis perdido a vuestro detective."
     GuardianEaten:
-      - "Llega la mañana y, para consternación de todos, empalado en lo alto de la cruz de la iglesia está {0}, el Ángel de la Guarda \U0001F47C."
+    - "Llega la mañana y, para consternación de todos, empalado en lo alto de la cruz de la iglesia está {0}, el Ángel de la Guarda 👼."
     GunnerEaten:
-      - "Mientras que todo el mundo empieza a salir de sus casas, se encuentran piezas de una escopeta desperdigadas. Más lejos, una de las piernas…, a 10 metros un par de dedos…, y, por último, flotando en la fuente de la plaza del pueblo, el cuerpo de {0}, víctima de un hombre lobo. Habéis perdido a vuestro justiciero."
+    - "Mientras que todo el mundo empieza a salir de sus casas, se encuentran piezas de una escopeta desperdigadas. Más lejos, una de las piernas…, a 10 metros un par de dedos…, y, por último, flotando en la fuente de la plaza del pueblo, el cuerpo de {0}, víctima de un hombre lobo. Habéis perdido a vuestro justiciero."
     SeerEaten:
-      - "Los aldeanos se despiertan en la mañana para encontrarse los restos desmembrados de {0}, esparcidos sobre una tabla de ouija y unas cartas de tarot. La vidente ha muerto."
+    - "Los aldeanos se despiertan en la mañana para encontrarse los restos desmembrados de {0}, esparcidos sobre una tabla de ouija y unas cartas de tarot. La vidente ha muerto."
     DrunkEaten:
-      - "Todo el mundo se despierta con el olor a madera y alcohol quemado… ¡El bar está ardiendo! Tras apagar las llamas, encuentran los restos de {0}, despedazados. El borracho del pueblo ha sido eliminado."
+    - "Todo el mundo se despierta con el olor a madera y alcohol quemado… ¡El bar está ardiendo! Tras apagar las llamas, encuentran los restos de {0}, despedazados. El borracho del pueblo ha sido eliminado."
     FoolEaten:
-      - "Mientras que el sol sale en la aldea, encontráis a {0} sentado sobre un tablero de ouija, pero con una baraja de... ¿¿¿cartas de Sakura, cazadora de cartas??? ¡¡¡QUÉ NECIO!!!"
+    - "Mientras que el sol sale en la aldea, encontráis a {0} sentado sobre un tablero de ouija, pero con una baraja de... ¿¿¿cartas de Sakura, cazadora de cartas??? ¡¡¡QUÉ NECIO!!!"
     DefaultEaten:
-      - "Al levantarse todo el mundo, un olor terrible inunda la aldea. Siguen el rastro hasta encontrar a {0} descuartizado en la porqueriza, sin cabeza... ¡ÑAMÑAMÑAM! {1}."
+    - "Al levantarse todo el mundo, un olor terrible inunda la aldea. Siguen el rastro hasta encontrar a {0} descuartizado en la porqueriza, sin cabeza... ¡ÑAMÑAMÑAM! {1}."
     HarlotEaten:
-      - "La ramera decidió tomarse la noche libre y quedarse en casa. ¡¡Pero qué gran error!! ¡A {0} se la han comido los hombres lobo!"
+    - "La ramera decidió tomarse la noche libre y quedarse en casa. ¡¡Pero qué gran error!! ¡A {0} se la han comido los hombres lobo!"
     MasonEaten:
-      - "Cuando todo el mundo se levanta, encuentran el cadáver de {0} sepultado bajo un montón de piedras y salpicaduras de sangre por todos lados. ¡Uno de vuestros masones ha muerto!"
+    - "Cuando todo el mundo se levanta, encuentran el cadáver de {0} sepultado bajo un montón de piedras y salpicaduras de sangre por todos lados. ¡Uno de vuestros masones ha muerto!"
   WinMessages:
     WolfWins:
-      - "¡El hombre lobo ha ganado!"
+    - "¡El hombre lobo ha ganado!"
     WolvesWin:
-      - "¡Los hombres lobo han ganado!"
+    - "¡Los hombres lobo han ganado!"
     VillageWins:
-      - "¡Los aldeanos han ganado! Podéis volver en paz a vuestras casas :)"
+    - "¡Los aldeanos han ganado! Podéis volver en paz a vuestras casas :)"
     TannerWins:
-      - "¡Oh, no! ¡Habéis linchado al veterano! De forma estúpida, él gana la partida."
+    - "¡Oh, no! ¡Habéis linchado al veterano! De forma estúpida, él gana la partida."
     CultWins:
-      - "Todas las amenazas al culto han sido eliminadas y los únicos aldeanos en pie han sido transformados en ocultistas. ¡El culto ha ganado! ¡AMÉN, HERMANA!"
+    - "Todas las amenazas al culto han sido eliminadas y los únicos aldeanos en pie han sido transformados en ocultistas. ¡El culto ha ganado! ¡AMÉN, HERMANA!"
     SerialKillerWins:
-      - "¡La última persona en pie es la asesina en serie! ¡Ha ganado!"
+    - "¡La última persona en pie es la asesina en serie! ¡Ha ganado!"
     NoWinner:
-      - "Todos han muerto… solo quedan cadáveres. Nadie gana, excepto los buitres."
+    - "Todos han muerto… solo quedan cadáveres. Nadie gana, excepto los buitres."
     ArsonistWins:
-      - "El único que queda es el pirómano, de pie sobre una pila de despojos. El pirómano gana..."
+    - "El único que queda es el pirómano, de pie sobre una pila de despojos. El pirómano gana..."
     LoversWin:
-      - "¡Triunfa el amor verdadero! ¡Los amantes han ganado!"
+    - "¡Triunfa el amor verdadero! ¡Los amantes han ganado!"
     SerialKillerWinsOverpower:
-      - "Llega la mañana y los dos aldeanos que quedan salen a la plaza. {0} mira a {1}, con una gran sonrisa en su cara, saca un cuchillo y acaba con {1}."
+    - "Llega la mañana y los dos aldeanos que quedan salen a la plaza. {0} mira a {1}, con una gran sonrisa en su cara, saca un cuchillo y acaba con {1}."
   GroupConfig:
     ThankYou:
-      - "Gracias, que tengas un buen día :)"
+    - "Gracias, que tengas un buen día :)"
     RoleConfig:
-      - Configuración de rol
+    - Configuración de rol
     Mechanics:
-      - Mecánicas del juego
+    - Mecánicas del juego
     GroupSettings:
-      - Configuración del grupo
+    - Configuración del grupo
     Timers:
-      - Cronómetro de juego
+    - Cronómetro de juego
     WhatToDo:
-      - "¿Qué quieres hacer, eh?"
+    - "¿Qué quieres hacer, eh?"
     EnableSecretLynch:
     - "Activar linchamientos secretos"
     EnableSecretLynchA:
-      - "La activación de linchamientos secretos está: {0}"
+    - "La activación de linchamientos secretos está: {0}"
     EnableSecretLynchQ:
-      - "¿Activar linchamientos secretos?\nActualmente: {0}"
+    - "¿Activar linchamientos secretos?\nActualmente: {0}"
     RandomMode:
-      - "Activar modo aleatorio"
+    - "Activar modo aleatorio"
     RandomModeA:
-      - "Modo aleatorio: {0}"
+    - "Modo aleatorio: {0}"
     RandomModeQ:
-      - "¿Permitir modo aleatorio?\nCuando el modo aleatorio está activado, cada vez que alguien inicie una partida, se asignarán aleatoriamente los siguientes parámetros: partidas caóticas, linchamientos secretos, que se muestren los roles tras morir y que se permitan cultistas, necio o veterano.\nActualmente:{0}"
+    - "¿Permitir modo aleatorio?\nCuando el modo aleatorio está activado, cada vez que alguien inicie una partida, se asignarán aleatoriamente los siguientes parámetros: partidas caóticas, linchamientos secretos, que se muestren los roles tras morir y que se permitan cultistas, necio o veterano.\nActualmente:{0}"
     AllowExtend:
-      - "Permitir aumentar el tiempo"
+    - "Permitir aumentar el tiempo"
     AllowExtendQ:
-      - "¿Permitir que los jugadores aumenten el tiempo para unirse?\nActualmente: {0} aumentar el tiempo\nNota: Los administradores siempre podrán aumentar el tiempo para unirse."
+    - "¿Permitir que los jugadores aumenten el tiempo para unirse?\nActualmente: {0} aumentar el tiempo\nNota: Los administradores siempre podrán aumentar el tiempo para unirse."
     AllowExtendA:
-      - "{0} que los jugadores aumenten el tiempo para unirse."
+    - "{0} que los jugadores aumenten el tiempo para unirse."
     AllowFlee:
-      - "Permitir salir del juego"
+    - "Permitir salir del juego"
     AllowFleeQ:
-      - "¿Permitir que los jugadores abandonen el juego después de que haya empezado la partida?\nNota: Los jugadores aún podrán huir durante el join. \nActualmente: Los jugadores {0} pueden huir"
+    - "¿Permitir que los jugadores abandonen el juego después de que haya empezado la partida?\nNota: Los jugadores aún podrán huir durante el join. \nActualmente: Los jugadores {0} pueden huir"
     AllowFleeA:
-      - "Los jugadores {0} tienen permitida la huida después de comenzar el juego."
+    - "Los jugadores {0} tienen permitida la huida después de comenzar el juego."
     ShowIDs:
     - "Mostrar IDs durante el join."
     ShowIDsQ:
-      - "¿Mostrar los IDs de los jugadores conforme se vayan uniendo?\nActualmente: {0}"
+    - "¿Mostrar los IDs de los jugadores conforme se vayan uniendo?\nActualmente: {0}"
     ShowIDsA:
-      - ""
+    - ""
     ThiefFull:
-      - "Modo «Ladrón completo»"
+    - "Modo «Ladrón completo»"
     ThiefFullA:
-      - "El ladrón puede usarse cada noche: {0}"
+    - "El ladrón puede usarse cada noche: {0}"
     ThiefFullQ:
-      - "¿Usar el ladrón cada noche?\nActualmente: {0}"
+    - "¿Usar el ladrón cada noche?\nActualmente: {0}"
     SecretLynchShowVotes:
-      - "Secreto: Recuento de votos"
+    - "Secreto: Recuento de votos"
     SecretLynchShowVotesQ:
-      - "¿Mostrar el recuento de votos al final de los linchamientos secretos cuando estos estén activados?\nActualmente: {0}"
+    - "¿Mostrar el recuento de votos al final de los linchamientos secretos cuando estos estén activados?\nActualmente: {0}"
     SecretLynchShowVotesA:
-      - "Cuando los linchamientos secretos estén activados, el recuento al final de estos será del siguiente modo: {0}"
+    - "Cuando los linchamientos secretos estén activados, el recuento al final de estos será del siguiente modo: {0}"
     SecretLynchShowVoters:
-      - "Secreto: Votantes"
+    - "Secreto: Votantes"
     SecretLynchShowVotersA:
-      - "Cuando los linchamientos secretos estén activados y se muestre el recuento de votos, el nombre del votante por cada jugador votado será del siguiente modo: {0}"
+    - "Cuando los linchamientos secretos estén activados y se muestre el recuento de votos, el nombre del votante por cada jugador votado será del siguiente modo: {0}"
     SecretLynchShowVotersQ:
-      - "¿Mostrar el nombre del votante por cada jugador votado cuando los linchamientos secretos estén activados y se muestre el recuento de votos?\nActualmente: {0}"
+    - "¿Mostrar el nombre del votante por cada jugador votado cuando los linchamientos secretos estén activados y se muestre el recuento de votos?\nActualmente: {0}"
     PinChatMessage:
-      - "Mensaje del Juego fijado"
+    - "Mensaje del Juego fijado"
     PinChatMessageQ:
-      - "¿Desea que se fijen automáticamente los mensajes del juego? Default: {0}"
+    - "¿Desea que se fijen automáticamente los mensajes del juego? Default: {0}"
     PinChatMessageA:
-      - "Fijado de mensajes establecido {0}."
+    - "Fijado de mensajes establecido {0}."
     ShowRolesDeath:
-      - Mostrar roles a morir
+    - Mostrar roles a morir
     ShowRolesDeathQ:
-      - "¿Ocultar o mostrar los roles al morir? \n\nActualmente: {0} "
+    - "¿Ocultar o mostrar los roles al morir? \n\nActualmente: {0} "
     ShowRolesDeathA:
-      - "Roles serán {0} al morir"
+    - "Roles serán {0} al morir"
     WelcomeMessage:
-      - "Mensajes de bienvenida"
+    - "Mensajes de bienvenida"
     WelcomeMessageQ:
-      - "¿Mostrar mensajes de bienvenida? Por defecto: {0}"
+    - "¿Mostrar mensajes de bienvenida? Por defecto: {0}"
     WelcomeMessageA:
-      - "Mensajes de Bienvenida Set {0}."
+    - "Mensajes de Bienvenida Set {0}."
     PMMessage:
-      - "Chat del equipo"
+    - "Chat del equipo"
     PMMessageQ:
-      - "¿Pueden los equipos enviarse mensajes por MP? Por defecto: {0}"
+    - "¿Pueden los equipos enviarse mensajes por MP? Por defecto: {0}"
     PMMessageA:
-      - "Chat de Equipo Set {0}."
+    - "Chat de Equipo Set {0}."
     RoleCards:
-      - "Tarjetas de rol"
+    - "Tarjetas de rol"
     RoleCardsQ:
-      - ""
+    - ""
     RoleCardsA:
-      - ""
+    - ""
     MaxExtend:
-      - Poner el máximo de tiempo extendido
+    - Poner el máximo de tiempo extendido
     MaxExtendQ:
-      - "Elija la cantidad máxima de segundos que se pueden agregar al temporizador de unión mediante un solo comando /extend.\r\nConfiguración predeterminada: {0}\r\nActual:{1}"
+    - "Elija la cantidad máxima de segundos que se pueden agregar al temporizador de unión mediante un solo comando /extend.\r\nConfiguración predeterminada: {0}\r\nActual:{1}"
     MaxExtendA:
-      - "Tiempo máximo de extensión establecido en {0} segundos"
+    - "Tiempo máximo de extensión establecido en {0} segundos"
     DisableGModes:
-      - ""
+    - ""
     DisableGModesInfo:
-      - ""
+    - ""
     MuteModes:
-      - ""
+    - ""
     MuteModesInfo:
-      - ""
+    - ""
     Lang:
-      - "Cambiar idioma"
+    - "Cambiar idioma"
     DayTimer:
-      - Temporizador diurno
+    - Temporizador diurno
     SetDayTimeA:
-      - "Duración de las acciones durante el día: {0} segundos."
+    - "Duración de las acciones durante el día: {0} segundos."
     SetDayTimeQ:
-      - "Elige la duración de las acciones diurnas (en segundos). Aun así, quedará modificado en base al número de jugadores.\nPor defecto: {0}\nActualmente: {1}"
+    - "Elige la duración de las acciones diurnas (en segundos). Aun así, quedará modificado en base al número de jugadores.\nPor defecto: {0}\nActualmente: {1}"
     NightTimer:
-      - Temporizador nocturno
+    - Temporizador nocturno
     SetNightTimeQ:
-      - "Elige la duración de la noche.\nPor defecto: {0}\nActualmente:{1}"
+    - "Elige la duración de la noche.\nPor defecto: {0}\nActualmente:{1}"
     SetNightTimeA:
-      - "Duración de la noche: {0} segundos."
+    - "Duración de la noche: {0} segundos."
     LynchTimer:
-      - Temporizador de linchamiento
+    - Temporizador de linchamiento
     SetLynchTimeQ:
-      - "Elige la duración del linchamiento.\nPor defecto: {0}\nActualmente:{1}"
+    - "Elige la duración del linchamiento.\nPor defecto: {0}\nActualmente:{1}"
     SetLynchTimeA:
-      - "Duración del linchamiento: {0} segundos."
+    - "Duración del linchamiento: {0} segundos."
     MaxPlayer:
-      - "Establecer máximo de judadores"
+    - "Establecer máximo de judadores"
     MaxPlayersQ:
-      - "¿Cuántos jugadores pueden jugar como máximo en una partida?\nActualmente: {0}"
+    - "¿Cuántos jugadores pueden jugar como máximo en una partida?\nActualmente: {0}"
     MaxPlayersA:
-      - "El máximo de jugadores está establecido en {0}"
+    - "El máximo de jugadores está establecido en {0}"
     RoleConfigInfo:
-      - "¿Qué roles te gustaría usar en el juego?\n\nTutorial de configuración:\n\n✅ = Función habilitada\n❌ = Rol deshabilitado\n\nDespués de seleccionar los roles, debe usar el botón VALIDAR en la esquina inferior izquierda para validar y habilitar su selección de roles. Si no valida su selección, ¡se ignorará y se utilizarán todos los roles!\n\nSi la validación tuvo éxito, el botón inferior izquierdo dice ✅ Válido ✅ ¡y se utilizará la configuración de su rol!"
+    - "¿Qué roles te gustaría usar en el juego?\n\nTutorial de configuración:\n\n✅ = Función habilitada\n❌ = Rol deshabilitado\n\nDespués de seleccionar los roles, debe usar el botón VALIDAR en la esquina inferior izquierda para validar y habilitar su selección de roles. Si no valida su selección, ¡se ignorará y se utilizarán todos los roles!\n\nSi la validación tuvo éxito, el botón inferior izquierdo dice ✅ Válido ✅ ¡y se utilizará la configuración de su rol!"
     Validate:
-      - Validar
+    - Validar
     WhatLang:
-      - "¿Qué idioma?\nActualmente: {0}"
+    - "¿Qué idioma?\nActualmente: {0}"
     WhatVariant:
-      - "¿Qué variante?\nActualmente: {0}"
+    - "¿Qué variante?\nActualmente: {0}"
     LangSet:
-      - "Idioma puesto: {0}"
+    - "Idioma puesto: {0}"
     Allow:
     - "Está permitido"
     Disallow:
-      - "No está permitido"
+    - "No está permitido"
     Show:
-      - "Mostrar"
+    - "Mostrar"
     Hide:
-      - "Ocultar"
+    - "Ocultar"
   SocialCommand:
     MostPlayedWith:
-      - "\U0001F3AE La mayor parte juega con"
+    - "🎮 La mayor parte juega con"
     Killed:
-      - "\U0001F52A Suele asesinar a"
+    - "🔪 Suele asesinar a"
     KilledBy:
-      - "☠️ Suele ser asesinado por"
+    - "☠️ Suele ser asesinado por"
     DeathType:
-      - "\U0001F4CA Tipo de muerte"
+    - "📊 Tipo de muerte"
     SocialStats:
-      - "¿Qué estadística social quieres ver? "
+    - "¿Qué estadística social quieres ver? "
   SetLinkCommand:
     SetLinkSuccess:
-      - "Link configurado con éxito: {0}"
+    - "Link configurado con éxito: {0}"
     SetLinkFailed:
-      - "Tienes que utilizar el comando /setlink con el link de invitación del grupo."
+    - "Tienes que utilizar el comando /setlink con el link de invitación del grupo."
     SetLinkError:
-      - "Este link de invitación de Telegram no es válido."
+    - "Este link de invitación de Telegram no es válido."
     SetLinkDelete:
-      - "El link de tu grupo ha sido eliminado con éxito."
+    - "El link de tu grupo ha sido eliminado con éxito."
   RepCommand:
     RepCommandSuccess:
-      - "Bug enviado con éxito a los desarrolladores. Después de la revisión, se harán las correcciones necesarias. Muchas gracias."
+    - "Bug enviado con éxito a los desarrolladores. Después de la revisión, se harán las correcciones necesarias. Muchas gracias."
     ErrorRepCommand:
-      - "Por favor, responde al mensaje de inicio de la partida y usa el comando. Si alguna de las partidas tiene un error, puedes usar el comando respondiendo a la lista #players de esa partida."
+    - "Por favor, responde al mensaje de inicio de la partida y usa el comando. Si alguna de las partidas tiene un error, puedes usar el comando respondiendo a la lista #players de esa partida."
     EmptyReason:
-      - "Por favor escribe la descripción del error después del comando. Por ejemplo: /rep error el jugador no puede ser linchado "
+    - "Por favor escribe la descripción del error después del comando. Por ejemplo: /rep error el jugador no puede ser linchado "
   Ping:
     PingInfo:
-      - "Tiempo que tarda Telegram en enviarme un mensaje: {0}\nMensajes por segundo: {1}"
+    - "Tiempo que tarda Telegram en enviarme un mensaje: {0}\nMensajes por segundo: {1}"
     Ping2:
-      - "Duración en enviar el mensaje: {0}"
+    - "Duración en enviar el mensaje: {0}"
   ModeInfo:
     LoveInfo:
-      - "En el Modo Amor, cada jugador comienza el juego emparejado con un amante, y cuando uno muere, su amante también muere. Los amantes pueden comunicarse en privado a través del bot. El juego es ganado por los últimos amantes supervivientes. Las estadísticas y la puntuación no se rastrean en este modo. En el modo de amor, los roles de \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476 y \U0001F9D1‍⚕️ están desactivados."
+    - "En el Modo Amor, cada jugador comienza el juego emparejado con un amante, y cuando uno muere, su amante también muere. Los amantes pueden comunicarse en privado a través del bot. El juego es ganado por los últimos amantes supervivientes. Las estadísticas y la puntuación no se rastrean en este modo. En el modo de amor, los roles de 🏹, 😾, 🖕, 👶 y 🧑‍⚕️ están desactivados."
     NormalInfo:
-      - "En el modo Normal, no hay puntos y todos los roles son visibles. El juego asegura una distribución equilibrada entre los malos y los aldeanos, creando un desafío justo y uniforme para todos los jugadores."
+    - "En el modo Normal, no hay puntos y todos los roles son visibles. El juego asegura una distribución equilibrada entre los malos y los aldeanos, creando un desafío justo y uniforme para todos los jugadores."
     RankedInfo:
-      - "En el modo clasificado, los jugadores reciben puntos en función de su rendimiento y eficacia del rol. El juego garantiza una distribución equilibrada de roles para un juego limpio. Al final de un juego con 10 o más jugadores, algunos participantes reciben recompensas de menta, que se pueden usar para comprar roles o emojis. Utilice el comando /topscore para comprobar su clasificación global."
+    - "En el modo clasificado, los jugadores reciben puntos en función de su rendimiento y eficacia del rol. El juego garantiza una distribución equilibrada de roles para un juego limpio. Al final de un juego con 10 o más jugadores, algunos participantes reciben recompensas de menta, que se pueden usar para comprar roles o emojis. Utilice el comando /topscore para comprobar su clasificación global."
     ChaosInfo:
-      - "En el modo Caos, no hay equilibrio, los roles se asignan completamente al azar. Esto significa que los villanos o los aldeanos podrían terminar con un poder significativo. ¡Prepárate para un juego impredecible y caótico en el que cualquier cosa puede pasar!"
+    - "En el modo Caos, no hay equilibrio, los roles se asignan completamente al azar. Esto significa que los villanos o los aldeanos podrían terminar con un poder significativo. ¡Prepárate para un juego impredecible y caótico en el que cualquier cosa puede pasar!"
     CustomInfo:
-      - "En el modo personalizado, el juego comienza con el iniciador seleccionando qué roles se incluirán. Eliges los roles que quieres añadir antes de que comience el juego. Sin embargo, si ninguno de los primeros cuatro papeles son villanos, el juego no comenzará. Tenga en cuenta que este modo no afecta ni contribuye a las estadísticas generales."
+    - "En el modo personalizado, el juego comienza con el iniciador seleccionando qué roles se incluirán. Eliges los roles que quieres añadir antes de que comience el juego. Sin embargo, si ninguno de los primeros cuatro papeles son villanos, el juego no comenzará. Tenga en cuenta que este modo no afecta ni contribuye a las estadísticas generales."
     ModeInfo:
-      - "Para obtener más información sobre el modo de juego actual, haga clic en /modeinfo.\n\n\nModo de juego: {0}"
+    - "Para obtener más información sobre el modo de juego actual, haga clic en /modeinfo.\n\n\nModo de juego: {0}"
     BonusModeActivated:
-      - ""
+    - ""
     RankedMode:
-      - Clasificatoria
+    - Clasificatoria
     LoveMode:
-      - Amor
+    - Amor
     CustomMode:
-      - Personalizado
+    - Personalizado
     NormalMode:
-      - ""
+    - ""
     ChaosMode:
-      - Caos
+    - Caos
   RoleList:
     HelpRoleList:
-      - "Estos son los roles de Wolf Blood:\n\nWolf Blood tiene un total de {2} roles.\nHay {0} roles clásicos y {1} roles especiales de wb"
+    - "Estos son los roles de Wolf Blood:\n\nWolf Blood tiene un total de {2} roles.\nHay {0} roles clásicos y {1} roles especiales de wb"
     VG:
-      - Equipo de la aldea
+    - Equipo de la aldea
     Baddie:
-      - Equipo lobo 🐺
+    - Equipo lobo 🐺
     Solo:
-      - Jugador en solitario👣
+    - Jugador en solitario👣
     AboutVGTeam:
-      - "Aldea del equipo\n\nLos habitantes inocentes que trabajan juntos para identificar y eliminar a los asesinos que se esconden entre ellos. Deben utilizar su razonamiento deductivo y su pensamiento estratégico para descubrir quiénes son los asesinos antes de que se conviertan en víctimas de sus ataques mortales.\n\nRivales: Hombres lobo, Asesino en serie, Pirómano, Cultistas"
+    - "Aldea del equipo\n\nLos habitantes inocentes que trabajan juntos para identificar y eliminar a los asesinos que se esconden entre ellos. Deben utilizar su razonamiento deductivo y su pensamiento estratégico para descubrir quiénes son los asesinos antes de que se conviertan en víctimas de sus ataques mortales.\n\nRivales: Hombres lobo, Asesino en serie, Pirómano, Cultistas"
     AboutBaddieTeam:
-      - "Equipo Hombre Lobo\n\nUn grupo de aldeanos que fueron atacados por una manada de lobos salvajes en una noche mágica bajo la luna llena, pero milagrosamente escaparon de la muerte. Experimentaron una extraña transformación en sus cuerpos y, a partir de ese momento, se convirtieron en hombres lobo por la noche, cazando a aldeanos desprevenidos mientras se hacían pasar por miembros inocentes de la aldea durante el día.\n\nRivales: Asesino en serie, pirómano, cultistas"
+    - "Equipo Hombre Lobo\n\nUn grupo de aldeanos que fueron atacados por una manada de lobos salvajes en una noche mágica bajo la luna llena, pero milagrosamente escaparon de la muerte. Experimentaron una extraña transformación en sus cuerpos y, a partir de ese momento, se convirtieron en hombres lobo por la noche, cazando a aldeanos desprevenidos mientras se hacían pasar por miembros inocentes de la aldea durante el día.\n\nRivales: Asesino en serie, pirómano, cultistas"
     AboutSoloTeam:
-      - "Equipo en solitario\n\nLas personas de la aldea que prefieren operar solas en lugar de ser parte de un equipo. A diferencia de los hombres lobo, tienen la capacidad de eliminar jugadores individualmente. Su objetivo es ser el único superviviente del pueblo, lo que les llevaría a la victoria.\n\nVillanos en solitario: Asesino en serie, Pirómano"
+    - "Equipo en solitario\n\nLas personas de la aldea que prefieren operar solas en lugar de ser parte de un equipo. A diferencia de los hombres lobo, tienen la capacidad de eliminar jugadores individualmente. Su objetivo es ser el único superviviente del pueblo, lo que les llevaría a la victoria.\n\nVillanos en solitario: Asesino en serie, Pirómano"
   Requirements:
     MemberCount:
-      - ""
+    - ""
     RestrictPermission:
-      - ""
+    - ""
     GameCount:
-      - ""
+    - ""
     GroupUnderReview:
-      - ""
+    - ""
     GroupApprovedButNotReady:
-      - ""
+    - ""
     GroupRejected:
-      - ""
+    - ""
     GroupApprovedNotification:
-      - ""
+    - ""
     RequestSent:
-      - ""    
+    - ""
   EndMessages:
     SKHunterEnd:
-      - "Cuando sale el sol, {0} y {1} caminan hacia el pueblo. {0} saca su cuchillo, y salta sobre {1}. {1} saca una pistola y dispara en la cara de {0} mientras {0} se lanza y clava el cuchillo profundamente en {1}. Ambos mueren, el pueblo está vacío, no hay ganador."
+    - "Cuando sale el sol, {0} y {1} caminan hacia el pueblo. {0} saca su cuchillo, y salta sobre {1}. {1} saca una pistola y dispara en la cara de {0} mientras {0} se lanza y clava el cuchillo profundamente en {1}. Ambos mueren, el pueblo está vacío, no hay ganador."
     HunterKillsWolfEnd:
-      - "Sabiendo que solo quedaba {0} en el pueblo, {1} intenta comérselo, pero {0} lleva años practicando el tiro al blanco y se las arregla para hacer que {1} se lleve un tiro entre ceja y ceja. ¡Los aldeanos han ganado!"
+    - "Sabiendo que solo quedaba {0} en el pueblo, {1} intenta comérselo, pero {0} lleva años practicando el tiro al blanco y se las arregla para hacer que {1} se lleve un tiro entre ceja y ceja. ¡Los aldeanos han ganado!"
     WolfKillsHunterEnd:
-      - "{1} sabe que en el pueblo solo queda {0}, así que aprovecha mientras {0} está enfrascado trabajando en un nuevo arco en su casa y se mete en en su casa para despedazar el cuerpo de {0}."
+    - "{1} sabe que en el pueblo solo queda {0}, así que aprovecha mientras {0} está enfrascado trabajando en un nuevo arco en su casa y se mete en en su casa para despedazar el cuerpo de {0}."
     CHKillsCultistEnd:
-      - "{1} y {0} se encuentran en la plaza del pueblo. Sin embargo, {1} hoy no tiene ganas de sermones y antes de que {0} saque su libro sagrado, se abalanza sobre él y lo mata. {0} era el último cultista en pie."
+    - "{1} y {0} se encuentran en la plaza del pueblo. Sin embargo, {1} hoy no tiene ganas de sermones y antes de que {0} saque su libro sagrado, se abalanza sobre él y lo mata. {0} era el último cultista en pie."
     TannerEnd:
-      - "Con el albor del nuevo día, {0} se despierta en medio de un gran silencio. Dándose cuenta de que no queda nadie, {0} empieza a caminar en soledad por todo el pueblo. Entonces, {0} suspira al ver los cuerpos sin vida de sus antiguos vecinos; su sueño de ser linchado está tan muerto como ellos. Así pues, rebusca, y encuentra la vieja soga que tantas vidas se ha llevado, se la anuda al cuello con ternura y, se deja caer atado desde la viga de su bar preferido."
-      - "{0} se levanta solo con el alba. La impotencia recorre las venas de {0} al darse cuenta de que su misión masoquista ha fracasado estrepitosamente; así que {0} coge una cuerda y se cuelga al darse cuenta de que no queda nadie que pueda lincharlo."
+    - "Con el albor del nuevo día, {0} se despierta en medio de un gran silencio. Dándose cuenta de que no queda nadie, {0} empieza a caminar en soledad por todo el pueblo. Entonces, {0} suspira al ver los cuerpos sin vida de sus antiguos vecinos; su sueño de ser linchado está tan muerto como ellos. Así pues, rebusca, y encuentra la vieja soga que tantas vidas se ha llevado, se la anuda al cuello con ternura y, se deja caer atado desde la viga de su bar preferido."
+    - "{0} se levanta solo con el alba. La impotencia recorre las venas de {0} al darse cuenta de que su misión masoquista ha fracasado estrepitosamente; así que {0} coge una cuerda y se cuelga al darse cuenta de que no queda nadie que pueda lincharlo."
     SorcererEnd:
-      - "Los místicos ojos de {0} se abren, pero en lugar del típico bullicio del pueblo, se encuentra con un silencio sepulcral. Se queda mirando al monótono techo y deja que la realidad se funda en él. Todo el mundo está muerto. Sus lobos no volverán jamás. Con gran angustia en su negro corazón, {0} se pone en pie y mete sus pertenencias en su viejo baúl; después se aleja hasta el final del pueblo. Una lágrima se desliza del ojo de {0} mientras recuerda lo cerca que ella y la manada estuvieron de la victoria. ¡Ay!, tiempo es ya de empezar una nueva vida con otros lobos que la requieran. {0} se introduce en el sombrío bosque y deja atrás su querido pueblo."
-      - "A pesar de los esfuerzos de {0}, su vida ya carece de emoción y gracia. Aun con la victoria de los lobos, no queda nadie con quien saborear el éxito ni aldeanos de quien mofarse. Así las cosas, {0} mira en su bola de cristal, donde silenciosamente desaparecen sus anhelos en una neblina espesa. Se dispone, pues, a buscar nuevos lobos, aliados que la ayuden a llenar su oscura vida y sacia su sed de causar males a la humanidad."
+    - "Los místicos ojos de {0} se abren, pero en lugar del típico bullicio del pueblo, se encuentra con un silencio sepulcral. Se queda mirando al monótono techo y deja que la realidad se funda en él. Todo el mundo está muerto. Sus lobos no volverán jamás. Con gran angustia en su negro corazón, {0} se pone en pie y mete sus pertenencias en su viejo baúl; después se aleja hasta el final del pueblo. Una lágrima se desliza del ojo de {0} mientras recuerda lo cerca que ella y la manada estuvieron de la victoria. ¡Ay!, tiempo es ya de empezar una nueva vida con otros lobos que la requieran. {0} se introduce en el sombrío bosque y deja atrás su querido pueblo."
+    - "A pesar de los esfuerzos de {0}, su vida ya carece de emoción y gracia. Aun con la victoria de los lobos, no queda nadie con quien saborear el éxito ni aldeanos de quien mofarse. Así las cosas, {0} mira en su bola de cristal, donde silenciosamente desaparecen sus anhelos en una neblina espesa. Se dispone, pues, a buscar nuevos lobos, aliados que la ayuden a llenar su oscura vida y sacia su sed de causar males a la humanidad."
     DoppelgangerEnd:
-      - "¡Ah! ¿Qué tan miserable puede ser la vida de alguien que ni siquiera es apto para hacer la única tarea por la cual fue creado? ¿La capacidad de adoptar la apariencia de otros es sólo una leyenda?  ¡Nunca sabremos!\n {0} ahora está solo en el pueblo y no hay nadie a quien imitar.  ¡Lo único que puede hacer es copiar a la persona que ve en el espejo!"
+    - "¡Ah! ¿Qué tan miserable puede ser la vida de alguien que ni siquiera es apto para hacer la única tarea por la cual fue creado? ¿La capacidad de adoptar la apariencia de otros es sólo una leyenda?  ¡Nunca sabremos!\n {0} ahora está solo en el pueblo y no hay nadie a quien imitar.  ¡Lo único que puede hacer es copiar a la persona que ve en el espejo!"
     ThiefEnd:
-      - "{0} deambula por la aldea, y de pronto se da cuenta de que ya no quedan roles divertidos que robar, por lo que, rápidamente, recoge sus cosas y se va en busca de otro lugar donde retomar su ilustre carrera profesional."
+    - "{0} deambula por la aldea, y de pronto se da cuenta de que ya no quedan roles divertidos que robar, por lo que, rápidamente, recoge sus cosas y se va en busca de otro lugar donde retomar su ilustre carrera profesional."
   RankedTable:
-    RoleTable: 
-      - ""
+    RoleTable:
+    - ""
     PointTable:
-      - ""
+    - ""
     PenaltyTable:
-      - ""
+    - ""
     BonusModeTable:
-      - ""
+    - ""
     TotalTable:
-      - ""
-    ResultTable: 
-      - ""
+    - ""
+    ResultTable:
+    - ""
     WonGame:
-      - ""
+    - ""
     LostGame:
-      - ""
+    - ""
     Loots:
-      - ""
+    - ""
   Stats:
     AchievementsUnlocked:
-      - "Logro desbloqueado"
+    - "Logro desbloqueado"
     Score:
-      - "Puntuación"
+    - "Puntuación"
     GamesWon:
-      - "Juegos ganados"
+    - "Juegos ganados"
     GamesLost:
-      - "Juegos perdidos"
+    - "Juegos perdidos"
     GamesSurvived:
-      - "Juegos sobrevividos"
+    - "Juegos sobrevividos"
     TotalGames:
-      - "Juegos Totales"
+    - "Juegos Totales"
     TimesKilled:
-      - "Has asesinado más a"
+    - "Has asesinado más a"
     TimesKilledBy:
-      - "Más asesinado por"
+    - "Más asesinado por"
     Afk:
-      - "Muertes AFK"
+    - "Muertes AFK"
   TimeMessages:
     LynchTime:
-      - "El ocaso se acerca y los aldeanos tratan de decidir a quién lincharán esta tarde... ¡Todo el mundo tiene {0} segundos para votar a partir de ahora!"
+    - "El ocaso se acerca y los aldeanos tratan de decidir a quién lincharán esta tarde... ¡Todo el mundo tiene {0} segundos para votar a partir de ahora!"
     DayTime:
-      - "Ha llegado el día. Tenéis {0} segundos para discutir y hacer vuestras acusaciones y defensas."
+    - "Ha llegado el día. Tenéis {0} segundos para discutir y hacer vuestras acusaciones y defensas."
     NightTime:
-      - "Cae la noche. Todo el mundo se dirige a su cama agotado después de un día tan intenso. Jugadores nocturnos, ¡tenéis {0} segundos para realizar vuestras acciones!"
+    - "Cae la noche. Todo el mundo se dirige a su cama agotado después de un día tan intenso. Jugadores nocturnos, ¡tenéis {0} segundos para realizar vuestras acciones!"
   CustomMode:
     CustomRoleInvalid:
-      - "¡Nueva configuración de juego por !\n\nUsa 'Eliminar' para eliminar roles. Añade múltiplos con X2-X5-X10.\n\n¡Listo para empezar una vez que se establezcan los roles!"
+    - "¡Nueva configuración de juego por !\n\nUsa 'Eliminar' para eliminar roles. Añade múltiplos con X2-X5-X10.\n\n¡Listo para empezar una vez que se establezcan los roles!"
     CustomFirstRole:
-      - "Uno de los primeros 4 roles debe ser un equipo de lobos, cultista, pirómano, o asesino en serie. Por favor, asegúrese de que estos roles se incluyan entre los primeros roles añadidos."
+    - "Uno de los primeros 4 roles debe ser un equipo de lobos, cultista, pirómano, o asesino en serie. Por favor, asegúrese de que estos roles se incluyan entre los primeros roles añadidos."
     CustomMinimumRole:
-      - Necesitas al menos 4 roles para comenzar el juego.
+    - Necesitas al menos 4 roles para comenzar el juego.
     CustomMaxRole:
-      - "No puedes empezar el juego con más de 100 roles. Por favor, elimine algunos roles e inténtelo de nuevo."
+    - "No puedes empezar el juego con más de 100 roles. Por favor, elimine algunos roles e inténtelo de nuevo."
     CustomNoRole:
-      - Por favor agregar los roles antes de comenzar el juego.
+    - Por favor agregar los roles antes de comenzar el juego.
   BanMessages:
     GroupBan:
-      - ""
+    - ""
     GlobalBan:
-      - ""
+    - ""
     BanReason:
-     - ""
+    - ""
     BanExpire:
-      - ""
+    - ""
     GroupBanPlayer:
-      - ""
+    - ""
     Year:
-      - ""
+    - ""
     Day:
-      - ""
+    - ""
     Minutes:
-      - ""
+    - ""
     Hours:
-      - ""
+    - ""
     Seconds:
-      - ""
+    - ""
   TeamsMessages:
     MyTeam:
-      - ""
+    - ""
     NothingTeam:
-      - "No eres miembro de ningún equipo.\nPuedes unirte a un equipo usando el comando /jointeam en cualquiera de los grupos que tengan los equipos habilitados.\n¡Únete a un equipo ahora y esfuércense juntos para alcanzar la victoria!"
+    - "No eres miembro de ningún equipo.\nPuedes unirte a un equipo usando el comando /jointeam en cualquiera de los grupos que tengan los equipos habilitados.\n¡Únete a un equipo ahora y esfuércense juntos para alcanzar la victoria!"
     JoinTeam:
-      - "\U0001F389 ¡Felicidades! \U0001F389\nTe has unido con éxito al equipo {0}.\n¡Juntos dominaremos el juego! \U0001F680\U0001F3AE"
+    - "🎉 ¡Felicidades! 🎉\nTe has unido con éxito al equipo {0}.\n¡Juntos dominaremos el juego! 🚀🎮"
     AlreadyTeam:
-      - "ℹ️ Información: Ya eres un miembro del equipo {0}. ¡Sigue trabajando así y conseguiremos a la victoria! \U0001F389\U0001F680"
+    - "ℹ️ Información: Ya eres un miembro del equipo {0}. ¡Sigue trabajando así y conseguiremos a la victoria! 🎉🚀"
     LeaveTeam:
-      - "\U0001F44B Has abandonado el equipo con éxito {0}.\nSi en algún momento quieres volver al equipo, puedes utilizar el comando /jointeam\n¡Estaremos esperando tu regreso! \U0001F31F"
+    - "👋 Has abandonado el equipo con éxito {0}.\nSi en algún momento quieres volver al equipo, puedes utilizar el comando /jointeam\n¡Estaremos esperando tu regreso! 🌟"
   NotAdmin:
     GroupAdminOnly:
-      - "Solo la administración puede usar este comando. Echa al bot y añádelo de nuevo. Se te incluirá como administrador."
+    - "Solo la administración puede usar este comando. Echa al bot y añádelo de nuevo. Se te incluirá como administrador."
     NotGlobalAdmin:
-      - "No eres un administrador global."
+    - "No eres un administrador global."
     NotKadir:
-      - "¡Quita de aquí, tú no eres Kadir!"
+    - "¡Quita de aquí, tú no eres Kadir!"
     GroupCommandOnly:
-      - "¡Este comando solo se puede usar en un grupo!"
+    - "¡Este comando solo se puede usar en un grupo!"
   NextGame:
     DeletedFromWaitList:
-      - "Se te ha eliminado de la lista de espera de {0}."
+    - "Se te ha eliminado de la lista de espera de {0}."
     AlreadyOnWaitList:
-      - "Ya estás en la lista de espera del grupo: {0}"
+    - "Ya estás en la lista de espera del grupo: {0}"
     AddedToWaitList:
-      - "Has sido añadido a la lista de espera. Te enviaré un mensaje directo cuando empiece la próxima partida.\nGrupo: {0}" 
+    - "Has sido añadido a la lista de espera. Te enviaré un mensaje directo cuando empiece la próxima partida.\nGrupo: {0}"
   LynchMessages:
     PlayerVotedLynch:
-      - "{0} ha votado linchar a {1}."
+    - "{0} ha votado linchar a {1}."
     AskLynch:
-      - "¿A quién quieres linchar?"
+    - "¿A quién quieres linchar?"
     LynchKill:
-      - "Los aldeanos tienen su veredicto, entre tantas dudas y sospechas, {0} ha muerto linchado por el pueblo. {1}."
+    - "Los aldeanos tienen su veredicto, entre tantas dudas y sospechas, {0} ha muerto linchado por el pueblo. {1}."
     LynchTie:
-      - "Incapaces de tomar una decisión sobre el linchamiento, la multitud vuelve frustrada a pasar la noche en sus casas... [Empate en las votaciones]."
+    - "Incapaces de tomar una decisión sobre el linchamiento, la multitud vuelve frustrada a pasar la noche en sus casas... [Empate en las votaciones]."
     NoLynchVotes:
-      - "¡Qué extraño, nadie ha votado! No hay linchamiento esta noche..."
+    - "¡Qué extraño, nadie ha votado! No hay linchamiento esta noche..."
     PlayerVoteCounts:
-      - "{0} jugadores han votado, {1} en total."
+    - "{0} jugadores han votado, {1} en total."
     SecretLynchResultEach:
-      - "{0} votos para {1}: {2}"
+    - "{0} votos para {1}: {2}"
     SecretLynchResultFull:
-      - "El resultado de los linchamientos de hoy:\n{0}"
+    - "El resultado de los linchamientos de hoy:\n{0}"
     SecretLynchResultNumber:
-      - "{0} votos para {1}."
+    - "{0} votos para {1}."
   PublicMessages:
     DefaultFellPublic:
-      - ""
+    - ""
     KillerSpottedDiggerPublic:
-      - ""
+    - ""
     WolvesSpottedDiggerPublic:
-      - ""
+    - ""
     HarlotFuckKillerPublic:
-      - "{0} intentó divertirse esta noche, pero se topó con una asesina en serie de muy malas pulgas. {0} ha muerto."
+    - "{0} intentó divertirse esta noche, pero se topó con una asesina en serie de muy malas pulgas. {0} ha muerto."
     HarlotFuckedKilledPublic:
-      - "{0} se metió en la casa de {1} para pasar una noche de pasión y locura, pero en lugar de eso, se encontró a un ser misterioso, sacado de un manicomio, ¡que se dedica a extraer los órganos vitales de las personas! Aun así, la asesina en serie decide satisfacer los deseos de {0}, y le deja pasar su última noche de travesuras, antes de añadir el corazón de la ramera a su colección!"
+    - "{0} se metió en la casa de {1} para pasar una noche de pasión y locura, pero en lugar de eso, se encontró a un ser misterioso, sacado de un manicomio, ¡que se dedica a extraer los órganos vitales de las personas! Aun así, la asesina en serie decide satisfacer los deseos de {0}, y le deja pasar su última noche de travesuras, antes de añadir el corazón de la ramera a su colección!"
   WelcomeMessages:
     OfficialGrp:
-      - Aquí están nuestros grupos oficiales en todas las comunidades. ¡Haz clic en el grupo comunitario al que quieres unirte!
+    - Aquí están nuestros grupos oficiales en todas las comunidades. ¡Haz clic en el grupo comunitario al que quieres unirte!
     Welcome:
-      - "¡Hola, {0}! \U0001F43E ¡Bienvenido a Wolf Blood!\n\nPrepárate para un emocionante y misterioso viaje por delante donde los aldeanos luchan contra los hombres lobo. Experimenta la clásica jugabilidad del hombre lobo con características exclusivas que incluyen nuevos roles y modos de juego.\n\nÚnete a grupos oficiales para competir con otros jugadores. Encuentre nuevas actualizaciones en Wolf Blood News y comuníquese con el Grupo de Apoyo para obtener ayuda.\n\n\U0001F43E Feliz lobo \U0001F43A"
+    - "¡Hola, {0}! 🐾 ¡Bienvenido a Wolf Blood!\n\nPrepárate para un emocionante y misterioso viaje por delante donde los aldeanos luchan contra los hombres lobo. Experimenta la clásica jugabilidad del hombre lobo con características exclusivas que incluyen nuevos roles y modos de juego.\n\nÚnete a grupos oficiales para competir con otros jugadores. Encuentre nuevas actualizaciones en Wolf Blood News y comuníquese con el Grupo de Apoyo para obtener ayuda.\n\n🐾 Feliz lobo 🐺"
     CreditsText:
-      - ""
+    - ""
   AFKs:
     IdleKill:
-      - "{0} no ha votado dos noches seguidas. Las fuerzas del bien han visto esto como un crimen terrible y {0} cae de repente, muerto.\n{1}."
+    - "{0} no ha votado dos noches seguidas. Las fuerzas del bien han visto esto como un crimen terrible y {0} cae de repente, muerto.\n{1}."
     IdleCount:
-      - "El jugador {0} ha sido asesinado por no votar {1} veces en las últimas 24 horas."
+    - "El jugador {0} ha sido asesinado por no votar {1} veces en las últimas 24 horas."
     GroupIdleCount:
-      - "{0} de esas muertes fueron en este grupo."
+    - "{0} de esas muertes fueron en este grupo."
   StoreMessages:
     Store:
-      - "\U0001F6D2 ¡Bienvenido a la tienda WB!\n\nUsa tus WB Mints para mejorar tu experiencia de juego explorando la lista de artículos disponibles para comprar. Haga clic en los botones de abajo para continuar.\n\nMentas disponibles: {0} \U0001FA99\nFragmento de emoji disponible: {1} \U0001F9E9\n\n¿Qué te gustaría comprar?"
+    - "🛒 ¡Bienvenido a la tienda WB!\n\nUsa tus WB Mints para mejorar tu experiencia de juego explorando la lista de artículos disponibles para comprar. Haga clic en los botones de abajo para continuar.\n\nMentas disponibles: {0} 🪙\nFragmento de emoji disponible: {1} 🧩\n\n¿Qué te gustaría comprar?"
     BuyFailed:
-      - ""
+    - ""
     BuyConfirm:
-      - ""
+    - ""
     BuySuccess:
-      - "\U0001F389 ¡Compra exitosa!\n\nHas comprado correctamente {0}\n\nTu nuevo saldo es {1}\n\n¡Gracias por su compra!"
+    - "🎉 ¡Compra exitosa!\n\nHas comprado correctamente {0}\n\nTu nuevo saldo es {1}\n\n¡Gracias por su compra!"
     BuyItems:
-      - ""
+    - ""
     BuyTicket:
-      - ""
+    - ""
     BuyRole:
-      - ""
+    - ""
     BuyEmoji:
-      - ""
+    - ""
     BuyEmojiDuration:
-      - ""
+    - ""
   TicketButtons:
     ForceToken:
-      - ''
+    - ''
     RoleVouchers:
-      - ''
+    - ''
     FJoin:
-      - ''
+    - ''
     FName:
-      - ''
+    - ''
     BonusPointTicket:
-      - ''
+    - ''
     Fragment:
-      - ''
+    - ''
     Mint:
-      - ''
+    - ''
     BonusRankedModeTicket:
-      - ''
+    - ''
     CustomMessageTicket:
-      - ''
+    - ''
     CustomEmoji:
-      - ''
+    - ''
     PlayerTAG:
-      - ''
+    - ''
     CustomGifs:
-      - ''
+    - ''
     FakeRole:
-      - ''
+    - ''
     MyTicketButton:
-      - ''
+    - ''
     MyItemButton:
-      - ''
+    - ''
     TournamentPoint:
-      - ''
+    - ''
     Month:
-      - ""
+    - ""
     Week:
-      - ""
+    - ""
     Permanent:
-      - ""
+    - ""
     Yearly:
-      - ""
+    - ""
   TopMessages:
     GroupStats:
-      - "Top 10 en {0} :"
+    - "Top 10 en {0} :"
     TopScore:
-      - "Top 10 jugadores con mayor puntaje global:"
+    - "Top 10 jugadores con mayor puntaje global:"
     YourRanking:
-      - 'Tu rango:'
+    - 'Tu rango:'
     MostPlayedWithMonth:
-      - Jugadores con más partidas este mes.
+    - Jugadores con más partidas este mes.
   ProfileMessages:
     ItemsText:
-      - ""
+    - ""
     Profile:
-      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
     LockEmoji:
-      - ""
+    - ""
     MaxEmoji:
-      - "Has logrado el número máximo de activar emoji. Para seguir activa, haz una donación con el comando /donate."
+    - "Has logrado el número máximo de activar emoji. Para seguir activa, haz una donación con el comando /donate."
     EmojiChoice:
-      - "Los emojis que adquieres se muestran a continuación. Activa o desactiva un emoji que aparece junto a tu nombre alternando a continuación:"
+    - "Los emojis que adquieres se muestran a continuación. Activa o desactiva un emoji que aparece junto a tu nombre alternando a continuación:"
     NoMyRoles:
-      - "Todavía no tienes ningún rol.\n\n¡Sigue jugando para ganar roles y ampliar tu inventario!"
+    - "Todavía no tienes ningún rol.\n\n¡Sigue jugando para ganar roles y ampliar tu inventario!"
     MyRoles:
-      - "\U0001F6C5 Mis roles\n\nAquí puedes ver y gestionar todos tus roles. Activa o desactiva tus roles según tus preferencias de estrategia y juego.\n\nTotal Roles: {0}\n\nHaga clic en un botón para activar o desactivar su rol."
+    - "🛅 Mis roles\n\nAquí puedes ver y gestionar todos tus roles. Activa o desactiva tus roles según tus preferencias de estrategia y juego.\n\nTotal Roles: {0}\n\nHaga clic en un botón para activar o desactivar su rol."
     ActivateRole:
-      - '✅ {0} ¡Rol exitosamente activado!'
+    - '✅ {0} ¡Rol exitosamente activado!'
     DeactivateRole:
-      - '❌ ¡El rol {0} se ha desactivado correctamente!'
+    - '❌ ¡El rol {0} se ha desactivado correctamente!'
     TicketsMenu:
-      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+    - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
   RewardPM:
-    - ""
-    - ""
-    - ""
-    - ""
+  - ""
+  - ""
+  - ""
+  - ""
   TelegramStars:
     StarShop:
-      - ""
+    - ""
     StarTicket:
-      - ""  
+    - ""
     StarItems:
-      - ""
+    - ""
     StarConfirm:
-      - ""
+    - ""
     StarCustomMessage:
-      - ""
+    - ""
     StarPlayerTAG:
-      - ""
+    - ""
     StarGifMenu:
-      - ""
+    - ""
     StarRole:
-      - ""
+    - ""
     StarEmoji:
-      - ""
+    - ""
     StarEmojiDuration:
-      - ""
+    - ""
     StarSuccess:
-      - ""
+    - ""
     StarPayment:
-      - ""
+    - ""
     StarPaidSuccess:
-      - ""
+    - ""
   GiftMenu:
-    GiftShop: 
-      - ""
+    GiftShop:
+    - ""
     GiftItems:
-      - ""
+    - ""
     GiftConfirm:
-      - ""
+    - ""
     GiftTicket:
-      - ""
+    - ""
     GiftCustomMessage:
-      - ""
+    - ""
     GiftPlayerTAG:
-      - ""
+    - ""
     GiftCustomGif:
-      - ""
+    - ""
     GiftRole:
-      - ""
+    - ""
     GiftEmoji:
-      - ""
+    - ""
     GiftEmojiDuration:
-      - ""
+    - ""
     GiftSentSuccess:
-      - ""
+    - ""
   CustomGifs:
     NotPack:
-      - "No has desbloqueado un paquete de GIF personalizado. Por favor, utilice /donate."
+    - "No has desbloqueado un paquete de GIF personalizado. Por favor, utilice /donate."
     GifPackStatus:
-      - 'Current Approval Status:
+    - 'Current Approval Status:
 
-        Approved Gifs: {0} ✅
+      Approved Gifs: {0} ✅
 
-        Pending Gifs: {1} ⏳
+      Pending Gifs: {1} ⏳
 
-        Rejected Gifs: {2} ⛔️'
+      Rejected Gifs: {2} ⛔️'
     GifPack:
-      - "¿Listo para crear tu paquete de gif personalizado? Esto es lo que necesitas saber:\n\n• Tu paquete necesitará aprobación antes de que puedas usarlo en juegos.\n• No se permiten: gifs brutales o ilegales, y otros a nuestra discreción.\n• Recibirás una descripción de la imagen para elegir el gif.\n• Cambiar los gifs requerirá la reaprobación de un administrador.\n\n¡Comencemos seleccionando una situación para tu gif!"
+    - "¿Listo para crear tu paquete de gif personalizado? Esto es lo que necesitas saber:\n\n• Tu paquete necesitará aprobación antes de que puedas usarlo en juegos.\n• No se permiten: gifs brutales o ilegales, y otros a nuestra discreción.\n• Recibirás una descripción de la imagen para elegir el gif.\n• Cambiar los gifs requerirá la reaprobación de un administrador.\n\n¡Comencemos seleccionando una situación para tu gif!"
     GifSubmitBtn:
-      - Enviado por aprobación.
+    - Enviado por aprobación.
     GifSend:
-      - ""
+    - ""
     GifReset:
-      - "Reiniciar GIFS"
+    - "Reiniciar GIFS"
     GifResetSuccess:
-      - ""
+    - ""
     GifStatus:
-      - ''
+    - ''
     Approved:
-      - ''
+    - ''
     Disapproved:
-      - ''
+    - ''
     GifError:
-      - "Este GIF es demasiado grande, el tamaño máximo permitido es de 2 MB. Por favor, envíame el GIF que quieras usar para esta situación, como respuesta."
+    - "Este GIF es demasiado grande, el tamaño máximo permitido es de 2 MB. Por favor, envíame el GIF que quieras usar para esta situación, como respuesta."
     GifSuccess:
-      - "Hecho, ¿algo más para hacer?"
+    - "Hecho, ¿algo más para hacer?"
     GifSubmit:
-      - "¡Su paquete de GIF ha sido enviado a los administradores para su aprobación!\n\nPor favor, tenga en cuenta que los administradores tienen una gran cantidad de paquetes de GIF para revisar, por lo que este proceso puede tardar hasta 1 día hábil.\n\nNuestros administradores harán un seguimiento de los paquetes de GIF enviados, no tienes que enviarles un mensaje privado directamente. ¡Gracias por su paciencia!"
+    - "¡Su paquete de GIF ha sido enviado a los administradores para su aprobación!\n\nPor favor, tenga en cuenta que los administradores tienen una gran cantidad de paquetes de GIF para revisar, por lo que este proceso puede tardar hasta 1 día hábil.\n\nNuestros administradores harán un seguimiento de los paquetes de GIF enviados, no tienes que enviarles un mensaje privado directamente. ¡Gracias por su paciencia!"
     GifSubmitHour:
-      - "¡Ya has enviado tu paquete de GIF en la última hora! Si envías tus GIF y luego cambias algo antes de que se apruebe, ¡no tienes que enviarlo de nuevo! Por favor, espere pacientemente mientras se revisan sus GIF."
+    - "¡Ya has enviado tu paquete de GIF en la última hora! Si envías tus GIF y luego cambias algo antes de que se apruebe, ¡no tienes que enviarlo de nuevo! Por favor, espere pacientemente mientras se revisan sus GIF."
     GifEmpty:
-      - "¡Por favor, establezca al menos un GIF antes de enviar su paquete!"
-    GifCheckSuccess: 
-      - ""
+    - "¡Por favor, establezca al menos un GIF antes de enviar su paquete!"
+    GifCheckSuccess:
+    - ""
   TransferMenu:
     Transfer:
-      - ""
+    - ""
     TransferSelf:
-      - "⚠️ Transferencia no válida\n\nNo puedes transferirte artículos a ti mismo. Por favor, especifique un destinatario diferente para esta transacción."
+    - "⚠️ Transferencia no válida\n\nNo puedes transferirte artículos a ti mismo. Por favor, especifique un destinatario diferente para esta transacción."
     TransferFailed:
-      - ""
+    - ""
     TransferItems:
-      - ""
+    - ""
     ConfirmTransfer:
-      - "\U0001F504 Confirmar transferencia\n\nEstás a punto de transferir {0} a {1}.\n\nCosto: {2} WB Mints\nMentas disponibles: {3} Mentas WB\n\n¿Quieres continuar?\nSaldo después de la transferencia: {4} WB Mints"  
+    - "🔄 Confirmar transferencia\n\nEstás a punto de transferir {0} a {1}.\n\nCosto: {2} WB Mints\nMentas disponibles: {3} Mentas WB\n\n¿Quieres continuar?\nSaldo después de la transferencia: {4} WB Mints"
     TransferSuccess:
-      - "✅ Transferencia exitosa\n\nHa transferido con éxito {0} a {1}. Su nuevo saldo es {2} Mint.\n\n¡Gracias por usar Wolf Blood Tienda!"
+    - "✅ Transferencia exitosa\n\nHa transferido con éxito {0} a {1}. Su nuevo saldo es {2} Mint.\n\n¡Gracias por usar Wolf Blood Tienda!"
     TransferReceived:
-      - "\U0001F389 Has recibido un regalo \U0001F381\n\nHas recibido {0} de {1}.\n\n¡Disfruta de tus nuevos artículos y gracias por jugar!"
+    - "🎉 Has recibido un regalo 🎁\n\nHas recibido {0} de {1}.\n\n¡Disfruta de tus nuevos artículos y gracias por jugar!"
     TransferRole:
-      - ""
+    - ""
     TransferEmoji:
-      - ""
+    - ""
     TransferTicket:
-      - ""
+    - ""
     TransferLimit:
-      - ""
+    - ""
   PlayerTAGS:
     TagSuccess:
-      - "Tu nueva etiqueta de nombre se ha establecido con éxito. Etiqueta: {0}" 
+    - "Tu nueva etiqueta de nombre se ha establecido con éxito. Etiqueta: {0}"
     TagError:
-      - ""
+    - ""
     TAGInvalid:
-      - ""
+    - ""
   CustomMessages:
     CustomMessageLenght:
-      - ""
+    - ""
     CustomMessageSuccess:
-      - ""
+    - ""
     CustomMessageAllLetter:
-      - ""
+    - ""
     CustomMessageInvalid:
-      - "" 
+    - ""
   FakeNames:
     FakeNameLenght:
-      - ""
+    - ""
     FakeNameSuccess:
-      - ""
+    - ""
     FakeNameInvalid:
-      - ""
+    - ""
   FakeRoles:
     FakeRoleSuccess:
-      - ""
+    - ""
     NoRole:
-      - ""
+    - ""
     RoleInvalid:
-      - ""
+    - ""
   Others:
     Donate:
-      - ""
+    - ""
     UserNotFound:
-      - "⚠️ Usuario no encontrado\n\nNo se pudo encontrar el ID de usuario o el nombre de usuario especificados. Por favor, asegúrese de haber introducido el ID de usuario o nombre de usuario correcto e inténtelo de nuevo."
+    - "⚠️ Usuario no encontrado\n\nNo se pudo encontrar el ID de usuario o el nombre de usuario especificados. Por favor, asegúrese de haber introducido el ID de usuario o nombre de usuario correcto e inténtelo de nuevo."
     ForceJoinSuccess:
-      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
-    TicketRequired: 
-      - ""
+    - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
+    TicketRequired:
+    - ""
     JoinButton:
-      - "¡Palante!"
+    - "¡Palante!"
     Skip:
-      - "Omitir"
+    - "Omitir"
     Yes:
-      - ""
+    - ""
     No:
-      - ""
+    - ""
     VoteBtn:
-      - Votar 🗳️
+    - Votar 🗳️
     GoToBtn:
-      - Ve al privado del bot
+    - Ve al privado del bot
     RolList:
-      - "Lista de Roles :"
+    - "Lista de Roles :"
     NoClaims:
-      - "No hay lista de roles"
+    - "No hay lista de roles"
     Cancel:
-      - "Cancelar"
+    - "Cancelar"
     OfficialBtn:
-      - Grupos oficiales
+    - Grupos oficiales
     SupportBtn:
-      - Grupo de soporte
+    - Grupo de soporte
     NewsBtn:
-      - Noticias
+    - Noticias
     Done:
-      - "¡Hecho!"
+    - "¡Hecho!"
     Back:
-      - "Atrás"
+    - "Atrás"
     EndTime:
-      - "Duración de la partida: {0}"
+    - "Duración de la partida: {0}"
     TimesUp:
-      - "¡Se acabó el tiempo!"
+    - "¡Se acabó el tiempo!"
     GetLang:
-      - "¿Qué archivo de idioma quieres?"
+    - "¿Qué archivo de idioma quieres?"
     GenericDeathNoReveal:
-      - "Todos se despiertan por la mañana y notan que {0} no está... Revisan la casa para encontrar los restos de {0}."
-      - "Mientras los aldeanos se reúnen mientras sale el sol, encuentran los restos de {0}, que murió de alguna manera anoche..."
+    - "Todos se despiertan por la mañana y notan que {0} no está... Revisan la casa para encontrar los restos de {0}."
+    - "Mientras los aldeanos se reúnen mientras sale el sol, encuentran los restos de {0}, que murió de alguna manera anoche..."
     ErrorBotMessagePM:
-      - "Por favor, especifica el contenido de tu mensaje usando el comando correcto: Escribe /love para enviar un mensaje a tu pareja, o /team para comunicarte con tu manada o los miembros del culto."
+    - "Por favor, especifica el contenido de tu mensaje usando el comando correcto: Escribe /love para enviar un mensaje a tu pareja, o /team para comunicarte con tu manada o los miembros del culto."
     SecondsAdded:
-      - "El tiempo para unirse a la partida ha aumentado {0}.\n{1} para unirse."
+    - "El tiempo para unirse a la partida ha aumentado {0}.\n{1} para unirse."
     SecondsRemoved:
-      - "El tiempo para unirse ha bajado {0} segundos.\n{1} para unirse."
+    - "El tiempo para unirse ha bajado {0} segundos.\n{1} para unirse."
     LeftToJoin:
-      - "Quedan {0} para unirse"
+    - "Quedan {0} para unirse"
     HaveJoined:
-      - "{0}se ha(n) unido en los últimos 30 segundos."
+    - "{0}se ha(n) unido en los últimos 30 segundos."
     AlreadyInGame:
-      - "¡Ya estás en una partida en otro grupo!\nGrupo: {0}"
+    - "¡Ya estás en una partida en otro grupo!\nGrupo: {0}"
     CountPlayersAdded:
-      - "Total de jugadores {0}"
+    - "Total de jugadores {0}"
     NotEnoughLovePlayers:
-      - "Se requiere un número par de jugadores para jugar en modo amor (6,8,10,12...) Este juego ha sido cancelado..."
+    - "Se requiere un número par de jugadores para jugar en modo amor (6,8,10,12...) Este juego ha sido cancelado..."
     NotEnoughPlayers:
-      - "¡No hay suficientes jugadores, se cancela el juego!"
+    - "¡No hay suficientes jugadores, se cancela el juego!"
     StartingGameWait:
-      - "El juego está empezando, espera un segundo mientras asigno los roles y actualizo la base de datos."
+    - "El juego está empezando, espera un segundo mientras asigno los roles y actualizo la base de datos."
     AlreadyJoined:
-      - "¡Ya te has unido!"
+    - "¡Ya te has unido!"
     ChoiceAccepted:
-      - "Ya has elegido. No hay vuelta atrás."
+    - "Ya has elegido. No hay vuelta atrás."
     And:
-      - "y"
+    - "y"
     NewUnlocks:
-      - ""
+    - ""
     PlayersAlive:
-      - "Jugadores vivos"
+    - "Jugadores vivos"
     Players:
-      - "Los jugadores"
+    - "Los jugadores"
     Was:
-      - "era"
+    - "era"
     NoGame:
-      - "No hay ninguna partida en curso. Comienza una nueva partida con /startgame o una partida caótica con /startchaos."
+    - "No hay ninguna partida en curso. Comienza una nueva partida con /startgame o una partida caótica con /startchaos."
     NotifyNewGame:
-      - "¡Está empezando una partida nueva!\nGrupo: {0}"
+    - "¡Está empezando una partida nueva!\nGrupo: {0}"
     NotPlaying:
-      - "No parece que estés jugando..."
+    - "No parece que estés jugando..."
     NotHome:
-      - "¡Ups! ¡{0} no estaba en casa! Te quedaste sin cena. [Estaba visitando a otro jugador]." 
+    - "¡Ups! ¡{0} no estaba en casa! Te quedaste sin cena. [Estaba visitando a otro jugador]."
     GamesPlayed:
-      - ""
+    - ""
     LoverDied:
-      - "Con el último aliento de {0}, su amado(a), {1}, se derrumba y se echa a llorar desconsoladamente. En un golpe de locura, no puede soportar su muerte y se dispara con la primera pistola que encuentra. {2}"
+    - "Con el último aliento de {0}, su amado(a), {1}, se derrumba y se echa a llorar desconsoladamente. En un golpe de locura, no puede soportar su muerte y se dispara con la primera pistola que encuentra. {2}"
     NoAttack:
-      - "Los aldeanos se reúnen por la mañana en el centro del pueblo, suspirando de alivio. Parece que esta noche no ha habido ningún ataque."
+    - "Los aldeanos se reúnen por la mañana en el centro del pueblo, suspirando de alivio. Parece que esta noche no ha habido ningún ataque."
     LynchDead:
-      - "El pueblo optó por lincharte, y moriste..."
+    - "El pueblo optó por lincharte, y moriste..."
     SentPrivate:
-      - "Te he enviado un priv"
+    - "Te he enviado un priv"
     Help:
-      - "Si quieres conocer los roles del juego, puedes usar el comando /rolelist \nPuedes seleccionar el idioma con el comando /setlang \n Puedes acceder a la guía y reglas del juego con el comando /rules \nIniciar un juego inmediatamente con el comando /startranked . Diviértete."
+    - "Si quieres conocer los roles del juego, puedes usar el comando /rolelist \nPuedes seleccionar el idioma con el comando /setlang \n Puedes acceder a la guía y reglas del juego con el comando /rules \nIniciar un juego inmediatamente con el comando /startranked . Diviértete."
     StartMe:
-      - "Por favor ábreme una conversación para que pueda enviarte mensajes privados"
+    - "Por favor ábreme una conversación para que pueda enviarte mensajes privados"
     LatestList:
-      - "Aquí tienes la última lista de jugadores:"
+    - "Aquí tienes la última lista de jugadores:"
     UnableToGetList:
-      - "No se pudo obtener la última lista de jugadores."
+    - "No se pudo obtener la última lista de jugadores."
     YouJoined:
-      - "¡Te has unido correctamente a la partida!\nGrupo: {0}"
+    - "¡Te has unido correctamente a la partida!\nGrupo: {0}"
     CantExtend:
-      - "Solo los administradores de este nuestro grupo pueden aumentar el tiempo para unirse más de una vez."
+    - "Solo los administradores de este nuestro grupo pueden aumentar el tiempo para unirse más de una vez."
     NotMember:
-      - "No puedes unirte al juego porque parece que no pertecenes a {0}."
+    - "No puedes unirte al juego porque parece que no pertecenes a {0}."
     GroupNotFound:
-      - "No pude encontrar el grupo. Por favor, usa este comando en el grupo del que quieres dejar de esperar, o añade enlace, id o nombre de usuario al lado del comando."
+    - "No pude encontrar el grupo. Por favor, usa este comando en el grupo del que quieres dejar de esperar, o añade enlace, id o nombre de usuario al lado del comando."
     RoleCommand:
-      - ''
+    - ''
     DisableGameMode:
-      - ""
+    - ""
     DeadSlient:
-      - "Debido a que estás muerto, tu envío de mensajes al grupo está restringido hasta el final del juego. Después de que termine el juego, podrás volver a escribir. Si desea recibir notificaciones para el próximo juego, haga clic en el botón a continuación."
+    - "Debido a que estás muerto, tu envío de mensajes al grupo está restringido hasta el final del juego. Después de que termine el juego, podrás volver a escribir. Si desea recibir notificaciones para el próximo juego, haga clic en el botón a continuación."
     PlayerLimitReached:
-      - "¡Lo siento, se ha alcanzado el límite de jugadores!"
+    - "¡Lo siento, se ha alcanzado el límite de jugadores!"
     DeadFlee:
-      - "¡No puedes huir! ¡ESTÁS MUERTO! Vuelve a tu tumba. ¡Por Dios!"
+    - "¡No puedes huir! ¡ESTÁS MUERTO! Vuelve a tu tumba. ¡Por Dios!"
     Flee:
-      - "¡{0} ha huido presa del pánico!"
+    - "¡{0} ha huido presa del pánico!"
     FleeDisabled:
-      - "¡Va a ser que no! ¡El administrador del grupo ha decidido que no está permitido abandonar el juego en mitad de una partida!"
+    - "¡Va a ser que no! ¡El administrador del grupo ha decidido que no está permitido abandonar el juego en mitad de una partida!"
     PlayerRoleWas:
-      - "{0} era {1}."
+    - "{0} era {1}."
     CountPlayersRemain:
-      - "{0} jugadores restantes."
+    - "{0} jugadores restantes."
     ByForceStart:
-      - "El comando ha sido enviado por {0} para que comience el juego a la fuerza"
+    - "El comando ha sido enviado por {0} para que comience el juego a la fuerza"
     PlayersGifPack:
-      - "Jugadores con paquetes de gif personalizados: "
+    - "Jugadores con paquetes de gif personalizados: "
     ForceStarted:
-      - 'Juego forzado por:{0}'
+    - 'Juego forzado por:{0}'
     TreasureWin:
-      - ""
+    - ""
     NameExists:
-      - "@{1}, un jugador con el nombre {0} ya se ha unido. Por favor, cambia tu nombre para unirte."
+    - "@{1}, un jugador con el nombre {0} ya se ha unido. Por favor, cambia tu nombre para unirte."
     ChangeNameToJoin:
-      - "{0}, por favor, cambia tu nombre para unirte."
+    - "{0}, por favor, cambia tu nombre para unirte."
     ExitAnonymousMode:
-      - "¡No puedes utilizar este bot como un administrador anónimo! Por favor, salir del modo anónimo (o preguntar al administrador que te promovió para salir de este modo) ¡E intenta de nuevo!"
+    - "¡No puedes utilizar este bot como un administrador anónimo! Por favor, salir del modo anónimo (o preguntar al administrador que te promovió para salir de este modo) ¡E intenta de nuevo!"
     MaintBreak:
-      - "¡Perdonad! Voy a empezar un breve periodo de mantenimiento. No podréis comenzar partidas a partir de ahora...\nConsulta @wolfbloodnews para más información."
+    - "¡Perdonad! Voy a empezar un breve periodo de mantenimiento. No podréis comenzar partidas a partir de ahora...\nConsulta @wolfbloodnews para más información."
     NoPlayerName:
-      - "¡No encuentro ningún jugador con ese nombre!"
+    - "¡No encuentro ningún jugador con ese nombre!"
     NodeShutsDown:
-      - "Ha ocurrido un error y este nodo se cerrará :/"
+    - "Ha ocurrido un error y este nodo se cerrará :/"
     NoNodes:
-      - "Ahora mismo no hay nodos online, por favor, inténtalo de nuevo pasados unos segundos"
+    - "Ahora mismo no hay nodos online, por favor, inténtalo de nuevo pasados unos segundos"
   BonusPoints:
     DieAsAFK_Penalty:
-      - ""
+    - ""
