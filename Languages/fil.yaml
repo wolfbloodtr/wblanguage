@@ -4,1667 +4,1667 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-      - "Si {0} ay nag-umpisa ng laro! Gamitin ang /join para makasali sa saya... at pwede ka ring mamatay :p"
-      - "Isang bagong laro ang sinimulan ni {0}! Gamitin ang /join para makain!"
+    - "Si {0} ay nag-umpisa ng laro! Gamitin ang /join para makasali sa saya... at pwede ka ring mamatay :p"
+    - "Isang bagong laro ang sinimulan ni {0}! Gamitin ang /join para makain!"
     StartChaos:
-      - "Si {0} ay nag-umpisa ng gulo! Gamitin ang /join para maksali sa saya... at pweede ka ring mamatay :P"
-      - "Isang bagong gulo ang sinimulan ni {0}! Gamitin ang /join para makain!"
+    - "Si {0} ay nag-umpisa ng gulo! Gamitin ang /join para maksali sa saya... at pweede ka ring mamatay :P"
+    - "Isang bagong gulo ang sinimulan ni {0}! Gamitin ang /join para makain!"
     StartRanked:
-      - "Si {0} ay nagsimula ng ranked game! Makasasama ka ba sa nangungunang 10 sa ranggo? Pindutin ang /join para makasali sa kasiyahan... :P"
+    - "Si {0} ay nagsimula ng ranked game! Makasasama ka ba sa nangungunang 10 sa ranggo? Pindutin ang /join para makasali sa kasiyahan... :P"
     StartLove:
-      - "{0} Nagsimula ng larong puno ng magkakasintahan! Handa ka na bang maranasan ang magmahal at mahalin? Pindutin ang /join upang makasali ngayon at umibig :P"
+    - "{0} Nagsimula ng larong puno ng magkakasintahan! Handa ka na bang maranasan ang magmahal at mahalin? Pindutin ang /join upang makasali ngayon at umibig :P"
     StartCustom:
-      - "Si {0} ay nagsimula ng laro ng mga espesyal na tungkulin! Para makasali sa kasiyahan, pindutin ang /join ngayon at ikaw ay magiging isa rito..."
+    - "Si {0} ay nagsimula ng laro ng mga espesyal na tungkulin! Para makasali sa kasiyahan, pindutin ang /join ngayon at ikaw ay magiging isa rito..."
   Villager:
     Villager:
-      - "Tambay Lang \U0001F471"
+    - "Tambay Lang 👱"
     RoleInfoVillager:
-      - "Isa kang Tambay \U0001F471. Chill ka lang dyan kakainin ka rin ng wolves wait ka lang."
+    - "Isa kang Tambay 👱. Chill ka lang dyan kakainin ka rin ng wolves wait ka lang."
   Drunk:
     Drunk:
-      - "Ang Lasenggero \U0001F37B"
+    - "Ang Lasenggero 🍻"
     RoleInfoDrunk:
-      - "Pre! Ikaw ang lasengero ng barangay \U0001F37B! (Drunk)(At sa totoo lang, alam na ng lahat eh...)"
+    - "Pre! Ikaw ang lasengero ng barangay 🍻! (Drunk)(At sa totoo lang, alam na ng lahat eh...)"
   Harlot:
     Harlot:
-      - "Ang Haliparot \U0001F48B"
+    - "Ang Haliparot 💋"
     RoleInfoHarlot:
-      - "Salahula ka! Isa kang Haliparot \U0001F48B. Tuwing gabi, pwede ka pumili ng bibisitahing player para malaman kung hindi sila wolf. PERO, kung ang binisita mo ay wolf, o kaya binisita mo ang kakainin ng wolf, patay ka din. Kung may binisita ka at sinubukan kang kainin ng wolf o irecruit sa kulto sa bahay mo, mabubuhay ka o di marerecruit. (Gala mo eh)"
+    - "Salahula ka! Isa kang Haliparot 💋. Tuwing gabi, pwede ka pumili ng bibisitahing player para malaman kung hindi sila wolf. PERO, kung ang binisita mo ay wolf, o kaya binisita mo ang kakainin ng wolf, patay ka din. Kung may binisita ka at sinubukan kang kainin ng wolf o irecruit sa kulto sa bahay mo, mabubuhay ka o di marerecruit. (Gala mo eh)"
     AskVisit:
-      - "Sino ang gusto mo bisitahin?"
+    - "Sino ang gusto mo bisitahin?"
     HarlotFuckWolf:
-      - "Nadulas ka sa bahay ni {0} para sa kaunting kasiyahan, para lang harapin ng isang lobo. Namatay ka."
+    - "Nadulas ka sa bahay ni {0} para sa kaunting kasiyahan, para lang harapin ng isang lobo. Namatay ka."
     HarlotFuckedWolfPublic:
-      - "Nadulas si {0} sa maling bahay kagabi! Ang mga labi ni {0} ay natagpuang nakaipit sa mga pintuan ng simbahan gamit ang isang bakal... nakakalungkot :("
+    - "Nadulas si {0} sa maling bahay kagabi! Ang mga labi ni {0} ay natagpuang nakaipit sa mga pintuan ng simbahan gamit ang isang bakal... nakakalungkot :("
     HarlotFuckedVictimPublic:
-      - "Pumasok si {0} sa bahay ni {1}, handang magsaya nang kaunti para mabawasan ang stress. Sa halip, nakahanap si {0} ng isang taong lobo na kinain si {1}! Mabilis na pinatay ng taong lobo si {0} at tumalon... Si {0} ay patay na."
+    - "Pumasok si {0} sa bahay ni {1}, handang magsaya nang kaunti para mabawasan ang stress. Sa halip, nakahanap si {0} ng isang taong lobo na kinain si {1}! Mabilis na pinatay ng taong lobo si {0} at tumalon... Si {0} ay patay na."
     HarlotVisitNonWolf:
-      - "Nakita mo na hindi wolf si {0}, dahil ikaw ay nag-enjoy sa inyong pagme-make love buong gabi!"
+    - "Nakita mo na hindi wolf si {0}, dahil ikaw ay nag-enjoy sa inyong pagme-make love buong gabi!"
     HarlotVisitYou:
-      - "Ang himbing ng tulog mo nang maalimpungatan ka. Naramdaman mong yumuyugyog ang kama at nasa ibabaw mo ang Haliparot. Lumakas ang yugyog ng kama at maya-maya ay tumigil din ito at nakaramdam ka ng mamasa-masang parte sa kama. At nakatulog ka ulit"
+    - "Ang himbing ng tulog mo nang maalimpungatan ka. Naramdaman mong yumuyugyog ang kama at nasa ibabaw mo ang Haliparot. Lumakas ang yugyog ng kama at maya-maya ay tumigil din ito at nakaramdam ka ng mamasa-masang parte sa kama. At nakatulog ka ulit"
     HarlotDiscoverCult:
-      - "Pumunta ka sa bahay ni {0} para gawin siyang fubu... pero nong paalis ka na, nakita mo ang altar na nakatago sa gilid ng kwarto niya, may kumikinang na nanggagaling dito..."
+    - "Pumunta ka sa bahay ni {0} para gawin siyang fubu... pero nong paalis ka na, nakita mo ang altar na nakatago sa gilid ng kwarto niya, may kumikinang na nanggagaling dito..."
     HarlotFuckKiller:
-      - "Dumulas ka sa bahay ni {0} at nag-make love kayo. Okay naman kaso naglabas bigla ng kutsilyo si {0} at sinaksak ka niya habang tumatawa! Namatay ka dahil sa kalandian mo...."
+    - "Dumulas ka sa bahay ni {0} at nag-make love kayo. Okay naman kaso naglabas bigla ng kutsilyo si {0} at sinaksak ka niya habang tumatawa! Namatay ka dahil sa kalandian mo...."
     HarlotVisitNotHome:
-      - "Nagpunta ka upang magkaroon ng kaunting kasiyahan kasama si {0}, ngunit walang laman ang kanilang bahay!"
+    - "Nagpunta ka upang magkaroon ng kaunting kasiyahan kasama si {0}, ngunit walang laman ang kanilang bahay!"
   Seer:
     Seer:
-      - "Si Madam Auring \U0001F473"
+    - "Si Madam Auring 👳"
     RoleInfoSeer:
-      - "Ikaw si Madam Auring \U0001F473. Tuwing gabi, pwede ka pumili ng player na sisilipin para malaman ang role nila."
+    - "Ikaw si Madam Auring 👳. Tuwing gabi, pwede ka pumili ng player na sisilipin para malaman ang role nila."
     AskSee:
-      - "Sino ang gusto mo silipin?"
+    - "Sino ang gusto mo silipin?"
     SeerSees:
-      - "Nakita mo na si {0} ay {1}!"
+    - "Nakita mo na si {0} ay {1}!"
   Traitor:
     Traitor:
-      - "Ang Traydor \U0001F595"
+    - "Ang Traydor 🖕"
     RoleInfoTraitor:
-      - "Traydor \U0001F595 ka! Sa ngayon Tambay ka palang, pero pag namatay na lahat ng werewolf, magiging wolf ka. Pag sinilip ka ni Madam Auring, pwedeng masilip ka niya na wolf pwede ring hindi (Nice diba?)"
+    - "Traydor 🖕 ka! Sa ngayon Tambay ka palang, pero pag namatay na lahat ng werewolf, magiging wolf ka. Pag sinilip ka ni Madam Auring, pwedeng masilip ka niya na wolf pwede ring hindi (Nice diba?)"
     TraitorTurnWolf:
-      - "Deds na lahat ng wuff so ayun Isa ka ng wolf ngayon :D"
+    - "Deds na lahat ng wuff so ayun Isa ka ng wolf ngayon :D"
   GuardianAngel:
     GuardianAngel:
-      - "Ang Baranggay Tanod \U0001F47C"
+    - "Ang Baranggay Tanod 👼"
     RoleInfoGuardianAngel:
-      - "Ikaw ang Baranggay Tanod \U0001F47C. Tuwing gabi, pwede ka pumili ng isang player na babantayan. PERO, kung ang napili mo ay wolf, may 50% chance na mapatay ka niya."
+    - "Ikaw ang Baranggay Tanod 👼. Tuwing gabi, pwede ka pumili ng isang player na babantayan. PERO, kung ang napili mo ay wolf, may 50% chance na mapatay ka niya."
     AskGuard:
-      - "Sino ang gusto mo bantayan?"
+    - "Sino ang gusto mo bantayan?"
     GuardWolf:
-      - "Sinubukan mong bantayan ang wolf! Kinain ka ng wolf."
+    - "Sinubukan mong bantayan ang wolf! Kinain ka ng wolf."
     GuardSaved:
-      - "Nailigtas mo ang buhay ni {0}!"
+    - "Nailigtas mo ang buhay ni {0}!"
     GuardNoAttack:
-      - "Si {0} ay hindi in-attack, mema ka lang diyan."
+    - "Si {0} ay hindi in-attack, mema ka lang diyan."
     GuardEmptyHouse:
-      - "Pinuntahan mo si {0} para bantayan, pero wala siya sa bahay niya!"
+    - "Pinuntahan mo si {0} para bantayan, pero wala siya sa bahay niya!"
     GuardSavedYou:
-      - "Binabantayan ka ng Baranggay Tanod kagabi, itinaboy niya yung mga wolves!"
+    - "Binabantayan ka ng Baranggay Tanod kagabi, itinaboy niya yung mga wolves!"
     GAGuardedKiller:
-      - "Ito ang inaasahang gabi upang iligtas ni {0} ang nayon mula sa mga pumapatay, ngunit nawala ang sinag sa ulo ni {0} at ang kaniyang pakpak ay hiniwa ng mamamatay-tao! May iniwang sulat, ‘kaya kong protektahan ang sarili ko nang higit pa sa kaya mo.’"
+    - "Ito ang inaasahang gabi upang iligtas ni {0} ang nayon mula sa mga pumapatay, ngunit nawala ang sinag sa ulo ni {0} at ang kaniyang pakpak ay hiniwa ng mamamatay-tao! May iniwang sulat, ‘kaya kong protektahan ang sarili ko nang higit pa sa kaya mo.’"
     GAGuardedWolf:
-      - "Sinubukang bantayan ni {0} ang isang lobo kagabi. Ang bayan ay nagising upang makita ang mga pakpak ni {0} na nakasabit sa krus ng simbahan. Malinaw na nagkaroon ng dagdag na pagkain na ipinadala ng diyos, libre, sa kanilang tahanan."
+    - "Sinubukang bantayan ni {0} ang isang lobo kagabi. Ang bayan ay nagising upang makita ang mga pakpak ni {0} na nakasabit sa krus ng simbahan. Malinaw na nagkaroon ng dagdag na pagkain na ipinadala ng diyos, libre, sa kanilang tahanan."
     GuardSavedYouFromFire:
-      - "Isang sunog ang sumabog sa iyong bahay, buti nalang at nandun ang baranggay tanod at napansin ito agad! Pwede siyang bumbero kung di lang talaga abala sa pag poproteka ng mga tao..."
+    - "Isang sunog ang sumabog sa iyong bahay, buti nalang at nandun ang baranggay tanod at napansin ito agad! Pwede siyang bumbero kung di lang talaga abala sa pag poproteka ng mga tao..."
     GuardSavedFromFire:
-      - "Hindi mo inaasahan ng biglang sunog na nangyari nung ikaw ay bumisita kay {0}, buti nalang at nailigtas mo ito! Walang tatawag sayong masamang tagapagtanggol..."
+    - "Hindi mo inaasahan ng biglang sunog na nangyari nung ikaw ay bumisita kay {0}, buti nalang at nailigtas mo ito! Walang tatawag sayong masamang tagapagtanggol..."
     CleanDoused:
-      - "Hindi mo kailangang lumaban sa anumang mga kaaway sa bahay ni {0} ngayong gabi, kaya nagkaroon ka ng oras upang tumingin sa paligid at napansin na ang bahay ay binuhusan ng petrolyo! Dahil wala ka namang gagawin, nilinis mo ang bahay para sa kanila..."
+    - "Hindi mo kailangang lumaban sa anumang mga kaaway sa bahay ni {0} ngayong gabi, kaya nagkaroon ka ng oras upang tumingin sa paligid at napansin na ang bahay ay binuhusan ng petrolyo! Dahil wala ka namang gagawin, nilinis mo ang bahay para sa kanila..."
     GuardBlockedWolf:
-      - "Pumunta kayo sa bahay ni {0} para kainin siya pero sinita kayo ng Barangay Tanod. Hinampas kayo ng Barangay Tanod ng batuta at umuwi kayong luhaan."
+    - "Pumunta kayo sa bahay ni {0} para kainin siya pero sinita kayo ng Barangay Tanod. Hinampas kayo ng Barangay Tanod ng batuta at umuwi kayong luhaan."
     GuardKiller:
-      - "Sinubukan mong bantayan ang Serial Killer. Sinaksak ka niya ng 1 million times. Patay ka na..."
+    - "Sinubukan mong bantayan ang Serial Killer. Sinaksak ka niya ng 1 million times. Patay ka na..."
     GuardBlockedKiller:
-      - "Sinubukan mong i-collect ’yong katawan ni {0} pero nilabanan ka ng barangay tanod! 0 kills ka ngayon..."
+    - "Sinubukan mong i-collect ’yong katawan ni {0} pero nilabanan ka ng barangay tanod! 0 kills ka ngayon..."
     GuardBlockedSnowWolf:
-      - "Pumunta ka sa bahay ni {0} para patigasin siya, ngunit sinalubong ka ng isang matangkad na madilim na pigura, armado at may hawak na batuta. Linabanan ka ng Baranggay Tanod, at ikaw ay natalo kaya nakasimangot na bumalik sa kasamahan."
+    - "Pumunta ka sa bahay ni {0} para patigasin siya, ngunit sinalubong ka ng isang matangkad na madilim na pigura, armado at may hawak na batuta. Linabanan ka ng Baranggay Tanod, at ikaw ay natalo kaya nakasimangot na bumalik sa kasamahan."
   Detective:
     Detective:
-      - "Ang Detective \U0001F575️"
+    - "Ang Detective 🕵️"
     RoleInfoDetective:
-      - "Ikaw ang ang Detective \U0001F575️. Sa araw, pwede ka pumili ng player para malaman ang role nila. PERO, may 40% chance na malaman ng wolves na ikaw ang detective."
+    - "Ikaw ang ang Detective 🕵️. Sa araw, pwede ka pumili ng player para malaman ang role nila. PERO, may 40% chance na malaman ng wolves na ikaw ang detective."
     AskDetect:
-      - "Sino ang gusto mo idetect?"
+    - "Sino ang gusto mo idetect?"
     DetectiveCaught:
-      - "Nakita mo si {0} na nag-iimbistega! Siya marahil ang imbestigador!"
+    - "Nakita mo si {0} na nag-iimbistega! Siya marahil ang imbestigador!"
     DetectiveSnoop:
-      - "Sa iyong pag-iimbistega, nakita mo na si {0} ay isang {1}."
+    - "Sa iyong pag-iimbistega, nakita mo na si {0} ay isang {1}."
   Wolf:
     Wolf:
-      - "Isang Werewolf \U0001F43A"
+    - "Isang Werewolf 🐺"
     RoleInfoWolf:
-      - "XD WOLF KA \U0001F43A!! (Naks dream come true na to). Tuwing gabi pwede ka pumili ng gusto mo kainin."
+    - "XD WOLF KA 🐺!! (Naks dream come true na to). Tuwing gabi pwede ka pumili ng gusto mo kainin."
     AskEat:
-      - "Sino ang gusto mo kainin?"
+    - "Sino ang gusto mo kainin?"
     WolfVotedKill:
-      - "{0} ay piniling kainin si {1}"
+    - "{0} ay piniling kainin si {1}"
     WolvesEatDrunk:
-      - "Naku! Si {0} pala ang lasinggero! Ngayon ikaw ay lasing, at di ka makakaatake bukas nang gabi..."
+    - "Naku! Si {0} pala ang lasinggero! Ngayon ikaw ay lasing, at di ka makakaatake bukas nang gabi..."
     WolvesEatDrunkBlockSecondKill:
-      - "Naku! Si {0} pala ang lasinggero! Ngayon ikaw ay lasing, at di ka makakaatake kay {1}..."
+    - "Naku! Si {0} pala ang lasinggero! Ngayon ikaw ay lasing, at di ka makakaatake kay {1}..."
     AllWolfDead:
-      - "Wala nang natitira pang mga nabubuhay na lobo, at nawala ang iyong kapangyarihan at naging isa kang normal na lobo."
+    - "Wala nang natitira pang mga nabubuhay na lobo, at nawala ang iyong kapangyarihan at naging isa kang normal na lobo."
     WolvesEatYou:
-      - "Hala! Kinain ka ng mga wolf. RAWRRRRR "
+    - "Hala! Kinain ka ng mga wolf. RAWRRRRR "
     WolfPackList:
-      - "Ang grupo ng mga lobo ay binubuo nila :"
+    - "Ang grupo ng mga lobo ay binubuo nila :"
     DiscussWith:
-      - "Siguraduhing makipagusap kasama sina {0}"
+    - "Siguraduhing makipagusap kasama sina {0}"
   Cursed:
     Cursed:
-      - "ang Isinumpa \U0001F63E"
+    - "ang Isinumpa 😾"
     RoleInfoCursed:
-      - "Ikaw ang isinumpa \U0001F63E! (Cursed). Isa ka lang Tambay sa ngayon, pero pag sinubukan kang kainin ng wolf, magiging wolf ka. Nice diba?"
+    - "Ikaw ang isinumpa 😾! (Cursed). Isa ka lang Tambay sa ngayon, pero pag sinubukan kang kainin ng wolf, magiging wolf ka. Nice diba?"
     CursedBitten:
-      - "Nakagat ka ng wolves. Pero dahil isinumpa ka (Cursed), wolf ka na ngayon!"
+    - "Nakagat ka ng wolves. Pero dahil isinumpa ka (Cursed), wolf ka na ngayon!"
     CursedBittenToWolves:
-      - "Si {0} ay nakagat... ngunit isa siyang isinumpa (Cursed), at siya ay naging werewolf! Wow, may bagong recruit!"
+    - "Si {0} ay nakagat... ngunit isa siyang isinumpa (Cursed), at siya ay naging werewolf! Wow, may bagong recruit!"
   Gunner:
     Gunner:
-      - "si FPJ \U0001F52B"
+    - "si FPJ 🔫"
     RoleInfoGunner:
-      - "Ikaw si FPJ \U0001F52B. May dalawa kang bala. Sa araw, pwede ka pumili ng player na babarilin. Maririnig ng lahat ang putok ng baril mo at malalaman na ikaw ang Gunner (at hindi wolf)"
+    - "Ikaw si FPJ 🔫. May dalawa kang bala. Sa araw, pwede ka pumili ng player na babarilin. Maririnig ng lahat ang putok ng baril mo at malalaman na ikaw ang Gunner (at hindi wolf)"
     AskShoot:
-      - ""
+    - ""
     HarlotShot:
-      - "Mukhang naging positive si {0} matapos ang gabi kasama ang Haliparot! Si FPJ ay nakaganti. Si {1} ay patay na."
+    - "Mukhang naging positive si {0} matapos ang gabi kasama ang Haliparot! Si FPJ ay nakaganti. Si {1} ay patay na."
     DefaultShot:
-      - "Biglang may bumaril sa labas. Nakita ng mga tambay si {0} na nakatayo malapit sa katawan ni {1}, nakatutok pa rin sa ulo niya ito. {2}"
+    - "Biglang may bumaril sa labas. Nakita ng mga tambay si {0} na nakatayo malapit sa katawan ni {1}, nakatutok pa rin sa ulo niya ito. {2}"
     GunnerShotWiseElder:
-      - "Binaril ni {0}, ang Cardo Dalisay \U0001F52B, ang Matalinong Nakatatanda \U0001F4DA na si {1}. Malungkot na humikbi si {0}, pinagsisihan ang kaniyang pagkakamali, at nagpasyang pira-pirasuhin ang kaniyang baril. Siya ay naging isang simpleng tambay \U0001F471 na may batawan na aararuhin."
+    - "Binaril ni {0}, ang Cardo Dalisay 🔫, ang Matalinong Nakatatanda 📚 na si {1}. Malungkot na humikbi si {0}, pinagsisihan ang kaniyang pagkakamali, at nagpasyang pira-pirasuhin ang kaniyang baril. Siya ay naging isang simpleng tambay 👱 na may batawan na aararuhin."
   Tanner:
     Tanner:
-      - "Ang Ex Mo \U0001F47A"
+    - "Ang Ex Mo 👺"
     RoleInfoTanner:
-      - "Ikaw ay parang ang EX MO \U0001F47A (Manloloko). Pag na-lynch ka, panalo ka agad! (parang yung ex mo, nanalo siya nung naloko ka niya)"
+    - "Ikaw ay parang ang EX MO 👺 (Manloloko). Pag na-lynch ka, panalo ka agad! (parang yung ex mo, nanalo siya nung naloko ka niya)"
   Fool:
     Fool:
-      - "Ang Fool \U0001F0CF"
+    - "Ang Fool 🃏"
     RoleInfoFool:
-      - "Ang hangal ay nasabihang siya ay seer.... kapag pumili siya ng tao upang malaman ang pagkakakilanlan nito, bibigyan siya ng ibang tungkulin."
+    - "Ang hangal ay nasabihang siya ay seer.... kapag pumili siya ng tao upang malaman ang pagkakakilanlan nito, bibigyan siya ng ibang tungkulin."
   WildChild:
     WildChild:
-      - "Ang Batang Hamog \U0001F476"
+    - "Ang Batang Hamog 👶"
     RoleInfoWildChild:
-      - "Isa kang Batang Hamog \U0001F476! (Wild Child) Pumili ka ng idol mo. Kapag namatay sila madedepress ka ng todo kaya magiging werewolf ka."
+    - "Isa kang Batang Hamog 👶! (Wild Child) Pumili ka ng idol mo. Kapag namatay sila madedepress ka ng todo kaya magiging werewolf ka."
     WildChildToWolves:
-      - "Ang idol ni {0} ay namatay! Na-badtrip siya at naging werewolf!"
+    - "Ang idol ni {0} ay namatay! Na-badtrip siya at naging werewolf!"
     WildChildTransform:
-      - "Namatay na si {0}! Dahil sa galit at pagkadepress mo naging werewolf ka na rin!"
+    - "Namatay na si {0}! Dahil sa galit at pagkadepress mo naging werewolf ka na rin!"
   Beholder:
     Beholder:
-      - "ang Beholder \U0001F441"
+    - "ang Beholder 👁"
     RoleInfoBeholder:
-      - "Ikaw ang Beholder \U0001F441, malalaman mo kung sino ang tunay na Madam Auring. Yun lang."
+    - "Ikaw ang Beholder 👁, malalaman mo kung sino ang tunay na Madam Auring. Yun lang."
     BeholderSeer:
-      - "Ang manghuhula \U0001F473 ay si  {0}."
+    - "Ang manghuhula 👳 ay si  {0}."
     BeholderNewSeer:
-      - "{0} ay ang tagapagmana, at ngayo'y pumalit kay {1} bilang bagong manghuhula \U0001F473."
+    - "{0} ay ang tagapagmana, at ngayo'y pumalit kay {1} bilang bagong manghuhula 👳."
     NoSeer:
-      - "Walang Madam Auring!"
+    - "Walang Madam Auring!"
     BeholderSeerStolen:
-      - "Ninakaw ng magnanakaw ang role ng pagiging Madam Auring! Si {0} na ngayon ang Madam Auring, at si {1} ay wala nang kakayahang makasilip ng role!"
+    - "Ninakaw ng magnanakaw ang role ng pagiging Madam Auring! Si {0} na ngayon ang Madam Auring, at si {1} ay wala nang kakayahang makasilip ng role!"
   ApprenticeSeer:
     ApprenticeSeer:
-      - "ang OJT ni Madam Auring \U0001F647"
+    - "ang OJT ni Madam Auring 🙇"
     RoleInfoApprenticeSeer:
-      - "Ikaw ang OJT ni Madam Auring \U0001F647. Kapag namatay si Madam Auring, mappromote ka bilang bagong Madam Auring. (Galing no?)"
+    - "Ikaw ang OJT ni Madam Auring 🙇. Kapag namatay si Madam Auring, mappromote ka bilang bagong Madam Auring. (Galing no?)"
     ApprenticeNowSeer:
-      - "{0} ang manghuhula. Bilang tagapagmana, ikaw ay pumalit bilang isang manghuhula \U0001F473."
+    - "{0} ang manghuhula. Bilang tagapagmana, ikaw ay pumalit bilang isang manghuhula 👳."
   Cultist:
     Cultist:
-      - "Ang Bibe \U0001F464"
+    - "Ang Bibe 👤"
     RoleInfoCultist:
-      - "Ikaw ang Bibe \U0001F464. Tuwing gabi, pwede ka pumili ng player na irerecruit sa kulto mo. Kapag lahat ng natitirang player sa dulo ay Bibe na lahat panalo sila."
+    - "Ikaw ang Bibe 👤. Tuwing gabi, pwede ka pumili ng player na irerecruit sa kulto mo. Kapag lahat ng natitirang player sa dulo ay Bibe na lahat panalo sila."
     CultistVotedConvert:
-      - "Pinili ni {0} na i-convert si {1}"
+    - "Pinili ni {0} na i-convert si {1}"
     AskConvert:
-      - "Sino ang gusto mo irecruit sa kulto?"
+    - "Sino ang gusto mo irecruit sa kulto?"
     CultConvertCultHunter:
     - "Inutusan niyo si {0} para irecruit si {1} bilang initiation. Kaso, Cult Hunter pala siya! Patay na si {0}!"
     CultJoin:
-      - "Narecruit na sa kulto ng bibe si {0}!"
+    - "Narecruit na sa kulto ng bibe si {0}!"
     CultistsList:
-      - "Ang miyembro ng mga bibe ay:"
+    - "Ang miyembro ng mga bibe ay:"
     CultConvertWolf:
-      - "Si {0} ay ipinadala ng kulto upang mangumbinsi na sumanib sa grupo si {1}, subalit sa halip na mapasanib, ang ulo ni {0} ay tumalsik sa labas ng bintana... Nagtataka bakit hindi ito nakakain! Si {0} ay patay na..."
+    - "Si {0} ay ipinadala ng kulto upang mangumbinsi na sumanib sa grupo si {1}, subalit sa halip na mapasanib, ang ulo ni {0} ay tumalsik sa labas ng bintana... Nagtataka bakit hindi ito nakakain! Si {0} ay patay na..."
     CultistBitten:
-      - "Nakakapagtaka... Habang nagumpisa nang pagusapan kung sino ang ire-recruit ngayon gabi, napagtanto mong si {0} ay wala! Ano kaya ang nangyari sa kanya?"
+    - "Nakakapagtaka... Habang nagumpisa nang pagusapan kung sino ang ire-recruit ngayon gabi, napagtanto mong si {0} ay wala! Ano kaya ang nangyari sa kanya?"
     CultConvertHunter:
-      - "Pinadala ng kulto si {0} para i-convert si {1} pero binaril siya nito at lumipad si {0} palabas ng bintana! Patay na si {0}...."
+    - "Pinadala ng kulto si {0} para i-convert si {1} pero binaril siya nito at lumipad si {0} palabas ng bintana! Patay na si {0}...."
     CultConvertSerialKiller:
-      - "Pumunta si {0} sa bahay ni {1} para irecruit siya. Pero pagbukas niya ng pinto ay isang adik (serial killer) ang kanyang nakita. Sa pag-aakalang isa siyang pulis, tinadtad agad ng saksak si {0} ng adik (serial killer). Patay na si {0}"
-      - "Nag-akyat bahay si {0} sa bahay ni {1}, pero bahay pala ng adik (serial killer) yong napasuksn niya!!! Sinaksak ni {1} si {0} hanggang sa organs nito in alphabetical order habang tumatawa na parang baliw! Patay na si {0} D:"
+    - "Pumunta si {0} sa bahay ni {1} para irecruit siya. Pero pagbukas niya ng pinto ay isang adik (serial killer) ang kanyang nakita. Sa pag-aakalang isa siyang pulis, tinadtad agad ng saksak si {0} ng adik (serial killer). Patay na si {0}"
+    - "Nag-akyat bahay si {0} sa bahay ni {1}, pero bahay pala ng adik (serial killer) yong napasuksn niya!!! Sinaksak ni {1} si {0} hanggang sa organs nito in alphabetical order habang tumatawa na parang baliw! Patay na si {0} D:"
     CHHuntedYou:
-      - "Binisita ka ng Cultist Hunter \U0001F482‍♀️ habang nagdadasal ka sa iyong altar. Sinalubong ka ng espada, ngayon ay patay ka na."
+    - "Binisita ka ng Cultist Hunter 💂‍♀️ habang nagdadasal ka sa iyong altar. Sinalubong ka ng espada, ngayon ay patay ka na."
     HunterKilledCultist:
-      - "Nagising ang mga tambay dahil sa masangsang na amoy na galing sa bahay ni {0}... Pumasok sila sa bahay at nakita nila ang katawan niya sa harap ng gawa-gawang altar... Isang kulto ang napatay ng hunter!"
+    - "Nagising ang mga tambay dahil sa masangsang na amoy na galing sa bahay ni {0}... Pumasok sila sa bahay at nakita nila ang katawan niya sa harap ng gawa-gawang altar... Isang kulto ang napatay ng hunter!"
     CultConvertWolfPublic:
-      - "Habang ang mga lobo ay nagpasyang manatili nang isang beses, pinarusahan si {0}, isang kulto na nagpasyang gambalain ang mga lobo, napatunayang napakahirap pigilan. Ang ulo ni {0} ay naging masarap na hapunan na inihatid sa pintuan ng mga lobo!"
-      - "Ang mga kulto ay nakasama sa hindi inaasahang gulo kagabi. Ang kanilang bagong miyembro ay minalas at nabisita ang lobo, isang gabing nagpasya ang mga lobo na manatili sa kanilang bahay, nakita nila si {0} na tila masarap. Sa kasamaang palad para kay {0}, ang mga lobo ay hindi interesadong sumali sa bagong relihiyong kilusan."
+    - "Habang ang mga lobo ay nagpasyang manatili nang isang beses, pinarusahan si {0}, isang kulto na nagpasyang gambalain ang mga lobo, napatunayang napakahirap pigilan. Ang ulo ni {0} ay naging masarap na hapunan na inihatid sa pintuan ng mga lobo!"
+    - "Ang mga kulto ay nakasama sa hindi inaasahang gulo kagabi. Ang kanilang bagong miyembro ay minalas at nabisita ang lobo, isang gabing nagpasya ang mga lobo na manatili sa kanilang bahay, nakita nila si {0} na tila masarap. Sa kasamaang palad para kay {0}, ang mga lobo ay hindi interesadong sumali sa bagong relihiyong kilusan."
     CultConvertKillerPublic:
-      - "Inakala ng mga kulto na magkakaroon sila ng bagong miyembro sa kanilang hanay, ngunit nagkamali sila! Si {0}, isang kulto, ay tinadtad ng pira-piraso at inilagay sa parke ngayong umaga! Kakaiba, ang kanilang ‘banal’ na aklat at natagpuang may nakasaksak na kutsilyo, na parang isang pahayag upang ipakita kung kaninong relihiyon ang nagtagumpay."
-      - "Sinubukang mapasampalataya ng kulto ang taong mas baliw pa kaysa sa kanila kagabi. Ang kanilang bagong miyembro ay sinubukang mapasampalataya ang Mamamatay-tao, at ang Mamamatay-tao ay ginawang bagong obra ang laman loob ni {0} sa parke."
+    - "Inakala ng mga kulto na magkakaroon sila ng bagong miyembro sa kanilang hanay, ngunit nagkamali sila! Si {0}, isang kulto, ay tinadtad ng pira-piraso at inilagay sa parke ngayong umaga! Kakaiba, ang kanilang ‘banal’ na aklat at natagpuang may nakasaksak na kutsilyo, na parang isang pahayag upang ipakita kung kaninong relihiyon ang nagtagumpay."
+    - "Sinubukang mapasampalataya ng kulto ang taong mas baliw pa kaysa sa kanila kagabi. Ang kanilang bagong miyembro ay sinubukang mapasampalataya ang Mamamatay-tao, at ang Mamamatay-tao ay ginawang bagong obra ang laman loob ni {0} sa parke."
     HunterKilledVisiter:
-      - "Sa gitna ng parke, nakita ng lahat ang bangkay ni {0} na maraming tama ng baril. Mukhang nag-akyat bahay sila sa bahay ng Hunter! Nice one, {1}."
+    - "Sa gitna ng parke, nakita ng lahat ang bangkay ni {0} na maraming tama ng baril. Mukhang nag-akyat bahay sila sa bahay ng Hunter! Nice one, {1}."
     CultVisitEmpty:
-      - "Inutusan niyo si {0} pumunta sa bahay ni {1} para irecruit siya... Kaso walang tao sa bahay!"
+    - "Inutusan niyo si {0} pumunta sa bahay ni {1} para irecruit siya... Kaso walang tao sa bahay!"
     CultConvertYou:
-      - "Naging marupok ka at naanib sa Kulto ng Mahiwagang Bibe. Isa ka na ring bibe ngayon. Tuwing makalawang gabi, may pagkakataon ka na magrecruit ng iba pang player."
+    - "Naging marupok ka at naanib sa Kulto ng Mahiwagang Bibe. Isa ka na ring bibe ngayon. Tuwing makalawang gabi, may pagkakataon ka na magrecruit ng iba pang player."
     CultUnableToConvert:
-      - "Pinapunta mo si {0} para i-convert si {1}, pero hindi siya naniniwala sa mahiwagang bibe, hindi mo siya nauto :("
+    - "Pinapunta mo si {0} para i-convert si {1}, pero hindi siya naniniwala sa mahiwagang bibe, hindi mo siya nauto :("
     CultTargetDead:
-      - "Pumunta ’yong bagong bibe sa bahay ni {0} para i-convert siya, pero nakita ninyo ’yong bahay niya na magulo, parang nasa SOCO, may wolf fur sa pintuan..."
+    - "Pumunta ’yong bagong bibe sa bahay ni {0} para i-convert siya, pero nakita ninyo ’yong bahay niya na magulo, parang nasa SOCO, may wolf fur sa pintuan..."
     CultAttempt:
-      - "May dumating na nakaformal na damit at tinatanong ka kung open minded ka daw ba, hindi ka open minded kaya hindi ka narecruit ng kulto."
+    - "May dumating na nakaformal na damit at tinatanong ka kung open minded ka daw ba, hindi ka open minded kaya hindi ka narecruit ng kulto."
   CultistHunter:
     CultistHunter:
-      - "Ang Cultist Hunter \U0001F482"
+    - "Ang Cultist Hunter 💂"
     RoleInfoCultistHunter:
-      - "May Leader na Bibe sa baranggay na nangrerecruit \U0001F482! Tuwing gabi, pwede ka pumili ng player. Pag bibe na sila, mamamatay sila. Pag sinubukan kang irecruit sa kulto nila, mamamatay ang pinakabago nilang recruit."
+    - "May Leader na Bibe sa baranggay na nangrerecruit 💂! Tuwing gabi, pwede ka pumili ng player. Pag bibe na sila, mamamatay sila. Pag sinubukan kang irecruit sa kulto nila, mamamatay ang pinakabago nilang recruit."
     AskHunt:
-      - "Sino ang gusto mo i-hunt?"
+    - "Sino ang gusto mo i-hunt?"
     CultHunterKilledCultVisit:
-      - "Pumunta si {0} sa bahay mo para irecruit ka sana… Pero sinasaksak mo siya ng espada mo. Namatay na ang isang bibe... {1} nalang ang natitira!"
+    - "Pumunta si {0} sa bahay mo para irecruit ka sana… Pero sinasaksak mo siya ng espada mo. Namatay na ang isang bibe... {1} nalang ang natitira!"
     HunterVisitDead:
-      - "Hahuntingin mo sana si {0}, kaso patay na siya!"
+    - "Hahuntingin mo sana si {0}, kaso patay na siya!"
     HunterFailedToFind:
-      - "Pumunta ka sa bahay ni {0} pero wala ka namang narinig na umaawit ng \"Tatlong Bibe\". Hindi pa sila umaanib sa kulto, kaya umuwi ka nalang."
+    - "Pumunta ka sa bahay ni {0} pero wala ka namang narinig na umaawit ng \"Tatlong Bibe\". Hindi pa sila umaanib sa kulto, kaya umuwi ka nalang."
     HunterFindCultist:
-      - "Pumunta ka sa bahay ni {0} at nakita mo siya na nagpe-pray sa altar na may bibe. Sinaksak mo ng espada ang demonyong kulto."
+    - "Pumunta ka sa bahay ni {0} at nakita mo siya na nagpe-pray sa altar na may bibe. Sinaksak mo ng espada ang demonyong kulto."
     SerialKillerKilledCH:
-      - "Gumising sa umaga ang mga tambay sa baranggay at natagpuan ang nagkakalat na iba't ibang parte ng katawan ni {0}, ang Cultist Hunter, nalagay sa cart at kitang kita nang buo sa labas ng town hall. Ang natutunang aral: Huwag bisitahin ang Serial Killer!"
+    - "Gumising sa umaga ang mga tambay sa baranggay at natagpuan ang nagkakalat na iba't ibang parte ng katawan ni {0}, ang Cultist Hunter, nalagay sa cart at kitang kita nang buo sa labas ng town hall. Ang natutunang aral: Huwag bisitahin ang Serial Killer!"
   Mason:
     Mason:
-      - "isang Mason \U0001F477"
+    - "isang Mason 👷"
     RoleInfoMason:
-      - "Isa kang Mason \U0001F477 kung may iba pang Mason malalaman mo kung sino sila. Yun lang."
+    - "Isa kang Mason 👷 kung may iba pang Mason malalaman mo kung sino sila. Yun lang."
     MasonTeam:
-      - "Ang mga mason ay si/sina: {0}"
+    - "Ang mga mason ay si/sina: {0}"
     MasonConverted:
-      - "Hmm.... Absent si {0} sa meeting ngayong umaga... O.o"
+    - "Hmm.... Absent si {0} sa meeting ngayong umaga... O.o"
   Doppelganger:
     Doppelganger:
-      - "Kamuka \U0001F3AD"
+    - "Kamuka 🎭"
     RoleInfoDoppelganger:
-      - "Isa kang Transformer \U0001F3AD. Sabi sa kwento ay Ditto (sa pokemon) daw ang tatay mo, at iguana naman ang nanay mo kaya pwede ka mag transform sa kahit ano. Namana mo ang pinagsamang kapangyarihan ng dalawa. Pumili ka ng isang player. Kapag namatay siya, makukuha mo ang role niya."
+    - "Isa kang Transformer 🎭. Sabi sa kwento ay Ditto (sa pokemon) daw ang tatay mo, at iguana naman ang nanay mo kaya pwede ka mag transform sa kahit ano. Namana mo ang pinagsamang kapangyarihan ng dalawa. Pumili ka ng isang player. Kapag namatay siya, makukuha mo ang role niya."
     AskRoleModel:
-      - "Sino ang gusto mong maging idol?"
+    - "Sino ang gusto mong maging idol?"
     AskDoppelganger:
-      - "Sino ang gusto mo maging kapag namatay siya?"
+    - "Sino ang gusto mo maging kapag namatay siya?"
     RoleModelChosen:
-      - "Hindi ka nakapili kaya ang moderator nalang ang pumili para sayo: {0}"
+    - "Hindi ka nakapili kaya ang moderator nalang ang pumili para sayo: {0}"
     DGTransformToMason:
-      - "Namatay na si {0}, isa ka ang mason ngayon! Ang mga teammate mo (kung meron man) ay: {1}"
+    - "Namatay na si {0}, isa ka ang mason ngayon! Ang mga teammate mo (kung meron man) ay: {1}"
     DGTransformToCult:
-      - "Namatay na si {0}, kaya nagtransform ka para maging Bibe. Ang teammates mo (kung meron man) ay: {1}"
+    - "Namatay na si {0}, kaya nagtransform ka para maging Bibe. Ang teammates mo (kung meron man) ay: {1}"
     DGToMason:
-      - "Ang transformer na si {0} ay naging mason na katulad mo!"
+    - "Ang transformer na si {0} ay naging mason na katulad mo!"
     DGToCult:
-      - "Ang transformer na si {0} ay member na ng kulto ng mahiwagang bibe katulad mo!"
+    - "Ang transformer na si {0} ay member na ng kulto ng mahiwagang bibe katulad mo!"
     DGToWolf:
-      - "Ang transformer na si {0} ay wolf na ngayon!"
+    - "Ang transformer na si {0} ay wolf na ngayon!"
   Cupid:
     Cupid:
-      - ""
+    - ""
     RoleInfoCupid:
-      - "Ikaw si Kupido \U0001F3F9 (Cupid). Pinadala sa mundo ng naka-diaper lang na may hawak na pana. Pumili ng dalawang player na papanain at sila’y magmamahalan habang buhay (kasi walang forever). Kapag namatay ang isa sakanila, madedepress ng todo yung isa kaya magssuicide nalang siya (baka daw kasi may forever sa kabilang buhay)"
+    - "Ikaw si Kupido 🏹 (Cupid). Pinadala sa mundo ng naka-diaper lang na may hawak na pana. Pumili ng dalawang player na papanain at sila’y magmamahalan habang buhay (kasi walang forever). Kapag namatay ang isa sakanila, madedepress ng todo yung isa kaya magssuicide nalang siya (baka daw kasi may forever sa kabilang buhay)"
     AskCupid1:
-      - "Sino ang gusto mo magkaron ng kasparks? Piliin ang unang player?"
+    - "Sino ang gusto mo magkaron ng kasparks? Piliin ang unang player?"
     AskCupid2:
-      - "Sino ang gusto mo magkaron ng kasparks? Piliin ang pangalawang player?"
+    - "Sino ang gusto mo magkaron ng kasparks? Piliin ang pangalawang player?"
     CupidChosen:
-      - "Pinana ka ni Kupido. Naniniwala kang may forver kayo ni {0}'. Kailangang magsurvive kayong dalawa. Kapag namatay ang isa madedepress ka ng todo kaya magssuicide ka nalang (baka kasi may forever sa kabilang buhay diba?)"
-      - "Pinana ka ni Kupido! Inlove na inlove ka kay {0}! Pag namatay siya, mamamatay ka rin. Kapag nanalo yong isa sa inyo, mananalo kayo parehas."
+    - "Pinana ka ni Kupido. Naniniwala kang may forver kayo ni {0}'. Kailangang magsurvive kayong dalawa. Kapag namatay ang isa madedepress ka ng todo kaya magssuicide ka nalang (baka kasi may forever sa kabilang buhay diba?)"
+    - "Pinana ka ni Kupido! Inlove na inlove ka kay {0}! Pag namatay siya, mamamatay ka rin. Kapag nanalo yong isa sa inyo, mananalo kayo parehas."
   Hunter:
     Hunter:
-      - "Ang Hunter \U0001F3AF"
+    - "Ang Hunter 🎯"
     RoleInfoHunter:
-      - "Ikaw ang Town Hunter \U0001F3AF. May insomnia ka kaya di ka nakakatulog sa gabi at sobrang obsessed ka sa baril mo kaya di mo ito iniiwan kahit saan ka magpunta (kahit sa cr yuck!). Pag namatay ka may pagkakataon kang magsama ng isang player sa hukay. Kapag nakain ka ng wolf, may pagkakataon ka na magsama ng isang wolf sa hukay pero hindi mo mapipili kung sinong player ang gusto mo isama sa hukay."
+    - "Ikaw ang Town Hunter 🎯. May insomnia ka kaya di ka nakakatulog sa gabi at sobrang obsessed ka sa baril mo kaya di mo ito iniiwan kahit saan ka magpunta (kahit sa cr yuck!). Pag namatay ka may pagkakataon kang magsama ng isang player sa hukay. Kapag nakain ka ng wolf, may pagkakataon ka na magsama ng isang wolf sa hukay pero hindi mo mapipili kung sinong player ang gusto mo isama sa hukay."
     HunterLynchedChoice:
-      - "Napagdesisyunan ng mga Tambay na ibigti ka! Huling pagkakataon mo na to! Sino ang gusto mo isama sa hukay?"
+    - "Napagdesisyunan ng mga Tambay na ibigti ka! Huling pagkakataon mo na to! Sino ang gusto mo isama sa hukay?"
     HunterNoChoiceLynched:
-      - "Masyado nang mahina si {0} para kunin ang baril niya. Nabitawan niya ito bago pa niya magamit..."
+    - "Masyado nang mahina si {0} para kunin ang baril niya. Nabitawan niya ito bago pa niya magamit..."
     HunterSkipChoiceLynched:
-      - "Kinuha ni {0} ang baril niya at itinutok sa mga tao. Ngunit hindi siya nakapili kung sino ang isasama sa hukay. Namatay na siya bago niya pa naiputok ang baril..."
+    - "Kinuha ni {0} ang baril niya at itinutok sa mga tao. Ngunit hindi siya nakapili kung sino ang isasama sa hukay. Namatay na siya bago niya pa naiputok ang baril..."
     HunterKilledFinalLynched:
-      - "Habang nakabitin si {0} sa tali ay kinuha niya ang kanyang baril mula sa bewang niya, tinutok ito kay {1} at binaril siya. Patay na si {1}. {2}"
+    - "Habang nakabitin si {0} sa tali ay kinuha niya ang kanyang baril mula sa bewang niya, tinutok ito kay {1} at binaril siya. Patay na si {1}. {2}"
     HunterShotChoice:
-      - "Pinatay ka! Sa mga huling sandali mo, may pagkakataon kang magsama ng isang player sa hukay! Sino ang gusto mo isama? Bilis!"
+    - "Pinatay ka! Sa mga huling sandali mo, may pagkakataon kang magsama ng isang player sa hukay! Sino ang gusto mo isama? Bilis!"
     HunterNoChoiceShot:
-      - "Grabe ang pagkabaril kay {0}, hindi na niya maabot ’yong siko niya habang naliligo siya sa sarili niyang dugo..."
+    - "Grabe ang pagkabaril kay {0}, hindi na niya maabot ’yong siko niya habang naliligo siya sa sarili niyang dugo..."
     HunterSkipChoiceShot:
-      - "Habang si {0} ay naghihingalo, hindi siya makapag-decide kung sino isasama niya sa hukay... tinanggap niya na lang kapalaran niya."
+    - "Habang si {0} ay naghihingalo, hindi siya makapag-decide kung sino isasama niya sa hukay... tinanggap niya na lang kapalaran niya."
     HunterKilledFinalShot:
-      - "Mamamatay na si {0}.... pero hindi siya papayag na hindi maisama sa hukay si {1} na binaril niya sa noo. {2}"
+    - "Mamamatay na si {0}.... pero hindi siya papayag na hindi maisama sa hukay si {1} na binaril niya sa noo. {2}"
     HunterShotWolfMulti:
-      - "Sinubukang atakihin ng mga wolf ang hunter kagabi, pero mas mabilis ang hunter kesa sa kanila kaya nakapatay ang hunter! Patay na si {0}."
+    - "Sinubukang atakihin ng mga wolf ang hunter kagabi, pero mas mabilis ang hunter kesa sa kanila kaya nakapatay ang hunter! Patay na si {0}."
     HunterShotWolf:
-      - "Sinubukang atakihin ng wolf ang hunter kagabi, pero naunahan ng hunter ang wolf na si {0}!"
+    - "Sinubukang atakihin ng wolf ang hunter kagabi, pero naunahan ng hunter ang wolf na si {0}!"
     HunterKilledWiseElder:
-      - "Binaril ng Mangangaso \U0001F3AF na si {0} ang Matalinong Nakatatanda \U0001F4DA na si {1}. Si {0} ay humikbi nang malungkot, pinagsisihan ang kanilang pagkakamali, at isinumpa ang kanilang mga abilidad bilang Mangangaso. Namatay silang isang simpleng tambay \U0001F471."
+    - "Binaril ng Mangangaso 🎯 na si {0} ang Matalinong Nakatatanda 📚 na si {1}. Si {0} ay humikbi nang malungkot, pinagsisihan ang kanilang pagkakamali, at isinumpa ang kanilang mga abilidad bilang Mangangaso. Namatay silang isang simpleng tambay 👱."
   SerialKiller:
     SerialKiller:
-      - "ang Serial Killer \U0001F52A"
+    - "ang Serial Killer 🔪"
     RoleInfoSerialKiller:
-      - "Isa kang adik na serial killer \U0001F52A. Kakatakas mo lang galing sa Rehab. Kaylangan mapatay mo sila lahat. Tuwing gabi pwede kang pumili ng player na idadagdag mo sa koleksyon mo."
+    - "Isa kang adik na serial killer 🔪. Kakatakas mo lang galing sa Rehab. Kaylangan mapatay mo sila lahat. Tuwing gabi pwede kang pumili ng player na idadagdag mo sa koleksyon mo."
     AskKill:
-      - "Sino ang gusto mong patayin ngayong gabi?"
+    - "Sino ang gusto mong patayin ngayong gabi?"
     KillerRandomKill:
-      - "Sa iyong daan patungo sa bahay ni {0}, isang matinding pananakit ang dumadaloy sa iyong binti. Nagpasya kang pumunta na lang sa pinakamalapit na bahay, ito pala ay kay {1}, pinatay mo ito at magmadaling umuwi."
+    - "Sa iyong daan patungo sa bahay ni {0}, isang matinding pananakit ang dumadaloy sa iyong binti. Nagpasya kang pumunta na lang sa pinakamalapit na bahay, ito pala ay kay {1}, pinatay mo ito at magmadaling umuwi."
     KillerStumbled:
-      - "Pinutol mo ang atay sa katawan ni {0}, ngunit sa iyong pagbalik ay sumandal ka sa isang hindi pa tapos na libingan at natisod ka dito. Dapat ay hindi mo na hinanap ang atay ng bangkay... Ngayon ay napakasakit ng paa mo."
+    - "Pinutol mo ang atay sa katawan ni {0}, ngunit sa iyong pagbalik ay sumandal ka sa isang hindi pa tapos na libingan at natisod ka dito. Dapat ay hindi mo na hinanap ang atay ng bangkay... Ngayon ay napakasakit ng paa mo."
     SerialKillerKilledYou:
-      - "Tok, tok, ikaw ay binisita ng isang residenteng serial killer!"
-      - "Ang Serial Killer ay inabangan ka, tinalian, at pagkatapos ay sabay ka niyang sinaksak sa iyong puso!"
+    - "Tok, tok, ikaw ay binisita ng isang residenteng serial killer!"
+    - "Ang Serial Killer ay inabangan ka, tinalian, at pagkatapos ay sabay ka niyang sinaksak sa iyong puso!"
     SerialKillerKilledWolf:
-      - "Sinubukan ng wolves na mag midnight snack pero isang adik (serial killer) ang kanilang nakita. Si {0} ay namatay sa gitna ng laban!"
+    - "Sinubukan ng wolves na mag midnight snack pero isang adik (serial killer) ang kanilang nakita. Si {0} ay namatay sa gitna ng laban!"
   Sorcerer:
     Sorcerer:
-      - "Ang Salamangkera \U0001F52E"
+    - "Ang Salamangkera 🔮"
     RoleInfoSorcerer:
-      - "Ikaw ang Salamangkera \U0001F52E. Technically, you're a traitor witch. Sa gabi, magagamit mo ang kapangyarihan mo malaman kung sino ang mga Wuff o Madam Auring. Mananalo ka lang kung ang mga Wuff ang mananalo. Enjoy helping snuff out those miserable villagers."
+    - "Ikaw ang Salamangkera 🔮. Technically, you're a traitor witch. Sa gabi, magagamit mo ang kapangyarihan mo malaman kung sino ang mga Wuff o Madam Auring. Mananalo ka lang kung ang mga Wuff ang mananalo. Enjoy helping snuff out those miserable villagers."
   AlphaWolf:
     AlphaWolf:
-      - "Ang Fafa Wuff ⚡️"  
+    - "Ang Fafa Wuff ⚡️"
     RoleInfoAlphaWolf:
-      - "Ikaw ang Fafa Wuff ⚡️, ang ugat ng sumpa sa mga wuff. Kagat mo ang dahilan ng sumpang nagttransform sa mga villages para maging werewolf. Kada gabi ay makakapili ka ng villager na pwedeng kainin. Pero hanggat buhay ka, ang mapipili mo ay may 20% chance na maging wolf rin."
+    - "Ikaw ang Fafa Wuff ⚡️, ang ugat ng sumpa sa mga wuff. Kagat mo ang dahilan ng sumpang nagttransform sa mga villages para maging werewolf. Kada gabi ay makakapili ka ng villager na pwedeng kainin. Pero hanggat buhay ka, ang mapipili mo ay may 20% chance na maging wolf rin."
     BittenTurned:
-      - "Habang gumagabi, may kakaiba kang nararamdaman, at dahan-dahan kang nagtransform... Isa ka ng wolf!"
+    - "Habang gumagabi, may kakaiba kang nararamdaman, at dahan-dahan kang nagtransform... Isa ka ng wolf!"
     PlayerBitten:
-      - "Napili kang kainin ng mga wolves, pero pinili ka ng Alpha Wolf. Imbis na mamatay, nainfect ka... at magiging wolf ka na bukas ng gabi!"
+    - "Napili kang kainin ng mga wolves, pero pinili ka ng Alpha Wolf. Imbis na mamatay, nainfect ka... at magiging wolf ka na bukas ng gabi!"
     PlayerBittenWolves:
-      - "Habang pasugod ang mga wuff kay {0}, pinatigil silang lahat ni {1} ang Alpha Wolf. Sinabi ni {1} sa mga wuff na imbis na kainin nila si {0} ay dapat nalang siyang hayaan mabuhay. Dahil sa mga kagat ng wuff, magiging wuff si {0} bukas ng gabi."
+    - "Habang pasugod ang mga wuff kay {0}, pinatigil silang lahat ni {1} ang Alpha Wolf. Sinabi ni {1} sa mga wuff na imbis na kainin nila si {0} ay dapat nalang siyang hayaan mabuhay. Dahil sa mga kagat ng wuff, magiging wuff si {0} bukas ng gabi."
   WolfCub:
     WolfCub:
-      - "Ang Baby Wuff \U0001F436"
+    - "Ang Baby Wuff 🐶"
     RoleInfoWolfCub:
-      - "Isa kang Baby Wuff \U0001F436, spoiled ng Wuff Fam. Tulad ng ibang wolves, makakapili ka din ng isang villager para kainin tuwing gabi. Pag namatay ka, mabbeastmode lahat ng wuff at kakain sila ng dalawang random na tao sa sunod na gabi. Pero patay ka na talaga"
+    - "Isa kang Baby Wuff 🐶, spoiled ng Wuff Fam. Tulad ng ibang wolves, makakapili ka din ng isang villager para kainin tuwing gabi. Pag namatay ka, mabbeastmode lahat ng wuff at kakain sila ng dalawang random na tao sa sunod na gabi. Pero patay ka na talaga"
   Blacksmith:
     Blacksmith:
-      - "Ang Panday ⚒"
+    - "Ang Panday ⚒"
     RoleInfoBlacksmith:
-      - "Ikaw ang Panday ⚒, ang panday-bakal ng village. Meron kang kakaunting pilak na sapat lang para hindi ka makain ng wuff ng isang gabi. Sa araw, pwede mo pulbusin ang kakaunting pilak na meron ka at ikalat ito sa buong village. Bukod dun, isa kang simpleng villager."
+    - "Ikaw ang Panday ⚒, ang panday-bakal ng village. Meron kang kakaunting pilak na sapat lang para hindi ka makain ng wuff ng isang gabi. Sa araw, pwede mo pulbusin ang kakaunting pilak na meron ka at ikalat ito sa buong village. Bukod dun, isa kang simpleng villager."
     SpreadDust:
-      - "Gusto mo bang ipakalat ang pilak mo ngayon para hindi makakain ang wuff ngayong gabi?"
+    - "Gusto mo bang ipakalat ang pilak mo ngayon para hindi makakain ang wuff ngayong gabi?"
     BlacksmithSpreadSilver:
-      - "Habang nagcchichismisang ang magkakapitbahay, bigla nilang napansin ang silver powder na kumakalat mula sa bahay ni {0}. Sa ngayon, at least, ligtas ang village sa safe mula sa wuff attacks. (Hindi makakakain ang wuff ngayong gabi)"
+    - "Habang nagcchichismisang ang magkakapitbahay, bigla nilang napansin ang silver powder na kumakalat mula sa bahay ni {0}. Sa ngayon, at least, ligtas ang village sa safe mula sa wuff attacks. (Hindi makakakain ang wuff ngayong gabi)"
   ClumsyGuy:
     ClumsyGuy:
-      - "Ang Clumsy Guy \U0001F915"
+    - "Ang Clumsy Guy 🤕"
     RoleInfoClumsyGuy:
-      - "Ikaw ang Clumsy Guy \U0001F915: Susubukan mong bumoto ng illynch. Pero, may 50% chance na iba ang maboboto mo kesa sa pinili mo."
+    - "Ikaw ang Clumsy Guy 🤕: Susubukan mong bumoto ng illynch. Pero, may 50% chance na iba ang maboboto mo kesa sa pinili mo."
   Mayor:
     Mayor:
-      - "Ang Mayor \U0001F396"
+    - "Ang Mayor 🎖"
     RoleInfoMayor:
-      - "Ikaw ang Mayor \U0001F396. Dalawang boto ang katumbas ng boto kapag inamin mo ang role mo. Sa #TeamVG ka kasali"
+    - "Ikaw ang Mayor 🎖. Dalawang boto ang katumbas ng boto kapag inamin mo ang role mo. Sa #TeamVG ka kasali"
     AskMayor:
-      - "Pindutin ang \"Ipamalita\" kapag handa ka ng ipagyabang ang pagiging Mayor mo"
+    - "Pindutin ang \"Ipamalita\" kapag handa ka ng ipagyabang ang pagiging Mayor mo"
     MayorReveal:
-      - "Biglang nag eskandalo si {0} habang pinagmamayabang ang Official Seal ng Mayor na nasakanya. Mula ngayon, dalawa ang bilang ng boto ni {0} sa mga lynch."
+    - "Biglang nag eskandalo si {0} habang pinagmamayabang ang Official Seal ng Mayor na nasakanya. Mula ngayon, dalawa ang bilang ng boto ni {0} sa mga lynch."
     Reveal:
-      - "Ipamalita"
+    - "Ipamalita"
   Prince:
     Prince:
-      - "Ang Prinsipe \U0001F451"
+    - "Ang Prinsipe 👑"
     RoleInfoPrince:
-      - "Ikaw ang Prinsipe \U0001F451, nainip ka sa bonggang bonggang castle niyo kaya naisipan mong tumakas at tumamay with the villagers. Pag sinubukan kang ilynch malalaman nilang mali sila at walang mallynch."
+    - "Ikaw ang Prinsipe 👑, nainip ka sa bonggang bonggang castle niyo kaya naisipan mong tumakas at tumamay with the villagers. Pag sinubukan kang ilynch malalaman nilang mali sila at walang mallynch."
     PrinceLynched:
-      - "Naghahanda na ang baranggay para bitayin si {0} nang biglang sumigaw ito at sinabing, \"TEKA! Ako ang Prinsipe! Ito ang singsing na may Seal of the King bilang patunay. May nakapaligid saking mga alila 24/7, imposible akong maging masama!\". Nang malaman ng mga villagers ito, umuwi nalang sila at natulog."
+    - "Naghahanda na ang baranggay para bitayin si {0} nang biglang sumigaw ito at sinabing, \"TEKA! Ako ang Prinsipe! Ito ang singsing na may Seal of the King bilang patunay. May nakapaligid saking mga alila 24/7, imposible akong maging masama!\". Nang malaman ng mga villagers ito, umuwi nalang sila at natulog."
   Lycan:
     Lycan:
-      - "the Lycan \U0001F43A\U0001F31D" 
+    - "the Lycan 🐺🌝"
     RoleInfoLycan:
-      - "Ikaw ay ang lycan \U0001F43A\U0001F31D! Ikaw ay isang lobo, pero malilito ang Madam Auring at makikita kang isang tambay. :)"
+    - "Ikaw ay ang lycan 🐺🌝! Ikaw ay isang lobo, pero malilito ang Madam Auring at makikita kang isang tambay. :)"
   Pacifist:
     Pacifist:
-      - "the Pacifist ☮️"
+    - "the Pacifist ☮️"
     RoleInfoPacifist:
-      - "Ikaw ang Pasipista ☮️. Maaari mong piliing kumbinsihin ang lahat ng tao sa iyong baranggay na huwag bitayin ang sinuman. Isang beses lang ito magagawa."
+    - "Ikaw ang Pasipista ☮️. Maaari mong piliing kumbinsihin ang lahat ng tao sa iyong baranggay na huwag bitayin ang sinuman. Isang beses lang ito magagawa."
     AskPacifist:
-      - "Pindutin ang button na ito kapag gusto mong gawin ang iyong taos-pusong pananalita at pigilan ang nayon sa pag-bitay sa susunod na pagkakataon!"
+    - "Pindutin ang button na ito kapag gusto mong gawin ang iyong taos-pusong pananalita at pigilan ang nayon sa pag-bitay sa susunod na pagkakataon!"
     PacifistNoLynch:
-      - "Ang Pasipista ☮️, {0}, ay gumagawa ng taos-pusong pananalita tungkol sa pagkakaibigan at pagtitiwala sa harap ng mga taga baranggay. Naantig sila sa kaniyang pananalita, walang bitay ngayon!"
+    - "Ang Pasipista ☮️, {0}, ay gumagawa ng taos-pusong pananalita tungkol sa pagkakaibigan at pagtitiwala sa harap ng mga taga baranggay. Naantig sila sa kaniyang pananalita, walang bitay ngayon!"
     PacifistNoLynchNow:
-      - "Dahil sa taos-pusong pananalita ng Pasipista ☮️, walang pagbitay ngayon!"
+    - "Dahil sa taos-pusong pananalita ng Pasipista ☮️, walang pagbitay ngayon!"
     LynchPeaceTimeout:
-      - Skipped ang Lynching ngayon dahil sa taos pusong speech ng Pacifist!
+    - Skipped ang Lynching ngayon dahil sa taos pusong speech ng Pacifist!
     Peace:
-      - ""
+    - ""
   WiseElder:
     WiseElder:
-      - "the Wise Elder \U0001F4DA"
+    - "the Wise Elder 📚"
     RoleInfoWiseElder:
-      - "Ikaw ang Matalinong Nakatatanda \U0001F4DA. Kaya mong makaligtas sa atake ng lobo ng isang beses - sa pangalawang pagkakataon ay maaari ka na nilang makain. Kung napatay ka ni Cardo Dalisay o ng Mangangaso gamit ang kanilang mga abilidad, mawawala ang kanilang kapangyarihan at sila ay magiging tambay na lamang."
+    - "Ikaw ang Matalinong Nakatatanda 📚. Kaya mong makaligtas sa atake ng lobo ng isang beses - sa pangalawang pagkakataon ay maaari ka na nilang makain. Kung napatay ka ni Cardo Dalisay o ng Mangangaso gamit ang kanilang mga abilidad, mawawala ang kanilang kapangyarihan at sila ay magiging tambay na lamang."
     WolvesTriedToEatWiseElder:
-      - "Sinubukan mong panghimasukan ang tahanan ni {0} ngunit sa kasamaang-palad ito ang Matalinong Nakatatanda \U0001F4DA! Matagumpay na napigilan ni {0} ang pag-atake, sa kabutihang palad ay hindi nila nakilala ang sinuman sa inyo."
+    - "Sinubukan mong panghimasukan ang tahanan ni {0} ngunit sa kasamaang-palad ito ang Matalinong Nakatatanda 📚! Matagumpay na napigilan ni {0} ang pag-atake, sa kabutihang palad ay hindi nila nakilala ang sinuman sa inyo."
     WolvesAteWiseElderPM:
-      - "Sinubukan kang kainin ng mga lobo, ngunit hindi ka naging Matalinong Nakatatanda \U0001F4DA para lamang madali kang patayin ng isang nanghihimasok! Matagumpay mong napigilan ang pag-atake, ngunit sa kasamaang-palad ay wala kang nakilala sa mga umatake sa iyo."
+    - "Sinubukan kang kainin ng mga lobo, ngunit hindi ka naging Matalinong Nakatatanda 📚 para lamang madali kang patayin ng isang nanghihimasok! Matagumpay mong napigilan ang pag-atake, ngunit sa kasamaang-palad ay wala kang nakilala sa mga umatake sa iyo."
   Oracle:
     Oracle:
-      - "the Oracle \U0001F300" 
+    - "the Oracle 🌀"
     RoleInfoOracle:
-      - "Ikaw si Rudy Baldwin \U0001F300. Tuwing gabi ay makakapili ka ng isang manlalaro na pwedeng masilip at makita ang HINDI nito role. Ang iyong makikita ay mga natitirang role ng mga buhay na manlalaro. Kaya maging mapagmasid upang malaman ang role ng mga buhay pa. :)"
+    - "Ikaw si Rudy Baldwin 🌀. Tuwing gabi ay makakapili ka ng isang manlalaro na pwedeng masilip at makita ang HINDI nito role. Ang iyong makikita ay mga natitirang role ng mga buhay na manlalaro. Kaya maging mapagmasid upang malaman ang role ng mga buhay pa. :)"
     NegSeerSees:
-      - "Nakita mo na si {0} ay HINDI {1} !"
+    - "Nakita mo na si {0} ay HINDI {1} !"
   Sandman:
     Sandman:
-      - "the Sandman \U0001F4A4" 
+    - "the Sandman 💤"
     RoleInfoSandman:
-      - "Ikaw ay ang sandman \U0001F4A4.  Maari mong patulugin ng isang beses sa laro ang lahat ng mga taga baranggay at hindi nila magagamit ang mga aksyon nila."
+    - "Ikaw ay ang sandman 💤.  Maari mong patulugin ng isang beses sa laro ang lahat ng mga taga baranggay at hindi nila magagamit ang mga aksyon nila."
     AskSandman:
-      - "Gusto mo bang patulugin ang lahat ng manlalaro ngayong gabi?"
+    - "Gusto mo bang patulugin ang lahat ng manlalaro ngayong gabi?"
     SandmanSleepAll:
-      - "Habang nag-uusap ang mga taga baranggay, bumalik si {0} sa kaniyang bahay at nagsimulang mag-hum ng isang marahan na himig. Ngayong gabi, ang lahat ay matutulog nang mahimbing, at walang sinuman ang makakagamit ng kanilang mga aksyon sa gabi."
+    - "Habang nag-uusap ang mga taga baranggay, bumalik si {0} sa kaniyang bahay at nagsimulang mag-hum ng isang marahan na himig. Ngayong gabi, ang lahat ay matutulog nang mahimbing, at walang sinuman ang makakagamit ng kanilang mga aksyon sa gabi."
     SandmanNight:
-      - "Habang pauwi ang lahat sa kanilang mga bahay, halos hindi na sila umabot sa kanilang mga higaan dahil sa pagod. Lahat sila ay mahimbing na nakatulog, ni hindi nila naaalala na sila'y nakatulog na pala..."
+    - "Habang pauwi ang lahat sa kanilang mga bahay, halos hindi na sila umabot sa kanilang mga higaan dahil sa pagod. Lahat sila ay mahimbing na nakatulog, ni hindi nila naaalala na sila'y nakatulog na pala..."
   WolfMan:
     WolfMan:
-      - "the WolfMan \U0001F471\U0001F31A"
+    - "the WolfMan 👱🌚"
     RoleInfoWolfMan:
-      - "Ikaw ang Taong Lobo \U0001F471\U0001F31A! Sa kadahilanang ikaw ay laging nasa kakahuyan kung nasaan ang mga totoong lobo, malilito si Madam Auring at iisiping ikaw ay totoong lobo! Naku po...."
+    - "Ikaw ang Taong Lobo 👱🌚! Sa kadahilanang ikaw ay laging nasa kakahuyan kung nasaan ang mga totoong lobo, malilito si Madam Auring at iisiping ikaw ay totoong lobo! Naku po...."
   Thief:
     Thief:
-      - "the Thief \U0001F608" 
+    - "the Thief 😈"
     RoleInfoThief:
-      - "Ikaw ang Magnanakaw \U0001F608! Maaari mong nakawin ang role ng isang manlalaro sa unang gabi at gawing tambay ang manlalarong iyon!"
+    - "Ikaw ang Magnanakaw 😈! Maaari mong nakawin ang role ng isang manlalaro sa unang gabi at gawing tambay ang manlalarong iyon!"
     RoleInfoThiefFull:
-      - "Ikaw ang Magnanakaw \U0001F608! Dahil naka-on ang [Full Thief] mode, magkakaroon ka ng 50% pagkakataon na magnakaw ng role ng manlalaro gabi-gabi. Kung matagumpay, magiging bagong magnanakaw ang manlalarong iyon at magpapatuloy sa pagnanakaw!"
+    - "Ikaw ang Magnanakaw 😈! Dahil naka-on ang [Full Thief] mode, magkakaroon ka ng 50% pagkakataon na magnakaw ng role ng manlalaro gabi-gabi. Kung matagumpay, magiging bagong magnanakaw ang manlalarong iyon at magpapatuloy sa pagnanakaw!"
     AskThief:
-      - "Kaninong role ang gusto mo nakawin??"
+    - "Kaninong role ang gusto mo nakawin??"
     ThiefStealFailed:
-      - "Sinubukan mong nakawin ang role kay {0}, ngunit hindi ka nagtagumpay..."
+    - "Sinubukan mong nakawin ang role kay {0}, ngunit hindi ka nagtagumpay..."
     ThiefStealDead:
-      - "Sinubukan mong nakawin ang role kay {0}, ngunit si {0} ay patay na..."
+    - "Sinubukan mong nakawin ang role kay {0}, ngunit si {0} ay patay na..."
     ThiefStoleRole:
-      - "Nagtagumpay kang manakaw ang role ni {0}!"
+    - "Nagtagumpay kang manakaw ang role ni {0}!"
     ThiefToMason:
-      - "Si {0} ay hindi mo na kakampi at si {1} ay isa nang mason, katulad mo!"
+    - "Si {0} ay hindi mo na kakampi at si {1} ay isa nang mason, katulad mo!"
     ThiefToCult:
-      - "Si {0} ay hindi na parte ng inyong grupo at si {1} ay isa nang kulto, katulad mo!"
+    - "Si {0} ay hindi na parte ng inyong grupo at si {1} ay isa nang kulto, katulad mo!"
     ThiefToWolf:
-      - "Si {0} ay hindi di na parte ng inyong grupo at si {1} ay isa nang lobo, katulad mo!"
+    - "Si {0} ay hindi di na parte ng inyong grupo at si {1} ay isa nang lobo, katulad mo!"
     ThiefStealChosen:
-      - "Ang iyong gustong nakawan ay isang {0} na ngayon."
+    - "Ang iyong gustong nakawan ay isang {0} na ngayon."
     ThiefStoleYourRoleThief:
-      - "Ninakaw ang role mo! Ikaw na ngayon ang bagong magnanakaw \U0001F608 at ikaw ay maaaring magnakaw ng role sa susunod na gabi!"
+    - "Ninakaw ang role mo! Ikaw na ngayon ang bagong magnanakaw 😈 at ikaw ay maaaring magnakaw ng role sa susunod na gabi!"
     ThiefStoleYourRoleVillager:
-      - "Ninakaw ang role mo! Isa ka na ngayong tambay \U0001F471, nag-aararo ng iyong mga bukirin buong araw."
+    - "Ninakaw ang role mo! Isa ka na ngayong tambay 👱, nag-aararo ng iyong mga bukirin buong araw."
     StealKiller:
-      - "Sinubukan mong magnakaw ng role... ngunit ang iyong napili pala ay isang serial killer! Nakita ka niyang nagiikot sa kanyang bahay, at ilang saglit pa ay bigla ka niyang sinaksak..."
+    - "Sinubukan mong magnakaw ng role... ngunit ang iyong napili pala ay isang serial killer! Nakita ka niyang nagiikot sa kanyang bahay, at ilang saglit pa ay bigla ka niyang sinaksak..."
     ThiefStoleKiller:
-      - "Ang Magnanakaw na si {0} ay sinubukang nakawin ang role sa serial killer! Ngunit hindi ito gumana tulad ng inaasahan: Si {0} ay nasaksak nang ilang ulit at ngayon ang kanyang atay ay nawawala..."
+    - "Ang Magnanakaw na si {0} ay sinubukang nakawin ang role sa serial killer! Ngunit hindi ito gumana tulad ng inaasahan: Si {0} ay nasaksak nang ilang ulit at ngayon ang kanyang atay ay nawawala..."
     NewDGRoleModel:
-      - "Ikaw ay naging doppelgänger. Papalitan mo ang tungkulin ni {0} pagkatapos ng kanilang kamatayan."
+    - "Ikaw ay naging doppelgänger. Papalitan mo ang tungkulin ni {0} pagkatapos ng kanilang kamatayan."
     NewWCRoleModel:
-      - "Ikaw ay isa nang batang hamog. Ang idol mo ay si {0}."
+    - "Ikaw ay isa nang batang hamog. Ang idol mo ay si {0}."
   Troublemaker:
     Troublemaker:
-      - "the Troublemaker \U0001F92F"
+    - "the Troublemaker 🤯"
     RoleInfoTroublemaker:
-      - "Ikaw ang Basagulero \U0001F92F. Bilang binatilyo sa baranggay, nasa bingit ka na ng pagbibinata. Isang araw, kapag nakaramdam ka ng inis sa lahat ng bagay, maaari kang magdulot ng isang malaking kaguluhan at ang buong baranggay ay maglilynch ng dalawang beses sa araw na iyon."
+    - "Ikaw ang Basagulero 🤯. Bilang binatilyo sa baranggay, nasa bingit ka na ng pagbibinata. Isang araw, kapag nakaramdam ka ng inis sa lahat ng bagay, maaari kang magdulot ng isang malaking kaguluhan at ang buong baranggay ay maglilynch ng dalawang beses sa araw na iyon."
     AskTroublemaker:
-      - "Gusto mo bang gumawa ng kaguluhan ngayong araw?"
+    - "Gusto mo bang gumawa ng kaguluhan ngayong araw?"
     TroublemakerDoubleLynch:
-      - "Si {0}, ang basagulero \U0001F92F ay  nanggugulo! Tumatakbo sa paligid at sumisigaw nang walang humpay! Dalawang beses ang pagbitay ngayon!"
+    - "Si {0}, ang basagulero 🤯 ay  nanggugulo! Tumatakbo sa paligid at sumisigaw nang walang humpay! Dalawang beses ang pagbitay ngayon!"
     TroubleDoubleLynchNow:
-      - "Dahil sa basagulero, dalawang beses ang pagbitay ngayon! Sana tumahimik na siya bukas."
+    - "Dahil sa basagulero, dalawang beses ang pagbitay ngayon! Sana tumahimik na siya bukas."
   Chemist:
     Chemist:
-      - ""
+    - ""
     RoleInfoChemist:
-      - "Ikaw ang Chemist \U0001F9EA, isang baliw na siyentipiko na nag-eeksperimento sa mga buhay na nilalang. Sa unang gabi, naghahanda ka ng 4 na potion 2 ay nakamamatay na lason at 2 ay hindi nakakapinsalang mga pangpawala ng sakit. Maaari kang pumili ng target na ibibigay sa isa sa bawat isa, na iniiwan sa kanila na magpasya sa kanilang sariling kapalaran! Kung ang isang masamang papel ay namatay mula sa lason, makakatanggap ka ng 2 dagdag na potion. Pagkatapos bisitahin ang isang tao, kailangan mong maghintay ng 1 araw bago bumisita sa isa pang manlalaro."
+    - "Ikaw ang Chemist 🧪, isang baliw na siyentipiko na nag-eeksperimento sa mga buhay na nilalang. Sa unang gabi, naghahanda ka ng 4 na potion 2 ay nakamamatay na lason at 2 ay hindi nakakapinsalang mga pangpawala ng sakit. Maaari kang pumili ng target na ibibigay sa isa sa bawat isa, na iniiwan sa kanila na magpasya sa kanilang sariling kapalaran! Kung ang isang masamang papel ay namatay mula sa lason, makakatanggap ka ng 2 dagdag na potion. Pagkatapos bisitahin ang isang tao, kailangan mong maghintay ng 1 araw bago bumisita sa isa pang manlalaro."
     AskChemist:
-      - ""
+    - ""
     AskChemistPill:
-      - "Pinipilit ka ng Chemist na pumili ng potion. Ang isa ay nakamamatay at ang isa ay ligtas. Alin ang pipiliin mo?"
+    - "Pinipilit ka ng Chemist na pumili ng potion. Ang isa ay nakamamatay at ang isa ay ligtas. Alin ang pipiliin mo?"
     ChemistFail:
-      - "Ang chemist na si {0} ay pinilit kang pumili ng potion. Tama ’yong pinili mo, kaya safe ka... pero for now lang!"
+    - "Ang chemist na si {0} ay pinilit kang pumili ng potion. Tama ’yong pinili mo, kaya safe ka... pero for now lang!"
     ChemistDeadYou:
-      - "Ang chemist na si {0} ay pinilit kang pumili ng potion. Pinili mo ’yong poisonous kaya namatay ka... Walang dapat sisihin kundi ’yong kashungahan mo :P"
+    - "Ang chemist na si {0} ay pinilit kang pumili ng potion. Pinili mo ’yong poisonous kaya namatay ka... Walang dapat sisihin kundi ’yong kashungahan mo :P"
     ChemistSuccessPublic:
-      - "Pinilit ng walang awang chemist na si {0} na pumili ng potion si {1}. May lason ’yong pinili ni {1} kaya namatay siya. Mukhang malas siya sa sugal :P"
+    - "Pinilit ng walang awang chemist na si {0} na pumili ng potion si {1}. May lason ’yong pinili ni {1} kaya namatay siya. Mukhang malas siya sa sugal :P"
     ChemistFailPublic:
-      - "Pinilit ng walang awang chemist na si {0} na pumili ng potion si {1} kagabi. Pero, confident si {1} sa skills niya and napili niya ’yong most effective potion at naka-survive siya. pew... BUTI NA LANG!"
+    - "Pinilit ng walang awang chemist na si {0} na pumili ng potion si {1} kagabi. Pero, confident si {1} sa skills niya and napili niya ’yong most effective potion at naka-survive siya. pew... BUTI NA LANG!"
     ChemistBrewing:
-      - "Habang naghahanda ang lahat for today’s vidyow, nasa lab ka pa rin at gumagawa ng potions. Pwede ka magbigay ng potion sa isang tao bukas."
+    - "Habang naghahanda ang lahat for today’s vidyow, nasa lab ka pa rin at gumagawa ng potions. Pwede ka magbigay ng potion sa isang tao bukas."
     ChemistExtraPill:
-      - "Matagumpay kang nakapatay ng bad role. Bilang reward, nakatanggap ka ng extra na 2 potions."
+    - "Matagumpay kang nakapatay ng bad role. Bilang reward, nakatanggap ka ng extra na 2 potions."
   SnowWolf:
     SnowWolf:
-      - "the Snow Wolf \U0001F43A☃️"
+    - "the Snow Wolf 🐺☃️"
     RoleInfoSnowWolf:
-      - "Ikaw ang Niyebeng Lobo \U0001F43A☃️. Gabi-gabi, sa halip na sundan ang iyong grupo ng mga lobo para manghuli ng isang tao, mag-isa kang umikot para i-freeze ang isang tao na galing sa baranggay. Ang isang nagyelong tao ay hindi makakagamit ng anumang mga aksyon sa gabi, kung mayroon man siya. Subalit hindi mo maaaring i-freeze sa pangalawang beses na magkakasunod ang iyong biktima."
+    - "Ikaw ang Niyebeng Lobo 🐺☃️. Gabi-gabi, sa halip na sundan ang iyong grupo ng mga lobo para manghuli ng isang tao, mag-isa kang umikot para i-freeze ang isang tao na galing sa baranggay. Ang isang nagyelong tao ay hindi makakagamit ng anumang mga aksyon sa gabi, kung mayroon man siya. Subalit hindi mo maaaring i-freeze sa pangalawang beses na magkakasunod ang iyong biktima."
     AskFreeze:
-      - "Sino ang gusto mong i-freeze ngayong gabi?"
+    - "Sino ang gusto mong i-freeze ngayong gabi?"
     SuccessfulFreeze:
-      - "Pumunta ka sa bahay ni {0} at pinatigas siya! Ngayong gabi, hindi niya magagamit ang kaniyang aksyon sa gabi (kung mayroon man)."
+    - "Pumunta ka sa bahay ni {0} at pinatigas siya! Ngayong gabi, hindi niya magagamit ang kaniyang aksyon sa gabi (kung mayroon man)."
     HarlotFrozen:
-      - "Nang binuksang mo ang pinto para lumabas ng bahay, umihip ang hangin patungo sa iyo at naging sanhi ito nang iyong pagtigas sa may pinto\U0001F43A☃️. Nagyeyelong nakatayo ka sa pintuan, tahimik na minumura ang iyong kalagayan. Ah, salamat naman at natunaw na ngayon. "
+    - "Nang binuksang mo ang pinto para lumabas ng bahay, umihip ang hangin patungo sa iyo at naging sanhi ito nang iyong pagtigas sa may pinto🐺☃️. Nagyeyelong nakatayo ka sa pintuan, tahimik na minumura ang iyong kalagayan. Ah, salamat naman at natunaw na ngayon. "
     CultistFrozen:
-      - "Habang sinusuot mo ang iyong balabal at naghahanda sa pag-alis ng iyong bahay, may umihip na hangin mula sa pintuan, na naging sanhi ng iyong pagtigas \U0001F43A☃️. Ang iyong mga kapwa bibe ay dumaan kaagad sa gilid mo at nauwi sila sa tawanan sa iyong kabiguan. Iniwan ka sa may pintuan, nangako sila na huhusayan nila ang gawain nila ngayong gabi. Ngayong hindi ka na naninigas, umalis ka ng bahay, nanginginig sa kahihiyan. "
+    - "Habang sinusuot mo ang iyong balabal at naghahanda sa pag-alis ng iyong bahay, may umihip na hangin mula sa pintuan, na naging sanhi ng iyong pagtigas 🐺☃️. Ang iyong mga kapwa bibe ay dumaan kaagad sa gilid mo at nauwi sila sa tawanan sa iyong kabiguan. Iniwan ka sa may pintuan, nangako sila na huhusayan nila ang gawain nila ngayong gabi. Ngayong hindi ka na naninigas, umalis ka ng bahay, nanginginig sa kahihiyan. "
     CHFrozen:
-      - "Habang kinukuha mo ang iyong espada, may umihip na hangin mula sa bintana, dahilan ng pagtigas mo habang nakaarko pa rin ang likod \U0001F43A☃️. Umuungol ka sa pag-iisip, masakit ang mga paa mo mula sa posisyong ito hanggang ngayon... "
+    - "Habang kinukuha mo ang iyong espada, may umihip na hangin mula sa bintana, dahilan ng pagtigas mo habang nakaarko pa rin ang likod 🐺☃️. Umuungol ka sa pag-iisip, masakit ang mga paa mo mula sa posisyong ito hanggang ngayon... "
     SeeingFrozen:
-      - "Habang nakaupo ka sa iyong mesa, handang gamitin ang iyong kapangyarihan ng paghuhula, isang bugso ng hangin ang pumasok mula sa bintana, na naging sanhi ng pagtigas mo \U0001F43A☃️. Bagama't kadalasan ay hindi isang problema ang pagkagapos, ang nagyeyelong spell ay nagbigay din sa iyo ng malubhang kaso ng brain freeze. Gayunpaman ay hindi ka nag-alala, alam mong ang pagsikat ng araw ay isa permanenteng pangyayari sa mundong, at ikaw ay natunaw na ngayon."
+    - "Habang nakaupo ka sa iyong mesa, handang gamitin ang iyong kapangyarihan ng paghuhula, isang bugso ng hangin ang pumasok mula sa bintana, na naging sanhi ng pagtigas mo 🐺☃️. Bagama't kadalasan ay hindi isang problema ang pagkagapos, ang nagyeyelong spell ay nagbigay din sa iyo ng malubhang kaso ng brain freeze. Gayunpaman ay hindi ka nag-alala, alam mong ang pagsikat ng araw ay isa permanenteng pangyayari sa mundong, at ikaw ay natunaw na ngayon."
     GAFrozen:
-      - "Balak mo sanang gamitin ang flashlight, ngunit isang bugso ng hangin ang umihip mula sa mga bintana, na naging sanhi ng pagtigas mi \U0001F43A☃️. Napangiwi ka nang bigla mong isipin ang iyong sarili bilang isang estatwa sa munisipyo. Buti na lang at natapos na ito dahil sumikat na ang araw. "
+    - "Balak mo sanang gamitin ang flashlight, ngunit isang bugso ng hangin ang umihip mula sa mga bintana, na naging sanhi ng pagtigas mi 🐺☃️. Napangiwi ka nang bigla mong isipin ang iyong sarili bilang isang estatwa sa munisipyo. Buti na lang at natapos na ito dahil sumikat na ang araw. "
     SKFrozen:
-      - "Habang tinititigan at hinahangaan mo ang iyong koleksyon ng atay sa huling pagkakataon bago umalis sa iyong bahay, umihip ang hangin mula sa mga bintana, pinalamig ang mga garapon ng salamin... at ikaw ay nagyelo \U0001F43A☃️. Habang natutunaw na ang yelo sayo nung umaga, nagngangalit ang iyong mga ngipin sa inis sa kapangyarihan ng Niyebeng Lobo, at sinusumpa na pahihirapan siya hangga't maaari kapag kinuha mo ang kaniyang atay."
+    - "Habang tinititigan at hinahangaan mo ang iyong koleksyon ng atay sa huling pagkakataon bago umalis sa iyong bahay, umihip ang hangin mula sa mga bintana, pinalamig ang mga garapon ng salamin... at ikaw ay nagyelo 🐺☃️. Habang natutunaw na ang yelo sayo nung umaga, nagngangalit ang iyong mga ngipin sa inis sa kapangyarihan ng Niyebeng Lobo, at sinusumpa na pahihirapan siya hangga't maaari kapag kinuha mo ang kaniyang atay."
     ThiefFrozen:
-      - "Habang nagmamaktol ka sa may gilid ng baranggay, naramdaman mo ang malakas na bugso ng hangin. Nakatayo ka sa iyong kinatatayuan, literal na hindi makagalaw \U0001F43A☃️. Buti na lang at medyo madilim para hindi ka makilala ng sinumang dumaan sa iyo noong gabing iyon. Nang ikaw ay ganap nang natunaw sa madaling araw, tumakbo ka pabalik sa iyong tahanan bago ka pa makita ng sinuman."
+    - "Habang nagmamaktol ka sa may gilid ng baranggay, naramdaman mo ang malakas na bugso ng hangin. Nakatayo ka sa iyong kinatatayuan, literal na hindi makagalaw 🐺☃️. Buti na lang at medyo madilim para hindi ka makilala ng sinumang dumaan sa iyo noong gabing iyon. Nang ikaw ay ganap nang natunaw sa madaling araw, tumakbo ka pabalik sa iyong tahanan bago ka pa makita ng sinuman."
     DefaultFrozen:
-      - "Habang natutulog ka kagabi, bigla kang nanlamig. Paggising mo para sana tumingin, napagtanto mo na hindi ka makagalaw! Mukhang pinatigas ka ng Niyebeng Lobo \U0001F43A☃️. Bumalik ka sa pagtulog, walang pakialam, dahil hindi ka man lang naapektuhan... bukod sa naging yelo ka."
+    - "Habang natutulog ka kagabi, bigla kang nanlamig. Paggising mo para sana tumingin, napagtanto mo na hindi ka makagalaw! Mukhang pinatigas ka ng Niyebeng Lobo 🐺☃️. Bumalik ka sa pagtulog, walang pakialam, dahil hindi ka man lang naapektuhan... bukod sa naging yelo ka."
   Augur:
     Augur:
-      - "the Augur \U0001F985"
+    - "the Augur 🦅"
     RoleInfoAugur:
-      - "Ikaw ang Augur \U0001F985. May kapangyarihan kang makakita ng mga bagay, ngunit ibang-iba sa madam auring at oracle. Ikaw lang ang nakakakita ng mga role na wala sa baranggay, ngunit hindi ka makakakita ng isa sa kanila ng dalawang beses!"
+    - "Ikaw ang Augur 🦅. May kapangyarihan kang makakita ng mga bagay, ngunit ibang-iba sa madam auring at oracle. Ikaw lang ang nakakakita ng mga role na wala sa baranggay, ngunit hindi ka makakakita ng isa sa kanila ng dalawang beses!"
     AugurSees:
-      - "Habang tumitingin ka sa himpapawid, makikita mo ang mga ibon na bumubuo ng isang hindi pangkaraniwang pattern. Ibig sabihin lang neto na ang {0} ay wala sa baranggay."
-      - "Sinasabi sa iyo ng mga ibon na ang {0} ay hindi bahagi ng baranggay ngayon."
+    - "Habang tumitingin ka sa himpapawid, makikita mo ang mga ibon na bumubuo ng isang hindi pangkaraniwang pattern. Ibig sabihin lang neto na ang {0} ay wala sa baranggay."
+    - "Sinasabi sa iyo ng mga ibon na ang {0} ay hindi bahagi ng baranggay ngayon."
     AugurSeesNothing:
-      - "Walang mga ibon sa himpapawid ngayon. Ibig sabihin malamang nakita mo na lahat ng roles na wala sa baranggay..."
+    - "Walang mga ibon sa himpapawid ngayon. Ibig sabihin malamang nakita mo na lahat ng roles na wala sa baranggay..."
   Arsonist:
     Arsonist:
-      - "the Arsonist \U0001F525"
+    - "the Arsonist 🔥"
     RoleInfoArsonist:
-      - "Ikaw ang Arsonist \U0001F525. Bawat gabi, maaari mong buhusan ng petrolyo o magsindi ng isang bahay at sunugin ang lahat ng dating binuhusan na bahay. Maaari ka lang manalo kung ikaw lang ang natittira."
+    - "Ikaw ang Arsonist 🔥. Bawat gabi, maaari mong buhusan ng petrolyo o magsindi ng isang bahay at sunugin ang lahat ng dating binuhusan na bahay. Maaari ka lang manalo kung ikaw lang ang natittira."
     AskArsonist:
-      - "Gusto mo bang magbuhos ng petrolyo sa iba pang bahay o gusto mong makita na masunog ang lahat ng bahay na iyong nabuhusan?"
+    - "Gusto mo bang magbuhos ng petrolyo sa iba pang bahay o gusto mong makita na masunog ang lahat ng bahay na iyong nabuhusan?"
     AskArsonistNoDoused:
-      - "Kaninong bahay ay gusto mong buhusan ng petrolyo?"
+    - "Kaninong bahay ay gusto mong buhusan ng petrolyo?"
     AlreadyDousedList:
-      - "\nNabuhusan mo na ng petrolyo ang bahay ni: {0}"
+    - "\nNabuhusan mo na ng petrolyo ang bahay ni: {0}"
     ExtraDouse:
-      - "Binaba na ng mga wolf and barikada sa barangat at may pagkakataon ka na upang magsaboy pa ng gasolina sa barangay."
+    - "Binaba na ng mga wolf and barikada sa barangat at may pagkakataon ka na upang magsaboy pa ng gasolina sa barangay."
     Doused:
-      - "Matagumpay mong nabuhusan ang bahay ni {0} ng petrolyo!"
+    - "Matagumpay mong nabuhusan ang bahay ni {0} ng petrolyo!"
     Burning:
-      - "Nagising ang baranggay sa amoy ng apoy... Nasusunog! Sinusubukan mong patayin ang apoy nang buo, ngunit huli ka na para iligtas ang mga tao na ang mga bahay ay misteryosong binuhusan ng petrolyo. Ngayon ay nagdadalamhati ka sa pagkamatay ng mga sumusunod na tao:\n{0}"
+    - "Nagising ang baranggay sa amoy ng apoy... Nasusunog! Sinusubukan mong patayin ang apoy nang buo, ngunit huli ka na para iligtas ang mga tao na ang mga bahay ay misteryosong binuhusan ng petrolyo. Ngayon ay nagdadalamhati ka sa pagkamatay ng mga sumusunod na tao:\n{0}"
     Burn:
-      - "Dapat ay nagtago ka ng fire extinguisher! Ngayon ang iyong bahay ay nasunog at ikaw ay namatay sa loob..."
+    - "Dapat ay nagtago ka ng fire extinguisher! Ngayon ang iyong bahay ay nasunog at ikaw ay namatay sa loob..."
     WolvesVisitBurn:
-      - "Ang grupo ng lobo ay lumusob sa bahay ni {0}, nang bigla kang makapansin ng usok. Sinusubukan mong tumakas, ngunit huli na para kay {1}, na namatay sa apoy."
+    - "Ang grupo ng lobo ay lumusob sa bahay ni {0}, nang bigla kang makapansin ng usok. Sinusubukan mong tumakas, ngunit huli na para kay {1}, na namatay sa apoy."
     DefaultVisitBurn:
-      - "Dapat ay nanatili si {0} sa bahay ngayong gabi... Bumisita siya sa isang nasusunog na bahay at namatay din sa apoy! {1}"
+    - "Dapat ay nanatili si {0} sa bahay ngayong gabi... Bumisita siya sa isang nasusunog na bahay at namatay din sa apoy! {1}"
     WolfVisitBurn:
-      - "Sinubukan ng mga lobo na kumain muli ng isang tao ngayong gabi, ngunit ang arsonist ay mas mabilis! Hindi makatakas si {0} mula sa nasusunog na bahay. {1}"
+    - "Sinubukan ng mga lobo na kumain muli ng isang tao ngayong gabi, ngunit ang arsonist ay mas mabilis! Hindi makatakas si {0} mula sa nasusunog na bahay. {1}"
     ArsonistWinsOverpower:
-      - "Si {0} at {1} na lang ang natitira... Biglang ngumiti si {0}, naglabas ng posporo, sinindihan ito at inihagis sa paanan ni {1}, ito ay nagliyab!"
+    - "Si {0} at {1} na lang ang natitira... Biglang ngumiti si {0}, naglabas ng posporo, sinindihan ito at inihagis sa paanan ni {1}, ito ay nagliyab!"
     ArsonistVisitKiller:
-      - "Ang arson na si {0} ay sinubukang lagyan ng petrolyo ang bahay ng mamamatay-tao... Hindi sila nakaligtas dito."
+    - "Ang arson na si {0} ay sinubukang lagyan ng petrolyo ang bahay ng mamamatay-tao... Hindi sila nakaligtas dito."
     Spark:
     - ""
   Boss:
     Boss:
-      - ""
+    - ""
     RoleInfoBoss:
-      - "\U0001F3A9 Ikaw ang Amo. Kinamumuhian mo ang mga bibe at saan ka man makakita ng isang bibe, sumasali ka sa kanila sa pamamagitan ng pagpapanggap na sila. Gayunpaman, hindi nila alam na kabilang ka sa kanila, at iniuulat mo ang bilang ng mga bibe sa grupo ng mga taga barangay gabi-gabi.. "
+    - "🎩 Ikaw ang Amo. Kinamumuhian mo ang mga bibe at saan ka man makakita ng isang bibe, sumasali ka sa kanila sa pamamagitan ng pagpapanggap na sila. Gayunpaman, hindi nila alam na kabilang ka sa kanila, at iniuulat mo ang bilang ng mga bibe sa grupo ng mga taga barangay gabi-gabi.. "
     CultCount:
-      - "\U0001F464 Nakita mo na ang Bibe ay may {0} (na) tao."
+    - "👤 Nakita mo na ang Bibe ay may {0} (na) tao."
   Shadow:
     Shadow:
-      - "Aninong Lobo \U0001F43A\U0001F31A"
+    - "Aninong Lobo 🐺🌚"
     RoleInfoShadow:
-      - "\U0001F43A\U0001F31A Ikaw ang Aninong Lobo\nMakapapatay ka tuwing gabi gaya ng mga ordinaryong taong lobo. Ngunit mayroon kang kakayahan na anino na iba sa lahat ng mga lobo. Kapag ginamit mo ang iyong kakayahan, itatago ng mga anino ang mga boto ng mga taganayon at lalabas itong '?' sa bot, ngunit makikita pa rin ito sa grupo. Gayunpaman, ang kaniyang kakayahan ay hindi makaaapekto sa grupo ng mga lobo at makikita nila kung sino ang pinili nilang bitayin."
+    - "🐺🌚 Ikaw ang Aninong Lobo\nMakapapatay ka tuwing gabi gaya ng mga ordinaryong taong lobo. Ngunit mayroon kang kakayahan na anino na iba sa lahat ng mga lobo. Kapag ginamit mo ang iyong kakayahan, itatago ng mga anino ang mga boto ng mga taganayon at lalabas itong '?' sa bot, ngunit makikita pa rin ito sa grupo. Gayunpaman, ang kaniyang kakayahan ay hindi makaaapekto sa grupo ng mga lobo at makikita nila kung sino ang pinili nilang bitayin."
     AskShadow:
-      - "Gusto mo bang gamitin ang iyong aninong kakayahan ngayong araw?"
+    - "Gusto mo bang gamitin ang iyong aninong kakayahan ngayong araw?"
     ShadowPower:
-      - "Matagumpay mong nagamit ang iyong kakayahan. Kapag nagsimula ang pagpili ng bibitayin, hindi makikita ng mga taganayon ang kanilang pipiliin, at ang pagpipilian ay makikita bilang '?'. Makikita pa rin ng mga taong lobo kung sino ang pinili nilang bitayin.."
+    - "Matagumpay mong nagamit ang iyong kakayahan. Kapag nagsimula ang pagpili ng bibitayin, hindi makikita ng mga taganayon ang kanilang pipiliin, at ang pagpipilian ay makikita bilang '?'. Makikita pa rin ng mga taong lobo kung sino ang pinili nilang bitayin.."
   Skeleton:
     Skeleton:
-      - "Kalansay \U0001F480"
+    - "Kalansay 💀"
     RoleInfoSkeleton:
-      - ""
+    - ""
     ButtonAppears:
-      - ""
+    - ""
     AskSkeleton:
-      - ""
+    - ""
     ChoiceConfirmation:
-      - ""
+    - ""
     BlockedNotice:
-      - ""
+    - ""
     HauntButton:
-      - ""
+    - ""
   Doctor:
     Doctor:
-      - "Mangagamot \U0001F9D1‍⚕️"
+    - "Mangagamot 🧑‍⚕️"
     RoleInfoDoctor:
-      - "\U0001F9D1‍⚕️ Ikaw ang Doctor, sa isang pindot, mabubuhay mo ulit ang isang player, at tandaan mo na habang tumatagal ang laro, pwede kang maka-resurrect ng maraming tao."
+    - "🧑‍⚕️ Ikaw ang Doctor, sa isang pindot, mabubuhay mo ulit ang isang player, at tandaan mo na habang tumatagal ang laro, pwede kang maka-resurrect ng maraming tao."
     AskDoctor:
-      - "Sino ang gusto mong buhayin?"
+    - "Sino ang gusto mong buhayin?"
     DoctorRevive:
-      - "Ang mga pagsisikap ng isang mangagamot {0} ay nagresulta sa pagbabalik ni manlalaro {1}, na pinatay kagabi, sa laro. Ngayon, oras na para maghiganti."
+    - "Ang mga pagsisikap ng isang mangagamot {0} ay nagresulta sa pagbabalik ni manlalaro {1}, na pinatay kagabi, sa laro. Ngayon, oras na para maghiganti."
     DoctorYouRevive:
-      - "Binuhay ka ng isang mangagamot. Ngayon oras na para bumalik ka muli sa baryo"
+    - "Binuhay ka ng isang mangagamot. Ngayon oras na para bumalik ka muli sa baryo"
   Preacher:
     Preacher:
-      - "Pari \U0001F6D0"
+    - "Pari 🛐"
     RoleInfoPreacher:
-      - "\U0001F6D0 Ikaw ay isang Pari. Tuwing gabi, maaari mong ipagdasal ang isang manlalaro. Kapag napatay ang manlalaro na ipinagdasal mo, malalaman mo ang pagkakakilanlan ng pumatay sa kanila at ang kanilang role. Ngunit, malalaman din nila ang iyong pagkakakilanlan. Ang abilidad na ito ay magagamit mo mula sa ikalawang gabi."
+    - "🛐 Ikaw ay isang Pari. Tuwing gabi, maaari mong ipagdasal ang isang manlalaro. Kapag napatay ang manlalaro na ipinagdasal mo, malalaman mo ang pagkakakilanlan ng pumatay sa kanila at ang kanilang role. Ngunit, malalaman din nila ang iyong pagkakakilanlan. Ang abilidad na ito ay magagamit mo mula sa ikalawang gabi."
     AskPreacher:
-      - "Sino ang gusto mong ipagdasal?"
+    - "Sino ang gusto mong ipagdasal?"
     PreacherDone:
-      - "Ang manlalaro na si {0} na ipinagdasal mo kagabi ay napatay. Ang role ni {1} na pumatay sa kaniya ay {2}."
+    - "Ang manlalaro na si {0} na ipinagdasal mo kagabi ay napatay. Ang role ni {1} na pumatay sa kaniya ay {2}."
     PreacherFailed:
-      - "Ang manlalaro na si {0}, na ipinagdasal mo kagabi ay nakaligtas at buhay. Hindi mo nalaman ang tungkulin ng sinuman ngayong araw. Maaari mong ipagpatuloy ang pagdarasal sa susunod na gabi"
+    - "Ang manlalaro na si {0}, na ipinagdasal mo kagabi ay nakaligtas at buhay. Hindi mo nalaman ang tungkulin ng sinuman ngayong araw. Maaari mong ipagpatuloy ang pagdarasal sa susunod na gabi"
     OhNoPreacher:
-      - "Hala... Pinatay mo ang manlalaro na ipinagdasal ng pari kagabi. Ang Pari na si {0} ay alam na ang iyong pagkakakilanlan at ang iyong tungkulin."
+    - "Hala... Pinatay mo ang manlalaro na ipinagdasal ng pari kagabi. Ang Pari na si {0} ay alam na ang iyong pagkakakilanlan at ang iyong tungkulin."
   GraveDigger:
     GraveDigger:
-      - ""
+    - ""
     RoleInfoGraveDigger:
-      - "Ikaw ang Grave Digger ☠️. Bawat gabi, naghuhukay ka ng mga libingan para sa mga namatay mula noong huli mong paghukay. Mayroon kang espesyal na minsanang kakayahang gamitin ang mga talento ng isang patay na manlalaro sa loob ng isang araw. Habang nasa labas ka, hindi ka mahahanap ng mga lobo at kulto maliban kung wala kang libingan na mahukay at manatili sa bahay. Maaaring mahulog ang mga bisita sa iyong hindi natapos na mga libingan, na tumataas ang pagkakataon batay sa kung gaano karami ang iyong nahukay. Mag-ingat na hindi makita ng lobo o serial killer habang nasa labas ka."
+    - "Ikaw ang Grave Digger ☠️. Bawat gabi, naghuhukay ka ng mga libingan para sa mga namatay mula noong huli mong paghukay. Mayroon kang espesyal na minsanang kakayahang gamitin ang mga talento ng isang patay na manlalaro sa loob ng isang araw. Habang nasa labas ka, hindi ka mahahanap ng mga lobo at kulto maliban kung wala kang libingan na mahukay at manatili sa bahay. Maaaring mahulog ang mga bisita sa iyong hindi natapos na mga libingan, na tumataas ang pagkakataon batay sa kung gaano karami ang iyong nahukay. Mag-ingat na hindi makita ng lobo o serial killer habang nasa labas ka."
     AskGraveDigger:
-      - "Kaninong mga kasanayan ang gusto mong gamitin para sa isang araw?"
+    - "Kaninong mga kasanayan ang gusto mong gamitin para sa isang araw?"
     DigNoGraves:
-      - "Inilibing na ang mga patay, at ang mga buhay ay hindi. Ang lahat ay katulad lamang ng nararapat, at ngayon ay magkaroon ka ng magandang tulog sa gabi."
+    - "Inilibing na ang mga patay, at ang mga buhay ay hindi. Ang lahat ay katulad lamang ng nararapat, at ngayon ay magkaroon ka ng magandang tulog sa gabi."
     DigGraves:
-      - "Hanggang sa mag hatinggabi, hinuhukay mo ang (mga) libingan para kay {0}. Nawa'y magpahinga ang kanilang mga kaluluwa at ang kanilang mga katawan ay mahiga sa kapayapaan."
+    - "Hanggang sa mag hatinggabi, hinuhukay mo ang (mga) libingan para kay {0}. Nawa'y magpahinga ang kanilang mga kaluluwa at ang kanilang mga katawan ay mahiga sa kapayapaan."
     DefaultFellDigger:
-      - ""
+    - ""
     DefaultVisitDigger:
-      - "Pumunta ka sa bahay ni {0}, pero wala siya sa kanila. Ang nakita mo lang ay ang kandila na nagliliwanag sa libingan..."
+    - "Pumunta ka sa bahay ni {0}, pero wala siya sa kanila. Ang nakita mo lang ay ang kandila na nagliliwanag sa libingan..."
     WolfFellWolves:
-      - "Ang iyong mga kasamahan ay tumungo sa bahay ni {0}, ngunit habang papunta doon, si {1} ay biglang humakbang sa isang bitag na para sa oso, nahulog sa isang bukas na libingan at na-impaled sa pamamagitan ng isang pilak na sibat!"
+    - "Ang iyong mga kasamahan ay tumungo sa bahay ni {0}, ngunit habang papunta doon, si {1} ay biglang humakbang sa isang bitag na para sa oso, nahulog sa isang bukas na libingan at na-impaled sa pamamagitan ng isang pilak na sibat!"
     WolvesSpotted:
-      - "Ang grupo ng mga lobo ay tumatakbo sa sementeryo, nang bigla nilang napansin si {0}, ang sepulturero. Bago paman kayo makakilos, ang isa sa inyo ay tumalon sa likuran ng sepulturero at pinapatay siya sa isang kagat."
+    - "Ang grupo ng mga lobo ay tumatakbo sa sementeryo, nang bigla nilang napansin si {0}, ang sepulturero. Bago paman kayo makakilos, ang isa sa inyo ay tumalon sa likuran ng sepulturero at pinapatay siya sa isang kagat."
     WolvesSpottedYou:
-      - "Sinusubukan mo lang naman gawin ang iyong trabaho, nang biglang may isang lobo na tumalon papunta sa iyo mula sa likod at pinatay ka!"
+    - "Sinusubukan mo lang naman gawin ang iyong trabaho, nang biglang may isang lobo na tumalon papunta sa iyo mula sa likod at pinatay ka!"
     SerialKillerSpotted:
-      - "Habang naglalakad ka sa libingan na may dugo sa iyong kutsilyo, napansin mo si {0}, ang sepulturero. Sinunod mo ang iyong naiisip, nagpasya kang magkaroon ng dalawang biktima ngayon..."
+    - "Habang naglalakad ka sa libingan na may dugo sa iyong kutsilyo, napansin mo si {0}, ang sepulturero. Sinunod mo ang iyong naiisip, nagpasya kang magkaroon ng dalawang biktima ngayon..."
     SerialKillerSpottedYou:
-      - "Ginagawa mo lang naman ang iyong trabaho nang bigla kang saksakin ng baliw na killer! Nakakaawa..."
+    - "Ginagawa mo lang naman ang iyong trabaho nang bigla kang saksakin ng baliw na killer! Nakakaawa..."
     CultConvertGraveDigger:
-      - "Sa pupuntahan mong bahay ni {1}, si {0} ay biglang nag desisyon na maganda ring sunugin ang simbahan. Sinamahan ka patungo sa mga libingan nang biglang tumunog ang isang patibong palibot sa iyong paa! Halos ang maririnig mo na lamang ay ang kanilang mga sigaw habang nahuhulog sa isang libingan at tumakbo ka para iligtas ang iyong buhay."
+    - "Sa pupuntahan mong bahay ni {1}, si {0} ay biglang nag desisyon na maganda ring sunugin ang simbahan. Sinamahan ka patungo sa mga libingan nang biglang tumunog ang isang patibong palibot sa iyong paa! Halos ang maririnig mo na lamang ay ang kanilang mga sigaw habang nahuhulog sa isang libingan at tumakbo ka para iligtas ang iyong buhay."
     DefaultFell:
-      - "Tingnan mo kasi dinadaanan mo kapag pupunta ka sa bahay ng iba next time... Naapakan mo ’yong bear trap, nahulog ka sa libingan at nasaksak ng silver spear sa heart! Ano bang iniisip mo at binisita mo si {0}? Buti nga sa’yo, tanga!"
+    - "Tingnan mo kasi dinadaanan mo kapag pupunta ka sa bahay ng iba next time... Naapakan mo ’yong bear trap, nahulog ka sa libingan at nasaksak ng silver spear sa heart! Ano bang iniisip mo at binisita mo si {0}? Buti nga sa’yo, tanga!"
   Conjurer:
     Conjurer:
-      - "Salamangkerong Lobo \U0001F43A✨"
+    - "Salamangkerong Lobo 🐺✨"
     RoleInfoConjurer:
-      - "\U0001F43A✨ Ikaw ang Salamangkerong Lobo [0% - \U0001F480(\U0001F3E0)]. Ikaw ay may nakatagong talento. Kapag ginamit mo ito, ang tao na may pinaka kaunting boto ang mamamatay, hindi ang may pinakamaraming boto."
+    - "🐺✨ Ikaw ang Salamangkerong Lobo [0% - 💀(🏠)]. Ikaw ay may nakatagong talento. Kapag ginamit mo ito, ang tao na may pinaka kaunting boto ang mamamatay, hindi ang may pinakamaraming boto."
     AskConjurer:
-      - "Gusto mo bang gamitin ang iyong kakayahan ngayong araw?"
+    - "Gusto mo bang gamitin ang iyong kakayahan ngayong araw?"
     ConjurerChoice:
-      - "Bigyang pansin, mga taganayon! Ginamit ng salamangkerong lobo ang kaniyang kasanayan ngayong araw. Sa halip na ang may pinakamaraming boto, ANG MANLALARO NA MAY KAUNTING BOTO ANG MAMAMATAY!"
+    - "Bigyang pansin, mga taganayon! Ginamit ng salamangkerong lobo ang kaniyang kasanayan ngayong araw. Sa halip na ang may pinakamaraming boto, ANG MANLALARO NA MAY KAUNTING BOTO ANG MAMAMATAY!"
   Miner:
     Miner:
-      - "Minero ⛏"
+    - "Minero ⛏"
     RoleInfoMiner:
-      - "⛏ Ikaw ang Minero \nGabi-gabi ay naghuhukay ka ng mga lagusan sa mga bahay ng mga taganayon. Salamat sa mga lagusan na iyong hinukay, ang mga manlalaro na may mga aksyon sa gabi ay maiiba ang  layunin at mapupunta sa ibang bahay nang hindi namamalayan. Ngunit hndi ka maaaring maghukay sa bahay ng parehong manlalaro nang dalawang beses na magkasunod."
+    - "⛏ Ikaw ang Minero \nGabi-gabi ay naghuhukay ka ng mga lagusan sa mga bahay ng mga taganayon. Salamat sa mga lagusan na iyong hinukay, ang mga manlalaro na may mga aksyon sa gabi ay maiiba ang  layunin at mapupunta sa ibang bahay nang hindi namamalayan. Ngunit hndi ka maaaring maghukay sa bahay ng parehong manlalaro nang dalawang beses na magkasunod."
     AskMiner:
-      - "Kaninong bahay ang gusto mong hukayan ng lagusan?"
+    - "Kaninong bahay ang gusto mong hukayan ng lagusan?"
     MinerDone:
-      - "Nagtagumpay kang makahukay ng lagusan sa bahay ni {0}. Ang mga manlalaro na may aksyon sa gabi ay hindi makararating sa kanilang target at mapupunta sa ibang bahay!"
+    - "Nagtagumpay kang makahukay ng lagusan sa bahay ni {0}. Ang mga manlalaro na may aksyon sa gabi ay hindi makararating sa kanilang target at mapupunta sa ibang bahay!"
     MinerChanged:
-      - "Papunta ka sa bahay ni {0}, pero bigla kang nadulas at nahulog sa tunnel na hinukay ng miner. Habang iniisip mo kung anong nangyari, na-realize mo na nasa bahay ka ni {1}."
+    - "Papunta ka sa bahay ni {0}, pero bigla kang nadulas at nahulog sa tunnel na hinukay ng miner. Habang iniisip mo kung anong nangyari, na-realize mo na nasa bahay ka ni {1}."
   Pawn:
     Pawn:
-      - "Kawal ♟"
+    - "Kawal ♟"
     RoleInfoPawn:
-      - "♟ Ikaw ang Kawal. Gabi-gabi pipili ka ng taong poprotektahan. Kung ang iyong target ay inaatake, isakripisyo mo ang iyong sarili. Kung susubukan mong protektahan ang isang Lobo o Serial Killer, mamamatay ka." 
+    - "♟ Ikaw ang Kawal. Gabi-gabi pipili ka ng taong poprotektahan. Kung ang iyong target ay inaatake, isakripisyo mo ang iyong sarili. Kung susubukan mong protektahan ang isang Lobo o Serial Killer, mamamatay ka."
     AskPawn:
-      - "Kanino mo gustong isakripisyo ang iyong sarili?"
+    - "Kanino mo gustong isakripisyo ang iyong sarili?"
     PawnSaved:
-      - "Pinili mo si {0} upang protektahan at inatake ang iyong target. Bilang isang marangal na kawal, isinakripisyo mo ang iyong sarili at namatay para sa kaligtasan ng buhay ng iyong target."
+    - "Pinili mo si {0} upang protektahan at inatake ang iyong target. Bilang isang marangal na kawal, isinakripisyo mo ang iyong sarili at namatay para sa kaligtasan ng buhay ng iyong target."
     PawnSavedYou:
-      - "Kagabi, ang Pawn na si {0} ay pinrotektahan ka at sinakripisyo niya ang sarili niya for you."
+    - "Kagabi, ang Pawn na si {0} ay pinrotektahan ka at sinakripisyo niya ang sarili niya for you."
     PawnNoAttack:
-      - "Si {0} ay hindi in-attack, mema ka lang diyan."
+    - "Si {0} ay hindi in-attack, mema ka lang diyan."
     PawnWolf:
-      - "Pinili mong protektahan si {0}, pero wolf siya kaya namatay ka."
+    - "Pinili mong protektahan si {0}, pero wolf siya kaya namatay ka."
     PawnKiller:
-      - "Pinili mong protektahan si {0}, pero siya ’yong Serial Killer kaya namatay ka."
+    - "Pinili mong protektahan si {0}, pero siya ’yong Serial Killer kaya namatay ka."
     PawnEmptyHouse:
-      - "Pinili mong protektahan si {0}, pero wala siya sa bahay niya."
+    - "Pinili mong protektahan si {0}, pero wala siya sa bahay niya."
     PawnKilledCH:
-      - "Nag-sacrifice nang malala ang pawn na si {0} kagabi, pero gusto niyang protektahan ang mahiwagang bibe :( kaya pinatay siya ng Cultist Hunter."
+    - "Nag-sacrifice nang malala ang pawn na si {0} kagabi, pero gusto niyang protektahan ang mahiwagang bibe :( kaya pinatay siya ng Cultist Hunter."
     PawnGuardedKiller:
-      - "Naghahanap si {0} ng poprotektahan kagabi, pero wrong person ang napili niya. Binisita niya ang serial killer, kaya sinaksak siya ng serial killer nang 80 times."
+    - "Naghahanap si {0} ng poprotektahan kagabi, pero wrong person ang napili niya. Binisita niya ang serial killer, kaya sinaksak siya ng serial killer nang 80 times."
     PawnGuardedWolf:
-      - "Naghahanap si {0} ng poprotektahan kagabi, pero wrong person ang napili niya. Binisita niya ’yong wolf, kaya namatay ’yong pawn."
+    - "Naghahanap si {0} ng poprotektahan kagabi, pero wrong person ang napili niya. Binisita niya ’yong wolf, kaya namatay ’yong pawn."
     PawnBlockedWolf:
-      - "Pinili mong atakihin si {0} kagabi para sa meryenda. Ngunit ang kawal na si  ay naroon at pinili niyang isakripisyo ang kaniyang sarili."
+    - "Pinili mong atakihin si {0} kagabi para sa meryenda. Ngunit ang kawal na si  ay naroon at pinili niyang isakripisyo ang kaniyang sarili."
     PawnBlockedKiller:
-      - "Pinili mong kolektahin ’yong liver ni {0} kagabi para sa koleksiyon mo. Pero nandoon ’yong pawn kaya pinili niyang i-sacrifice na lang ’yong sarili niya."
+    - "Pinili mong kolektahin ’yong liver ni {0} kagabi para sa koleksiyon mo. Pero nandoon ’yong pawn kaya pinili niyang i-sacrifice na lang ’yong sarili niya."
     PawnBlockedCH:
-      - "Pumunta ka sa bahay ni {0} para pumatay ng mahiwagang bibe pero pinoprotektahan siya ng pawn at ni-sacrifice niya na lang ang sarili niya."
+    - "Pumunta ka sa bahay ni {0} para pumatay ng mahiwagang bibe pero pinoprotektahan siya ng pawn at ni-sacrifice niya na lang ang sarili niya."
   Soldier:
     Soldier:
-      - "Sundalo \U0001FA96"
+    - "Sundalo 🪖"
     RoleInfoSoldier:
-      - ""
+    - ""
     AskSoldier:
-      - "Sino ang gusto mong iligtas mula sa hatol ng bitay?"
+    - "Sino ang gusto mong iligtas mula sa hatol ng bitay?"
     AskSoldier2:
-      - "Kanino mo gustong i-redirect ang boto?"
+    - "Kanino mo gustong i-redirect ang boto?"
     SoldierChoice:
-      - "Pinili mo si {0} para iligtas, kapag siya ay namatay sa hatol ng bitay, maaari kang mamili ng iba."
+    - "Pinili mo si {0} para iligtas, kapag siya ay namatay sa hatol ng bitay, maaari kang mamili ng iba."
     SoldierDone:
-      - "Nagtagumpay ang mga taganayon na bumoto sa hatol ng pagbitay. Si {0} ang napili para bitayin. Ngunit mayroong sundalo na nakabantay kay {0} at pinili niyang isalin ang lahat ng boto kay {1}. {2}"
+    - "Nagtagumpay ang mga taganayon na bumoto sa hatol ng pagbitay. Si {0} ang napili para bitayin. Ngunit mayroong sundalo na nakabantay kay {0} at pinili niyang isalin ang lahat ng boto kay {1}. {2}"
   Rogue:
     Rogue:
-      - ""
+    - ""
     RoleInfoRogue:
-      - "Ikaw ang Rogue Wolf \U0001F43A\U0001F9E7, kilala sa iyong tuso at kakayahang magkaila bilang ibang manlalaro. Sa unang gabi, may pagkakataon kang pumili ng isang manlalaro na gagayahin. Kung ikaw ay susuriin o matugunan ang iyong pagkamatay, ang iyong tungkulin ay makikita bilang iyong target. Kung ang player na niloko mo ay may anumang nagpapakitang kakayahan, maaari mo ring gayahin iyon, ngunit bigyan ng babala dahil hindi ito magkakaroon ng anumang aktwal na epekto."
+    - "Ikaw ang Rogue Wolf 🐺🧧, kilala sa iyong tuso at kakayahang magkaila bilang ibang manlalaro. Sa unang gabi, may pagkakataon kang pumili ng isang manlalaro na gagayahin. Kung ikaw ay susuriin o matugunan ang iyong pagkamatay, ang iyong tungkulin ay makikita bilang iyong target. Kung ang player na niloko mo ay may anumang nagpapakitang kakayahan, maaari mo ring gayahin iyon, ngunit bigyan ng babala dahil hindi ito magkakaroon ng anumang aktwal na epekto."
     AskRogue:
-      - "Sino ang gusto mong magkaila?"
+    - "Sino ang gusto mong magkaila?"
     AskRogue2:
-      - "Gusto mo bang gamitin ’yong ability mo?"
+    - "Gusto mo bang gamitin ’yong ability mo?"
     RogueSuccess:
-      - "Pinili mong gayahin si {0}. Ang papel na ginagaya mo ay {1}!"
+    - "Pinili mong gayahin si {0}. Ang papel na ginagaya mo ay {1}!"
   Executioner:
     Executioner:
-      - "Berdugo \U0001F9B8‍♂️"
+    - "Berdugo 🦸‍♂️"
     RoleInfoExecutioner:
-      - ""
+    - ""
     AskExecutioner:
-      - ""
+    - ""
     AskExecutionerLynch:
-      - ""
+    - ""
     ExecutionerLynch:
-      - ""
+    - ""
   Slave:
     Slave:
-      - "Alipin \U0001F635‍\U0001F4AB"
+    - "Alipin 😵‍💫"
     RoleInfoSlave:
-      - "\U0001F635‍\U0001F4AB Ikaw ang Alipin. Wala kang kinakampihan na kahit anong team sa village. Ang purpose mo lang ay ma-lynch ang target na binigay sa’yo sa walang awa na mga kamay ng hustisya. Ginulo ng target mo ang kapayapaan ng village at kailangang mahikayat mo ang iba na ma-lynch siya. Kapag namatay ang target mo sa kahit anong reason maliban sa lynching, talo ka. Mananalo ka lang kapag na-lynch ang target mo."
+    - "😵‍💫 Ikaw ang Alipin. Wala kang kinakampihan na kahit anong team sa village. Ang purpose mo lang ay ma-lynch ang target na binigay sa’yo sa walang awa na mga kamay ng hustisya. Ginulo ng target mo ang kapayapaan ng village at kailangang mahikayat mo ang iba na ma-lynch siya. Kapag namatay ang target mo sa kahit anong reason maliban sa lynching, talo ka. Mananalo ka lang kapag na-lynch ang target mo."
     SlaveLynched:
-      - "Matagumpay mong na-lynch si {0}. Ang iyong paghahanap para sa hustisya sa nayon ay natapos na, at nakamit mo na ang iyong layunin. Natupad mo ang gawaing itinalaga sa iyo at nagwagi sa madilim na larong ito."
+    - "Matagumpay mong na-lynch si {0}. Ang iyong paghahanap para sa hustisya sa nayon ay natapos na, at nakamit mo na ang iyong layunin. Natupad mo ang gawaing itinalaga sa iyo at nagwagi sa madilim na larong ito."
     SlaveTarget:
-      - "Ang target mo: {0}. Kumpletuhin ang dark task na ito sa paraang kailangang ma-lynch ang iyong target."
+    - "Ang target mo: {0}. Kumpletuhin ang dark task na ito sa paraang kailangang ma-lynch ang iyong target."
   Poseidon:
     Poseidon:
-      - ""
+    - ""
     RoleInfoPoseidon:
-      - "\U0001F9DC Ikaw si Poseidon. Isang beses sa bawat laro, maaari kang pumatay ng isang manlalaro sa koponan ng nayon sa pamamagitan ng pagpapakawala ng isang Daluyong. Kapag nagpasya kang magpakawala ng Daluyong, Maabisuhan ang taganayon na may paparating na Daluyong, nang hindi nabubunyag ang iyong pagkakakilanlan."
+    - "🧜 Ikaw si Poseidon. Isang beses sa bawat laro, maaari kang pumatay ng isang manlalaro sa koponan ng nayon sa pamamagitan ng pagpapakawala ng isang Daluyong. Kapag nagpasya kang magpakawala ng Daluyong, Maabisuhan ang taganayon na may paparating na Daluyong, nang hindi nabubunyag ang iyong pagkakakilanlan."
     AskPoseidon:
-      - "Gusto mo bang magpasimula ng sunami ngayon?"
+    - "Gusto mo bang magpasimula ng sunami ngayon?"
     PoseidonRevealInfo:
-      - "Atensyon, mga taganayon! May paparating  na Daluyong na makakaapekto sa buong nayon. Si Poseidon, ang diyos ng dagat na naninirahan sa nayon, ay tila lumabas mula sa kanyang magarbong palasyo sa ilalim ng dagat. Humanda dahil pagdating ng Daluyong, May mapipili na papatayin  mula sa nayon."
+    - "Atensyon, mga taganayon! May paparating  na Daluyong na makakaapekto sa buong nayon. Si Poseidon, ang diyos ng dagat na naninirahan sa nayon, ay tila lumabas mula sa kanyang magarbong palasyo sa ilalim ng dagat. Humanda dahil pagdating ng Daluyong, May mapipili na papatayin  mula sa nayon."
     PoseidonReveal:
-      - "Si Poseidon, Ang diyos ng mga dagat, ay lumabas mula sa kanyang magarbong  palasyo, at isang Daluyong ang aagos sa nayon. Sinusubukan ng buong nayon na takasan ang Daluyong, ngunit nabigo ang {0}. Namtay sa lunod  si {0}. {1}"
+    - "Si Poseidon, Ang diyos ng mga dagat, ay lumabas mula sa kanyang magarbong  palasyo, at isang Daluyong ang aagos sa nayon. Sinusubukan ng buong nayon na takasan ang Daluyong, ngunit nabigo ang {0}. Namtay sa lunod  si {0}. {1}"
   Snitch:
     Snitch:
-      - ""
+    - ""
     RoleInfoSnitch:
-      - ""   
+    - ""
     SnitchLynchSuccess:
-      - ""
+    - ""
     SnitchFinalSuccess:
-      - ""
+    - ""
     AskSnitch:
-      - ""
+    - ""
     SnitchNoChoice:
-      - ""
+    - ""
   Illusionist:
     Illusionist:
-      - ""
+    - ""
     RoleInfoIllusionist:
-      - ""
+    - ""
     AskIllusionist:
-      - ""
+    - ""
     IllusionistNoChoice:
-      - ""
+    - ""
     IllusionistKillTarget:
-      - ""
+    - ""
     IllusionistFakeTarget:
-      - ""
+    - ""
     IllusionistKillYou:
-      - ""
+    - ""
   KilledMessages:
     BlacksmithKilled:
-      - "Mukhang ang residenteng panday na si {0} ay malas ngayaon. Natagpuan ang limang kutsilayo na mula pa sa armory ni {0}, nakataga sa kamay, paa, at ulo neto, at may nakatusok pa sa lamesa ng panday kagabi. Mukhang ang serial killer ay gustong padamihin ang mga koleksyon netong armas kasama na ang mga lamang-loob ng tao..."
+    - "Mukhang ang residenteng panday na si {0} ay malas ngayaon. Natagpuan ang limang kutsilayo na mula pa sa armory ni {0}, nakataga sa kamay, paa, at ulo neto, at may nakatusok pa sa lamesa ng panday kagabi. Mukhang ang serial killer ay gustong padamihin ang mga koleksyon netong armas kasama na ang mga lamang-loob ng tao..."
     CultistKilled:
-      - "Si {0} ay natagpuang may saksak ng kandelero sa altar nila. Ang serial killer ay nag-umpisa nanaman, walang pinipiling kahit na sino, iba man ang lengguwahe o relihiyon! Si {0} ang Bibe."
+    - "Si {0} ay natagpuang may saksak ng kandelero sa altar nila. Ang serial killer ay nag-umpisa nanaman, walang pinipiling kahit na sino, iba man ang lengguwahe o relihiyon! Si {0} ang Bibe."
     CupidKilled:
-      - "Kinaumagahan, ang mga tambay sa bayan ay heartbroken dahil natagpuan nila si {0} a.k.a. Kupido na hati ang katawan mula ulo hanggang paa. At nakakapagtaka na ang puso neto ay nawawala..."
+    - "Kinaumagahan, ang mga tambay sa bayan ay heartbroken dahil natagpuan nila si {0} a.k.a. Kupido na hati ang katawan mula ulo hanggang paa. At nakakapagtaka na ang puso neto ay nawawala..."
     DrunkKilled:
-      - "Ang mga tambay sa baranggay ay nais sanang makilala si {0} upang purihin ang kanyang Martell, ngunit ang nakita nila sa bahay ni {0} ay sirang kutsilyo at atay. Sa ilang taong pag iinom ay nasira na ang atay neto na kahit ang Serial Killer ay di na ito magugustuhan at maiisip na kunin..."
+    - "Ang mga tambay sa baranggay ay nais sanang makilala si {0} upang purihin ang kanyang Martell, ngunit ang nakita nila sa bahay ni {0} ay sirang kutsilyo at atay. Sa ilang taong pag iinom ay nasira na ang atay neto na kahit ang Serial Killer ay di na ito magugustuhan at maiisip na kunin..."
     GuardianAngelKilled:
-      - "Kaya sanang labanan ni {0} ang Serial Killer ngunit sa kasamaang palad, ang batuta ng Baranggay Tanod ay nasira. Si {0} ay patay na."
+    - "Kaya sanang labanan ni {0} ang Serial Killer ngunit sa kasamaang palad, ang batuta ng Baranggay Tanod ay nasira. Si {0} ay patay na."
     GunnerKilled:
-      - "Mukhang si {0} ay naabutang tulog kagabi! Isang tunog ng baril ang narinig kagabi at makikitang ang katawan ng FPJ ay naruon, may butas ng bala sa ulo at saksak sa katawan. Malinaw na nanalo ang Serial Killer sa laban."
+    - "Mukhang si {0} ay naabutang tulog kagabi! Isang tunog ng baril ang narinig kagabi at makikitang ang katawan ng FPJ ay naruon, may butas ng bala sa ulo at saksak sa katawan. Malinaw na nanalo ang Serial Killer sa laban."
     MayorKilled:
-      - "Assassination! Ang mayor na si {0} ay natagpuang sa mesa nito kung saan siya nagtrabaho magdamag sa opisina, na mayroong saksak! Malinaw na ang Serial Killer ay nag higante sa mayor matapos itong ipasok sa asylum at mapagkaitan ng buhay sa loob ng ilang taon!"
+    - "Assassination! Ang mayor na si {0} ay natagpuang sa mesa nito kung saan siya nagtrabaho magdamag sa opisina, na mayroong saksak! Malinaw na ang Serial Killer ay nag higante sa mayor matapos itong ipasok sa asylum at mapagkaitan ng buhay sa loob ng ilang taon!"
     PrinceKilled:
-      - "Narinig ang tunog ng kampanilya sa buong baranggay bago paman sumikat ang araw, may mga guwardiyang nakakalat sa kalye at hinahanp ang nawawalang Prinsipe na si {0}. Hindi makahanap ng mga bakas, ngunit pinagsususpityahan na may Serial Killer na nakawala..."
-      - "Ang mga guwardiya ni {0} ay natangpuang natutulog kagabi. Ang katawan ng maharlika ay naka sabit sa iba't ibang parte ng palasyo, at mukhang sinaksak gamit ang kutsilyo. Walang halaga ng dugo ng prinsipe ang makahahadlang sa talim ng kutsilyo ng serial killer."
+    - "Narinig ang tunog ng kampanilya sa buong baranggay bago paman sumikat ang araw, may mga guwardiyang nakakalat sa kalye at hinahanp ang nawawalang Prinsipe na si {0}. Hindi makahanap ng mga bakas, ngunit pinagsususpityahan na may Serial Killer na nakawala..."
+    - "Ang mga guwardiya ni {0} ay natangpuang natutulog kagabi. Ang katawan ng maharlika ay naka sabit sa iba't ibang parte ng palasyo, at mukhang sinaksak gamit ang kutsilyo. Walang halaga ng dugo ng prinsipe ang makahahadlang sa talim ng kutsilyo ng serial killer."
     SeerKilled:
-      - "Ang mga tambay sa baranggay ay gumising at natagpuan ang naaagnas na labi ni {0}, hati mula ulo hanggang paa at may mga saksak sa buong katawan. Nakakapagtaka na ang utak neto ay maayos na naalis na para bang ang isa itong premonisyon na ang buong barangay ay nawalan ng pinakamautak na lider. Si {0} ay si Madam Auring."
+    - "Ang mga tambay sa baranggay ay gumising at natagpuan ang naaagnas na labi ni {0}, hati mula ulo hanggang paa at may mga saksak sa buong katawan. Nakakapagtaka na ang utak neto ay maayos na naalis na para bang ang isa itong premonisyon na ang buong barangay ay nawalan ng pinakamautak na lider. Si {0} ay si Madam Auring."
     PawnKilled:
-      - "Inaasahang magiging tahimik ang gabing ito, ngunit natuklasan ng mga taganayon ang {0} sa plaza ng bayan, na nawawala ang ilang organ. Mukhang hindi nasisiyahan ang pumatay sa mga pagsisikap ng Kawal na protektahan si {1}! Sa isang kalunos-lunos na pangyayari, si {0}, na sinubukang protektahan si {1}, ay naging biktima ng serial killer. {2}"
+    - "Inaasahang magiging tahimik ang gabing ito, ngunit natuklasan ng mga taganayon ang {0} sa plaza ng bayan, na nawawala ang ilang organ. Mukhang hindi nasisiyahan ang pumatay sa mga pagsisikap ng Kawal na protektahan si {1}! Sa isang kalunos-lunos na pangyayari, si {0}, na sinubukang protektahan si {1}, ay naging biktima ng serial killer. {2}"
     DefaultKilled:
-      - "Mukhang tahimik ’yong gabi para kay {0}, pero mali sila. Nagsama-sama ang mga tambay kinaumagahan at nakita nila si {0} na hati yong katawan at walang atay.... ang adik ay pumatay na naman! {1}"
+    - "Mukhang tahimik ’yong gabi para kay {0}, pero mali sila. Nagsama-sama ang mga tambay kinaumagahan at nakita nila si {0} na hati yong katawan at walang atay.... ang adik ay pumatay na naman! {1}"
   EatenMessages:
     ApprenticeSeerEaten:
-      - "Nagising ang mga tambay sa baranggay at natagpuan si {0} nakayuko sa isang lumang Ouija board na parang nagsasanay sa paghuhula, ngunit kapansin-pansin ang nawawala nitong ulo. Ang OJT ni Madam Auring ay patay na."
+    - "Nagising ang mga tambay sa baranggay at natagpuan si {0} nakayuko sa isang lumang Ouija board na parang nagsasanay sa paghuhula, ngunit kapansin-pansin ang nawawala nitong ulo. Ang OJT ni Madam Auring ay patay na."
     SorcererEaten:
-      - "Narinig ang malungkot na alulong sa buong barangay. Isang pagkakamali ang nangyari. Nakain ng mga lobo ang kanilang kakampi. Ang Salamangkera na si {0} ay patay na."
-      - "Maririnig ang umiiyak at sumisigaw ng \"Kakampi niyo ako!\" kagabi. Natagpuang ng buong baranggay ang isang katawan na parang hinukay pa at isang basag na bolang kristal na pagmamay-ari ng Salamangkera na si {0}. Mukhang mas nangingibabaw ang gutom kaysa pagsasamahan..."
+    - "Narinig ang malungkot na alulong sa buong barangay. Isang pagkakamali ang nangyari. Nakain ng mga lobo ang kanilang kakampi. Ang Salamangkera na si {0} ay patay na."
+    - "Maririnig ang umiiyak at sumisigaw ng \"Kakampi niyo ako!\" kagabi. Natagpuang ng buong baranggay ang isang katawan na parang hinukay pa at isang basag na bolang kristal na pagmamay-ari ng Salamangkera na si {0}. Mukhang mas nangingibabaw ang gutom kaysa pagsasamahan..."
     WildChildEaten:
-      - "NOMNOMNOMNOM! Narinig ang mga lobo kagabi, kinakain ang batang hamog na si {0}, at ang tinira lamang ay maliliit na buto! Ang buong barangay ay napaisip kung ni minsan ba ang mga lobo ay nakaramdam ng awa at konsensya habang kinakain ang walang kalaban-labang batang hamog."
+    - "NOMNOMNOMNOM! Narinig ang mga lobo kagabi, kinakain ang batang hamog na si {0}, at ang tinira lamang ay maliliit na buto! Ang buong barangay ay napaisip kung ni minsan ba ang mga lobo ay nakaramdam ng awa at konsensya habang kinakain ang walang kalaban-labang batang hamog."
     PawnEaten:
-      - "Kagabi, ginawa ni {0} ang pinakahuling sakripisyo, kusang-loob na inialay ang kanilang sarili upang protektahan si {1} sa patuloy na labanan laban sa mga taong lobo. Ang kanilang walang pag-iimbot na pagkilos, isang tanglaw ng katapangan, ay nag-iiwan ng hindi maalis na marka sa nayon. Nawa'y makatagpo ang nayon ng aliw sa kagitingang ipinakita ni {0}, ang Kawal na naging alamat sa nayon. {2}"
+    - "Kagabi, ginawa ni {0} ang pinakahuling sakripisyo, kusang-loob na inialay ang kanilang sarili upang protektahan si {1} sa patuloy na labanan laban sa mga taong lobo. Ang kanilang walang pag-iimbot na pagkilos, isang tanglaw ng katapangan, ay nag-iiwan ng hindi maalis na marka sa nayon. Nawa'y makatagpo ang nayon ng aliw sa kagitingang ipinakita ni {0}, ang Kawal na naging alamat sa nayon. {2}"
     DetectiveEaten:
-      - "Ang mga villagers ay nagtipon kinaumagahan, pero hindi nila nakita si {0}. Nilibot nila ang bahay nito at nakita nila si {0} na nagkalat na ang lamang loob, ang lumang badge ay nakasaksak sa lalamunan niya! Yuck."
+    - "Ang mga villagers ay nagtipon kinaumagahan, pero hindi nila nakita si {0}. Nilibot nila ang bahay nito at nakita nila si {0} na nagkalat na ang lamang loob, ang lumang badge ay nakasaksak sa lalamunan niya! Yuck."
     GuardianEaten:
-      - "Kinaumagahan, nakita ng mga tambay na namatay {0}, ang Baranggay Tanod \U0001F47C sa tapat ng Quiapo Church. "
+    - "Kinaumagahan, nakita ng mga tambay na namatay {0}, ang Baranggay Tanod 👼 sa tapat ng Quiapo Church. "
     GunnerEaten:
-      - "Sa paglabas ng lahat sa kanilang mga bahay, nakakita sila ng iilang piraso ng shotgun na nagkalat... mga daliri... at ang katawan ni {0}, palutanglutang sa fountain ng parke, patay sa atake ng werewolf.  Wala na si FPJ \U0001F52B."
+    - "Sa paglabas ng lahat sa kanilang mga bahay, nakakita sila ng iilang piraso ng shotgun na nagkalat... mga daliri... at ang katawan ni {0}, palutanglutang sa fountain ng parke, patay sa atake ng werewolf.  Wala na si FPJ 🔫."
     SeerEaten:
-      - "Nagising ang mga villagers nang maaga para lang makita ang gutay-gutay na katawan ni {0} na nakayuko sa Ouija board at tarot cards. Si Madam Auring \U0001F473 ay patay na."
+    - "Nagising ang mga villagers nang maaga para lang makita ang gutay-gutay na katawan ni {0} na nakayuko sa Ouija board at tarot cards. Si Madam Auring 👳 ay patay na."
     DrunkEaten:
-      - "Nagising ang lahat sa amoy ng empi at dugo... sira na ang bar! Pagkatapos malinis ang mga dugo, nakita nila si {0} na hati ang katawan."
+    - "Nagising ang lahat sa amoy ng empi at dugo... sira na ang bar! Pagkatapos malinis ang mga dugo, nakita nila si {0} na hati ang katawan."
     FoolEaten:
-      - "Pagsapit ng umaga, nakita ng mga villagers ang bangkay ni {0} na nakaupo malapit sa Ouija board, pero mayroong deck ng... Bicycle playing cards? ISANG HANGAL!"
+    - "Pagsapit ng umaga, nakita ng mga villagers ang bangkay ni {0} na nakaupo malapit sa Ouija board, pero mayroong deck ng... Bicycle playing cards? ISANG HANGAL!"
     DefaultEaten:
-      - "Sa paggising ng lahat sa umaga, may naamoy silang mabaho. Sinundan nila ang amoy at nakita nila si {0} na gutay-gutay sa kulungan ng baboy, wala na ’yong ulo niya. RAWRRRRR\n{1}"
+    - "Sa paggising ng lahat sa umaga, may naamoy silang mabaho. Sinundan nila ang amoy at nakita nila si {0} na gutay-gutay sa kulungan ng baboy, wala na ’yong ulo niya. RAWRRRRR\n{1}"
     HarlotEaten:
-      - "Nagkamali ang haliparot na mag-stay sa bahay niya. Kinain si {0} ng mga wolves!"
+    - "Nagkamali ang haliparot na mag-stay sa bahay niya. Kinain si {0} ng mga wolves!"
     MasonEaten:
-      - "Paggising ng lahat, nakita nila ’yong katawan ni {0} na nakasuksok sa mga bato, nakakalat ’yong mga dugo niya. Namatay na ang isa ninyong mason!"
+    - "Paggising ng lahat, nakita nila ’yong katawan ni {0} na nakasuksok sa mga bato, nakakalat ’yong mga dugo niya. Namatay na ang isa ninyong mason!"
   WinMessages:
     WolfWins:
-      - "Nanalo ang werewolf!"
+    - "Nanalo ang werewolf!"
     WolvesWin:
-      - "Nanalo ang werewolves!"
+    - "Nanalo ang werewolves!"
     VillageWins:
-      - "Nanalo ang mga tambay!"
+    - "Nanalo ang mga tambay!"
     TannerWins:
-      - "Luh! Binitay ninyo ’yong Manloloko! Siyempre manloloko ’yong mananalo, duh."
+    - "Luh! Binitay ninyo ’yong Manloloko! Siyempre manloloko ’yong mananalo, duh."
     CultWins:
-      - "Namatay na ang lahat ng wolves, lahat ng natitirang buhay ay umanib na sa Kulto ng Mahiwagang Bibe. Nanalo ang mga Bibe!"
+    - "Namatay na ang lahat ng wolves, lahat ng natitirang buhay ay umanib na sa Kulto ng Mahiwagang Bibe. Nanalo ang mga Bibe!"
     SerialKillerWins:
-      - "Serial Killer nalang ang natitirang buhay! Siya ang nanalo!"
+    - "Serial Killer nalang ang natitirang buhay! Siya ang nanalo!"
     NoWinner:
-      - "Lahat ng tao sa baranggay ay namatay na. Walang nanalo ngayong round bukod sa mga lumilipad-lipad na mga buwitre..."
+    - "Lahat ng tao sa baranggay ay namatay na. Walang nanalo ngayong round bukod sa mga lumilipad-lipad na mga buwitre..."
     ArsonistWins:
-      - "Ang natitira na lang ay ang arsonist, nakatayo sa isang tumpok ng abo. Panalo ang arsonist..."
+    - "Ang natitira na lang ay ang arsonist, nakatayo sa isang tumpok ng abo. Panalo ang arsonist..."
     LoversWin:
-      - "May forever! Nanalo ang lovers!"
+    - "May forever! Nanalo ang lovers!"
     SerialKillerWinsOverpower:
-      - "Umaga na, ang dalawang tambay ay naglakad papunta sa park. Tumingin si {0} kay {1}, ngumiti ito at sinaksak si {1}."
+    - "Umaga na, ang dalawang tambay ay naglakad papunta sa park. Tumingin si {0} kay {1}, ngumiti ito at sinaksak si {1}."
   GroupConfig:
     ThankYou:
-      - "Salamat, mabuhay ka! :)"
+    - "Salamat, mabuhay ka! :)"
     RoleConfig:
-      - Pagsasaayos ng Tungkulin
+    - Pagsasaayos ng Tungkulin
     Mechanics:
-      - Mekanika ng Laro
+    - Mekanika ng Laro
     GroupSettings:
-      - Mga Setting ng Grupo
+    - Mga Setting ng Grupo
     Timers:
-      - Mga Timer ng Laro
+    - Mga Timer ng Laro
     WhatToDo:
-      - "Anong gusto mong gawin?"
+    - "Anong gusto mong gawin?"
     EnableSecretLynch:
     - ""
     EnableSecretLynchA:
-      - "Ang pagpapagana ng secret lynch ay binigay kay: {0}"
+    - "Ang pagpapagana ng secret lynch ay binigay kay: {0}"
     EnableSecretLynchQ:
-      - "Paganahin ang Secret Lynch?\nCurrent: {0}"
+    - "Paganahin ang Secret Lynch?\nCurrent: {0}"
     RandomMode:
-      - ""
+    - ""
     RandomModeA:
-      - "Paganahin ang random mode sa: {0}"
+    - "Paganahin ang random mode sa: {0}"
     RandomModeQ:
-      - "Paganahin ang random mode?\nKung ang random mode ay na on, ang Chaos, Secret Lynch, Show Roles on Death, at Allow Cult / Fool / Tanner ay random na mapipili tuwing may magsisimula ng laro.\nCurrent:{0}"
+    - "Paganahin ang random mode?\nKung ang random mode ay na on, ang Chaos, Secret Lynch, Show Roles on Death, at Allow Cult / Fool / Tanner ay random na mapipili tuwing may magsisimula ng laro.\nCurrent:{0}"
     AllowExtend:
-      - ""
+    - ""
     AllowExtendQ:
-      - "Pahintulutan ang manlalaaro na makapag-extend ng oras ng pagsali?\nKasalukuyan: {0} extending\nTandaan: Ang mga admins ay palaging makakapag-extend."
+    - "Pahintulutan ang manlalaaro na makapag-extend ng oras ng pagsali?\nKasalukuyan: {0} extending\nTandaan: Ang mga admins ay palaging makakapag-extend."
     AllowExtendA:
-      - "{0} mga manlalaro na mage-extend ng oras ng pagsali"
+    - "{0} mga manlalaro na mage-extend ng oras ng pagsali"
     AllowFlee:
-      - ""
+    - ""
     AllowFleeQ:
-      - "Gusto mo ba payagan ang pag-flee kahit nagsimula na ang laro?\nNote: Ang mga players ay pwede magflee habang hindi pa nagsisimula ang laro. \nCurrent: Ang mga players ay {0} pwede mag-flee"
+    - "Gusto mo ba payagan ang pag-flee kahit nagsimula na ang laro?\nNote: Ang mga players ay pwede magflee habang hindi pa nagsisimula ang laro. \nCurrent: Ang mga players ay {0} pwede mag-flee"
     AllowFleeA:
-      - "{0} Umalis pagkatapos magumpisa ng laro"
+    - "{0} Umalis pagkatapos magumpisa ng laro"
     ShowIDs:
     - "Ipakita ang IDs sa pagsali"
     ShowIDsQ:
-      - "Ipakita ang IDs ng mga manlalaro habang sumasali sila sa laro?\nKasalukuyan: {0}"
+    - "Ipakita ang IDs ng mga manlalaro habang sumasali sila sa laro?\nKasalukuyan: {0}"
     ShowIDsA:
-      - ""
+    - ""
     ThiefFull:
-      - ""
+    - ""
     ThiefFullA:
-      - "Ang role na magnanakaw ay maglalaro tuwing gabi: {0}"
+    - "Ang role na magnanakaw ay maglalaro tuwing gabi: {0}"
     ThiefFullQ:
-      - "Ang role na magnanakaw ay gamitin tuwing gabi?\nKasalukuyan: {0}"
+    - "Ang role na magnanakaw ay gamitin tuwing gabi?\nKasalukuyan: {0}"
     SecretLynchShowVotes:
-      - "Secret: Bilang ng boto"
+    - "Secret: Bilang ng boto"
     SecretLynchShowVotesQ:
-      - "Kung ang secret lynch ay naka-on, ipakita ang bilang ng boto sa hulihan ng pagbitay?\nKasalukuyan: {0}"
+    - "Kung ang secret lynch ay naka-on, ipakita ang bilang ng boto sa hulihan ng pagbitay?\nKasalukuyan: {0}"
     SecretLynchShowVotesA:
-      - "Kung ang secret lynch ay naka-on, ang bilang ng boto sa sa hulihan ng pagbiaty ay: {0}"
+    - "Kung ang secret lynch ay naka-on, ang bilang ng boto sa sa hulihan ng pagbiaty ay: {0}"
     SecretLynchShowVoters:
-      - "Secret: Mga bumoto"
+    - "Secret: Mga bumoto"
     SecretLynchShowVotersA:
-      - "Kung ang secret lynch ay naka-on at ang bilang ng boto ay nakikita, ang pangalan ng botante para sa bawat bumoto na manlalaro ay: {0}"
+    - "Kung ang secret lynch ay naka-on at ang bilang ng boto ay nakikita, ang pangalan ng botante para sa bawat bumoto na manlalaro ay: {0}"
     SecretLynchShowVotersQ:
-      - "Kung ang secret lynch ay naka-on at ang bilang ng boto ay nakikita, ipakita ang pangalan ng bumuto , ipakita ang pangalan ng botante para sa bawat bumoto na manlalaro?\nKasalukuyan: {0}"
+    - "Kung ang secret lynch ay naka-on at ang bilang ng boto ay nakikita, ipakita ang pangalan ng bumuto , ipakita ang pangalan ng botante para sa bawat bumoto na manlalaro?\nKasalukuyan: {0}"
     PinChatMessage:
-      - "I-pin ang mga Mensahe ng Laro"
+    - "I-pin ang mga Mensahe ng Laro"
     PinChatMessageQ:
-      - "Awtomatikong i-Pin ang mga Mensahe ng Laro? Default: {0}"
+    - "Awtomatikong i-Pin ang mga Mensahe ng Laro? Default: {0}"
     PinChatMessageA:
-      - ""
+    - ""
     ShowRolesDeath:
-      - ""
+    - ""
     ShowRolesDeathQ:
-      - ""
+    - ""
     ShowRolesDeathA:
-      - "Ang mga roles ay {0} kapag namatay"
+    - "Ang mga roles ay {0} kapag namatay"
     WelcomeMessage:
-      - ""
+    - ""
     WelcomeMessageQ:
-      - ""
+    - ""
     WelcomeMessageA:
-      - ""
+    - ""
     PMMessage:
-      - ""
+    - ""
     PMMessageQ:
-      - ""
+    - ""
     PMMessageA:
-      - ""
+    - ""
     RoleCards:
-      - ""
+    - ""
     RoleCardsQ:
-      - ""
+    - ""
     RoleCardsA:
-      - ""
+    - ""
     MaxExtend:
-      - Hoy
+    - Hoy
     MaxExtendQ:
-      - "Pumili ng maximum na bilang ng segundo na maaaring idagdag sa pagsali sa timer sa pamamagitan ng iisang command na /extend.\nDefault setting: {0}\nKasalukuyan:{1}"
+    - "Pumili ng maximum na bilang ng segundo na maaaring idagdag sa pagsali sa timer sa pamamagitan ng iisang command na /extend.\nDefault setting: {0}\nKasalukuyan:{1}"
     MaxExtendA:
-      - "Ang maximum ng pag extend ng oras ay nakahanda sa {0} segundo."
+    - "Ang maximum ng pag extend ng oras ay nakahanda sa {0} segundo."
     DisableGModes:
-      - ""
+    - ""
     DisableGModesInfo:
-      - ""
+    - ""
     MuteModes:
-      - ""
+    - ""
     MuteModesInfo:
-      - ""
+    - ""
     Lang:
-      - "Ibahin ang wika"
+    - "Ibahin ang wika"
     DayTimer:
-      - Itakda ang Timer ng Araw
+    - Itakda ang Timer ng Araw
     SetDayTimeA:
-      - "Ang araw ay tatagal ng {0} seconds"
+    - "Ang araw ay tatagal ng {0} seconds"
     SetDayTimeQ:
-      - "Pumili ng oras (in seconds) para sa araw. Mababago parin it depende sa dami ng players.\nAng minimum time na idadagdag base sa players ay 60 seconds.  Default setting: {0}\nCurrent: {1}"
+    - "Pumili ng oras (in seconds) para sa araw. Mababago parin it depende sa dami ng players.\nAng minimum time na idadagdag base sa players ay 60 seconds.  Default setting: {0}\nCurrent: {1}"
     NightTimer:
-      - Itakda ang Timer ng Gabi
+    - Itakda ang Timer ng Gabi
     SetNightTimeQ:
-      - "Pumili ng oras (in seconds) para sa gabi. Default setting: {0}\nCurrent:{1}"
+    - "Pumili ng oras (in seconds) para sa gabi. Default setting: {0}\nCurrent:{1}"
     SetNightTimeA:
-      - "Ang gabi ay tatagal ng {0} seconds"
+    - "Ang gabi ay tatagal ng {0} seconds"
     LynchTimer:
-      - Itakda ang Timer ng Pagboto
+    - Itakda ang Timer ng Pagboto
     SetLynchTimeQ:
-      - "Pumili ng oras (in seconds) para sa pag-lynch. Default setting: {0}\nCurrent:{1}"
+    - "Pumili ng oras (in seconds) para sa pag-lynch. Default setting: {0}\nCurrent:{1}"
     SetLynchTimeA:
-      - "Ang oras sa pag-lynch ay {0} seconds"
+    - "Ang oras sa pag-lynch ay {0} seconds"
     MaxPlayer:
-      - "Itakda ang sagad na manlalaro"
+    - "Itakda ang sagad na manlalaro"
     MaxPlayersQ:
-      - "Ilan ang maximum players na gusto mo?\nCurrent: {0}"
+    - "Ilan ang maximum players na gusto mo?\nCurrent: {0}"
     MaxPlayersA:
-      - "Ang maximum number ng players ay {0}"
+    - "Ang maximum number ng players ay {0}"
     RoleConfigInfo:
-      - "Aling roles ang nais mong gamitin sa laro?\nConfiguration Tutorial:\n\n✅ = Paganahin ang Role\n❌ = Huwag Paganahin ang Role\n\nPagkatapos piliin ang ang mga role, kailangan mong pintudin ang VALIDATE button sa kaliwang ibabang bahagi upang ma-validate at paganahin ang iyong pagpili ng mga role! Kung hindi mo ma-validate ang iyong pagpili, ito ay hindi papansinin at lahat ng roles ay gagamitin!\n\nKung ang validation ay nagtagumpay, ang pindutan sa kaliwang ibabang bahagi ay magsasabing ✅ Valid ✅ at gagamitin ang iyong pagsasaayos ng mga role!"
+    - "Aling roles ang nais mong gamitin sa laro?\nConfiguration Tutorial:\n\n✅ = Paganahin ang Role\n❌ = Huwag Paganahin ang Role\n\nPagkatapos piliin ang ang mga role, kailangan mong pintudin ang VALIDATE button sa kaliwang ibabang bahagi upang ma-validate at paganahin ang iyong pagpili ng mga role! Kung hindi mo ma-validate ang iyong pagpili, ito ay hindi papansinin at lahat ng roles ay gagamitin!\n\nKung ang validation ay nagtagumpay, ang pindutan sa kaliwang ibabang bahagi ay magsasabing ✅ Valid ✅ at gagamitin ang iyong pagsasaayos ng mga role!"
     Validate:
-      - ""
+    - ""
     WhatLang:
-      - "Anong Language?\nCurrent: {0}"
+    - "Anong Language?\nCurrent: {0}"
     WhatVariant:
-      - "Anong Variant?\nCurrent: {0}"
+    - "Anong Variant?\nCurrent: {0}"
     LangSet:
-      - "Nabago na ang Language sa: {0}"
+    - "Nabago na ang Language sa: {0}"
     Allow:
     - "Pumayag"
     Disallow:
-      - "Huwag pumayag"
+    - "Huwag pumayag"
     Show:
-      - "Ipakita"
+    - "Ipakita"
     Hide:
-      - "Itago"
+    - "Itago"
   SocialCommand:
     MostPlayedWith:
-      - "\U0001F3AE Madalas na kalaro si"
+    - "🎮 Madalas na kalaro si"
     Killed:
-      - "\U0001F52A Mga napatay"
+    - "🔪 Mga napatay"
     KilledBy:
-      - "☠️ Napatay ni"
+    - "☠️ Napatay ni"
     DeathType:
-      - "\U0001F4CA Uri ng Pagkamatay"
+    - "📊 Uri ng Pagkamatay"
     SocialStats:
-      - "Anong social statistical information ang gusto mong makita?"
+    - "Anong social statistical information ang gusto mong makita?"
   SetLinkCommand:
     SetLinkSuccess:
-      - "Matagumpay na nai-set ang Link: {0}"
+    - "Matagumpay na nai-set ang Link: {0}"
     SetLinkFailed:
-      - "Dapat mong gamitin ang /setlink kasama ang invite link ng grupo."
+    - "Dapat mong gamitin ang /setlink kasama ang invite link ng grupo."
     SetLinkError:
-      - "Ito ay hindi wastong link ng telegram."
+    - "Ito ay hindi wastong link ng telegram."
     SetLinkDelete:
-      - "Ang link ng iyong grupo ay matagumpay na nabura."
+    - "Ang link ng iyong grupo ay matagumpay na nabura."
   RepCommand:
     RepCommandSuccess:
-      - "Matagumpay na na-send sa mga developer ang bug. Pagkatapos ng pagsusuri, ang mga kinakailangang pagwawasto ay isasagawa. Maraming salamat."
+    - "Matagumpay na na-send sa mga developer ang bug. Pagkatapos ng pagsusuri, ang mga kinakailangang pagwawasto ay isasagawa. Maraming salamat."
     ErrorRepCommand:
-      - "Magreply sa unang mensahe ng laro at gamitin ang command. Kung may error ang ibang laro, maaari mong gamitin ang command sa pamamagitan ng pag-respond sa listahan ng #players sa laro."
+    - "Magreply sa unang mensahe ng laro at gamitin ang command. Kung may error ang ibang laro, maaari mong gamitin ang command sa pamamagitan ng pag-respond sa listahan ng #players sa laro."
     EmptyReason:
-      - "Isulat ang deskripsyon ng error na sumunod sa commad. Halimbawang paggamit: /rep error player cannot be lynched"
+    - "Isulat ang deskripsyon ng error na sumunod sa commad. Halimbawang paggamit: /rep error player cannot be lynched"
   Ping:
     PingInfo:
-      - "Oras na inabot ng Telegram para magmessage sa akin: {0}\nMga mensahe bawat segundo: {1}"
+    - "Oras na inabot ng Telegram para magmessage sa akin: {0}\nMga mensahe bawat segundo: {1}"
     Ping2:
-      - "Oras para magpadala ng Ping: {0}"
+    - "Oras para magpadala ng Ping: {0}"
   ModeInfo:
     LoveInfo:
-      - ""
+    - ""
     NormalInfo:
-      - ""
+    - ""
     RankedInfo:
-      - "Sa Ranked mode, yung players ay binibigyan ng points based sa kanilang performance and role effectiveness. Don't worry, balanced ang role distribution para sa fair play. Sa dulo ng game na may 10 or more players, yung ibang participants ay makaka-receive ng mint rewards na magagamit nila sa pag purchase ng roles or emojis. Use /topscore para tignan yung global ranking mo."
+    - "Sa Ranked mode, yung players ay binibigyan ng points based sa kanilang performance and role effectiveness. Don't worry, balanced ang role distribution para sa fair play. Sa dulo ng game na may 10 or more players, yung ibang participants ay makaka-receive ng mint rewards na magagamit nila sa pag purchase ng roles or emojis. Use /topscore para tignan yung global ranking mo."
     ChaosInfo:
-      - ""
+    - ""
     CustomInfo:
-      - ""
+    - ""
     ModeInfo:
-      - ""
+    - ""
     BonusModeActivated:
-      - ""
+    - ""
     RankedMode:
-      - ""
+    - ""
     LoveMode:
-      - ""
+    - ""
     CustomMode:
-      - ""
+    - ""
     NormalMode:
-      - ""
+    - ""
     ChaosMode:
-      - ""
+    - ""
   RoleList:
     HelpRoleList:
-      - "Narito ang mga tungkulin sa Wolf Blood:\n\nAng Wolf Blood ay mayroong total na {2} na mga tungkulin. Mayroong {0} na klasikong mga tungkulin at {1} na espesyal na mga tungkulin sa wb."
+    - "Narito ang mga tungkulin sa Wolf Blood:\n\nAng Wolf Blood ay mayroong total na {2} na mga tungkulin. Mayroong {0} na klasikong mga tungkulin at {1} na espesyal na mga tungkulin sa wb."
     VG:
-      - Pangkat ng mga Taganayon 🧑‍🌾
+    - Pangkat ng mga Taganayon 🧑‍🌾
     Baddie:
-      - Pangkat ng mga Lobo 🐺
+    - Pangkat ng mga Lobo 🐺
     Solo:
-      - Pangkat ng mga Solo 👣
+    - Pangkat ng mga Solo 👣
     AboutVGTeam:
-      - "Pangkat ng mga Taganayon\n\nAng mga inosenteng taong bayan na nagtutulungan upang kilalanin at alisin ang mga pumapatay na nagtatago sa kanila. Kailangan nilang gamitin ang kanilang deduktibong pangangatwiran at estratehikong pag-iisip upang malaman kung sino ang mga pumapatay bago pa sila maging biktima ng mga ito."
+    - "Pangkat ng mga Taganayon\n\nAng mga inosenteng taong bayan na nagtutulungan upang kilalanin at alisin ang mga pumapatay na nagtatago sa kanila. Kailangan nilang gamitin ang kanilang deduktibong pangangatwiran at estratehikong pag-iisip upang malaman kung sino ang mga pumapatay bago pa sila maging biktima ng mga ito."
     AboutBaddieTeam:
-      - "Pangkat ng mga Lobo\n\nAng pangkat ng mga taganayon na inatake ng grupo ng mga mababangis na lobo, ngunit mahimalang nakatakas sa kamatayan. Nakaranas sila ng kakaibang pagbabago sa kanilang mga katawan, at simula nang oras na iyon, sila ay nagiging taong lobo pagsapit ng gabi, pumapatay ng walang kamalay-malay na mga taganayon habang nagpapanggap na miyembro ng pamayanan tuwing umaga.\n\nMga Kalaban: Mamamatay-tao, Arson, Mga Kulto"
+    - "Pangkat ng mga Lobo\n\nAng pangkat ng mga taganayon na inatake ng grupo ng mga mababangis na lobo, ngunit mahimalang nakatakas sa kamatayan. Nakaranas sila ng kakaibang pagbabago sa kanilang mga katawan, at simula nang oras na iyon, sila ay nagiging taong lobo pagsapit ng gabi, pumapatay ng walang kamalay-malay na mga taganayon habang nagpapanggap na miyembro ng pamayanan tuwing umaga.\n\nMga Kalaban: Mamamatay-tao, Arson, Mga Kulto"
     AboutSoloTeam:
-      - "Pangkat ng mga Solo\n\nAng mga indibidwal sa nayon na mas gustong magtrabaho mag-isa kaysa maging parte ng isang grupo. Hindi tulad ng mga taong lobo, mayroon silang kakayahan na mag-alis ng mga manlalaro nang pa-isa isa. Ang kanilang layunin ay ang maging nag-iisang ligtas sa nayon na maghahatid sa kanila sa tagumpay.\n\nMga Solong Kontrabida : Mamamatay-tao, Arson\n\n"
+    - "Pangkat ng mga Solo\n\nAng mga indibidwal sa nayon na mas gustong magtrabaho mag-isa kaysa maging parte ng isang grupo. Hindi tulad ng mga taong lobo, mayroon silang kakayahan na mag-alis ng mga manlalaro nang pa-isa isa. Ang kanilang layunin ay ang maging nag-iisang ligtas sa nayon na maghahatid sa kanila sa tagumpay.\n\nMga Solong Kontrabida : Mamamatay-tao, Arson\n\n"
   Requirements:
     MemberCount:
-      - ""
+    - ""
     RestrictPermission:
-      - ""
+    - ""
     GameCount:
-      - ""
+    - ""
     GroupUnderReview:
-      - ""
+    - ""
     GroupApprovedButNotReady:
-      - ""
+    - ""
     GroupRejected:
-      - ""
+    - ""
     GroupApprovedNotification:
-      - ""
+    - ""
     RequestSent:
-      - ""    
+    - ""
   EndMessages:
     SKHunterEnd:
-      - "Pagsikat ng araw, naglakad-lakad sila {0} at {1}. Naglabas ng kutsilyo si {0} tapos tumalon siya kay {1} pero naglabas ng baril si {1} at binaril niya sa muka si {0}, bago matumba si {0}, sinaksak niya muna si {1}. Patay silang dalawa, walang nanalo..."
+    - "Pagsikat ng araw, naglakad-lakad sila {0} at {1}. Naglabas ng kutsilyo si {0} tapos tumalon siya kay {1} pero naglabas ng baril si {1} at binaril niya sa muka si {0}, bago matumba si {0}, sinaksak niya muna si {1}. Patay silang dalawa, walang nanalo..."
     HunterKillsWolfEnd:
-      - "Sa pagkakaalam na si {0} nalang ang natitira, sinubukan ni {1} na kainin si {0}. Ngunit mukhang ang pagsasanay sa militar at paranoya ni {0} ay nagpatunay lamang sa kanyang karanasan! Ang natira na lamang ay isang bangkay na may dalawang putok ng bala sa katawan at ang huling natirang buhay: ang matagumpay na mangangaso ng baranggay."
+    - "Sa pagkakaalam na si {0} nalang ang natitira, sinubukan ni {1} na kainin si {0}. Ngunit mukhang ang pagsasanay sa militar at paranoya ni {0} ay nagpatunay lamang sa kanyang karanasan! Ang natira na lamang ay isang bangkay na may dalawang putok ng bala sa katawan at ang huling natirang buhay: ang matagumpay na mangangaso ng baranggay."
     WolfKillsHunterEnd:
-      - "Sa pagkakaalam na si {0} nalang ang nattira, tinantiya ni {1} ang pagkakataon kung saan si {0} ay nasa kanyang pinakamahinang estado. Ang pag patay sa huling taga baranggay ay nagpatunay lamang na madali para kay {1}. Ang katawan ni {0}, ang mangangaso, ay may naka parallel na laslas sa mukha."
+    - "Sa pagkakaalam na si {0} nalang ang nattira, tinantiya ni {1} ang pagkakataon kung saan si {0} ay nasa kanyang pinakamahinang estado. Ang pag patay sa huling taga baranggay ay nagpatunay lamang na madali para kay {1}. Ang katawan ni {0}, ang mangangaso, ay may naka parallel na laslas sa mukha."
     CHKillsCultistEnd:
-      - "Si {1} at {0} ay lumabas sa liwanag ng araw. Nakita ang isang krus na kumikinang sa leeg ni {0}. Inilabas ni {1} ang kanyang espada sa huling sandali, at tinuluyan na ng buhay ang bibeng perwesyo sa buong baranggay."
+    - "Si {1} at {0} ay lumabas sa liwanag ng araw. Nakita ang isang krus na kumikinang sa leeg ni {0}. Inilabas ni {1} ang kanyang espada sa huling sandali, at tinuluyan na ng buhay ang bibeng perwesyo sa buong baranggay."
     TannerEnd:
-      - "Habang nagsisimula nang sumikat ang araw sa nayon, nagising si {0} sa ingay ng katahimikan. Napagtantong walang ng ibang tao maliban sa kanya, {0} naglakad-lakad, hanggang sa nakarating mag-isa sa gitna ng nayon. Habang tinitingnan ang mga bangkay na nagkalat sa buong nayon, Napabuntong-hininga si {0}. Ang  pangarap na mapiling patayin ng mga taganayon ay higit pa sa walang buhay na Nayon. Kinuha nila at hinawakan ang lubid, na kumitil ng maraming buhay, at walang atubiling, inilagay sa kanilang leeg at hinayaan ang kanilang mga sarili na malayang nakabitin, na may malungkot na ngiti sa kanilang mga labi."
-      - "Si {0} ay nagising ng  madaling araw ng mag-isa. Nakita ni {0} kung gaano kalubha ang ang pinsala, hindi magawang matugunan ng nayon ang kanilang pagnanais na mamatay. Si {0} ay kumukuha ng lubid at nagbigti, napagtantong niyang hindi na makakamit ang kanilang pangarap."
+    - "Habang nagsisimula nang sumikat ang araw sa nayon, nagising si {0} sa ingay ng katahimikan. Napagtantong walang ng ibang tao maliban sa kanya, {0} naglakad-lakad, hanggang sa nakarating mag-isa sa gitna ng nayon. Habang tinitingnan ang mga bangkay na nagkalat sa buong nayon, Napabuntong-hininga si {0}. Ang  pangarap na mapiling patayin ng mga taganayon ay higit pa sa walang buhay na Nayon. Kinuha nila at hinawakan ang lubid, na kumitil ng maraming buhay, at walang atubiling, inilagay sa kanilang leeg at hinayaan ang kanilang mga sarili na malayang nakabitin, na may malungkot na ngiti sa kanilang mga labi."
+    - "Si {0} ay nagising ng  madaling araw ng mag-isa. Nakita ni {0} kung gaano kalubha ang ang pinsala, hindi magawang matugunan ng nayon ang kanilang pagnanais na mamatay. Si {0} ay kumukuha ng lubid at nagbigti, napagtantong niyang hindi na makakamit ang kanilang pangarap."
     SorcererEnd:
-      - "Binuksan ni {0} ang kanilang mga mata, ngunit sa halip na marinig ang karaniwang abala na Nayon, sinalubong sila ng katahimikan. Nakatitig sila sa madilim na kisame, hinahayaan na dahan-dahang bumaon ang katotohanan. Patay na ang lahat. Patay na ang mga lobo. May kirot sa kanilang puso, bumangon si {0}, at inayos ang kanilang mga gamit, bago lumakad paalis ng nayon. Isang luha ang tumulo mula sa kanilang mga mata, inalala  ni {0} kung gaano sila kalapit sa tagumpay at ng mga lobo. Naku, oras na para magsimula ng bagong buhay, na may bagong kasama. Ang {0} ay nagtungo sa kadiliman ng kagubatan, malayo sa tahimik na nayon."
-      - "Sa kabila ng pagsisikap ni {0}, ang mga kaibigan ni {0} na mga lobo ay wala nang buhay. Nagwagi man ang mga lobo, wala siyang kasama sa tagumpay, o sinumang nabubuhay na taganayon upang kutyain. Tumingin si {0} sa bolang kristal, at tahimik na nawala, sa ulap ng hamog, sa paghahanap sa mga bagong lobo, bagong kakampi, at bagong pagtataksil upang makagawa ng mga bagong krimen laban sa sangkatauhan."
+    - "Binuksan ni {0} ang kanilang mga mata, ngunit sa halip na marinig ang karaniwang abala na Nayon, sinalubong sila ng katahimikan. Nakatitig sila sa madilim na kisame, hinahayaan na dahan-dahang bumaon ang katotohanan. Patay na ang lahat. Patay na ang mga lobo. May kirot sa kanilang puso, bumangon si {0}, at inayos ang kanilang mga gamit, bago lumakad paalis ng nayon. Isang luha ang tumulo mula sa kanilang mga mata, inalala  ni {0} kung gaano sila kalapit sa tagumpay at ng mga lobo. Naku, oras na para magsimula ng bagong buhay, na may bagong kasama. Ang {0} ay nagtungo sa kadiliman ng kagubatan, malayo sa tahimik na nayon."
+    - "Sa kabila ng pagsisikap ni {0}, ang mga kaibigan ni {0} na mga lobo ay wala nang buhay. Nagwagi man ang mga lobo, wala siyang kasama sa tagumpay, o sinumang nabubuhay na taganayon upang kutyain. Tumingin si {0} sa bolang kristal, at tahimik na nawala, sa ulap ng hamog, sa paghahanap sa mga bagong lobo, bagong kakampi, at bagong pagtataksil upang makagawa ng mga bagong krimen laban sa sangkatauhan."
     DoppelgangerEnd:
-      - "Ah! Gaano nga ba kahabag-habag ang buhay ng isang tao, na hindi man lang magawa ang tanging gawaing pinapagawa? Ang kakayahang kunin ang hitsura ng iba ay isang alamat lamang? Hindi natin malalaman!\nSi {0} ngayon ay nag-iisa sa baranggay at walang sinumang gagayahin. Ang tanging magagawa lang niya ay kopyahin ang taong nasa salamin!"
+    - "Ah! Gaano nga ba kahabag-habag ang buhay ng isang tao, na hindi man lang magawa ang tanging gawaing pinapagawa? Ang kakayahang kunin ang hitsura ng iba ay isang alamat lamang? Hindi natin malalaman!\nSi {0} ngayon ay nag-iisa sa baranggay at walang sinumang gagayahin. Ang tanging magagawa lang niya ay kopyahin ang taong nasa salamin!"
     ThiefEnd:
-      - "Habang naglilibot libot si {0} sa baranggay, napansin niya na wala nang ibang roles na pwedeng nakawin. Mabilis niyang nilisan ang kawawang baranggay at naghanap ng ibang lugar upang ipagpatuloy ang kaniyang trabaho."
+    - "Habang naglilibot libot si {0} sa baranggay, napansin niya na wala nang ibang roles na pwedeng nakawin. Mabilis niyang nilisan ang kawawang baranggay at naghanap ng ibang lugar upang ipagpatuloy ang kaniyang trabaho."
   RankedTable:
-    RoleTable: 
-      - ""
+    RoleTable:
+    - ""
     PointTable:
-      - ""
+    - ""
     PenaltyTable:
-      - ""
+    - ""
     BonusModeTable:
-      - ""
+    - ""
     TotalTable:
-      - ""
-    ResultTable: 
-      - ""
+    - ""
+    ResultTable:
+    - ""
     WonGame:
-      - ""
+    - ""
     LostGame:
-      - ""
+    - ""
     Loots:
-      - ""
+    - ""
   Stats:
     AchievementsUnlocked:
-      - "Nabuksan ang Tagumpay"
+    - "Nabuksan ang Tagumpay"
     Score:
-      - "Puntos"
+    - "Puntos"
     GamesWon:
-      - "Mga Napanalunang Laro"
+    - "Mga Napanalunang Laro"
     GamesLost:
-      - "Mga Larong Natalo"
+    - "Mga Larong Natalo"
     GamesSurvived:
-      - "Mga Larong Nakaligtas"
+    - "Mga Larong Nakaligtas"
     TotalGames:
-      - "Kabuuang Bilang ng Laro"
+    - "Kabuuang Bilang ng Laro"
     TimesKilled:
-      - "Pinakamaraming beses pinatay si"
+    - "Pinakamaraming beses pinatay si"
     TimesKilledBy:
-      - "Pinakamaraming beses pinatay ni"
+    - "Pinakamaraming beses pinatay ni"
     Afk:
-      - ""
+    - ""
   TimeMessages:
     LynchTime:
-      - "Malapit na ang takipsilim, at ang mga taganayon ay nagtitipon upang magpasya kung sino ang kanilang papatayin ngayong gabi... Lahat ay mayroon na ngayong {0} (na) segundo upang bumoto!"
+    - "Malapit na ang takipsilim, at ang mga taganayon ay nagtitipon upang magpasya kung sino ang kanilang papatayin ngayong gabi... Lahat ay mayroon na ngayong {0} (na) segundo upang bumoto!"
     DayTime:
-      - "Umaga na. Lahat kayo ay may {0} segundo para mag-akusa, dumipensa, o mag-usap."
+    - "Umaga na. Lahat kayo ay may {0} segundo para mag-akusa, dumipensa, o mag-usap."
     NightTime:
-      - "Gabi na. Ang bawat tao'y tumungo sa kama, pagod pagkatapos ng isa pang nakakapagod na araw. Mga manlalaro sa gabi: mayroon kang {0} (na) segundo na gamitin ang iyong mga aksyon!"
+    - "Gabi na. Ang bawat tao'y tumungo sa kama, pagod pagkatapos ng isa pang nakakapagod na araw. Mga manlalaro sa gabi: mayroon kang {0} (na) segundo na gamitin ang iyong mga aksyon!"
   CustomMode:
     CustomRoleInvalid:
-      - ""
+    - ""
     CustomFirstRole:
-      - ""
+    - ""
     CustomMinimumRole:
-      - ""
+    - ""
     CustomMaxRole:
-      - ""
+    - ""
     CustomNoRole:
-      - ""
+    - ""
   BanMessages:
     GroupBan:
-      - ""
+    - ""
     GlobalBan:
-      - ""
+    - ""
     BanReason:
-     - ""
+    - ""
     BanExpire:
-      - ""
+    - ""
     GroupBanPlayer:
-      - ""
+    - ""
     Year:
-      - ""
+    - ""
     Day:
-      - ""
+    - ""
     Minutes:
-      - ""
+    - ""
     Hours:
-      - ""
+    - ""
     Seconds:
-      - ""
+    - ""
   TeamsMessages:
     MyTeam:
-      - ""
+    - ""
     NothingTeam:
-      - "Kasalukuyan kang hindi miyembro ng alinmang koponan. Maaari kang sumali sa koponan sa pamamagitan ng paggamit ng command na /jointeam sa alinmang grupo na mayroong team.\nSumali sa koponan at maging parte ng sama-samang pagsisikap patungo sa tagumpay!\n\n"
+    - "Kasalukuyan kang hindi miyembro ng alinmang koponan. Maaari kang sumali sa koponan sa pamamagitan ng paggamit ng command na /jointeam sa alinmang grupo na mayroong team.\nSumali sa koponan at maging parte ng sama-samang pagsisikap patungo sa tagumpay!\n\n"
     JoinTeam:
-      - "\U0001F389 Binabati kita! \U0001F389\nMatagumpay kang nakasali sa pangkat na {0}. Sama-sama tayong maglaro at mangibabaw sa pangkat! \U0001F680\U0001F3AE"
+    - "🎉 Binabati kita! 🎉\nMatagumpay kang nakasali sa pangkat na {0}. Sama-sama tayong maglaro at mangibabaw sa pangkat! 🚀🎮"
     AlreadyTeam:
-      - "ℹ️ Impormasyon: Ikaw ay miyembro na ng pangkat na {0}. Keep it up at magkasama nating abutin ang tagumpay! \U0001F389\U0001F680"
+    - "ℹ️ Impormasyon: Ikaw ay miyembro na ng pangkat na {0}. Keep it up at magkasama nating abutin ang tagumpay! 🎉🚀"
     LeaveTeam:
-      - "\U0001F44B Matagumpay kang nakaalis sa pangkat na {0}.\nKung gusto mo ulit sumali sa pangkat, maaari mong gamitin ang command na /jointeam.\nInaasahan namin ang pagbabakik mo! \U0001F31F"
+    - "👋 Matagumpay kang nakaalis sa pangkat na {0}.\nKung gusto mo ulit sumali sa pangkat, maaari mong gamitin ang command na /jointeam.\nInaasahan namin ang pagbabakik mo! 🌟"
   NotAdmin:
     GroupAdminOnly:
-      - "Admin lang ang pwede gumamit ng command na ito."
+    - "Admin lang ang pwede gumamit ng command na ito."
     NotGlobalAdmin:
-      - "Hindi ka global admin..."
+    - "Hindi ka global admin..."
     NotKadir:
-      - "Hindi ka si Kadir!"
+    - "Hindi ka si Kadir!"
     GroupCommandOnly:
-      - "Kailangan mo i-run ang command na ito sa group"
+    - "Kailangan mo i-run ang command na ito sa group"
   NextGame:
     DeletedFromWaitList:
-      - "Ikaw ay natanggal na sa wait list para sa {0}."
+    - "Ikaw ay natanggal na sa wait list para sa {0}."
     AlreadyOnWaitList:
-      - "Ikaw ay nasa wait list na para sa {0}."
+    - "Ikaw ay nasa wait list na para sa {0}."
     AddedToWaitList:
-      - "Waitlisted ka na para sa {0}. Ipi-PM na lang kita kapag nagsisimula na." 
+    - "Waitlisted ka na para sa {0}. Ipi-PM na lang kita kapag nagsisimula na."
   LynchMessages:
     PlayerVotedLynch:
-      - "{0} ay binoto si {1}"
+    - "{0} ay binoto si {1}"
     AskLynch:
-      - "Sino ang gusto mong bitayin?"
+    - "Sino ang gusto mong bitayin?"
     LynchKill:
-      - "Ang mga taganayon ay bumoto, sa gitna ng mga pagdududa. Si {0} ay patay na. {1}"
+    - "Ang mga taganayon ay bumoto, sa gitna ng mga pagdududa. Si {0} ay patay na. {1}"
     LynchTie:
-      - "Dahil hindi sila magkasundo kung sino ang bibitayin at gabi na. Umuwi nalang sila sa bahay nila para matulog kahit badtrip..."
+    - "Dahil hindi sila magkasundo kung sino ang bibitayin at gabi na. Umuwi nalang sila sa bahay nila para matulog kahit badtrip..."
     NoLynchVotes:
-      - "Umuulan sa labas, lampas tao ang baha. Walang pumunta sa barangay para bumoto kung sino ang bibitayin."
+    - "Umuulan sa labas, lampas tao ang baha. Walang pumunta sa barangay para bumoto kung sino ang bibitayin."
     PlayerVoteCounts:
-      - "{0} na manlalaro ang bumuto, {1} ang lahat ng bumuto."
+    - "{0} na manlalaro ang bumuto, {1} ang lahat ng bumuto."
     SecretLynchResultEach:
-      - "{0} na boto ang napunta kay {1}: {2}"
+    - "{0} na boto ang napunta kay {1}: {2}"
     SecretLynchResultFull:
-      - "Ang resulta ng pagbitay ngayon ay:\n{0}"
+    - "Ang resulta ng pagbitay ngayon ay:\n{0}"
     SecretLynchResultNumber:
-      - "{0} na boto ang napunta kay {1}."
+    - "{0} na boto ang napunta kay {1}."
   PublicMessages:
     DefaultFellPublic:
-      - "Isa sa mga libingan sa sementeryo ay naglaman ng masyadong maraming tao ngayong gabi... Mukhang si {0} ay nagtangkang bumisita sa taga-hukay ng libingan, kaya nahulog siya rito at namatay! {1}"
+    - "Isa sa mga libingan sa sementeryo ay naglaman ng masyadong maraming tao ngayong gabi... Mukhang si {0} ay nagtangkang bumisita sa taga-hukay ng libingan, kaya nahulog siya rito at namatay! {1}"
     KillerSpottedDiggerPublic:
-      - "{0} ay nawawala... Napuyat ba siya sa taong pinapaasa lang siya? Pinuntahan mo at nakita mong patay na siya sa sementeryo, hawak pa rin ang kanyang pala. Mukhang namatay siya dahil sa ilang saksak sa puso kakaasa... "
+    - "{0} ay nawawala... Napuyat ba siya sa taong pinapaasa lang siya? Pinuntahan mo at nakita mong patay na siya sa sementeryo, hawak pa rin ang kanyang pala. Mukhang namatay siya dahil sa ilang saksak sa puso kakaasa... "
     WolvesSpottedDiggerPublic:
-      - "{0} ay hindi nagpakita sa pulong ng bayan. Hays, napuyat na naman ba siya kakaasa sa taong 'di naman siya gusto? Habang hinahanap mo siya, nakita mong nakahiga na siyang patay sa sementeryo, hawak pa rin ang pala. Mukhang inabutan siya ng mga lobo sa gabi..."
+    - "{0} ay hindi nagpakita sa pulong ng bayan. Hays, napuyat na naman ba siya kakaasa sa taong 'di naman siya gusto? Habang hinahanap mo siya, nakita mong nakahiga na siyang patay sa sementeryo, hawak pa rin ang pala. Mukhang inabutan siya ng mga lobo sa gabi..."
     HarlotFuckKillerPublic:
-      - ""
+    - ""
     HarlotFuckedKilledPublic:
-      - "Si {0} ay pumasok sa bahay ni {1}, handa para sa isang gabing pagsinta, para lang makita ang misteryosong estranghero na inaalis ang laman loob ni {1} sa pamamagitan ng operasyon! Ang mamamatay-tao ay nagpasyang pasiyahin si {0} bago niya idagdag ang maharot nitong puso sa kaniyang koleksiyon!"
+    - "Si {0} ay pumasok sa bahay ni {1}, handa para sa isang gabing pagsinta, para lang makita ang misteryosong estranghero na inaalis ang laman loob ni {1} sa pamamagitan ng operasyon! Ang mamamatay-tao ay nagpasyang pasiyahin si {0} bago niya idagdag ang maharot nitong puso sa kaniyang koleksiyon!"
   WelcomeMessages:
     OfficialGrp:
-      - ""
+    - ""
     Welcome:
-      - ""
+    - ""
     CreditsText:
-      - ""
+    - ""
   AFKs:
     IdleKill:
-      - "{0} ay hindi bumoto ng 2 gabi. Para sa mga mamamayan, ito ay isang krimen, si {0} ay biglang bumagsak at namatay. {1}"
+    - "{0} ay hindi bumoto ng 2 gabi. Para sa mga mamamayan, ito ay isang krimen, si {0} ay biglang bumagsak at namatay. {1}"
     IdleCount:
-      - "Ang manlalaro na si {0} ay pinatay sa kadahilanang hindi bumoto nang {1} beses sa loob ng 24 oras."
+    - "Ang manlalaro na si {0} ay pinatay sa kadahilanang hindi bumoto nang {1} beses sa loob ng 24 oras."
     GroupIdleCount:
-      - ""
+    - ""
   StoreMessages:
     Store:
-      - "\U0001F6D2 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nAvailable Emoji Fragment: {1} \U0001F9E9\n\nWhat would you like to buy?"
+    - "🛒 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nAvailable Emoji Fragment: {1} 🧩\n\nWhat would you like to buy?"
     BuyFailed:
-      - ""
+    - ""
     BuyConfirm:
-      - ""
+    - ""
     BuySuccess:
-      - ""
+    - ""
     BuyItems:
-      - ""
+    - ""
     BuyTicket:
-      - ""
+    - ""
     BuyRole:
-      - ""
+    - ""
     BuyEmoji:
-      - ""
+    - ""
     BuyEmojiDuration:
-      - ""
+    - ""
   TicketButtons:
     ForceToken:
-      - ''
+    - ''
     RoleVouchers:
-      - ''
+    - ''
     FJoin:
-      - ''
+    - ''
     FName:
-      - ''
+    - ''
     BonusPointTicket:
-      - ''
+    - ''
     Fragment:
-      - ''
+    - ''
     Mint:
-      - ''
+    - ''
     BonusRankedModeTicket:
-      - ''
+    - ''
     CustomMessageTicket:
-      - ''
+    - ''
     CustomEmoji:
-      - ''
+    - ''
     PlayerTAG:
-      - ''
+    - ''
     CustomGifs:
-      - ''
+    - ''
     FakeRole:
-      - ''
+    - ''
     MyTicketButton:
-      - ''
+    - ''
     MyItemButton:
-      - ''
+    - ''
     TournamentPoint:
-      - ''
+    - ''
     Month:
-      - ""
+    - ""
     Week:
-      - ""
+    - ""
     Permanent:
-      - ""
+    - ""
     Yearly:
-      - ""
+    - ""
   TopMessages:
     GroupStats:
-      - "Nangungunang 10 sa {0} :"
+    - "Nangungunang 10 sa {0} :"
     TopScore:
-      - "Nangungunang 10 manlalaro na may mataas na puntos :"
+    - "Nangungunang 10 manlalaro na may mataas na puntos :"
     YourRanking:
-      - ''
+    - ''
     MostPlayedWithMonth:
-      - ""
+    - ""
   ProfileMessages:
     ItemsText:
-      - ""
+    - ""
     Profile:
-      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
     LockEmoji:
-      - ""
+    - ""
     MaxEmoji:
-      - "Naabot mo na ang maximum na bilang ng pag-activate ng emoji. Para ma-activate pa ito, mag-donate gamit ang command na /donate."
+    - "Naabot mo na ang maximum na bilang ng pag-activate ng emoji. Para ma-activate pa ito, mag-donate gamit ang command na /donate."
     EmojiChoice:
-      - "Ang emoji na iyong nakuha ay makikita sa ibaba. I-turn on/off ang emoji na makikita sa gilid ng iyong pangalan dito:"
+    - "Ang emoji na iyong nakuha ay makikita sa ibaba. I-turn on/off ang emoji na makikita sa gilid ng iyong pangalan dito:"
     NoMyRoles:
-      - ""
+    - ""
     MyRoles:
-      - "\U0001F6C5 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
+    - "🛅 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
     ActivateRole:
-      - ''
+    - ''
     DeactivateRole:
-      - ''
+    - ''
     TicketsMenu:
-      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+    - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
   RewardPM:
-    - ""
-    - ""
-    - ""
-    - ""
+  - ""
+  - ""
+  - ""
+  - ""
   TelegramStars:
     StarShop:
-      - ""
+    - ""
     StarTicket:
-      - ""  
+    - ""
     StarItems:
-      - ""
+    - ""
     StarConfirm:
-      - ""
+    - ""
     StarCustomMessage:
-      - ""
+    - ""
     StarPlayerTAG:
-      - ""
+    - ""
     StarGifMenu:
-      - ""
+    - ""
     StarRole:
-      - ""
+    - ""
     StarEmoji:
-      - ""
+    - ""
     StarEmojiDuration:
-      - ""
+    - ""
     StarSuccess:
-      - ""
+    - ""
     StarPayment:
-      - ""
+    - ""
     StarPaidSuccess:
-      - ""
+    - ""
   GiftMenu:
-    GiftShop: 
-      - ""
+    GiftShop:
+    - ""
     GiftItems:
-      - ""
+    - ""
     GiftConfirm:
-      - ""
+    - ""
     GiftTicket:
-      - ""
+    - ""
     GiftCustomMessage:
-      - ""
+    - ""
     GiftPlayerTAG:
-      - ""
+    - ""
     GiftCustomGif:
-      - ""
+    - ""
     GiftRole:
-      - ""
+    - ""
     GiftEmoji:
-      - ""
+    - ""
     GiftEmojiDuration:
-      - ""
+    - ""
     GiftSentSuccess:
-      - ""
+    - ""
   CustomGifs:
     NotPack:
-      - You have not unlocked a custom GIF pack. Please use /donate.
+    - You have not unlocked a custom GIF pack. Please use /donate.
     GifPackStatus:
-      - 'Current Approval Status:
+    - 'Current Approval Status:
 
-        Approved Gifs: {0} ✅
+      Approved Gifs: {0} ✅
 
-        Pending Gifs: {1} ⏳
+      Pending Gifs: {1} ⏳
 
-        Rejected Gifs: {2} ⛔️'
+      Rejected Gifs: {2} ⛔️'
     GifPack:
-      - ""
+    - ""
     GifSubmitBtn:
-      - I-submit para sa approval
+    - I-submit para sa approval
     GifSend:
-      - ""
+    - ""
     GifReset:
-      - "I-reset ang Gifs"
+    - "I-reset ang Gifs"
     GifResetSuccess:
-      - ""
+    - ""
     GifStatus:
-      - ''
+    - ''
     Approved:
-      - ''
+    - ''
     Disapproved:
-      - ''
+    - ''
     GifError:
-      - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
     GifSuccess:
-      - "Got it! Any more?"
+    - "Got it! Any more?"
     GifSubmit:
-      - ""
+    - ""
     GifSubmitHour:
-      - ""
+    - ""
     GifEmpty:
-      - ""
-    GifCheckSuccess: 
-      - ""
+    - ""
+    GifCheckSuccess:
+    - ""
   TransferMenu:
     Transfer:
-      - ""
+    - ""
     TransferSelf:
-      - ""
+    - ""
     TransferFailed:
-      - ""
+    - ""
     TransferItems:
-      - ""
+    - ""
     ConfirmTransfer:
-      - "\U0001F504 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"  
+    - "🔄 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"
     TransferSuccess:
-      - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
+    - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
     TransferReceived:
-      - ""
+    - ""
     TransferRole:
-      - ""
+    - ""
     TransferEmoji:
-      - ""
+    - ""
     TransferTicket:
-      - ""
+    - ""
     TransferLimit:
-      - ""
+    - ""
   PlayerTAGS:
     TagSuccess:
-      - "Ang iyong name tag ay matagumpay na nai-set. Tag: {0}" 
+    - "Ang iyong name tag ay matagumpay na nai-set. Tag: {0}"
     TagError:
-      - ""
+    - ""
     TAGInvalid:
-      - ""
+    - ""
   CustomMessages:
     CustomMessageLenght:
-      - ""
+    - ""
     CustomMessageSuccess:
-      - ""
+    - ""
     CustomMessageAllLetter:
-      - ""
+    - ""
     CustomMessageInvalid:
-      - "" 
+    - ""
   FakeNames:
     FakeNameLenght:
-      - ""
+    - ""
     FakeNameSuccess:
-      - ""
+    - ""
     FakeNameInvalid:
-      - ""
+    - ""
   FakeRoles:
     FakeRoleSuccess:
-      - ""
+    - ""
     NoRole:
-      - ""
+    - ""
     RoleInvalid:
-      - ""
+    - ""
   Others:
     Donate:
-      - ""
+    - ""
     UserNotFound:
-      - ""
+    - ""
     ForceJoinSuccess:
-      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
-    TicketRequired: 
-      - ""
+    - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
+    TicketRequired:
+    - ""
     JoinButton:
-      - "Sumali"
+    - "Sumali"
     Skip:
-      - ""
+    - ""
     Yes:
-      - ""
+    - ""
     No:
-      - ""
+    - ""
     VoteBtn:
-      - ""
+    - ""
     GoToBtn:
-      - ""
+    - ""
     RolList:
-      - "Listahan ng mga Role :"
+    - "Listahan ng mga Role :"
     NoClaims:
-      - "Mga walang Claim"
+    - "Mga walang Claim"
     Cancel:
-      - ""
+    - ""
     OfficialBtn:
-      - Mga Opisyal na Grupo
+    - Mga Opisyal na Grupo
     SupportBtn:
-      - ""
+    - ""
     NewsBtn:
-      - Mga Chika
+    - Mga Chika
     Done:
-      - "Tapos na!"
+    - "Tapos na!"
     Back:
-      - "Bumalik"
+    - "Bumalik"
     EndTime:
-      - "Tagal ng Laro: {0}"
+    - "Tagal ng Laro: {0}"
     TimesUp:
-      - "Ubos na oras mo!"
+    - "Ubos na oras mo!"
     GetLang:
-      - "Anong gusto mong gamitin na language file?"
+    - "Anong gusto mong gamitin na language file?"
     GenericDeathNoReveal:
-      - "Pagkagising ng lahat sa umaga, napansin nila na wala si {0}... Sinilip nila ito sa kaniyang bahay at nakita nila ang bangkay ni {0}."
-      - "Habang nagtitipon-tipon ang mga taganayon pagsikat ng araw, nakita nila ang bangkay ni {0} na marahil ay namatay kagabi..."
+    - "Pagkagising ng lahat sa umaga, napansin nila na wala si {0}... Sinilip nila ito sa kaniyang bahay at nakita nila ang bangkay ni {0}."
+    - "Habang nagtitipon-tipon ang mga taganayon pagsikat ng araw, nakita nila ang bangkay ni {0} na marahil ay namatay kagabi..."
     ErrorBotMessagePM:
-      - "Tukuyin ang tatanggap ng iyong mensahe sa pamamagitan ng paggamit ng wastong command: I-type ang /love para ma-mensahe ang iyong minamahal, o /team para makipag-usap sa iyong mga ka-miyembro na lobo o ka-miyembro na kulto."
+    - "Tukuyin ang tatanggap ng iyong mensahe sa pamamagitan ng paggamit ng wastong command: I-type ang /love para ma-mensahe ang iyong minamahal, o /team para makipag-usap sa iyong mga ka-miyembro na lobo o ka-miyembro na kulto."
     SecondsAdded:
-      - "Ang oras ng pagsali ay na-extend sa {0}!!\n{1} ang natitirang oras ng pagsali"
+    - "Ang oras ng pagsali ay na-extend sa {0}!!\n{1} ang natitirang oras ng pagsali"
     SecondsRemoved:
-      - "Ang oras ng pagsali ay nabawasan sa {0} segundo!\n{1} nalang ang natitirang oras ng pagsali"
+    - "Ang oras ng pagsali ay nabawasan sa {0} segundo!\n{1} nalang ang natitirang oras ng pagsali"
     LeftToJoin:
-      - "{0} ang natitira upang sumali"
+    - "{0} ang natitira upang sumali"
     HaveJoined:
-      - "{0} ay sumali sa laro sa loob ng 30 segundo.."
+    - "{0} ay sumali sa laro sa loob ng 30 segundo.."
     AlreadyInGame:
-      - "Kasali ka na, baliw! ({0})"
+    - "Kasali ka na, baliw! ({0})"
     CountPlayersAdded:
-      - "Kabuuang {0} na manlalaro."
+    - "Kabuuang {0} na manlalaro."
     NotEnoughLovePlayers:
-      - "Para makalaro sa love mode kailangan ninyong magkaroon ng even number (6,8,10,12...) Ang laro na ito ay nakansela..."
+    - "Para makalaro sa love mode kailangan ninyong magkaroon ng even number (6,8,10,12...) Ang laro na ito ay nakansela..."
     NotEnoughPlayers:
-      - "Kulang ang players. Mamaya nalang tigil ko muna to."
+    - "Kulang ang players. Mamaya nalang tigil ko muna to."
     StartingGameWait:
-      - "Magsisimula na ang laro, brb muna bibigyan ko lang kayo ng roles at iuupdate ko ang database"
+    - "Magsisimula na ang laro, brb muna bibigyan ko lang kayo ng roles at iuupdate ko ang database"
     AlreadyJoined:
-      - "Kalma lang! Kasali ka na!"
+    - "Kalma lang! Kasali ka na!"
     ChoiceAccepted:
-      - "Salamat sa pagpili"
+    - "Salamat sa pagpili"
     And:
-      - "at"
+    - "at"
     NewUnlocks:
-      - ""
+    - ""
     PlayersAlive:
-      - "Buhay pang players"
+    - "Buhay pang players"
     Players:
-      - "Manlalaro"
+    - "Manlalaro"
     Was:
-      - "ay"
+    - "ay"
     NoGame:
-      - "Wala pang larong nag-uumpisa. Magsimula ng laro gamit ang /startgame o gulo gamit ang /startchaos."
+    - "Wala pang larong nag-uumpisa. Magsimula ng laro gamit ang /startgame o gulo gamit ang /startchaos."
     NotifyNewGame:
-      - "Nag-start na sila ng new game sa {0}."
+    - "Nag-start na sila ng new game sa {0}."
     NotPlaying:
-      - "Hindi ka naman ata kasali?"
+    - "Hindi ka naman ata kasali?"
     NotHome:
-      - "Hmm... wala si {0} sa bahay niya! Fasting ka muna ngayon... " 
+    - "Hmm... wala si {0} sa bahay niya! Fasting ka muna ngayon... "
     GamesPlayed:
-      - ""
+    - ""
     LoverDied:
-      - "Habang naghihingalo si {0}, tumakbo papunta sa kaniya si {1} na umiiyak. Ayaw niya maging single kaya nagpakamatay siya gamit ang baril na nakita niya. {2}"
+    - "Habang naghihingalo si {0}, tumakbo papunta sa kaniya si {1} na umiiyak. Ayaw niya maging single kaya nagpakamatay siya gamit ang baril na nakita niya. {2}"
     NoAttack:
-      - "Nagkita-kita ang mga tambay ng umaga para magchismisan. Complete attendance and barkada. Mukang walang inatake kagabi."
+    - "Nagkita-kita ang mga tambay ng umaga para magchismisan. Complete attendance and barkada. Mukang walang inatake kagabi."
     LynchDead:
-      - "Pinili kang bitayin ng nayon, at namatay ka..."
+    - "Pinili kang bitayin ng nayon, at namatay ka..."
     SentPrivate:
-      - "Pinadalhan kita ng PM"
+    - "Pinadalhan kita ng PM"
     Help:
-      - "Kung gusto mo makita ang mga role ng bot na ito, maaari mong pindutin ang /rolelist command\nMaaari kang mamili ng lenggwahe gamit ang /setlang command\nMaaari mong makita ang game guide at game rules gamit ang /rules command\nMag-umpisa ng laro gamit ang /startranked command agad agad. Enjoy!"
+    - "Kung gusto mo makita ang mga role ng bot na ito, maaari mong pindutin ang /rolelist command\nMaaari kang mamili ng lenggwahe gamit ang /setlang command\nMaaari mong makita ang game guide at game rules gamit ang /rules command\nMag-umpisa ng laro gamit ang /startranked command agad agad. Enjoy!"
     StartMe:
-      - "I-'Start' mo ako para ma-PM kita"
+    - "I-'Start' mo ako para ma-PM kita"
     LatestList:
-      - "Ito parin yung list."
+    - "Ito parin yung list."
     UnableToGetList:
-      - "Hintayin mo muna magstart ang laro bago kumuha ng listahan ng players."
+    - "Hintayin mo muna magstart ang laro bago kumuha ng listahan ng players."
     YouJoined:
-      - "Matagumpay kang nakasarili sa laro sa {0}"
+    - "Matagumpay kang nakasarili sa laro sa {0}"
     CantExtend:
-      - "Ang mga admins sa grupo lamang ang makakapag-extend ng oras ng higit sa isang beses!"
+    - "Ang mga admins sa grupo lamang ang makakapag-extend ng oras ng higit sa isang beses!"
     NotMember:
-      - "Hindi ka makasali sa larong ito dahil ikaw ay hindi miyembro ng {0}."
+    - "Hindi ka makasali sa larong ito dahil ikaw ay hindi miyembro ng {0}."
     GroupNotFound:
-      - "Hindi mahanap ang grupo. Mangyari lamang na patakbuhin ang Utos na ito sa pangkat na gusto mong ihinto ang paghihintay, O magdagdag  ng kawing, ID, o Gumamit ng pangalan sa tabi ng Utos."
+    - "Hindi mahanap ang grupo. Mangyari lamang na patakbuhin ang Utos na ito sa pangkat na gusto mong ihinto ang paghihintay, O magdagdag  ng kawing, ID, o Gumamit ng pangalan sa tabi ng Utos."
     RoleCommand:
-      - ''
+    - ''
     DisableGameMode:
-      - ""
+    - ""
     DeadSlient:
-      - "Dahil patay ka na, hindi ka na makakapagpadala ng mensahe sa grupo hanggang matapos ang laro. Kapag natapos ang laro, makaka-mensahe ka na ulit. Kung gusto mong makatanggap ng mga abiso para sa susunod na laro, maaari mong pindutin ang pindutan na nasa ibaba."
+    - "Dahil patay ka na, hindi ka na makakapagpadala ng mensahe sa grupo hanggang matapos ang laro. Kapag natapos ang laro, makaka-mensahe ka na ulit. Kung gusto mong makatanggap ng mga abiso para sa susunod na laro, maaari mong pindutin ang pindutan na nasa ibaba."
     PlayerLimitReached:
-      - "Pasensya ka na, nalate ka puno na ang bus sa susunod ka nalang."
+    - "Pasensya ka na, nalate ka puno na ang bus sa susunod ka nalang."
     DeadFlee:
-      - "Hindi ka na makakatakas! PATAY KA NA! Balik sa lupa... tsss"
+    - "Hindi ka na makakatakas! PATAY KA NA! Balik sa lupa... tsss"
     Flee:
-      - "Si {0} at tumakas sa sobrang takot!"
+    - "Si {0} at tumakas sa sobrang takot!"
     FleeDisabled:
-      - "Bawal tumakas sa larong to kapag nagsimula na sabi ng group admin! We’re all in this together wooh!"
+    - "Bawal tumakas sa larong to kapag nagsimula na sabi ng group admin! We’re all in this together wooh!"
     PlayerRoleWas:
-      - "Si {0} ay ang {1}"
+    - "Si {0} ay ang {1}"
     CountPlayersRemain:
-      - "{0} na lang ang natitirang manlalaro."
+    - "{0} na lang ang natitirang manlalaro."
     ByForceStart:
-      - "Isang utos ang ipinadala ni {0} upang simulan ang laro sa pamamagitan ng puwersa."
+    - "Isang utos ang ipinadala ni {0} upang simulan ang laro sa pamamagitan ng puwersa."
     PlayersGifPack:
-      - "Mga manlalaro na may pasadyang gif packs :"
+    - "Mga manlalaro na may pasadyang gif packs :"
     ForceStarted:
-      - ''
+    - ''
     TreasureWin:
-      - ""
+    - ""
     NameExists:
-      - "@{1}, ang player na may pangalang {0} ay nakasali na. Palitan mo ’yong pangalan mo para makasali ka."
+    - "@{1}, ang player na may pangalang {0} ay nakasali na. Palitan mo ’yong pangalan mo para makasali ka."
     ChangeNameToJoin:
-      - "{0}, palitan mo ang iyong pangalan upang makasali."
+    - "{0}, palitan mo ang iyong pangalan upang makasali."
     ExitAnonymousMode:
-      - "Hindi mo magagamit ang bot na ito bilang anonymous na admin! Mangyaring lumabas sa anonymous mode (o hilingin sa admin na nag-promote sa iyo na gawin ito) at subukang muli!"
+    - "Hindi mo magagamit ang bot na ito bilang anonymous na admin! Mangyaring lumabas sa anonymous mode (o hilingin sa admin na nag-promote sa iyo na gawin ito) at subukang muli!"
     MaintBreak:
-      - "Sorry, magme-maintenance break muna ako, maya na kayo maglaro hehe... Maki-balita na lang kayo sa @wolfbloodnews mwa"
+    - "Sorry, magme-maintenance break muna ako, maya na kayo maglaro hehe... Maki-balita na lang kayo sa @wolfbloodnews mwa"
     NoPlayerName:
-      - "Wala naman akong makitang player na ganyan ang pangalan. Sure ka ba dyan?"
+    - "Wala naman akong makitang player na ganyan ang pangalan. Sure ka ba dyan?"
     NodeShutsDown:
-      - "Nagkaroon ng error, at nagshutdown ang node na ito :/"
+    - "Nagkaroon ng error, at nagshutdown ang node na ito :/"
     NoNodes:
-      - "Walang nodes na online sa ngayon, i-try mo ulit maya maya."
+    - "Walang nodes na online sa ngayon, i-try mo ulit maya maya."
   BonusPoints:
     DieAsAFK_Penalty:
-      - ""
+    - ""
