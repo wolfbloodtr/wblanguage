@@ -598,22 +598,22 @@ strings:
     Skeleton:
     - "İskelet 💀"
     RoleInfoSkeleton:
-    - ""
+    - "Sen İskeletsin 💀. Mezarın ötesinde bile ruhun köye musallat oluyor. Oyun başına bir kez, bir oyuncuyu hedef almak için 'Musallat ol' düğmesine tıklayabilirsin. Bu oyuncunun yetenekleri oyun aşamasının geri kalanı boyunca engellenecektir."
     ButtonAppears:
-    - ""
+    - "Ruhun uyandı! 'Musallat ol' düğmesi hazır. Birinin yeteneklerini engellemeye hazır olduğunda tıklayabilirsin."
     AskSkeleton:
-    - ""
+    - "Bugün musallat olacağın şanssız ruh kim olacak?"
     ChoiceConfirmation:
-    - ""
+    - "Musallat olmak için {0}'i seçtin. 3 döngü (gündüz/gece/linç) boyunca yeteneklerini engellemiş olacaksın."
     BlockedNotice:
-    - ""
+    - "İskeletin laneti üzerinde. Bugün herhangi bir aksiyonunu uygulayamayacaksın!"
     HauntButton:
-    - ""
+    - "Musallat ol! 👹"
   Doctor:
     Doctor:
     - "Doktor 🧑‍⚕️"
     RoleInfoDoctor:
-    - ""
+    - "Sen Doktorsun 🧑‍⚕️. Tek bir dokunuşla bir oyuncuyu hayata döndürebilirsin. Oyuncu sayısının daha fazla olduğu oyunlarda daha fazla kişiye yeniden dirilme şansı sunabilirsin."
     AskDoctor:
     - "Kimi canlandırmak istiyorsun?"
     DoctorRevive:
