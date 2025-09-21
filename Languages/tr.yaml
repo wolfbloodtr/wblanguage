@@ -4,7 +4,7 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-    - "{0} yeni bir oyun başlattı. Maceraya dahil olmak için /join tıkla ve oyuna katıl!"
+    - "{0} yeni bir oyun başlattı. Maceraya dahil olmak için /join tıkla ve oyuna katıl :P"
     - "{0} tarafından yeni bir oyun başlatıldı! Durma orada öyle hadi sen de /join tıklayarak eğlenceye katıl!"
     StartChaos:
     - "{0} dehşet bir oyun başlattı! Aksiyon ve katliamın tam ortasında bulunmak için 'Katıl'a tıkla!"
