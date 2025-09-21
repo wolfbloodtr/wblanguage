@@ -242,7 +242,7 @@ strings:
     CultistHunter:
     - "Tarikatçı Avcısı 💂"
     RoleInfoCultistHunter:
-    - ""
+    - "Sen Tarikatçı Avcısısın 💂. Köy halkının gecenin karanlık yaratıklarına karşı verdiği mücadele yetmezmiş gibi aynı zamanda kendi içlerindeki yozlaşmalarla da mücadele etmek zorundalar. Bir lider olarak kontrolü ele almak senin görevin! Her gece oyuncuları ziyaret ederek Tarikat üyelerini tespit edecek ve de onları avlayacaksın. Gecenin karanlık yaratıklarını yakalamak için köy halkını organize edecek ve de yardımcılarını yönlendirerek her bir kötü rolü tespit etmelerini sağlamakla mükellefsin. Tarikatçılar seni ziyaret ederse ölecekler."
     AskHunt:
     - "Kimi avlamak istiyorsun?"
     CultHunterKilledCultVisit:
