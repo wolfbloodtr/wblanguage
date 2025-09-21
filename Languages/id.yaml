@@ -4,1667 +4,1667 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-      - "\U0001F4E3 {0} memulai permainan mode NORMAL! Bergabunglah dan bersiaplah untuk dimakan."
-      - "\U0001F4E3 Permainan mode Normal telah dimulai oleh {0}! Bergabunglah dan pilih targetmu!"
+    - "📣 {0} memulai permainan mode NORMAL! Bergabunglah dan bersiaplah untuk dimakan."
+    - "📣 Permainan mode Normal telah dimulai oleh {0}! Bergabunglah dan pilih targetmu!"
     StartChaos:
-      - "{0} memulai permainan mode Chaos! Tekan tombol untuk bergabung dalam permainan. Bersenang-senanglah~"
-      - "Permainan mode Chaos telah dimulai oleh {0}! Bergabunglah, bersiaplah dimakan serigala!"
+    - "{0} memulai permainan mode Chaos! Tekan tombol untuk bergabung dalam permainan. Bersenang-senanglah~"
+    - "Permainan mode Chaos telah dimulai oleh {0}! Bergabunglah, bersiaplah dimakan serigala!"
     StartRanked:
-      - "{0} memulai permainan mode Peringkat! Klik /join untuk ikut bersenang-senang. Ayo ajak temanmu bergabung~"
+    - "{0} memulai permainan mode Peringkat! Klik /join untuk ikut bersenang-senang. Ayo ajak temanmu bergabung~"
     StartLove:
-      - "{0} memulai permainan mode Pasangan! Kamu jomlo dan siap dapat pasangan? Klik /join sekarang!"
+    - "{0} memulai permainan mode Pasangan! Kamu jomlo dan siap dapat pasangan? Klik /join sekarang!"
     StartCustom:
-      - "{0} memulai permainan mode Custom! Klik /join untuk bergabung dalam permainan."
+    - "{0} memulai permainan mode Custom! Klik /join untuk bergabung dalam permainan."
   Villager:
     Villager:
-      - "Penduduk Desa \U0001F471"
+    - "Penduduk Desa 👱"
     RoleInfoVillager:
-      - "\U0001F471 Kamu adalah penduduk desa, ditakdirkan untuk menghabiskan hari-hari membajak ladang dan dimakan."
+    - "👱 Kamu adalah penduduk desa, ditakdirkan untuk menghabiskan hari-hari membajak ladang dan dimakan."
   Drunk:
     Drunk:
-      - "Pemabuk \U0001F37B"
+    - "Pemabuk 🍻"
     RoleInfoDrunk:
-      - "\U0001F37B Ayyy! Kamu adalah Pemabuk! Semua orang di desa tahu siapa kamu"
+    - "🍻 Ayyy! Kamu adalah Pemabuk! Semua orang di desa tahu siapa kamu"
   Harlot:
     Harlot:
-      - ""
+    - ""
     RoleInfoHarlot:
-      - "\U0001F48B Ahhh.. Kamu adalah Harlot. Setiap malam, kamu bisa memilih untuk mengunjungi seseorang. Namun, jika ternyata targetmu adalah Serigala, atau sedang dibunuh Serigala, kamu akan mati. Beruntungnya, jika kamu sedang mengunjungi seseorang, dan Serigala ingin memakan kamu, maka kamu akan selamat."
+    - "💋 Ahhh.. Kamu adalah Harlot. Setiap malam, kamu bisa memilih untuk mengunjungi seseorang. Namun, jika ternyata targetmu adalah Serigala, atau sedang dibunuh Serigala, kamu akan mati. Beruntungnya, jika kamu sedang mengunjungi seseorang, dan Serigala ingin memakan kamu, maka kamu akan selamat."
     AskVisit:
-      - "Siapa yang ingin kamu kunjungi?"
+    - "Siapa yang ingin kamu kunjungi?"
     HarlotFuckWolf:
-      - "Kamu menyelinap ke rumah {0} berharap untuk dapat bersenang-senang, ternyata kamu malah bertemu dengan serigala dan mati dimangsanya. (Anda mengunjungi serigala)"
+    - "Kamu menyelinap ke rumah {0} berharap untuk dapat bersenang-senang, ternyata kamu malah bertemu dengan serigala dan mati dimangsanya. (Anda mengunjungi serigala)"
     HarlotFuckedWolfPublic:
-      - "{0} menyelinap ke rumah yang salah tadi malam! Sisa jenazah {0} ditemukan ditancapkan di pintu gereja menggunakan batang besi... Sungguh malang nasibnya :("
+    - "{0} menyelinap ke rumah yang salah tadi malam! Sisa jenazah {0} ditemukan ditancapkan di pintu gereja menggunakan batang besi... Sungguh malang nasibnya :("
     HarlotFuckedVictimPublic:
-      - "{0} menyelinap ke rumah {1}, siap untuk bersenang-senang dan menghilangkan stres. Sayangnya, Harlot malah menemukan seekor serigala sedang memakan {1}! Serigala itu langsung berbalik dan menyerang dirinya! {0} juga mati."
+    - "{0} menyelinap ke rumah {1}, siap untuk bersenang-senang dan menghilangkan stres. Sayangnya, Harlot malah menemukan seekor serigala sedang memakan {1}! Serigala itu langsung berbalik dan menyerang dirinya! {0} juga mati."
     HarlotVisitNonWolf:
-      - "Kamu mengunjungi {0} malam ini! Untungnya dia bukan serigala, dan kamupun bisa melampiaskan birahimu sepanjang malam dengannya ahh"
+    - "Kamu mengunjungi {0} malam ini! Untungnya dia bukan serigala, dan kamupun bisa melampiaskan birahimu sepanjang malam dengannya ahh"
     HarlotVisitYou:
-      - "Tengah malam kamu bermimpi Harlot menunggangimu. Saat membuka mata, kamu menyadari bahwa itu bukan sekadar mimpi! Sial, dalam gelap wajahnya tak terlihat jelas. Kamu membiarkan dirimu menghabiskan malam panas bersamanya. Dia lalu meninggalkanmu dengan sensasi-sensasi yang menggetarkan pikiranmu. Nikmat, bukan?"
+    - "Tengah malam kamu bermimpi Harlot menunggangimu. Saat membuka mata, kamu menyadari bahwa itu bukan sekadar mimpi! Sial, dalam gelap wajahnya tak terlihat jelas. Kamu membiarkan dirimu menghabiskan malam panas bersamanya. Dia lalu meninggalkanmu dengan sensasi-sensasi yang menggetarkan pikiranmu. Nikmat, bukan?"
     HarlotDiscoverCult:
-      - "Kamu menyelinap ke rumah {0} untuk bersenang-senang bersamanya. Namun, saat kamu hendak meninggalkan tempat itu, matamu tak sengaja melihat sebuah altar aneh yang tersembunyi di pojok ruangan, dikelilingi oleh cahaya yang misterius."
+    - "Kamu menyelinap ke rumah {0} untuk bersenang-senang bersamanya. Namun, saat kamu hendak meninggalkan tempat itu, matamu tak sengaja melihat sebuah altar aneh yang tersembunyi di pojok ruangan, dikelilingi oleh cahaya yang misterius."
     HarlotFuckKiller:
-      - "Kamu menyelinap ke rumah {0} dan menghabiskan malam penuh gairah dengannya. Semuanya tampak baik-baik saja hingga {0} tiba-tiba menggenggam pisau lalu menikammu bertubi-tubi sembari terkekeh. Kamu tewas!"
+    - "Kamu menyelinap ke rumah {0} dan menghabiskan malam penuh gairah dengannya. Semuanya tampak baik-baik saja hingga {0} tiba-tiba menggenggam pisau lalu menikammu bertubi-tubi sembari terkekeh. Kamu tewas!"
     HarlotVisitNotHome:
-      - "Kamu berharap bisa menikmati momen bergairah bersama {0}, tetapi dia tidak ada di rumah. Kamu kecewa."
+    - "Kamu berharap bisa menikmati momen bergairah bersama {0}, tetapi dia tidak ada di rumah. Kamu kecewa."
   Seer:
     Seer:
-      - "Penerawang (Seer) \U0001F473"
+    - "Penerawang (Seer) 👳"
     RoleInfoSeer:
-      - "\U0001F473 Kamu adalah Penerawang (Seer). Setiap malam, kamu bisa menerawang seseorang dan mengungkap peran yang mereka sembunyikan."
+    - "👳 Kamu adalah Penerawang (Seer). Setiap malam, kamu bisa menerawang seseorang dan mengungkap peran yang mereka sembunyikan."
     AskSee:
-      - "Siapa yang ingin kamu terawang?"
+    - "Siapa yang ingin kamu terawang?"
     SeerSees:
-      - "Kamu melihat {0} adalah {1}!"
+    - "Kamu melihat {0} adalah {1}!"
   Traitor:
     Traitor:
-      - "Pengkhianat \U0001F595"
+    - "Pengkhianat 🖕"
     RoleInfoTraitor:
-      - "Pengkhianat\U0001F595! \nSaat ini kamu adalah penduduk desa biasa. Namun, jika semua serigala mati, kamu akan berubah jadi serigala."
+    - "Pengkhianat🖕! \nSaat ini kamu adalah penduduk desa biasa. Namun, jika semua serigala mati, kamu akan berubah jadi serigala."
     TraitorTurnWolf:
-      - "Hey, Pengkhianat. Kini kamu adalah seekor serigala..."
+    - "Hey, Pengkhianat. Kini kamu adalah seekor serigala..."
   GuardianAngel:
     GuardianAngel:
-      - "Malaikat Pelindung \U0001F47C"
+    - "Malaikat Pelindung 👼"
     RoleInfoGuardianAngel:
-      - "\U0001F47C Kamu adalah Malaikat Pelindung. Kamu bisa memilih seorang pemain untuk dilindungi setiap malam, tetapi tidak dengan Serigala, kamu 50% akan mati jika mencoba melindungi Serigala."
+    - "👼 Kamu adalah Malaikat Pelindung. Kamu bisa memilih seorang pemain untuk dilindungi setiap malam, tetapi tidak dengan Serigala, kamu 50% akan mati jika mencoba melindungi Serigala."
     AskGuard:
-      - "Siapa yang ingin kamu lindungi?"
+    - "Siapa yang ingin kamu lindungi?"
     GuardWolf:
-      - "Anda mencoba untuk melindungi serigala! Sungguh sial ... serigala tersebut malah menyerangmu."
+    - "Anda mencoba untuk melindungi serigala! Sungguh sial ... serigala tersebut malah menyerangmu."
     GuardSaved:
-      - "Anda telah menyelamatkan nyawa {0}!"
+    - "Anda telah menyelamatkan nyawa {0}!"
     GuardNoAttack:
-      - "{0} tidak diserang tadi malam, jadi pada dasarnya kamu tidak melakukan apa-apa alias gabut... duh."
+    - "{0} tidak diserang tadi malam, jadi pada dasarnya kamu tidak melakukan apa-apa alias gabut... duh."
     GuardEmptyHouse:
-      - "Kamu pergi untuk menjaga {0}, tapi dia tidak berada di rumahnya!"
+    - "Kamu pergi untuk menjaga {0}, tapi dia tidak berada di rumahnya!"
     GuardSavedYou:
-      - "Malam ini, kamu diserang oleh sosok gelap dan jahat. Namun, Malaikat Pelindung membentangkan sayapnya dan berhasil menepis semua ancaman yang menghampirimu! Berterima kasihlah kepadanya karena dia telah menyelamatkanmu."
+    - "Malam ini, kamu diserang oleh sosok gelap dan jahat. Namun, Malaikat Pelindung membentangkan sayapnya dan berhasil menepis semua ancaman yang menghampirimu! Berterima kasihlah kepadanya karena dia telah menyelamatkanmu."
     GAGuardedKiller:
-      - "Seharusnya tadi malam adalah malam di mana {0} Sang Malaikat Pelindung menyelamatkan kota dari para pembunuh, tetapi Pembunuh Berantai berhasil memadamkan cahaya dan mematahkan sayapnya! Di sebelah kiri tubuhnya disematkan catatan \"Ahahahaha! Dasar bodoh, aku bisa melindungi diriku sendiri jauh lebih baik darimu.\""
+    - "Seharusnya tadi malam adalah malam di mana {0} Sang Malaikat Pelindung menyelamatkan kota dari para pembunuh, tetapi Pembunuh Berantai berhasil memadamkan cahaya dan mematahkan sayapnya! Di sebelah kiri tubuhnya disematkan catatan \"Ahahahaha! Dasar bodoh, aku bisa melindungi diriku sendiri jauh lebih baik darimu.\""
     GAGuardedWolf:
-      - "{0} Sang Malaikat Pelindung ternyata mencoba melindungi serigala tadi malam. Saat fajar menyingsing, penduduk desa menemukan sayap {0} tergantung di salib gereja. Enaknya para serigala mendapat tambahan makanan pembuka yang enak dari Tuhan, gratis, dan tanpa harus bepergian. Benar-benar beruntung."
+    - "{0} Sang Malaikat Pelindung ternyata mencoba melindungi serigala tadi malam. Saat fajar menyingsing, penduduk desa menemukan sayap {0} tergantung di salib gereja. Enaknya para serigala mendapat tambahan makanan pembuka yang enak dari Tuhan, gratis, dan tanpa harus bepergian. Benar-benar beruntung."
     GuardSavedYouFromFire:
-      - "Kebakaran melanda rumahmu. Penduduk desa lainnya sedang sibuk mengevakuasi korban lainnya. Untungnya Malaikat Pelindung muncul tepat waktu dan dengan sigap memadamkannya! Sepertinya dia bisa menjadi pemadam kebakaran yang ulung. "
+    - "Kebakaran melanda rumahmu. Penduduk desa lainnya sedang sibuk mengevakuasi korban lainnya. Untungnya Malaikat Pelindung muncul tepat waktu dan dengan sigap memadamkannya! Sepertinya dia bisa menjadi pemadam kebakaran yang ulung. "
     GuardSavedFromFire:
-      - "Anda tidak menyangka akan terjadi kebakaran saat mengunjungi rumah {0}, untungnya kamu berhasil menyelamatkan nyawa dan rumahnya. Dengan ini kemampuanmu melindungi target akan diakui oleh penduduk desa."
+    - "Anda tidak menyangka akan terjadi kebakaran saat mengunjungi rumah {0}, untungnya kamu berhasil menyelamatkan nyawa dan rumahnya. Dengan ini kemampuanmu melindungi target akan diakui oleh penduduk desa."
     CleanDoused:
-      - "Malam ini, tidak ada tanda-tanda musuh mengunjungi rumah {0}, jadi kamu punya waktu untuk memeriksa sekitar. Tiba-tiba, kamu menyadari bahwa rumah itu dipenuhi dengan minyak tanah! Dengan cepat kamu membersihkan rumah itu sebelum muncul api."
+    - "Malam ini, tidak ada tanda-tanda musuh mengunjungi rumah {0}, jadi kamu punya waktu untuk memeriksa sekitar. Tiba-tiba, kamu menyadari bahwa rumah itu dipenuhi dengan minyak tanah! Dengan cepat kamu membersihkan rumah itu sebelum muncul api."
     GuardBlockedWolf:
-      - "Kawananmu menuju ke rumah {0} untuk memakannya, tetapi kalian bertemu dengan sosok tinggi gelap, bersenjata lengkap. Malaikat Pelindung mengalahkan semua penyerang! Kamu harus pulang dengan menerima kekalahan."
+    - "Kawananmu menuju ke rumah {0} untuk memakannya, tetapi kalian bertemu dengan sosok tinggi gelap, bersenjata lengkap. Malaikat Pelindung mengalahkan semua penyerang! Kamu harus pulang dengan menerima kekalahan."
     GuardKiller:
-      - "Ternyata target yang coba kamu lindungi adalah Pembunuh Berantai (Serial Killer)! Dia menyeringai lalu menikammu sebanyak 89 kali hingga tewas!"
+    - "Ternyata target yang coba kamu lindungi adalah Pembunuh Berantai (Serial Killer)! Dia menyeringai lalu menikammu sebanyak 89 kali hingga tewas!"
     GuardBlockedKiller:
-      - "Kamu mencoba menguliti tubuh {0} untuk dikoleksi, tapi Malaikat Pelindung berhasil mengalahkanmu dan mengusirmu! Tidak ada organ tubuh untukmu malam ini."
+    - "Kamu mencoba menguliti tubuh {0} untuk dikoleksi, tapi Malaikat Pelindung berhasil mengalahkanmu dan mengusirmu! Tidak ada organ tubuh untukmu malam ini."
     GuardBlockedSnowWolf:
-      - "Dalam kegelapan malam, kawananmu bergerak menuju rumah {0} untuk memakannya. Di depan rumahnya, kalian bertemu dengan sosok tinggi gelap, bersenjata lengkap. Malaikat Pelindung mengalahkan semua penyerang! Kalian harus pulang dengan rasa lapar."
+    - "Dalam kegelapan malam, kawananmu bergerak menuju rumah {0} untuk memakannya. Di depan rumahnya, kalian bertemu dengan sosok tinggi gelap, bersenjata lengkap. Malaikat Pelindung mengalahkan semua penyerang! Kalian harus pulang dengan rasa lapar."
   Detective:
     Detective:
-      - "Detektif \U0001F575️"
+    - "Detektif 🕵️"
     RoleInfoDetective:
-      - "\U0001F575️ Kamu adalah Detektif. Setiap siang, kamu bisa menyelidiki dan mengetahui peran pemain lain. Namun, risikonya 40% kemungkinan tindakkanmu akan diketahui oleh serigala"
+    - "🕵️ Kamu adalah Detektif. Setiap siang, kamu bisa menyelidiki dan mengetahui peran pemain lain. Namun, risikonya 40% kemungkinan tindakkanmu akan diketahui oleh serigala"
     AskDetect:
-      - "Siapa yang ingin kamu selidiki?"
+    - "Siapa yang ingin kamu selidiki?"
     DetectiveCaught:
-      - "Anda menyadari gerak-gerik {0} sedang menyelidiki sesuatu! Dia pasti si Detektif!"
+    - "Anda menyadari gerak-gerik {0} sedang menyelidiki sesuatu! Dia pasti si Detektif!"
     DetectiveSnoop:
-      - "Hasil penyelidikan Anda menunjukkan bahwa {0} adalah {1}."
+    - "Hasil penyelidikan Anda menunjukkan bahwa {0} adalah {1}."
   Wolf:
     Wolf:
-      - "Serigala \U0001F43A"
+    - "Serigala 🐺"
     RoleInfoWolf:
-      - "\U0001F43A SERIGALA! AHAHAHAHHAHA. Setiap malam, kamu bisa memilih memakan seseorang."
+    - "🐺 SERIGALA! AHAHAHAHHAHA. Setiap malam, kamu bisa memilih memakan seseorang."
     AskEat:
-      - "Siapa yang ingin kamu makan?"
+    - "Siapa yang ingin kamu makan?"
     WolfVotedKill:
-      - "{0} memilih memakan {1}."
+    - "{0} memilih memakan {1}."
     WolvesEatDrunk:
-      - "Oh tidak! {0} adalah Pemabuk! Kini kamu mabuk, dan tidak akan mampu menyerang besok malam."
+    - "Oh tidak! {0} adalah Pemabuk! Kini kamu mabuk, dan tidak akan mampu menyerang besok malam."
     WolvesEatDrunkBlockSecondKill:
-      - "Oh, tidak! {0} adalah seorang pemabuk! Kini kamu mabuk, dan tidak bisa menyerang pada malam berikutnya {1}"
+    - "Oh, tidak! {0} adalah seorang pemabuk! Kini kamu mabuk, dan tidak bisa menyerang pada malam berikutnya {1}"
     AllWolfDead:
-      - "Tidak ada lagi serigala yang tersisa kecuali dirimu. Kamu kehilangan kekuatanmu dan kembali menjadi serigala biasa."
+    - "Tidak ada lagi serigala yang tersisa kecuali dirimu. Kamu kehilangan kekuatanmu dan kembali menjadi serigala biasa."
     WolvesEatYou:
-      - "Oh tidak! Serigala memakanmu. NOMNOMNOMNOM"
+    - "Oh tidak! Serigala memakanmu. NOMNOMNOMNOM"
     WolfPackList:
-      - "Tim serigalamu terdiri dari:"
+    - "Tim serigalamu terdiri dari:"
     DiscussWith:
-      - "Pastikan kamu berdiskusi dengan {0}"
+    - "Pastikan kamu berdiskusi dengan {0}"
   Cursed:
     Cursed:
-      - "Cursed\U0001F63E"
+    - "Cursed😾"
     RoleInfoCursed:
-      - "Kamu adalah Cursed \U0001F63E. Sekarang kamu bagian dari penduduk desa. Namun, jika Serigala menggigitmu, kamu akan menjadi salah satu dari mereka."
+    - "Kamu adalah Cursed 😾. Sekarang kamu bagian dari penduduk desa. Namun, jika Serigala menggigitmu, kamu akan menjadi salah satu dari mereka."
     CursedBitten:
-      - "Serigala berhasil menggigitmu! Kini, kamu adalah seekor serigala!"
+    - "Serigala berhasil menggigitmu! Kini, kamu adalah seekor serigala!"
     CursedBittenToWolves:
-      - "{0} berhasil digigit, ternyata dia adalah Cursed! Kini, dia menjadi serigala sepertimu. Selamat atas rekan barumu!"
+    - "{0} berhasil digigit, ternyata dia adalah Cursed! Kini, dia menjadi serigala sepertimu. Selamat atas rekan barumu!"
   Gunner:
     Gunner:
-      - ""
+    - ""
     RoleInfoGunner:
-      - "\U0001F52B Kamu adalah Gunner. Kamu memiliki 2 peluru di setiap pertandingan. Pada siang hari, kamu bisa memilih untuk menembak seseorang. Berhati-hatilah, karena suara tembakanmu akan membelah dinding-dinding sepi, menarik perhatian seluruh warga desa yang terjaga."
+    - "🔫 Kamu adalah Gunner. Kamu memiliki 2 peluru di setiap pertandingan. Pada siang hari, kamu bisa memilih untuk menembak seseorang. Berhati-hatilah, karena suara tembakanmu akan membelah dinding-dinding sepi, menarik perhatian seluruh warga desa yang terjaga."
     AskShoot:
-      - ""
+    - ""
     HarlotShot:
-      - "Sepertinya si Gunner terjangkit sifilis usai malam penuh gairah bersama Harlot. {0} meluapkan amarah dengan tindakannya, membalas dendam dengan tembakan yang merenggut nyawa {1}. "
+    - "Sepertinya si Gunner terjangkit sifilis usai malam penuh gairah bersama Harlot. {0} meluapkan amarah dengan tindakannya, membalas dendam dengan tembakan yang merenggut nyawa {1}. "
     DefaultShot:
-      - "Tiba-tiba, suara tembakan memecah hening. Penduduk desa berpaling melihat {0} berdiri tegak di atas tubuh {1}, dengan senjata masih terarah lurus ke kepalanya. {2}. \n"
+    - "Tiba-tiba, suara tembakan memecah hening. Penduduk desa berpaling melihat {0} berdiri tegak di atas tubuh {1}, dengan senjata masih terarah lurus ke kepalanya. {2}. \n"
     GunnerShotWiseElder:
-      - "{0} si Gunner \U0001F52B menembak {1} Sang Tetua\U0001F475\U0001F3FB desa. {0} terisak sedih, menyesali kesalahannya, lalu memutuskan untuk melepaskan senjatanya. Kini dia menjalani hidup sebagai penduduk desa sederhana dengan ladang yang harus dibajak."
+    - "{0} si Gunner 🔫 menembak {1} Sang Tetua👵🏻 desa. {0} terisak sedih, menyesali kesalahannya, lalu memutuskan untuk melepaskan senjatanya. Kini dia menjalani hidup sebagai penduduk desa sederhana dengan ladang yang harus dibajak."
   Tanner:
     Tanner:
-      - ""
+    - ""
     RoleInfoTanner:
-      - "Kamu adalah Tanner \U0001F47A. Jika mayoritas penduduk desa memilih untuk menghukum mati kamu, kamu menang."
+    - "Kamu adalah Tanner 👺. Jika mayoritas penduduk desa memilih untuk menghukum mati kamu, kamu menang."
   Fool:
     Fool:
-      - "Fool\U0001F0CF"
+    - "Fool🃏"
     RoleInfoFool:
-      - "Fool akan mengira dirinya Penerawang (Seer). Saat dia mengecek peran seseorang pada malam hari, bot akan mengiriminya informasi random."
+    - "Fool akan mengira dirinya Penerawang (Seer). Saat dia mengecek peran seseorang pada malam hari, bot akan mengiriminya informasi random."
   WildChild:
     WildChild:
-      - ""
+    - ""
     RoleInfoWildChild:
-      - "\U0001F476 Kamu adalah Wild Child! Pilihlah seseorang untuk kamu jadikan panutan, jika panutanmu mati kamu akan menjadi serigala."
+    - "👶 Kamu adalah Wild Child! Pilihlah seseorang untuk kamu jadikan panutan, jika panutanmu mati kamu akan menjadi serigala."
     WildChildToWolves:
-      - "Panutan {0} baru saja mati! Dalam kemarahannya, dia berubah menjadi serigala!"
+    - "Panutan {0} baru saja mati! Dalam kemarahannya, dia berubah menjadi serigala!"
     WildChildTransform:
-      - "{0} tewas! Dalam kemarahan, kamu berubah menjadi serigala!"
+    - "{0} tewas! Dalam kemarahan, kamu berubah menjadi serigala!"
   Beholder:
     Beholder:
-      - ""
+    - ""
     RoleInfoBeholder:
-      - "\U0001F441 Kamu adalah Beholder. Kamu dapat mengetahui siapa Penerawang (Seer) yang asli."
+    - "👁 Kamu adalah Beholder. Kamu dapat mengetahui siapa Penerawang (Seer) yang asli."
     BeholderSeer:
-      - "\nPenerawang (Seer)\U0001F473 adalah {0}."
+    - "\nPenerawang (Seer)👳 adalah {0}."
     BeholderNewSeer:
-      - "{0} adalah Murid Penerawang (Seer), dan dia telah menggantikan tempat {1} sebagai Seer yang baru."
+    - "{0} adalah Murid Penerawang (Seer), dan dia telah menggantikan tempat {1} sebagai Seer yang baru."
     NoSeer:
-      - "Tidak ada Penerawang (Seer)!"
+    - "Tidak ada Penerawang (Seer)!"
     BeholderSeerStolen:
-      - "Pencuri berhasil mencuri peran Penerawang! Kini, {0} adalah Penerawang yang baru, dan {1} tidak lagi memiliki kemampuan menerawang."
+    - "Pencuri berhasil mencuri peran Penerawang! Kini, {0} adalah Penerawang yang baru, dan {1} tidak lagi memiliki kemampuan menerawang."
   ApprenticeSeer:
     ApprenticeSeer:
-      - "Murid Penerawang \U0001F647"
+    - "Murid Penerawang 🙇"
     RoleInfoApprenticeSeer:
-      - "\U0001F647 Kamu adalah Murid Penerawang (Seer). Ketika Seer mati, kamu akan menggantikannya sebagai Seer yang baru."
+    - "🙇 Kamu adalah Murid Penerawang (Seer). Ketika Seer mati, kamu akan menggantikannya sebagai Seer yang baru."
     ApprenticeNowSeer:
-      - "{0} adalah mantan Penerawang (Seer). Sebagai Murid yang disayangi, kamu menggantikan posisinya menjadi Seer yang baru."
+    - "{0} adalah mantan Penerawang (Seer). Sebagai Murid yang disayangi, kamu menggantikan posisinya menjadi Seer yang baru."
   Cultist:
     Cultist:
-      - "Cultist \U0001F47D"
+    - "Cultist 👽"
     RoleInfoCultist:
-      - "\U0001F47D Kamu adalah Cultist. Setiap malam, kamu dapat merekrut pemain lain masuk ke sekte kamu. Kamu akan menang, jika semuanya telah bergabung ke sekte kamu."
+    - "👽 Kamu adalah Cultist. Setiap malam, kamu dapat merekrut pemain lain masuk ke sekte kamu. Kamu akan menang, jika semuanya telah bergabung ke sekte kamu."
     CultistVotedConvert:
-      - "{0} memilih merekrut {1}"
+    - "{0} memilih merekrut {1}"
     AskConvert:
-      - "Siapa yang ingin kamu rekrut ke sekte?"
+    - "Siapa yang ingin kamu rekrut ke sekte?"
     CultConvertCultHunter:
     - "{0} diutus untuk menjalankan tugas merekrut {1}. Sayangnya targetnya ternyata seorang Pemburu Cultist! Sungguh malang, {0} tewas dibacok sang Pemburu Cultist!"
     CultJoin:
-      - "{0} telah bergabung ke dalam sekte!"
+    - "{0} telah bergabung ke dalam sekte!"
     CultistsList:
-      - "Anggota sekte Cultist saat ini:"
+    - "Anggota sekte Cultist saat ini:"
     CultConvertWolf:
-      - "Cultist mengutus {0} untuk merekrut {1}, tetapi tiba-tiba kepala {0} melayang terhempas ke arah para Cultist yang bersembunyi di balik semak. Ternyata target mereka adalah Serigala! {0} tewas!"
+    - "Cultist mengutus {0} untuk merekrut {1}, tetapi tiba-tiba kepala {0} melayang terhempas ke arah para Cultist yang bersembunyi di balik semak. Ternyata target mereka adalah Serigala! {0} tewas!"
     CultistBitten:
-      - "Aneh, saat kalian tengah berdiskusi tentang siapa yang akan kalian hasut malam ini, kamu menyadari bahwa {0} tidak ada di sini! Apa yang terjadi padanya?"
+    - "Aneh, saat kalian tengah berdiskusi tentang siapa yang akan kalian hasut malam ini, kamu menyadari bahwa {0} tidak ada di sini! Apa yang terjadi padanya?"
     CultConvertHunter:
-      - "Cultist mengutus {0} untuk merekrut {1}, tetapi dentuman tembakan terdengar dari dalam rumah. {0} terlempar keluar jendela! {0} tewas!"
+    - "Cultist mengutus {0} untuk merekrut {1}, tetapi dentuman tembakan terdengar dari dalam rumah. {0} terlempar keluar jendela! {0} tewas!"
     CultConvertSerialKiller:
-      - "Cultist mengirim {0} untuk merekrut {1}. Namun, malapetaka terjadi, tubuh {0} terhempas keluar jendela. Tubuhnya penuh dengan luka tusukan di setiap inci. Apa yang terjadi??? {0} tewas!"
-      - "{0} menyelinap ke rumah {1}, membuka pintu dengan pelan. Sayangnya, seorang maniak gila muncul dengan pisau mengarah kepadanya! {1} menusukkan pisaunya ke setiap organ tubuh {0} dari atas hingga bawah sembari terkekeh! {0} tewas!"
+    - "Cultist mengirim {0} untuk merekrut {1}. Namun, malapetaka terjadi, tubuh {0} terhempas keluar jendela. Tubuhnya penuh dengan luka tusukan di setiap inci. Apa yang terjadi??? {0} tewas!"
+    - "{0} menyelinap ke rumah {1}, membuka pintu dengan pelan. Sayangnya, seorang maniak gila muncul dengan pisau mengarah kepadanya! {1} menusukkan pisaunya ke setiap organ tubuh {0} dari atas hingga bawah sembari terkekeh! {0} tewas!"
     CHHuntedYou:
-      - "Cultist Hunter mengunjungimu saat kamu sedang memuja kerang ajaib di altar. Dengan gerakan cepat, dia menghunus lehermu. Kamu tewas."
+    - "Cultist Hunter mengunjungimu saat kamu sedang memuja kerang ajaib di altar. Dengan gerakan cepat, dia menghunus lehermu. Kamu tewas."
     HunterKilledCultist:
-      - "Bau yang menyengat datang dari rumah {0}. Penduduk desa memeriksanya dan menemukan sesosok jasad tergeletak di depan altar yang gelap. Seorang Cultist telah dibacok oleh Cultist Hunter!"
+    - "Bau yang menyengat datang dari rumah {0}. Penduduk desa memeriksanya dan menemukan sesosok jasad tergeletak di depan altar yang gelap. Seorang Cultist telah dibacok oleh Cultist Hunter!"
     CultConvertWolfPublic:
-      - "Saat serigala memutuskan untuk diet, {0} si Cultist datang dan mengganggu tidur nyenyaknya. Sayangnya, serigala bukanlah lawan yang seimbang untuk Cultist. Kepala {0} diubah menjadi makan malam yang enak oleh serigala."
-      - "Para Cultist mengalami masalah tak terduga tadi malam. Anggota terbaru mereka mengalami kesialan karena ternyata targetnya adalah serigala yang memutuskan untuk tinggal di sarangnya. Serigala merasa {0} cukup lezat. Sungguh malang nasib {0}, serigala tidak tertarik bergabung dengan sektenya."
+    - "Saat serigala memutuskan untuk diet, {0} si Cultist datang dan mengganggu tidur nyenyaknya. Sayangnya, serigala bukanlah lawan yang seimbang untuk Cultist. Kepala {0} diubah menjadi makan malam yang enak oleh serigala."
+    - "Para Cultist mengalami masalah tak terduga tadi malam. Anggota terbaru mereka mengalami kesialan karena ternyata targetnya adalah serigala yang memutuskan untuk tinggal di sarangnya. Serigala merasa {0} cukup lezat. Sungguh malang nasib {0}, serigala tidak tertarik bergabung dengan sektenya."
     CultConvertKillerPublic:
-      - "Para Cultist mengira mereka akan memiliki anggota baru di kelompok mereka, tetapi mereka keliru! {0}, seorang Cultist, dipotong-potong dan disematkan di alun-alun kota pagi ini! Anehnya, kitab suci mereka ditemukan ditusuk dengan pisau, seolah-olah pernyataan untuk menunjukkan agama siapa yang berjaya."
-      - "Tadi malam, Cultist mencoba merekrut satu orang di desa yang ternyata lebih gila dari mereka. Anggota terbaru dikirim untuk merekrut seseorang, ternyata target mereka adalah seorang Pembunuh Berantai! Jasad {0} disematkan di pusat alun-alun kota."
+    - "Para Cultist mengira mereka akan memiliki anggota baru di kelompok mereka, tetapi mereka keliru! {0}, seorang Cultist, dipotong-potong dan disematkan di alun-alun kota pagi ini! Anehnya, kitab suci mereka ditemukan ditusuk dengan pisau, seolah-olah pernyataan untuk menunjukkan agama siapa yang berjaya."
+    - "Tadi malam, Cultist mencoba merekrut satu orang di desa yang ternyata lebih gila dari mereka. Anggota terbaru dikirim untuk merekrut seseorang, ternyata target mereka adalah seorang Pembunuh Berantai! Jasad {0} disematkan di pusat alun-alun kota."
     HunterKilledVisiter:
-      - "Di tengah alun-alun kota, penduduk desa menemukan jasad {0} dengan banyak luka tembakan di tubuhnya. Sepertinya dia mencoba menyelinap ke rumah si Pemburu! {1}."
+    - "Di tengah alun-alun kota, penduduk desa menemukan jasad {0} dengan banyak luka tembakan di tubuhnya. Sepertinya dia mencoba menyelinap ke rumah si Pemburu! {1}."
     CultVisitEmpty:
-      - "{0} diutus untuk menjalankan tugas merekrut {1}, tetapi tidak ada orang di rumah!"
+    - "{0} diutus untuk menjalankan tugas merekrut {1}, tetapi tidak ada orang di rumah!"
     CultConvertYou:
-      - "Cultist berhasil merekrutmu masuk ke sektemereka! Kini, kamu adalah seorang Cultist. Setiap malam, kamu memiliki kesempatan untuk merekrut pemain lain."
+    - "Cultist berhasil merekrutmu masuk ke sektemereka! Kini, kamu adalah seorang Cultist. Setiap malam, kamu memiliki kesempatan untuk merekrut pemain lain."
     CultUnableToConvert:
-      - "Kamu mengirim {0} untuk merekrut {1}, tetapi keyakinannya terlalu kuat sehingga {0} gagal membujuknya untuk bergabung."
+    - "Kamu mengirim {0} untuk merekrut {1}, tetapi keyakinannya terlalu kuat sehingga {0} gagal membujuknya untuk bergabung."
     CultTargetDead:
-      - "Anggota terbarumu pergi ke rumah {0} untuk merekrutnya, tetapi malah mendapati rumah itu hancur, darah di mana-mana, dan helaian bulu serigala tersangkut di ambang pintu."
+    - "Anggota terbarumu pergi ke rumah {0} untuk merekrutnya, tetapi malah mendapati rumah itu hancur, darah di mana-mana, dan helaian bulu serigala tersangkut di ambang pintu."
     CultAttempt:
-      - "Seorang Cultist mencoba merekrutmu menjadi Cultist, tetapi imanmu terlalu kuat."
+    - "Seorang Cultist mencoba merekrutmu menjadi Cultist, tetapi imanmu terlalu kuat."
   CultistHunter:
     CultistHunter:
-      - "Pemburu Cultist \U0001F482"
+    - "Pemburu Cultist 💂"
     RoleInfoCultistHunter:
-      - "\U0001F482 Kamu adalah Pemburu Cultist, tugas utamamu adalah membasmi aliran sesat di desamu. Jika Cultist mencoba untuk merekrutmu, dia akan mati."
+    - "💂 Kamu adalah Pemburu Cultist, tugas utamamu adalah membasmi aliran sesat di desamu. Jika Cultist mencoba untuk merekrutmu, dia akan mati."
     AskHunt:
-      - "Siapa yang ingin kamu buru?"
+    - "Siapa yang ingin kamu buru?"
     CultHunterKilledCultVisit:
-      - "Malam ini, {0} datang ke rumahmu, berharap berhasil merayumu untuk bergabung dengan sekte Cultist. Menyadari niatnya, kamu menarik pedang dan mengakhiri hidupnya. Satu Cultist berhasil kamu bunuh! {1} Cultist lagi yang tersisa"
+    - "Malam ini, {0} datang ke rumahmu, berharap berhasil merayumu untuk bergabung dengan sekte Cultist. Menyadari niatnya, kamu menarik pedang dan mengakhiri hidupnya. Satu Cultist berhasil kamu bunuh! {1} Cultist lagi yang tersisa"
     HunterVisitDead:
-      - "Anda pergi memburu {0}, tapi dia sudah mati!"
+    - "Anda pergi memburu {0}, tapi dia sudah mati!"
     HunterFailedToFind:
-      - "Anda pergi ke rumah {0}, tapi tidak ada tanda-tanda yang mencurigakan. Anda pulang ke rumah, yakin bahwa {0} bukan seorang Cultist."
+    - "Anda pergi ke rumah {0}, tapi tidak ada tanda-tanda yang mencurigakan. Anda pulang ke rumah, yakin bahwa {0} bukan seorang Cultist."
     HunterFindCultist:
-      - "Anda pergi ke rumah {0} dan menemukan dia sedang berdoa di depan altar untuk dewa yang tidak dikenal. Kamu pun segera menghunus pedang dan membunuhnya dengan cepat."
+    - "Anda pergi ke rumah {0} dan menemukan dia sedang berdoa di depan altar untuk dewa yang tidak dikenal. Kamu pun segera menghunus pedang dan membunuhnya dengan cepat."
     SerialKillerKilledCH:
-      - "Pagi ini, penduduk desa dibangunkan oleh teriakan terkejut dan rasa ngeri beberapa orang yang menggema. Darah menyala memercik dari pintu yang terbuka, dan di dalamnya terbaring tubuh terputus milik {0}. Sang Pemburu Cultist ditemukan dalam kondisi mengerikan! Pelajaran hidup dari peristiwa ini: Jangan coba-coba mengunjungi Pembunuh Berantai!"
+    - "Pagi ini, penduduk desa dibangunkan oleh teriakan terkejut dan rasa ngeri beberapa orang yang menggema. Darah menyala memercik dari pintu yang terbuka, dan di dalamnya terbaring tubuh terputus milik {0}. Sang Pemburu Cultist ditemukan dalam kondisi mengerikan! Pelajaran hidup dari peristiwa ini: Jangan coba-coba mengunjungi Pembunuh Berantai!"
   Mason:
     Mason:
-      - "Kuli\U0001F477"
+    - "Kuli👷"
     RoleInfoMason:
-      - "Kamu adalah seorang Kuli \U0001F477, jika ada Kuli lain, kamu pasti mengenali mereka."
+    - "Kamu adalah seorang Kuli 👷, jika ada Kuli lain, kamu pasti mengenali mereka."
     MasonTeam:
-      - "Saudara kuli kamu adalah: {0}"
+    - "Saudara kuli kamu adalah: {0}"
     MasonConverted:
-      - "Aneh, {0} tidak hadir di rapat para kuli pagi ini. Hmmm."
+    - "Aneh, {0} tidak hadir di rapat para kuli pagi ini. Hmmm."
   Doppelganger:
     Doppelganger:
-      - ""
+    - ""
     RoleInfoDoppelganger:
-      - "Kamu adalah Doppelgänger \U0001F3AD. Menurut legenda, nenek moyangmu adalah perubah bentuk, makhluk yang mampu berubah wujud apa pun yang diinginkan. Kamu mewarisi kemampuan itu. Pilihlah seorang pemain; saat pemain itu tewas, kamu akan memiliki perannya."
+    - "Kamu adalah Doppelgänger 🎭. Menurut legenda, nenek moyangmu adalah perubah bentuk, makhluk yang mampu berubah wujud apa pun yang diinginkan. Kamu mewarisi kemampuan itu. Pilihlah seorang pemain; saat pemain itu tewas, kamu akan memiliki perannya."
     AskRoleModel:
-      - "Siapa yang ingin kamu jadikan panutan?"
+    - "Siapa yang ingin kamu jadikan panutan?"
     AskDoppelganger:
-      - "Peran siapa yang ingin kamu tiru jika dia mati?"
+    - "Peran siapa yang ingin kamu tiru jika dia mati?"
     RoleModelChosen:
-      - "Kamu tidak memilih siapa pun, jadi moderator akan memilih seseorang untukmu. Yaitu: {0}"
+    - "Kamu tidak memilih siapa pun, jadi moderator akan memilih seseorang untukmu. Yaitu: {0}"
     DGTransformToMason:
-      - "{0} tewas! Kini, kamu mengambil alih perannya menjadi Kuli. Rekan kuli kamu (jika ada) yaitu: {1}"
+    - "{0} tewas! Kini, kamu mengambil alih perannya menjadi Kuli. Rekan kuli kamu (jika ada) yaitu: {1}"
     DGTransformToCult:
-      - "{0} tewas! Kini, kamu mengambil alih perannya menjadi Cultist. Rekan satu timmu (jika ada) yaitu: {1}"
+    - "{0} tewas! Kini, kamu mengambil alih perannya menjadi Cultist. Rekan satu timmu (jika ada) yaitu: {1}"
     DGToMason:
-      - "{0} si Doppelganger kini menjadi Kuli sepertimu!"
+    - "{0} si Doppelganger kini menjadi Kuli sepertimu!"
     DGToCult:
-      - "{0} si Doppelganger kini menjadi Cultist sepertimu!"
+    - "{0} si Doppelganger kini menjadi Cultist sepertimu!"
     DGToWolf:
-      - "{0} si Doppelganger kini menjadi serigala sepertimu!"
+    - "{0} si Doppelganger kini menjadi serigala sepertimu!"
   Cupid:
     Cupid:
-      - ""
+    - ""
     RoleInfoCupid:
-      - "Kamu adalah Cupid \U0001F3F9. Diutus ke Bumi hanya membawa celana dalam, busur, dan dua anak panah. Tugasmu adalah memilih dua pemain untuk saling mencintai selamanya, jika salah satu dari mereka tewas yang lain akan menyusul ke alam kematian, karena diselimuti kesedihan yang mendalam."
+    - "Kamu adalah Cupid 🏹. Diutus ke Bumi hanya membawa celana dalam, busur, dan dua anak panah. Tugasmu adalah memilih dua pemain untuk saling mencintai selamanya, jika salah satu dari mereka tewas yang lain akan menyusul ke alam kematian, karena diselimuti kesedihan yang mendalam."
     AskCupid1:
-      - "Siapa yang ingin kamu jodohkan? Pilih pemain pertama."
+    - "Siapa yang ingin kamu jodohkan? Pilih pemain pertama."
     AskCupid2:
-      - "Siapa yang ingin kamu jodohkan? Pilih pemain kedua."
+    - "Siapa yang ingin kamu jodohkan? Pilih pemain kedua."
     CupidChosen:
-      - "Kamu ditusuk panah asmara. Kamu telah jatuh cinta ke dalam hati {0}. ❤️Kalian akan merasakan hidup ini bersama-sama termasuk kematian❤️."
-      - "Kamu ditusuk panah asmara. Kamu telah jatuh cinta ke dalam hati {0}. ❤️Kalian akan merasakan hidup ini bersama-sama termasuk kematian❤️."
+    - "Kamu ditusuk panah asmara. Kamu telah jatuh cinta ke dalam hati {0}. ❤️Kalian akan merasakan hidup ini bersama-sama termasuk kematian❤️."
+    - "Kamu ditusuk panah asmara. Kamu telah jatuh cinta ke dalam hati {0}. ❤️Kalian akan merasakan hidup ini bersama-sama termasuk kematian❤️."
   Hunter:
     Hunter:
-      - "Pemburu \U0001F3AF"
+    - "Pemburu 🎯"
     RoleInfoHunter:
-      - "\U0001F3AF Kamu adalah Hunter. Kamu sering kesulitan tidur dengan nyenyak. Kamu tidak pernah beristirahat tanpa senapan di sisimu. Jika digantung oleh penduduk desa, kamu memiliki kesempatan untuk menarik seseorang agar ikut mati bersamamu. Jika diterkam oleh serigala, kamu memiliki satu kesempatan untuk membunuh salah satu dari mereka, tapi kamu tidak bisa menentukan serigala mana yang akan kamu bunuh."
+    - "🎯 Kamu adalah Hunter. Kamu sering kesulitan tidur dengan nyenyak. Kamu tidak pernah beristirahat tanpa senapan di sisimu. Jika digantung oleh penduduk desa, kamu memiliki kesempatan untuk menarik seseorang agar ikut mati bersamamu. Jika diterkam oleh serigala, kamu memiliki satu kesempatan untuk membunuh salah satu dari mereka, tapi kamu tidak bisa menentukan serigala mana yang akan kamu bunuh."
     HunterLynchedChoice:
-      - "Penduduk desa telah memutuskan untuk menggantungmu. Kamu memiliki satu kesempatan menembak seseorang untuk mati bersamamu."
+    - "Penduduk desa telah memutuskan untuk menggantungmu. Kamu memiliki satu kesempatan menembak seseorang untuk mati bersamamu."
     HunterNoChoiceLynched:
-      - "Saat {0} hendak digantung, {0} meraba hampa mencari pistolnya, tetapi Hunter sudah kehilangan kekuatannya, tidak sanggup menembak siapa pun."
+    - "Saat {0} hendak digantung, {0} meraba hampa mencari pistolnya, tetapi Hunter sudah kehilangan kekuatannya, tidak sanggup menembak siapa pun."
     HunterSkipChoiceLynched:
-      - "{0} meraih senjatanya, memandang kerumunan dengan ragu. Kebimbangan merayapi benaknya, tak mampu menentukan siapa yang akan mati bersamanya. Hunter mengembuskan napas terakhirnya tanpa membawa siapa pun ke alam kematian."
+    - "{0} meraih senjatanya, memandang kerumunan dengan ragu. Kebimbangan merayapi benaknya, tak mampu menentukan siapa yang akan mati bersamanya. Hunter mengembuskan napas terakhirnya tanpa membawa siapa pun ke alam kematian."
     HunterKilledFinalLynched:
-      - "Saat tali mengencang di sekitar leher {0}, dia segera meraih pistolnya, membidik, lalu menembak {1} tepat sebelum jatuh tergantung! {1} tewas dengan leher tergantung. {2}"
+    - "Saat tali mengencang di sekitar leher {0}, dia segera meraih pistolnya, membidik, lalu menembak {1} tepat sebelum jatuh tergantung! {1} tewas dengan leher tergantung. {2}"
     HunterShotChoice:
-      - "Sosok gelap menyerangmu! Di saat-saat terakhir hidupmu, kamu memiliki satu kesempatan untuk menembak seseorang! Pilih dengan cepat!"
+    - "Sosok gelap menyerangmu! Di saat-saat terakhir hidupmu, kamu memiliki satu kesempatan untuk menembak seseorang! Pilih dengan cepat!"
     HunterNoChoiceShot:
-      - "Hantaman ke kepala {0} terlalu keras hingga dia tak mampu meraih pistolnya. Dia mengembuskan napas terakhirnya di antara genangan darahnya."
+    - "Hantaman ke kepala {0} terlalu keras hingga dia tak mampu meraih pistolnya. Dia mengembuskan napas terakhirnya di antara genangan darahnya."
     HunterSkipChoiceShot:
-      - "Saat {0} merangkak lemah, napasnya tersengal, kesadarannya terhenti. Dia tak mampu menentukan siapa yang akan ditembak. "
+    - "Saat {0} merangkak lemah, napasnya tersengal, kesadarannya terhenti. Dia tak mampu menentukan siapa yang akan ditembak. "
     HunterKilledFinalShot:
-      - "Sekarat, tubuh {0} merosot ke tanah. Namun, dia tak putus asa, diraihnya pistol, dibidiknya ke arah {1}. Peluru mendarat tepat di antara kedua matanya. {2}."
+    - "Sekarat, tubuh {0} merosot ke tanah. Namun, dia tak putus asa, diraihnya pistol, dibidiknya ke arah {1}. Peluru mendarat tepat di antara kedua matanya. {2}."
     HunterShotWolfMulti:
-      - "Serigala mencoba menyerang Hunter tadi malam, tapi Hunter berhasil menjatuhkan satu serigala lalu mati bersamanya. {0} tewas!"
+    - "Serigala mencoba menyerang Hunter tadi malam, tapi Hunter berhasil menjatuhkan satu serigala lalu mati bersamanya. {0} tewas!"
     HunterShotWolf:
-      - "Serigala mencoba menyerang Pemburu tadi malam, tetapi Pemburu berhasil membunuh satu serigala {0} menggunakan senapannya!"
+    - "Serigala mencoba menyerang Pemburu tadi malam, tetapi Pemburu berhasil membunuh satu serigala {0} menggunakan senapannya!"
     HunterKilledWiseElder:
-      - "{0} si Hunter \U0001F3AF menembak {1} Sang Tetua Desa   \U0001F475\U0001F3FB. Dengan isak tangis penuh penyesalan, {0} meratapi kesalahannya dan menyembunyikan identitasnya sebagai Hunter. Dia mengembuskan napas terakhirnya sebagai Penduduk Desa \U0001F471."
+    - "{0} si Hunter 🎯 menembak {1} Sang Tetua Desa   👵🏻. Dengan isak tangis penuh penyesalan, {0} meratapi kesalahannya dan menyembunyikan identitasnya sebagai Hunter. Dia mengembuskan napas terakhirnya sebagai Penduduk Desa 👱."
   SerialKiller:
     SerialKiller:
-      - "Pembunuh Berantai \U0001F52A"
+    - "Pembunuh Berantai 🔪"
     RoleInfoSerialKiller:
-      - "Kamu adalah seorang Pembunuh Berantai \U0001F52A yang baru saja melarikan diri dari rumah sakit jiwa setempat. Tujuanmu adalah agar semua orang mati. Setiap malam, kamu bisa membunuh satu pemain dan menjadikan organ tubuhnya sebagai bagian dari koleksi pribadimu."
+    - "Kamu adalah seorang Pembunuh Berantai 🔪 yang baru saja melarikan diri dari rumah sakit jiwa setempat. Tujuanmu adalah agar semua orang mati. Setiap malam, kamu bisa membunuh satu pemain dan menjadikan organ tubuhnya sebagai bagian dari koleksi pribadimu."
     AskKill:
-      - "Siapa yang ingin kamu bunuh malam ini?"
+    - "Siapa yang ingin kamu bunuh malam ini?"
     KillerRandomKill:
-      - "Dalam perjalanan pulang dari {0}, kamu merasa benda tajam menusuk kakimu. Kamu memutuskan untuk mencari bantuan di rumah terdekat yang tampaknya milik {1}. Sayangnya, kamu menghadapi situasi yang tak terduga. Kamu berhasil membunuhnya lalu segera pulang, sebelum ada yang melihatmu."
+    - "Dalam perjalanan pulang dari {0}, kamu merasa benda tajam menusuk kakimu. Kamu memutuskan untuk mencari bantuan di rumah terdekat yang tampaknya milik {1}. Sayangnya, kamu menghadapi situasi yang tak terduga. Kamu berhasil membunuhnya lalu segera pulang, sebelum ada yang melihatmu."
     KillerStumbled:
-      - "Kamu berhasil memotong organ hati tubuh {0}, tetapi saat kamu hendak kembali pulang, kakimu tersandung dan jatuh ke dalam galian kuburan yang belum selesai. Membedah mayat mungkin terlalu berisiko untukmu... kini kakimu terluka."
+    - "Kamu berhasil memotong organ hati tubuh {0}, tetapi saat kamu hendak kembali pulang, kakimu tersandung dan jatuh ke dalam galian kuburan yang belum selesai. Membedah mayat mungkin terlalu berisiko untukmu... kini kakimu terluka."
     SerialKillerKilledYou:
-      - "Tok Tok Tok! Kamu dikunjungi oleh Pembunuh Berantai!"
-      - "Pembunuh Berantai menyergapmu, mengikatmu dengan benang senar, lalu menikam jantungmu yang rapuh bertubi-tubi."
+    - "Tok Tok Tok! Kamu dikunjungi oleh Pembunuh Berantai!"
+    - "Pembunuh Berantai menyergapmu, mengikatmu dengan benang senar, lalu menikam jantungmu yang rapuh bertubi-tubi."
     SerialKillerKilledWolf:
-      - "Serigala mengira akan dapat camilan larut malam yang enak. Ia melompat ke arah targetnya, taringnya siap untuk menyerang. Sayangnya, ia keliru, targetnya ternyata seorang maniak gila! Pembunuh Berantai merespon dengan refleks yang terlatih, mengayunkan pisaunya dengan presisi yang mematikan, berhasil menyayat mata dan menusuk jantung serigala hingga terkapar mengerang kesakitan. {0} tewas dalam pertarungan!"
+    - "Serigala mengira akan dapat camilan larut malam yang enak. Ia melompat ke arah targetnya, taringnya siap untuk menyerang. Sayangnya, ia keliru, targetnya ternyata seorang maniak gila! Pembunuh Berantai merespon dengan refleks yang terlatih, mengayunkan pisaunya dengan presisi yang mematikan, berhasil menyayat mata dan menusuk jantung serigala hingga terkapar mengerang kesakitan. {0} tewas dalam pertarungan!"
   Sorcerer:
     Sorcerer:
-      - "Penyihir \U0001F52E"
+    - "Penyihir 🔮"
     RoleInfoSorcerer:
-      - "Kamu adalah Penyihir \U0001F52E yang bersekutu dengan serigala. Setiap malam, kamu bisa menerawang peran pemain lain. Gunakan kemampuanmu untuk menemukan Serigala, dan bantu mereka menemukan peran penting seperti Penerawang. Kamu hanya menang jika Serigala menang. "
+    - "Kamu adalah Penyihir 🔮 yang bersekutu dengan serigala. Setiap malam, kamu bisa menerawang peran pemain lain. Gunakan kemampuanmu untuk menemukan Serigala, dan bantu mereka menemukan peran penting seperti Penerawang. Kamu hanya menang jika Serigala menang. "
   AlphaWolf:
     AlphaWolf:
-      - "Serigala Alpha ⚡️"  
+    - "Serigala Alpha ⚡️"
     RoleInfoAlphaWolf:
-      - "Kamu adalah Serigala Alpha ⚡️, sang pemimpin para serigala. Gigitanmu adalah penyebab kutukan yang mengubah penduduk desa menjadi serigala. Kamu bisa memilih satu penduduk desa untuk diserang dan dibunuh setiap malam. Selama kamu masih hidup, korbanmu berpeluang 20% terinfeksi dan berubah menjadi serigala."
+    - "Kamu adalah Serigala Alpha ⚡️, sang pemimpin para serigala. Gigitanmu adalah penyebab kutukan yang mengubah penduduk desa menjadi serigala. Kamu bisa memilih satu penduduk desa untuk diserang dan dibunuh setiap malam. Selama kamu masih hidup, korbanmu berpeluang 20% terinfeksi dan berubah menjadi serigala."
     BittenTurned:
-      - "Saat malam tiba, bulu kudukmu berdiri, diikuti oleh rasa sakit yang menjalar ke seluruh tubuh. Perlahan, tubuhmu mulai bertransformasi. Kamu berubah menjadi serigala!"
+    - "Saat malam tiba, bulu kudukmu berdiri, diikuti oleh rasa sakit yang menjalar ke seluruh tubuh. Perlahan, tubuhmu mulai bertransformasi. Kamu berubah menjadi serigala!"
     PlayerBitten:
-      - "Kamu diserang oleh serigala, tetapi Serigala Alpha memutuskan untuk menginfeksimu. Kamu akan berubah menjadi serigala esok malam."
+    - "Kamu diserang oleh serigala, tetapi Serigala Alpha memutuskan untuk menginfeksimu. Kamu akan berubah menjadi serigala esok malam."
     PlayerBittenWolves:
-      - "Saat serigala menyerang {0}, {1} menghentikan seluruh kawanan. Sebagai Serigala Alpha, {1} memberitahu kawanan bahwa {0} harus bergabung dengan kawanan sebagai serigala, jadi para serigala membiarkan dia terinfeksi. Dia akan menjadi serigala esok malam."
+    - "Saat serigala menyerang {0}, {1} menghentikan seluruh kawanan. Sebagai Serigala Alpha, {1} memberitahu kawanan bahwa {0} harus bergabung dengan kawanan sebagai serigala, jadi para serigala membiarkan dia terinfeksi. Dia akan menjadi serigala esok malam."
   WolfCub:
     WolfCub:
-      - "Anak Serigala \U0001F436"
+    - "Anak Serigala 🐶"
     RoleInfoWolfCub:
-      - "Kamu adalah Anak Serigala \U0001F436 yang paling disayang di kawanan serigala. Seperti serigala lainnya, setiap malam kamu bisa memilih satu penduduk desa untuk diserang dan dibunuh. Kawanan serigala akan mengamuk dan menyerang dua orang pada malam berikutnya, jika kamu dibunuh."
+    - "Kamu adalah Anak Serigala 🐶 yang paling disayang di kawanan serigala. Seperti serigala lainnya, setiap malam kamu bisa memilih satu penduduk desa untuk diserang dan dibunuh. Kawanan serigala akan mengamuk dan menyerang dua orang pada malam berikutnya, jika kamu dibunuh."
   Blacksmith:
     Blacksmith:
-      - "Blacksmith⚒"
+    - "Blacksmith⚒"
     RoleInfoBlacksmith:
-      - "Kamu adalah si Ahli Besi ⚒. Kamu memiliki sedikit bubuk perak yang berguna untuk mencegah serigala menyerang selama satu malam. Kamu bisa memilih untuk menyebarkannya ke seluruh desa atau tidak pada siang hari. Kamu bagian dari tim penduduk desa."
+    - "Kamu adalah si Ahli Besi ⚒. Kamu memiliki sedikit bubuk perak yang berguna untuk mencegah serigala menyerang selama satu malam. Kamu bisa memilih untuk menyebarkannya ke seluruh desa atau tidak pada siang hari. Kamu bagian dari tim penduduk desa."
     SpreadDust:
-      - "Apakah kamu ingin menyebarkan bubuk hari ini?"
+    - "Apakah kamu ingin menyebarkan bubuk hari ini?"
     BlacksmithSpreadSilver:
-      - "Saat penduduk desa tengah berdebat, mereka melihat {0} berkeliling menyebarkan bubuk perak ke seluruh tempat. Malam ini, desa akan aman dari serangan serigala."
+    - "Saat penduduk desa tengah berdebat, mereka melihat {0} berkeliling menyebarkan bubuk perak ke seluruh tempat. Malam ini, desa akan aman dari serangan serigala."
   ClumsyGuy:
     ClumsyGuy:
-      - "Clumsy Guy\U0001F915"
+    - "Clumsy Guy🤕"
     RoleInfoClumsyGuy:
-      - "Kamu adalah Clumsy Guy\U0001F915. Saat pemungutan suara berlangsung, 50% kemungkinan kamu akan memilih orang lain selain yang kamu pilih. Kamu masih bagian dari tim desa."
+    - "Kamu adalah Clumsy Guy🤕. Saat pemungutan suara berlangsung, 50% kemungkinan kamu akan memilih orang lain selain yang kamu pilih. Kamu masih bagian dari tim desa."
   Mayor:
     Mayor:
-      - "Walikota \U0001F396"
+    - "Walikota 🎖"
     RoleInfoMayor:
-      - "Kamu adalah Walikota\U0001F396. Suaramu dalam pemungutan suara (vote) hukuman mati akan dihitung dua kali, tetapi itu hanya terjadi setelah kamu mengungkapkan identitasmu sebagai Walikota. Kamu bagian dari tim desa."
+    - "Kamu adalah Walikota🎖. Suaramu dalam pemungutan suara (vote) hukuman mati akan dihitung dua kali, tetapi itu hanya terjadi setelah kamu mengungkapkan identitasmu sebagai Walikota. Kamu bagian dari tim desa."
     AskMayor:
-      - "Klik \"Ungkap\" jika kamu siap mengungkapkan identitasmu sebagai Walikota."
+    - "Klik \"Ungkap\" jika kamu siap mengungkapkan identitasmu sebagai Walikota."
     MayorReveal:
-      - "{0} melangkah maju, menunjukkan cap resmi Walikota, menyatakan dirinya sebagai Walikota yang sah. Mulai sekarang, suara {0} dalam keputusan hukuman mati akan dihitung dua kali."
+    - "{0} melangkah maju, menunjukkan cap resmi Walikota, menyatakan dirinya sebagai Walikota yang sah. Mulai sekarang, suara {0} dalam keputusan hukuman mati akan dihitung dua kali."
     Reveal:
-      - "Ungkap"
+    - "Ungkap"
   Prince:
     Prince:
-      - "Pangeran \U0001F451"
+    - "Pangeran 👑"
     RoleInfoPrince:
-      - "Kamu adalah Pangeran \U0001F451  yang melarikan diri dari kehidupan istana yang penuh kemewahan, tetapi membosankan. Kamu memilih untuk menghabiskan hari-harimu di tengah-tengah penduduk desa yang sederhana. Jika mereka mencoba mengeksekusimu, identitas sejati sebagai Pangeran akan terungkap, dan tidak akan ada seorang pun yang akan digantung."
+    - "Kamu adalah Pangeran 👑  yang melarikan diri dari kehidupan istana yang penuh kemewahan, tetapi membosankan. Kamu memilih untuk menghabiskan hari-harimu di tengah-tengah penduduk desa yang sederhana. Jika mereka mencoba mengeksekusimu, identitas sejati sebagai Pangeran akan terungkap, dan tidak akan ada seorang pun yang akan digantung."
     PrinceLynched:
-      - "Saat penduduk desa bersiap menggantungnya, {0} berteriak. \"Tunggu! Aku Pangeran dari kerajaan ini! Lihatlah baik-baik, Rakyatku. Cincin dan stempel kerajaan ini buktinya!\" Dia menunjuk ke arah salah satu kerumunan. \"Mereka adalah para pelayan setiaku, mereka akan bersaksi untukku.\" Menyaksikan itu, penduduk desa merasa malu. Mereka kembali ke rumah masing-masing, dan pangeran dibebaskan dari hukuman gantung."
+    - "Saat penduduk desa bersiap menggantungnya, {0} berteriak. \"Tunggu! Aku Pangeran dari kerajaan ini! Lihatlah baik-baik, Rakyatku. Cincin dan stempel kerajaan ini buktinya!\" Dia menunjuk ke arah salah satu kerumunan. \"Mereka adalah para pelayan setiaku, mereka akan bersaksi untukku.\" Menyaksikan itu, penduduk desa merasa malu. Mereka kembali ke rumah masing-masing, dan pangeran dibebaskan dari hukuman gantung."
   Lycan:
     Lycan:
-      - "" 
+    - ""
     RoleInfoLycan:
-      - "Kamu adalah Lycan \U0001F43A\U0001F31D, salah satu jenis dari kawanan serigala. Kemampuan manipulasimu membuat Penerawang (Seer) kebingungan dan mengira kamu hanyalah penduduk desa biasa."
+    - "Kamu adalah Lycan 🐺🌝, salah satu jenis dari kawanan serigala. Kemampuan manipulasimu membuat Penerawang (Seer) kebingungan dan mengira kamu hanyalah penduduk desa biasa."
   Pacifist:
     Pacifist:
-      - "Pasifis ☮️"
+    - "Pasifis ☮️"
     RoleInfoPacifist:
-      - "Kamu adalah seorang Pasifis ☮️. Kamu memiliki kemampuan berorasi yang dapat meyakinkan semua orang di desa untuk tidak mengeksekusi siapa pun hari itu. Namun, kamu hanya bisa menggunakan kemampuanmu sekali. "
+    - "Kamu adalah seorang Pasifis ☮️. Kamu memiliki kemampuan berorasi yang dapat meyakinkan semua orang di desa untuk tidak mengeksekusi siapa pun hari itu. Namun, kamu hanya bisa menggunakan kemampuanmu sekali. "
     AskPacifist:
-      - "Tekanlah tombol ini saat kamu ingin mengungkapkan kata-kata tulus untuk menghentikan penduduk desa menghukum mati seseorang!"
+    - "Tekanlah tombol ini saat kamu ingin mengungkapkan kata-kata tulus untuk menghentikan penduduk desa menghukum mati seseorang!"
     PacifistNoLynch:
-      - "{0} Sang Pasifis ☮️ menyampaikan pidato yang tulus tentang persahabatan dan kepercayaan di hadapan penduduk desa. Tersentuh oleh kata-katanya, penduduk desa memutuskan untuk menangguhkan hukuman mati hari ini."
+    - "{0} Sang Pasifis ☮️ menyampaikan pidato yang tulus tentang persahabatan dan kepercayaan di hadapan penduduk desa. Tersentuh oleh kata-katanya, penduduk desa memutuskan untuk menangguhkan hukuman mati hari ini."
     PacifistNoLynchNow:
-      - "Berkat ucapan sepenuh hati dari Pasifis ☮️, hari ini fase lynch akan dilewati!"
+    - "Berkat ucapan sepenuh hati dari Pasifis ☮️, hari ini fase lynch akan dilewati!"
     LynchPeaceTimeout:
-      - Lynching hari ini dilewati karena pidato yang menyentuh hati dari Pacifist!
+    - Lynching hari ini dilewati karena pidato yang menyentuh hati dari Pacifist!
     Peace:
-      - "Berdamailah!"
+    - "Berdamailah!"
   WiseElder:
     WiseElder:
-      - "Tetua \U0001F475\U0001F3FB"
+    - "Tetua 👵🏻"
     RoleInfoWiseElder:
-      - "Kamu adalah Tetua \U0001F475\U0001F3FB di desamu. Kamu mampu selamat dari satu serangan serigala, tetapi akan tewas jika diserang kedua kalinya. Gunner atau Pemburu akan kehilangan kemampuan mereka, jika mereka membunuhmu. Hukuman mereka adalah berubah menjadi penduduk desa biasa, karena telah bersikap kurang ajar terhadap seorang tetua desa."
+    - "Kamu adalah Tetua 👵🏻 di desamu. Kamu mampu selamat dari satu serangan serigala, tetapi akan tewas jika diserang kedua kalinya. Gunner atau Pemburu akan kehilangan kemampuan mereka, jika mereka membunuhmu. Hukuman mereka adalah berubah menjadi penduduk desa biasa, karena telah bersikap kurang ajar terhadap seorang tetua desa."
     WolvesTriedToEatWiseElder:
-      - "Kamu mencoba menyerang {0}, sayangnya dia adalah Tetua\U0001F475\U0001F3FB desa! {0} berhasil menggagalkan seranganmu, kamu beruntung karena dia tidak mengenalimu."
+    - "Kamu mencoba menyerang {0}, sayangnya dia adalah Tetua👵🏻 desa! {0} berhasil menggagalkan seranganmu, kamu beruntung karena dia tidak mengenalimu."
     WolvesAteWiseElderPM:
-      - "Serigala mencoba memakanmu, tetapi kamu tidak mati karena kamu adalah Sang Tetua\U0001F475\U0001F3FB desa, yang tidak mudah dilenyapkan oleh penyerang. Kamu berhasil menggagalkan serangan itu, tetapi kamu tidak mengenali si penyerang."
+    - "Serigala mencoba memakanmu, tetapi kamu tidak mati karena kamu adalah Sang Tetua👵🏻 desa, yang tidak mudah dilenyapkan oleh penyerang. Kamu berhasil menggagalkan serangan itu, tetapi kamu tidak mengenali si penyerang."
   Oracle:
     Oracle:
-      - "" 
+    - ""
     RoleInfoOracle:
-      - "Kamu adalah Oracle \U0001F300. Setiap malam, kamu bisa memilih satu pemain untuk dilihat perannya. Namun, kamu hanya akan melihat yang BUKAN perannya. Hasil terawanganmu menunjukkan bahwa pemain dengan peran tersebut masih hidup di desa. Gunakan kemampuan dan kecerdikanmu untuk membantu tim penduduk desa mencari peran jahat."
+    - "Kamu adalah Oracle 🌀. Setiap malam, kamu bisa memilih satu pemain untuk dilihat perannya. Namun, kamu hanya akan melihat yang BUKAN perannya. Hasil terawanganmu menunjukkan bahwa pemain dengan peran tersebut masih hidup di desa. Gunakan kemampuan dan kecerdikanmu untuk membantu tim penduduk desa mencari peran jahat."
     NegSeerSees:
-      - "Kamu melihat bahwa {0} BUKAN {1}!"
+    - "Kamu melihat bahwa {0} BUKAN {1}!"
   Sandman:
     Sandman:
-      - "Penabur Mimpi \U0001F4A4" 
+    - "Penabur Mimpi 💤"
     RoleInfoSandman:
-      - "Kamu adalah Penabur Mimpi \U0001F4A4. Sekali dalam permainan, kamu bisa menggunakan sihirmu untuk membuat semua orang tertidur lelap, mereka tidak akan beraksi malam itu."
+    - "Kamu adalah Penabur Mimpi 💤. Sekali dalam permainan, kamu bisa menggunakan sihirmu untuk membuat semua orang tertidur lelap, mereka tidak akan beraksi malam itu."
     AskSandman:
-      - "Apakah kamu ingin menidurkan semua pemain malam ini?"
+    - "Apakah kamu ingin menidurkan semua pemain malam ini?"
     SandmanSleepAll:
-      - "Saat penduduk desa sedang berdiskusi, {0} kembali ke rumahnya dan mulai menyenandungkan melodi lembut. Malam ini, semua orang akan tidur nyenyak, dan tidak ada yang bisa melakukan aksi malamnya."
+    - "Saat penduduk desa sedang berdiskusi, {0} kembali ke rumahnya dan mulai menyenandungkan melodi lembut. Malam ini, semua orang akan tidur nyenyak, dan tidak ada yang bisa melakukan aksi malamnya."
     SandmanNight:
-      - "Saat semua orang pulang, mereka hampir tidak bisa mencapai tempat tidur karena kelelahan. Mereka semua tertidur pulas, bahkan tidak ingat kapan mereka tertidur ..."
+    - "Saat semua orang pulang, mereka hampir tidak bisa mencapai tempat tidur karena kelelahan. Mereka semua tertidur pulas, bahkan tidak ingat kapan mereka tertidur ..."
   WolfMan:
     WolfMan:
-      - ""
+    - ""
     RoleInfoWolfMan:
-      - "\U0001F471\U0001F31A Kamu adalah WolfMan. Pada siang hari, kamu tampak seperti penduduk desa biasa. Namun, malam-malam panjang yang kamu habiskan di hutan tempat serigala-serigala berkeliaran, membuat Penerawang (Seer) keliru. Dalam penerawangannya kamu terlihat seperti seekor serigala."
+    - "👱🌚 Kamu adalah WolfMan. Pada siang hari, kamu tampak seperti penduduk desa biasa. Namun, malam-malam panjang yang kamu habiskan di hutan tempat serigala-serigala berkeliaran, membuat Penerawang (Seer) keliru. Dalam penerawangannya kamu terlihat seperti seekor serigala."
   Thief:
     Thief:
-      - "Pencuri \U0001F608" 
+    - "Pencuri 😈"
     RoleInfoThief:
-      - "Kamu adalah seorang Pencuri \U0001F608. Kamu memiliki kemampuan mencuri peran pemain lain pada malam pertama, pemain yang perannya kamu curi akan berubah menjadi penduduk desa biasa."
+    - "Kamu adalah seorang Pencuri 😈. Kamu memiliki kemampuan mencuri peran pemain lain pada malam pertama, pemain yang perannya kamu curi akan berubah menjadi penduduk desa biasa."
     RoleInfoThiefFull:
-      - "Kamu adalah Pencuri \U0001F608! Karena mode [Pencuri Penuh] diaktifkan, kamu berpeluang 50% mencuri peran pemain setiap malam. Jika kamu berhasil mencuri peran satu pemain, pemain itu akan menjadi pencuri baru dan melanjutkan pencurian."
+    - "Kamu adalah Pencuri 😈! Karena mode [Pencuri Penuh] diaktifkan, kamu berpeluang 50% mencuri peran pemain setiap malam. Jika kamu berhasil mencuri peran satu pemain, pemain itu akan menjadi pencuri baru dan melanjutkan pencurian."
     AskThief:
-      - "Peran siapa yang ingin kamu curi?"
+    - "Peran siapa yang ingin kamu curi?"
     ThiefStealFailed:
-      - "Kamu mencoba mencuri peran milik {0}, tetapi kamu gagal."
+    - "Kamu mencoba mencuri peran milik {0}, tetapi kamu gagal."
     ThiefStealDead:
-      - "Kamu mencoba mencuri peran milik {0}, tetapi {0} sudah mati."
+    - "Kamu mencoba mencuri peran milik {0}, tetapi {0} sudah mati."
     ThiefStoleRole:
-      - "Kamu berhasil mencuri peran milik {0}!"
+    - "Kamu berhasil mencuri peran milik {0}!"
     ThiefToMason:
-      - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi Mason sepertimu."
+    - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi Mason sepertimu."
     ThiefToCult:
-      - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi Cultist, rekan barumu."
+    - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi Cultist, rekan barumu."
     ThiefToWolf:
-      - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi serigala sepertimu."
+    - "{0} bukan lagi rekan setimmu. Kini, {1} menjadi serigala sepertimu."
     ThiefStealChosen:
-      - "Target pencurianmu sekarang adalah {0}."
+    - "Target pencurianmu sekarang adalah {0}."
     ThiefStoleYourRoleThief:
-      - "Peranmu dicuri! Kani, kamu adalah pencuri \U0001F608 baru yang dapat mencuri peran pemain lainnya mulai esok malam."
+    - "Peranmu dicuri! Kani, kamu adalah pencuri 😈 baru yang dapat mencuri peran pemain lainnya mulai esok malam."
     ThiefStoleYourRoleVillager:
-      - "Peranmu dicuri! Kini, kamu adalah penduduk desa biasa yang membajak ladang sepanjang hari."
+    - "Peranmu dicuri! Kini, kamu adalah penduduk desa biasa yang membajak ladang sepanjang hari."
     StealKiller:
-      - "Kamu mencoba mencuri peran seseorang, sayangnya targetmu ternyata si Pembunuh Berantai! Dia menyadari kehadiranmu di sekitar rumahnya. Dalam sekejap, kamu tewas ditikam."
+    - "Kamu mencoba mencuri peran seseorang, sayangnya targetmu ternyata si Pembunuh Berantai! Dia menyadari kehadiranmu di sekitar rumahnya. Dalam sekejap, kamu tewas ditikam."
     ThiefStoleKiller:
-      - "{0} si Pencuri rupanya berusaha mencuri peran dari si Pembunuh Berantai! Namun, usahanya berujung tragis. {0} ditusuk berulang kali dan kini kehilangan nyawanya."
+    - "{0} si Pencuri rupanya berusaha mencuri peran dari si Pembunuh Berantai! Namun, usahanya berujung tragis. {0} ditusuk berulang kali dan kini kehilangan nyawanya."
     NewDGRoleModel:
-      - "Kamu akan mengambil alih peran si {0} setelah kematiannya."
+    - "Kamu akan mengambil alih peran si {0} setelah kematiannya."
     NewWCRoleModel:
-      - "Kamu menjadi Wild Child. Panutanmu adalah {0}."
+    - "Kamu menjadi Wild Child. Panutanmu adalah {0}."
   Troublemaker:
     Troublemaker:
-      - "Pembuat Onar \U0001F92F"
+    - "Pembuat Onar 🤯"
     RoleInfoTroublemaker:
-      - "Kamu adalah si Pembuat Onar\U0001F92F, seorang pemuda di desa yang sangat temperamental dan provokatif. Kamu merasa sangat muak dengan semua teror yang terjadi di desa. Kemampuanmu membuatmu menjadi penyebab terjadinya dua kali eksekusi mati dalam sehari."
+    - "Kamu adalah si Pembuat Onar🤯, seorang pemuda di desa yang sangat temperamental dan provokatif. Kamu merasa sangat muak dengan semua teror yang terjadi di desa. Kemampuanmu membuatmu menjadi penyebab terjadinya dua kali eksekusi mati dalam sehari."
     AskTroublemaker:
-      - "Apakah kamu ingin mengacau hari ini?"
+    - "Apakah kamu ingin mengacau hari ini?"
     TroublemakerDoubleLynch:
-      - "{0} si Pembuat Onar \U0001F92F membuat keributan besar! Berlari sambil berteriak tanpa alasan yang jelas. Tindakannya telah membuat penduduk desa marah dan merasa tidak nyaman. Sebagai akibatnya, hari ini, penduduk desa akan mengadakan hukuman mati dua kali."
+    - "{0} si Pembuat Onar 🤯 membuat keributan besar! Berlari sambil berteriak tanpa alasan yang jelas. Tindakannya telah membuat penduduk desa marah dan merasa tidak nyaman. Sebagai akibatnya, hari ini, penduduk desa akan mengadakan hukuman mati dua kali."
     TroubleDoubleLynchNow:
-      - "Akibat ulah si Pembuat Onar, hari ini ada dua eksekusi mati. Semoga besok penduduk desa lebih tenang."
+    - "Akibat ulah si Pembuat Onar, hari ini ada dua eksekusi mati. Semoga besok penduduk desa lebih tenang."
   Chemist:
     Chemist:
-      - "Ahli Kimia \U0001F9EA"
+    - "Ahli Kimia 🧪"
     RoleInfoChemist:
-      - "Anda adalah Ahli Kimia \U0001F9EA, seorang ilmuwan gila yang bereksperimen dengan makhluk hidup. Pada malam pertama, Anda menyiapkan 4 ramuan. 2 adalah racun yang mematikan dan 2 adalah obat penghilang rasa sakit yang tidak berbahaya. Anda dapat memilih target untuk memberikan masing-masing ramuan, dan membiarkan mereka menentukan nasibnya sendiri!\n\nJika peran jahat mati karena racun, Anda menerima 2 ramuan ekstra. Setelah mengunjungi seseorang, Anda harus menunggu 1 hari sebelum mengunjungi pemain lain."
+    - "Anda adalah Ahli Kimia 🧪, seorang ilmuwan gila yang bereksperimen dengan makhluk hidup. Pada malam pertama, Anda menyiapkan 4 ramuan. 2 adalah racun yang mematikan dan 2 adalah obat penghilang rasa sakit yang tidak berbahaya. Anda dapat memilih target untuk memberikan masing-masing ramuan, dan membiarkan mereka menentukan nasibnya sendiri!\n\nJika peran jahat mati karena racun, Anda menerima 2 ramuan ekstra. Setelah mengunjungi seseorang, Anda harus menunggu 1 hari sebelum mengunjungi pemain lain."
     AskChemist:
-      - ""
+    - ""
     AskChemistPill:
-      - "Ahli kimia mendesak Anda untuk memilih ramuan. Yang satu mematikan dan yang satu lagi aman. Mana yang akan Anda pilih?"
+    - "Ahli kimia mendesak Anda untuk memilih ramuan. Yang satu mematikan dan yang satu lagi aman. Mana yang akan Anda pilih?"
     ChemistFail:
-      - "Ahli kimia {0} memaksamu untuk memilih ramuan. Kamu memilih yang tepat, dan sekarang kamu aman... setidaknya untuk saat ini!"
+    - "Ahli kimia {0} memaksamu untuk memilih ramuan. Kamu memilih yang tepat, dan sekarang kamu aman... setidaknya untuk saat ini!"
     ChemistDeadYou:
-      - "Ahli kimia {0} memaksamu untuk memilih ramuan. Kamu memilih yang beracun dan sekarang kamu mati... Tidak ada yang bisa disalahkan selain tanganmu yang bau :P"
+    - "Ahli kimia {0} memaksamu untuk memilih ramuan. Kamu memilih yang beracun dan sekarang kamu mati... Tidak ada yang bisa disalahkan selain tanganmu yang bau :P"
     ChemistSuccessPublic:
-      - "Ahli kimia yang kejam {0} memaksa {1} untuk memilih ramuan. {1} memilih yang beracun dan mati. Sepertinya dia tidak cocok untuk berjudi :P"
+    - "Ahli kimia yang kejam {0} memaksa {1} untuk memilih ramuan. {1} memilih yang beracun dan mati. Sepertinya dia tidak cocok untuk berjudi :P"
     ChemistFailPublic:
-      - "Ahli kimia tanpa ampun {0} memaksa {1} untuk memilih ramuan tadi malam. Namun, {1} percaya diri dengan kemampuannya dan memilih ramuan yang paling efektif dan selamat. huftt ... HOKI!"
+    - "Ahli kimia tanpa ampun {0} memaksa {1} untuk memilih ramuan tadi malam. Namun, {1} percaya diri dengan kemampuannya dan memilih ramuan yang paling efektif dan selamat. huftt ... HOKI!"
     ChemistBrewing:
-      - "Saat orang lain bersiap-siap untuk hari itu, Anda masih berada di lab untuk membuat ramuan. Anda dapat memberikan ramuan kepada satu orang untuk hari berikutnya."
+    - "Saat orang lain bersiap-siap untuk hari itu, Anda masih berada di lab untuk membuat ramuan. Anda dapat memberikan ramuan kepada satu orang untuk hari berikutnya."
     ChemistExtraPill:
-      - "Anda telah berhasil membunuh peran yang buruk. Sebagai hadiah, Anda menerima 2 ramuan ekstra."
+    - "Anda telah berhasil membunuh peran yang buruk. Sebagai hadiah, Anda menerima 2 ramuan ekstra."
   SnowWolf:
     SnowWolf:
-      - "Serigala Salju \U0001F43A☃️"
+    - "Serigala Salju 🐺☃️"
     RoleInfoSnowWolf:
-      - "Kamu adalah Serigala Salju \U0001F43A☃️. Setiap malam, kamu bergerak terpisah dari kawananmu, menentukan satu orang yang akan terkena serangan bekumu. Mereka yang berhasil kamu bekukan tidak akan bisa beraksi malam itu. Namun, kemampuanmu tidak bisa digunakan dua kali berturut-turut kepada pemain yang sama. Jika kawananmu tewas, kamu berubah menjadi serigala biasa, memangsa satu pemain setiap malamnya.\n"
+    - "Kamu adalah Serigala Salju 🐺☃️. Setiap malam, kamu bergerak terpisah dari kawananmu, menentukan satu orang yang akan terkena serangan bekumu. Mereka yang berhasil kamu bekukan tidak akan bisa beraksi malam itu. Namun, kemampuanmu tidak bisa digunakan dua kali berturut-turut kepada pemain yang sama. Jika kawananmu tewas, kamu berubah menjadi serigala biasa, memangsa satu pemain setiap malamnya.\n"
     AskFreeze:
-      - "Siapa yang ingin kamu bekukan malam ini?"
+    - "Siapa yang ingin kamu bekukan malam ini?"
     SuccessfulFreeze:
-      - "Kamu pergi ke rumah {0} untuk membekukannya. Malam ini, dia tidak akan bisa melakukan aksi malam (jika ada)."
+    - "Kamu pergi ke rumah {0} untuk membekukannya. Malam ini, dia tidak akan bisa melakukan aksi malam (jika ada)."
     HarlotFrozen:
-      - "Saat kamu membuka pintu untuk meninggalkan rumah, embusan angin bertiup ke arahmu, membekukanmu ❄️. Kamu berdiri membeku di ambang pintu, hatimu merutuki malam yang sial ini."
+    - "Saat kamu membuka pintu untuk meninggalkan rumah, embusan angin bertiup ke arahmu, membekukanmu ❄️. Kamu berdiri membeku di ambang pintu, hatimu merutuki malam yang sial ini."
     CultistFrozen:
-      - "Saat kamu bersiap meninggalkan rumah, embusan angin bertiup dari ambang pintu, membekukanmu ❄️. Rekan-rekan Cultist-mu mampir sebelum pergi ke rapat Cultist. Saat melihat kondisimu, mereka menertawakan nasibmu."
+    - "Saat kamu bersiap meninggalkan rumah, embusan angin bertiup dari ambang pintu, membekukanmu ❄️. Rekan-rekan Cultist-mu mampir sebelum pergi ke rapat Cultist. Saat melihat kondisimu, mereka menertawakan nasibmu."
     CHFrozen:
-      - "Saat kamu hendak menarik pedangmu, embusan angin bertiup dari depan, membekukanmu ❄️. Setelah es mencair, kamu masih kesulitan menggerakkan tubuhmu karena otot-ototmu terasa tegang dan kaku. Hingga fajar menyingsing, tubuhmu masih kaku dan perlu waktu untuk pulih sepenuhnya."
+    - "Saat kamu hendak menarik pedangmu, embusan angin bertiup dari depan, membekukanmu ❄️. Setelah es mencair, kamu masih kesulitan menggerakkan tubuhmu karena otot-ototmu terasa tegang dan kaku. Hingga fajar menyingsing, tubuhmu masih kaku dan perlu waktu untuk pulih sepenuhnya."
     SeeingFrozen:
-      - "Saat kamu duduk di meja siap menggunakan kekuatan psikismu, embusan angin datang dari arah jendela, membekukanmu ❄️. Meskipun biasanya terikat tidak menjadi masalah, kali ini mantra pembekuan menghadirkan sensasi dingin yang menusuk hingga ke otak."
+    - "Saat kamu duduk di meja siap menggunakan kekuatan psikismu, embusan angin datang dari arah jendela, membekukanmu ❄️. Meskipun biasanya terikat tidak menjadi masalah, kali ini mantra pembekuan menghadirkan sensasi dingin yang menusuk hingga ke otak."
     GAFrozen:
-      - "Saat kamu bersiap memgepakkan sayap, embusan angin dingin dari jendela membuat tubuhmu membeku. Rasa ngeri menyusup ke relung hati saat tiba-tiba membayangkan dirimu menjadi hiasan pohon.\n"
+    - "Saat kamu bersiap memgepakkan sayap, embusan angin dingin dari jendela membuat tubuhmu membeku. Rasa ngeri menyusup ke relung hati saat tiba-tiba membayangkan dirimu menjadi hiasan pohon.\n"
     SKFrozen:
-      - "Kamu menatap kagum koleksi hati yang sudah kamu kumpulkan sebelum meninggalkan rumah. Tiba-tiba, embusan angin bertiup dari jendela, membekukan stoples kaca di hadapanmu, lalu membekukanmu ❄️.\nPagi hari, saat tubuhmu tidak lagi membeku, hatimu membara, kamu bersumpah akan membuatnya merasakan penderitaan sebanyak mungkin saat menguliti organ tubuhnya."
+    - "Kamu menatap kagum koleksi hati yang sudah kamu kumpulkan sebelum meninggalkan rumah. Tiba-tiba, embusan angin bertiup dari jendela, membekukan stoples kaca di hadapanmu, lalu membekukanmu ❄️.\nPagi hari, saat tubuhmu tidak lagi membeku, hatimu membara, kamu bersumpah akan membuatnya merasakan penderitaan sebanyak mungkin saat menguliti organ tubuhnya."
     ThiefFrozen:
-      - "Saat melakukan aksimu, tubuhmu tiba-tiba terasa dingin dan kaku, terperangkap dalam es yang bisa berubah wujud. Matamu memperhatikan jejak partikel es yang melayang di udara. Di kejauhan, kamu melihat Serigala Salju \U0001F43A☃️ sedang menatapmu dengan sorot matanya dengan tajam. Kamu terdiam dalam keputusasaan hingga malam berlalu. Untungnya, saat itu cukup gelap sehingga tidak akan ada yang menertawakan kondisimu. Saat fajar menyingsing, kamu bergegas kembali ke rumah sebelum orang lain melihatmu."
+    - "Saat melakukan aksimu, tubuhmu tiba-tiba terasa dingin dan kaku, terperangkap dalam es yang bisa berubah wujud. Matamu memperhatikan jejak partikel es yang melayang di udara. Di kejauhan, kamu melihat Serigala Salju 🐺☃️ sedang menatapmu dengan sorot matanya dengan tajam. Kamu terdiam dalam keputusasaan hingga malam berlalu. Untungnya, saat itu cukup gelap sehingga tidak akan ada yang menertawakan kondisimu. Saat fajar menyingsing, kamu bergegas kembali ke rumah sebelum orang lain melihatmu."
     DefaultFrozen:
-      - "Saat kamu tertidur lelap, dingin menusuk tulangmu. Kamu menyadari bahwa tubuhmu terperangkap dalam es, tak bisa bergerak. Tampaknya Serigala Salju memberimu mantra pembekuan ❄️. Namun, kamu tidak peduli dan kembali tidur. Kamu masih bisa tidur dengan nyenyak meski dalam kondisi beku."
+    - "Saat kamu tertidur lelap, dingin menusuk tulangmu. Kamu menyadari bahwa tubuhmu terperangkap dalam es, tak bisa bergerak. Tampaknya Serigala Salju memberimu mantra pembekuan ❄️. Namun, kamu tidak peduli dan kembali tidur. Kamu masih bisa tidur dengan nyenyak meski dalam kondisi beku."
   Augur:
     Augur:
-      - ""
+    - ""
     RoleInfoAugur:
-      - "Kamu adalah Augur \U0001F985\nKamu adalah satu-satunya yang bisa melihat peran apa saja yang tidak ada di desa."
+    - "Kamu adalah Augur 🦅\nKamu adalah satu-satunya yang bisa melihat peran apa saja yang tidak ada di desa."
     AugurSees:
-      - "Saat menatap langit, kamu melihat pola yang tidak biasa dari burung-burung. Itu berarti tidak ada {0} di desa."
-      - "Burung-burung memberi isyarat tidak ada {0} di desa."
+    - "Saat menatap langit, kamu melihat pola yang tidak biasa dari burung-burung. Itu berarti tidak ada {0} di desa."
+    - "Burung-burung memberi isyarat tidak ada {0} di desa."
     AugurSeesNothing:
-      - "Tak ada seekor burung pun di langit hari ini. Kekosongan ini mungkin menandakan bahwa kamu sudah melihat semua peran yang tidak ada di desa."
+    - "Tak ada seekor burung pun di langit hari ini. Kekosongan ini mungkin menandakan bahwa kamu sudah melihat semua peran yang tidak ada di desa."
   Arsonist:
     Arsonist:
-      - ""
+    - ""
     RoleInfoArsonist:
-      - "Kamu adalah Arsonist\U0001F525, sosok menyeramkan dan legendaris yang diceritakan dengan gemetar oleh orang dewasa kepada anak-anak, untuk menakut-nakuti mereka. Kamu memiliki resep rahasia untuk solusi mudah terbakar yang dapat menyulut api di setiap sudut desa. Setiap malam, kamu bisa menyiram satu rumah pemain dengan minyak tanah. Jika tidak ada serigala yang tersisa di desa, siang harinya kamu bisa menyiram satu rumah pemain. Kamu memiliki kesempatan untuk menyiram beberapa rumah pemain lalu membakarnya bersamaan, atau menyiram dan membakarnya satu per satu."
+    - "Kamu adalah Arsonist🔥, sosok menyeramkan dan legendaris yang diceritakan dengan gemetar oleh orang dewasa kepada anak-anak, untuk menakut-nakuti mereka. Kamu memiliki resep rahasia untuk solusi mudah terbakar yang dapat menyulut api di setiap sudut desa. Setiap malam, kamu bisa menyiram satu rumah pemain dengan minyak tanah. Jika tidak ada serigala yang tersisa di desa, siang harinya kamu bisa menyiram satu rumah pemain. Kamu memiliki kesempatan untuk menyiram beberapa rumah pemain lalu membakarnya bersamaan, atau menyiram dan membakarnya satu per satu."
     AskArsonist:
-      - "Apakah kamu ingin menyiram rumah lainnya atau melihat semua rumah yang sudah disiram terbakar?"
+    - "Apakah kamu ingin menyiram rumah lainnya atau melihat semua rumah yang sudah disiram terbakar?"
     AskArsonistNoDoused:
-      - "Rumah siapa yang ingin kamu siram?"
+    - "Rumah siapa yang ingin kamu siram?"
     AlreadyDousedList:
-      - "\nAnda telah menyiram rumah: {0}"
+    - "\nAnda telah menyiram rumah: {0}"
     ExtraDouse:
-      - "Tidak ada serigala yang tersisa. Desa ini tengah lengah, jadi kamu bisa dengan leluasa menyusup dan menyiram rumah pemain lain siang ini."
+    - "Tidak ada serigala yang tersisa. Desa ini tengah lengah, jadi kamu bisa dengan leluasa menyusup dan menyiram rumah pemain lain siang ini."
     Doused:
-      - "Anda berhasil menyiram rumah {0} dengan minyak tanah!"
+    - "Anda berhasil menyiram rumah {0} dengan minyak tanah!"
     Burning:
-      - "Penduduk desa terkejut dengan bau asap yang menyengat... api merajalela! Kamu berusaha sekuat tenaga memadamkan kobaran api, tetapi terlambat menyelamatkan mereka yang rumahnya penuh dengan minyak tanah. Hari ini, kamu meratapi kepergian:\n{0}"
+    - "Penduduk desa terkejut dengan bau asap yang menyengat... api merajalela! Kamu berusaha sekuat tenaga memadamkan kobaran api, tetapi terlambat menyelamatkan mereka yang rumahnya penuh dengan minyak tanah. Hari ini, kamu meratapi kepergian:\n{0}"
     Burn:
-      - "Kamu seharusnya menyimpan alat pemadam api. Kini, rumahmu terbakar dan kamu terperangkap di dalamnya."
+    - "Kamu seharusnya menyimpan alat pemadam api. Kini, rumahmu terbakar dan kamu terperangkap di dalamnya."
     WolvesVisitBurn:
-      - "Serigala mencoba mendekati rumah {0}. Tunggu! Bau apa ini? Sekumpulan asap tebal mengepul di udara! Kamu berusaha melarikan diri, tetapi terlambat. {1} tewas dalam kobaran api yang mengamuk\U0001F525\U0001F525"
+    - "Serigala mencoba mendekati rumah {0}. Tunggu! Bau apa ini? Sekumpulan asap tebal mengepul di udara! Kamu berusaha melarikan diri, tetapi terlambat. {1} tewas dalam kobaran api yang mengamuk🔥🔥"
     DefaultVisitBurn:
-      - "Seharusnya {0} tetap tinggal di rumah malam ini. Namun, ia malah mendatangi rumah yang dilalap api dan tewas dalam kobaran yang membara \U0001F525\U0001F525. {1}"
+    - "Seharusnya {0} tetap tinggal di rumah malam ini. Namun, ia malah mendatangi rumah yang dilalap api dan tewas dalam kobaran yang membara 🔥🔥. {1}"
     WolfVisitBurn:
-      - "Serigala mencoba untuk memakan seseorang tadi malam. Ternyata targetnya adalah si Arsonist! Dengan gerakan yang cepat dan licik, Arsonist melemparkan cambuk api, {0} si serigala menghindar dengan gemetar dan terperangkap di dalam rumah yang menyala menjadi kobaran api, lalu mati terbakar. {1}"
+    - "Serigala mencoba untuk memakan seseorang tadi malam. Ternyata targetnya adalah si Arsonist! Dengan gerakan yang cepat dan licik, Arsonist melemparkan cambuk api, {0} si serigala menghindar dengan gemetar dan terperangkap di dalam rumah yang menyala menjadi kobaran api, lalu mati terbakar. {1}"
     ArsonistWinsOverpower:
-      - "Hanya {0} dan {1} yang tersisa, dua sosok yang berdiri di atas reruntuhan dan api yang menyala-nyala. Dengan gerakan yang tenang {0} menarik korek api dari saku, menyulutkan nyala api yang menyala terang. Dengan tangan yang terampil, dia melemparkan api ke arah kaki {1}, yang kemudian membakarnya\U0001F525! Dalam kegelapan yang membara, terdengar gelak tawa jahat yang mencengkeram jiwa. Arsonist memenangkan permainan!"
+    - "Hanya {0} dan {1} yang tersisa, dua sosok yang berdiri di atas reruntuhan dan api yang menyala-nyala. Dengan gerakan yang tenang {0} menarik korek api dari saku, menyulutkan nyala api yang menyala terang. Dengan tangan yang terampil, dia melemparkan api ke arah kaki {1}, yang kemudian membakarnya🔥! Dalam kegelapan yang membara, terdengar gelak tawa jahat yang mencengkeram jiwa. Arsonist memenangkan permainan!"
     ArsonistVisitKiller:
-      - "{0} si Arsonist mencoba menyiram rumah si Pembunuh Berantai \U0001F52A dengan minyak tanah. Terkejut melihat banyaknya potongan tubuh di dalam rumah itu, dia mulai menjelajahi setiap sudut. Merasa tidak nyaman, Pembunuh Berantai berlari ke arahnya lalu menikam kepalanya bertubi-tubi.\n\nDengan dingin dan tanpa belas kasihan, Pembunuh Berantai memilah-milah tubuh korban barunya. Setiap organ diperlakukan seperti trofi berharga, dicongkel dengan ketelitian yang menyeramkan. Tangannya memastikan setiap potongan diambil dengan sempurna agar koleksi barunya tidak rusak. Malang sekali nasib Arsonist."
+    - "{0} si Arsonist mencoba menyiram rumah si Pembunuh Berantai 🔪 dengan minyak tanah. Terkejut melihat banyaknya potongan tubuh di dalam rumah itu, dia mulai menjelajahi setiap sudut. Merasa tidak nyaman, Pembunuh Berantai berlari ke arahnya lalu menikam kepalanya bertubi-tubi.\n\nDengan dingin dan tanpa belas kasihan, Pembunuh Berantai memilah-milah tubuh korban barunya. Setiap organ diperlakukan seperti trofi berharga, dicongkel dengan ketelitian yang menyeramkan. Tangannya memastikan setiap potongan diambil dengan sempurna agar koleksi barunya tidak rusak. Malang sekali nasib Arsonist."
     Spark:
-    - "\U0001F525 Nyalakan apinya! \U0001F525"
+    - "🔥 Nyalakan apinya! 🔥"
   Boss:
     Boss:
-      - "Bos \U0001F3A9"
+    - "Bos 🎩"
     RoleInfoBoss:
-      - "Kamu adalah Bos \U0001F3A9\nKamu sangat menentang aliran sesat. Setiap kali bertemu Cultist, kamu menyusup ke dalam kelompok mereka dengan berpura-pura menjadi salah satu dari mereka. Namun, para Cultist tidak mengetahui identitas aslimu. Setiap malam, kamu diam-diam melaporkan jumlah Cultist kepada tim desa."
+    - "Kamu adalah Bos 🎩\nKamu sangat menentang aliran sesat. Setiap kali bertemu Cultist, kamu menyusup ke dalam kelompok mereka dengan berpura-pura menjadi salah satu dari mereka. Namun, para Cultist tidak mengetahui identitas aslimu. Setiap malam, kamu diam-diam melaporkan jumlah Cultist kepada tim desa."
     CultCount:
-      - "Kamu melihat Cultist\U0001F464 memiliki {0} anggota."
+    - "Kamu melihat Cultist👤 memiliki {0} anggota."
   Shadow:
     Shadow:
-      - "Serigala Bayangan \U0001F43A\U0001F31A"
+    - "Serigala Bayangan 🐺🌚"
     RoleInfoShadow:
-      - "Kamu adalah Serigala Bayangan \U0001F43A\U0001F31A \nSama seperti serigala lainnya, setiap malam kamu bisa membunuh satu orang. Keunikanmu terletak pada kemampuan bayangan yang menakjubkan. Saat kemampuanmu diaktifkan, bayanganmu menyelimuti suara dan pandangan para penduduk desa. Saat sesi hukuman mati dilaksanakan, tak seorang pun tahu siapa yang sebenarnya mereka hukum. Namun, kamu dan kawanan serigalamu bisa melihat siapa yang dihukum."
+    - "Kamu adalah Serigala Bayangan 🐺🌚 \nSama seperti serigala lainnya, setiap malam kamu bisa membunuh satu orang. Keunikanmu terletak pada kemampuan bayangan yang menakjubkan. Saat kemampuanmu diaktifkan, bayanganmu menyelimuti suara dan pandangan para penduduk desa. Saat sesi hukuman mati dilaksanakan, tak seorang pun tahu siapa yang sebenarnya mereka hukum. Namun, kamu dan kawanan serigalamu bisa melihat siapa yang dihukum."
     AskShadow:
-      - "Apakah Anda ingin menggunakan kemampuan bayangan Anda hari ini?"
+    - "Apakah Anda ingin menggunakan kemampuan bayangan Anda hari ini?"
     ShadowPower:
-      - "Anda telah berhasil menggunakan kemampuan Anda. Ketika fase hukuman mati tanpa pengadilan dimulai, penduduk desa tidak akan dapat melihat siapa yang mereka hukuman mati tanpa pengadilan, dan semua hukuman mati tanpa pengadilan akan terlihat sebagai \"?\". Manusia serigala akan terus melihat siapa yang mereka bunuh.."
+    - "Anda telah berhasil menggunakan kemampuan Anda. Ketika fase hukuman mati tanpa pengadilan dimulai, penduduk desa tidak akan dapat melihat siapa yang mereka hukuman mati tanpa pengadilan, dan semua hukuman mati tanpa pengadilan akan terlihat sebagai \"?\". Manusia serigala akan terus melihat siapa yang mereka bunuh.."
   Skeleton:
     Skeleton:
-      - "Kerangka \U0001F480"
+    - "Kerangka 💀"
     RoleInfoSkeleton:
-      - ""
+    - ""
     ButtonAppears:
-      - ""
+    - ""
     AskSkeleton:
-      - ""
+    - ""
     ChoiceConfirmation:
-      - ""
+    - ""
     BlockedNotice:
-      - ""
+    - ""
     HauntButton:
-      - ""
+    - ""
   Doctor:
     Doctor:
-      - "Dokter \U0001F9D1‍⚕️"
+    - "Dokter 🧑‍⚕️"
     RoleInfoDoctor:
-      - "Kamu adalah Dokter \U0001F9D1‍⚕️\nDengan satu sentuhan, kamu bisa menghidupkan kembali seorang pemain. Seiring berjalannya waktu, kekuatanmu akan berkembang, memungkinkanmu menghidupkan lebih banyak orang."
+    - "Kamu adalah Dokter 🧑‍⚕️\nDengan satu sentuhan, kamu bisa menghidupkan kembali seorang pemain. Seiring berjalannya waktu, kekuatanmu akan berkembang, memungkinkanmu menghidupkan lebih banyak orang."
     AskDoctor:
-      - "Siapa yang ingin Anda hidupkan kembali ?"
+    - "Siapa yang ingin Anda hidupkan kembali ?"
     DoctorRevive:
-      - "{0} si Dokter berhasil menghidupkan kembali {1} yang terbunuh tadi malam. Kini, pemain itu bangkit, siap membalas dendam atas kematiannya."
+    - "{0} si Dokter berhasil menghidupkan kembali {1} yang terbunuh tadi malam. Kini, pemain itu bangkit, siap membalas dendam atas kematiannya."
     DoctorYouRevive:
-      - "Dokter menghidupkanmu kembali! Kembalilah ke desa, bantu timmu memenangkan permainan."
+    - "Dokter menghidupkanmu kembali! Kembalilah ke desa, bantu timmu memenangkan permainan."
   Preacher:
     Preacher:
-      - "Pengabdi \U0001F6D0"
+    - "Pengabdi 🛐"
     RoleInfoPreacher:
-      - "\U0001F6D0 Anda adalah Pengabdi. Di malam hari, Anda bisa berdoa untuk seorang pemain. Jika pemain yang Anda doakan terbunuh, Anda akan mengetahui identitas pemain yang membunuhnya dan peran mereka. Namun, mereka juga akan menemukan identitas Anda. Kemampuan ini bisa digunakan mulai dari malam kedua."
+    - "🛐 Anda adalah Pengabdi. Di malam hari, Anda bisa berdoa untuk seorang pemain. Jika pemain yang Anda doakan terbunuh, Anda akan mengetahui identitas pemain yang membunuhnya dan peran mereka. Namun, mereka juga akan menemukan identitas Anda. Kemampuan ini bisa digunakan mulai dari malam kedua."
     AskPreacher:
-      - "Siapa yang ingin Anda doakan?"
+    - "Siapa yang ingin Anda doakan?"
     PreacherDone:
-      - "Seseorang yakni {0} yang Anda doakan di malam hari telah terbunuh. Peran {1}, siapa yang membunuhnya, adalah {2}."
+    - "Seseorang yakni {0} yang Anda doakan di malam hari telah terbunuh. Peran {1}, siapa yang membunuhnya, adalah {2}."
     PreacherFailed:
-      - "Karena doa Anda untuk {0}, dia selamat dan masih hidup. Anda tidak mempelajari peran siapa pun hari ini. Anda dapat melanjutkan berdoa pada malam berikutnya."
+    - "Karena doa Anda untuk {0}, dia selamat dan masih hidup. Anda tidak mempelajari peran siapa pun hari ini. Anda dapat melanjutkan berdoa pada malam berikutnya."
     OhNoPreacher:
-      - "Tidak... Anda membunuh pemain yang didoakan pengkhotbah di malam hari. Pengkhotbah {0} sekarang tahu siapa Anda dan peran Anda."
+    - "Tidak... Anda membunuh pemain yang didoakan pengkhotbah di malam hari. Pengkhotbah {0} sekarang tahu siapa Anda dan peran Anda."
   GraveDigger:
     GraveDigger:
-      - ""
+    - ""
     RoleInfoGraveDigger:
-      - "Anda adalah Grave Digger  ☠️. Setiap malam, Anda menggali kuburan untuk mereka yang telah meninggal sejak penggalian terakhir Anda. Kamu memiliki kemampuan khusus satu kali untuk menggunakan talenta dari satu pemain yang telah meninggal selama satu hari. Saat Anda keluar, serigala dan sekte tidak dapat menemukan Anda kecuali jika Anda tidak memiliki kuburan untuk digali dan tetap tinggal di rumah. Pengunjung mungkin akan jatuh ke dalam kuburan yang belum selesai kamu gali, dengan peluang yang meningkat berdasarkan jumlah kuburan yang kamu gali. Berhati-hatilah agar tidak terlihat oleh serigala atau pembunuh berantai saat Anda keluar."
+    - "Anda adalah Grave Digger  ☠️. Setiap malam, Anda menggali kuburan untuk mereka yang telah meninggal sejak penggalian terakhir Anda. Kamu memiliki kemampuan khusus satu kali untuk menggunakan talenta dari satu pemain yang telah meninggal selama satu hari. Saat Anda keluar, serigala dan sekte tidak dapat menemukan Anda kecuali jika Anda tidak memiliki kuburan untuk digali dan tetap tinggal di rumah. Pengunjung mungkin akan jatuh ke dalam kuburan yang belum selesai kamu gali, dengan peluang yang meningkat berdasarkan jumlah kuburan yang kamu gali. Berhati-hatilah agar tidak terlihat oleh serigala atau pembunuh berantai saat Anda keluar."
     AskGraveDigger:
-      - "Keahlian siapa yang ingin Anda gunakan selama sehari?"
+    - "Keahlian siapa yang ingin Anda gunakan selama sehari?"
     DigNoGraves:
-      - "Yang mati dikuburkan, sementara yang hidup tetap berada di dunia ini. Semuanya harus berada di tempat yang seharusnya, jadi kamu sulit tidur dengan tenang."
+    - "Yang mati dikuburkan, sementara yang hidup tetap berada di dunia ini. Semuanya harus berada di tempat yang seharusnya, jadi kamu sulit tidur dengan tenang."
     DigGraves:
-      - "Hingga larut malam, kamu menggali kuburan untuk {0}. Semoga jiwa dan tubuhnya beristirahat dengan tenang."
+    - "Hingga larut malam, kamu menggali kuburan untuk {0}. Semoga jiwa dan tubuhnya beristirahat dengan tenang."
     DefaultFellDigger:
-      - ""
+    - ""
     DefaultVisitDigger:
-      - "Anda menuju ke rumah {0}, hanya untuk menemukan bahwa mereka tidak ada di rumah. Yang Anda lihat hanyalah lilin yang bersinar kesepian di atas kuburan..."
+    - "Anda menuju ke rumah {0}, hanya untuk menemukan bahwa mereka tidak ada di rumah. Yang Anda lihat hanyalah lilin yang bersinar kesepian di atas kuburan..."
     WolfFellWolves:
-      - "Kawanan bergerak menuju rumah {0}. Di tengah perjalanan, {1} menginjak perangkap beruang, jatuh ke kuburan terbuka, dan tertusuk tombak perak!"
+    - "Kawanan bergerak menuju rumah {0}. Di tengah perjalanan, {1} menginjak perangkap beruang, jatuh ke kuburan terbuka, dan tertusuk tombak perak!"
     WolvesSpotted:
-      - "Saat serigala melintasi kuburan, mereka melihat {0} si Grave Digger ☠️ sedang menggali. Serigala melompat dengan gesit, dan dengan satu gigitan mematikan mengakhiri nyawanya."
+    - "Saat serigala melintasi kuburan, mereka melihat {0} si Grave Digger ☠️ sedang menggali. Serigala melompat dengan gesit, dan dengan satu gigitan mematikan mengakhiri nyawanya."
     WolvesSpottedYou:
-      - "Saat kamu fokus mengerjakan tugasmu, tiba-tiba serigala menerkammu dari belakang. Dengan gigi tajamnya yang mematikan, serigala itu mencabikmu tanpa ampun. Rawrrr!"
+    - "Saat kamu fokus mengerjakan tugasmu, tiba-tiba serigala menerkammu dari belakang. Dengan gigi tajamnya yang mematikan, serigala itu mencabikmu tanpa ampun. Rawrrr!"
     SerialKillerSpotted:
-      - "Saat kamu berjalan melintasi kuburan dengan darah di pisaumu, kamu melihat {0} si Grave Digger ☠️.  Nalurimu menderu. Kamu memutuskan akan ada dua korban malam ini."
+    - "Saat kamu berjalan melintasi kuburan dengan darah di pisaumu, kamu melihat {0} si Grave Digger ☠️.  Nalurimu menderu. Kamu memutuskan akan ada dua korban malam ini."
     SerialKillerSpottedYou:
-      - "Saat kamu sedang menjalankan tugasmu dengan tenang, tiba-tiba Pembunuh Berantai \U0001F52A menatapmu. Dengan cepat dia berlari ke arahmu, menikammu bertubi-tubi sembari terkekeh."
+    - "Saat kamu sedang menjalankan tugasmu dengan tenang, tiba-tiba Pembunuh Berantai 🔪 menatapmu. Dengan cepat dia berlari ke arahmu, menikammu bertubi-tubi sembari terkekeh."
     CultConvertGraveDigger:
-      - "Dalam perjalanan ke rumah {1}, {0} memutuskan untuk membakar gereja itu. {0} memimpin Cultist melintasi kuburan. Tiba-tiba, jebakan beruang menangkap pergelangan kakinya. Suara jeritan terdengar tajam di udara saat dia terjatuh ke dalam kuburan. Dia memaksa Cultist lainnya untuk berlari menyelamatkan diri."
+    - "Dalam perjalanan ke rumah {1}, {0} memutuskan untuk membakar gereja itu. {0} memimpin Cultist melintasi kuburan. Tiba-tiba, jebakan beruang menangkap pergelangan kakinya. Suara jeritan terdengar tajam di udara saat dia terjatuh ke dalam kuburan. Dia memaksa Cultist lainnya untuk berlari menyelamatkan diri."
     DefaultFell:
-      - "Kamu harus berhati-hati saat berkunjung ke rumah orang lain kali... Kamu masuk ke dalam perangkap beruang, jatuh ke dalam kuburan terbuka, dan tombak perak menancap di jantungmu! Apa yang kamu pikirkan saat mengunjungi {0} seperti itu? Dasar kau bodoh!"
+    - "Kamu harus berhati-hati saat berkunjung ke rumah orang lain kali... Kamu masuk ke dalam perangkap beruang, jatuh ke dalam kuburan terbuka, dan tombak perak menancap di jantungmu! Apa yang kamu pikirkan saat mengunjungi {0} seperti itu? Dasar kau bodoh!"
   Conjurer:
     Conjurer:
-      - "\U0001F43A✨ Serigala Penyihir"
+    - "🐺✨ Serigala Penyihir"
     RoleInfoConjurer:
-      - "\U0001F43A✨ Kamu adalah Serigala Penyihir [0% - \U0001F480(\U0001F3E0)]. Saat kamu menggunakan bakat terpendammu, pemain dengan jumlah suara paling sedikit dalam pemungutan suara yang akan mati, bukan sebaliknya."
+    - "🐺✨ Kamu adalah Serigala Penyihir [0% - 💀(🏠)]. Saat kamu menggunakan bakat terpendammu, pemain dengan jumlah suara paling sedikit dalam pemungutan suara yang akan mati, bukan sebaliknya."
     AskConjurer:
-      - "Apakah kamu ingin menggunakan kemampuanmu hari ini?"
+    - "Apakah kamu ingin menggunakan kemampuanmu hari ini?"
     ConjurerChoice:
-      - "Perhatian! Perhatian! Serigala Penyihir telah menggunakan kekuatannya hari ini! Sore ini, pemain dengan JUMLAH SUARA PALING SEDIKIT yang akan mati, bukan sebaliknya!"
+    - "Perhatian! Perhatian! Serigala Penyihir telah menggunakan kekuatannya hari ini! Sore ini, pemain dengan JUMLAH SUARA PALING SEDIKIT yang akan mati, bukan sebaliknya!"
   Miner:
     Miner:
-      - "Penambang ⛏"
+    - "Penambang ⛏"
     RoleInfoMiner:
-      - "⛏ Anda seorang Penambang\nSetiap malam Anda menggali terowongan ke rumah penduduk desa. Berkat terowongan yang Anda gali, pemain dengan aksi malam hari akan kehilangan tujuannya dan pergi ke rumah lain tanpa menyadarinya. Anda tidak dapat menggali rumah pemain yang sama dua kali berturut-turut."
+    - "⛏ Anda seorang Penambang\nSetiap malam Anda menggali terowongan ke rumah penduduk desa. Berkat terowongan yang Anda gali, pemain dengan aksi malam hari akan kehilangan tujuannya dan pergi ke rumah lain tanpa menyadarinya. Anda tidak dapat menggali rumah pemain yang sama dua kali berturut-turut."
     AskMiner:
-      - "Rumah siapa yang ingin Anda gali terowongannya?"
+    - "Rumah siapa yang ingin Anda gali terowongannya?"
     MinerDone:
-      - "Anda telah berhasil menggali terowongan di rumah {0}. Sekarang pemain dengan aksi malam akan meleset dari targetnya dan mendarat di rumah lain!"
+    - "Anda telah berhasil menggali terowongan di rumah {0}. Sekarang pemain dengan aksi malam akan meleset dari targetnya dan mendarat di rumah lain!"
     MinerChanged:
-      - "Anda sedang dalam perjalanan menuju rumah {0}, namun tiba-tiba, Anda terpeleset dan jatuh ke dalam terowongan yang digali oleh penambang. Ketika Anda mencoba untuk menyadari apa yang terjadi, Anda melihat bahwa Anda telah muncul di rumah {1}."
+    - "Anda sedang dalam perjalanan menuju rumah {0}, namun tiba-tiba, Anda terpeleset dan jatuh ke dalam terowongan yang digali oleh penambang. Ketika Anda mencoba untuk menyadari apa yang terjadi, Anda melihat bahwa Anda telah muncul di rumah {1}."
   Pawn:
     Pawn:
-      - "♟ Pion "
+    - "♟ Pion "
     RoleInfoPawn:
-      - "♟ Kamu adalah Pion. Setiap malam Anda akan memilih seseorang untuk dilindungi. Jika targetmu diserang, kamu akan mengorbankan dirimu sendiri. Jika Anda mencoba melindungi Serigala atau Pembunuh Berantai, Anda akan mati." 
+    - "♟ Kamu adalah Pion. Setiap malam Anda akan memilih seseorang untuk dilindungi. Jika targetmu diserang, kamu akan mengorbankan dirimu sendiri. Jika Anda mencoba melindungi Serigala atau Pembunuh Berantai, Anda akan mati."
     AskPawn:
-      - "Untuk siapa kamu ingin berkorban?"
+    - "Untuk siapa kamu ingin berkorban?"
     PawnSaved:
-      - "Kamu memilih melindungi {0}. Saat mengetahui target diserang, kamu mengorbankan hidupmu untuk kelangsungan hidup targetmu."
+    - "Kamu memilih melindungi {0}. Saat mengetahui target diserang, kamu mengorbankan hidupmu untuk kelangsungan hidup targetmu."
     PawnSavedYou:
-      - "Tadi malam, Pion {0} memilih untuk melindungimu dan mengorbankan diri mereka sendiri dalam pertempuran."
+    - "Tadi malam, Pion {0} memilih untuk melindungimu dan mengorbankan diri mereka sendiri dalam pertempuran."
     PawnNoAttack:
-      - "{0} tidak diserang tadi malam, jadi pada dasarnya kamu tidak melakukan apa-apa alias gabut... duh."
+    - "{0} tidak diserang tadi malam, jadi pada dasarnya kamu tidak melakukan apa-apa alias gabut... duh."
     PawnWolf:
-      - "Anda memilih untuk melindungi {0}, tetapi dia adalah serigala dan sekarang Anda sudah mati."
+    - "Anda memilih untuk melindungi {0}, tetapi dia adalah serigala dan sekarang Anda sudah mati."
     PawnKiller:
-      - "Anda memilih untuk melindungi {0}, tetapi dia adalah Pembunuh Berantai dan sekarang Anda sudah mati."
+    - "Anda memilih untuk melindungi {0}, tetapi dia adalah Pembunuh Berantai dan sekarang Anda sudah mati."
     PawnEmptyHouse:
-      - "Anda memilih untuk melindungi {0}, tapi dia tidak ada di rumah."
+    - "Anda memilih untuk melindungi {0}, tapi dia tidak ada di rumah."
     PawnKilledCH:
-      - "Tadi malam pion {0} melakukan pengorbanan besar, tapi kurasa dia ingin melindungi seorang kultis agar tidak mati :( Pemburu Kultis malah membunuhnya."
+    - "Tadi malam pion {0} melakukan pengorbanan besar, tapi kurasa dia ingin melindungi seorang kultis agar tidak mati :( Pemburu Kultis malah membunuhnya."
     PawnGuardedKiller:
-      - "{0} sedang mencari seseorang untuk dilindungi tadi malam, tapi dia memilih orang yang salah. Dia mengunjungi pembunuh berantai, dan pembunuh berantai itu menikamnya 80 kali."
+    - "{0} sedang mencari seseorang untuk dilindungi tadi malam, tapi dia memilih orang yang salah. Dia mengunjungi pembunuh berantai, dan pembunuh berantai itu menikamnya 80 kali."
     PawnGuardedWolf:
-      - "{0} mencari seseorang untuk dilindungi tadi malam, tapi dia memilih orang yang salah. Dia mengunjungi serigala itu, dan pion sekarang sudah mati"
+    - "{0} mencari seseorang untuk dilindungi tadi malam, tapi dia memilih orang yang salah. Dia mengunjungi serigala itu, dan pion sekarang sudah mati"
     PawnBlockedWolf:
-      - "Tadi malam Anda memilih untuk menyerang {0} untuk mendapatkan kudapan. Tapi pion ada di sana dan dia memilih untuk mengorbankan dirinya sendiri."
+    - "Tadi malam Anda memilih untuk menyerang {0} untuk mendapatkan kudapan. Tapi pion ada di sana dan dia memilih untuk mengorbankan dirinya sendiri."
     PawnBlockedKiller:
-      - "Tadi malam Anda memilih untuk mengumpulkan hati {0} untuk koleksi Anda. Tapi pion ada di sana dan dia memilih untuk mengorbankan dirinya sendiri."
+    - "Tadi malam Anda memilih untuk mengumpulkan hati {0} untuk koleksi Anda. Tapi pion ada di sana dan dia memilih untuk mengorbankan dirinya sendiri."
     PawnBlockedCH:
-      - "Anda pergi ke rumah {0} untuk memburu para pemuja sekte, tetapi ada pion yang berjaga di sana dan dia mengorbankan dirinya sendiri sebagai gantinya."
+    - "Anda pergi ke rumah {0} untuk memburu para pemuja sekte, tetapi ada pion yang berjaga di sana dan dia mengorbankan dirinya sendiri sebagai gantinya."
   Soldier:
     Soldier:
-      - "Prajurit  \U0001FA96"
+    - "Prajurit  🪖"
     RoleInfoSoldier:
-      - ""
+    - ""
     AskSoldier:
-      - "Siapa yang ingin kamu selamatkan hari ini?"
+    - "Siapa yang ingin kamu selamatkan hari ini?"
     AskSoldier2:
-      - "Pemain mana yang akan menggantikannya jika dia akan digantung?"
+    - "Pemain mana yang akan menggantikannya jika dia akan digantung?"
     SoldierChoice:
-      - "Kamu memilih untuk menyelamatkan {0}. Jika nyawanya terancam digantung oleh warga desa, kamu bisa memilih pemain lain untuk mati menggantikannya."
+    - "Kamu memilih untuk menyelamatkan {0}. Jika nyawanya terancam digantung oleh warga desa, kamu bisa memilih pemain lain untuk mati menggantikannya."
     SoldierDone:
-      - "Penduduk desa memilih mengeksekusi {0}. Namun, seorang prajurit berhasil melindunginya dengan cara menukar  {0} dengan {1}. {2}"
+    - "Penduduk desa memilih mengeksekusi {0}. Namun, seorang prajurit berhasil melindunginya dengan cara menukar  {0} dengan {1}. {2}"
   Rogue:
     Rogue:
-      - ""
+    - ""
     RoleInfoRogue:
-      - "Anda adalah Rogue Wolf \U0001F43A\U0001F9E7, yang dikenal karena kelicikan dan kemampuan Anda untuk menyamar sebagai pemain lain. Pada malam pertama, Anda memiliki kesempatan untuk memilih satu pemain untuk ditiru perannya. Jika Anda diperiksa atau menemui ajalmu, peran Anda akan terlihat sebagai target Anda. Jika pemain yang Anda tipu memiliki kemampuan yang bisa di reveal, Anda dapat menirunya juga, tetapi berhati-hatilah karena itu tidak memiliki efek yang sebenarnya."
+    - "Anda adalah Rogue Wolf 🐺🧧, yang dikenal karena kelicikan dan kemampuan Anda untuk menyamar sebagai pemain lain. Pada malam pertama, Anda memiliki kesempatan untuk memilih satu pemain untuk ditiru perannya. Jika Anda diperiksa atau menemui ajalmu, peran Anda akan terlihat sebagai target Anda. Jika pemain yang Anda tipu memiliki kemampuan yang bisa di reveal, Anda dapat menirunya juga, tetapi berhati-hatilah karena itu tidak memiliki efek yang sebenarnya."
     AskRogue:
-      - "Anda ingin menyamar sebagai siapa?"
+    - "Anda ingin menyamar sebagai siapa?"
     AskRogue2:
-      - "Apakah Anda ingin menggunakan kemampuan Anda?"
+    - "Apakah Anda ingin menggunakan kemampuan Anda?"
     RogueSuccess:
-      - "Anda telah memilih untuk meniru {0}. Peran yang Anda tiru adalah {1}!"
+    - "Anda telah memilih untuk meniru {0}. Peran yang Anda tiru adalah {1}!"
   Executioner:
     Executioner:
-      - "Algojo \U0001F9B8‍♂️"
+    - "Algojo 🦸‍♂️"
     RoleInfoExecutioner:
-      - ""
+    - ""
     AskExecutioner:
-      - ""
+    - ""
     AskExecutionerLynch:
-      - ""
+    - ""
     ExecutionerLynch:
-      - ""
+    - ""
   Slave:
     Slave:
-      - "Budak \U0001F635‍\U0001F4AB"
+    - "Budak 😵‍💫"
     RoleInfoSlave:
-      - "\U0001F635‍\U0001F4AB Kamu adalah seorang Budak yang tidak memihak tim mana pun di desa. Satu-satunya tujuanmu adalah menggantung targetmu. Targetmu telah mengusik ketenangan desa, jadi kamu harus menghukumnya dengan menggantungnya. Jika targetmu mati dibunuh, keputusasaan akan menguasaimu, membuatmu ingin mati digantung. Kamu hanya bisa memenangkan pertandingan jika targetmu berhasil digantung."
+    - "😵‍💫 Kamu adalah seorang Budak yang tidak memihak tim mana pun di desa. Satu-satunya tujuanmu adalah menggantung targetmu. Targetmu telah mengusik ketenangan desa, jadi kamu harus menghukumnya dengan menggantungnya. Jika targetmu mati dibunuh, keputusasaan akan menguasaimu, membuatmu ingin mati digantung. Kamu hanya bisa memenangkan pertandingan jika targetmu berhasil digantung."
     SlaveLynched:
-      - "Kamu {0} akhirnya digantung. Pencarianmu akan keadilan di desa telah berakhir, dan tujuanmu tercapai. Kamu berhasil menunaikan tugas yang dibebankan kepadamu dan muncul sebagai pemenang dalam permainan kelam ini."
+    - "Kamu {0} akhirnya digantung. Pencarianmu akan keadilan di desa telah berakhir, dan tujuanmu tercapai. Kamu berhasil menunaikan tugas yang dibebankan kepadamu dan muncul sebagai pemenang dalam permainan kelam ini."
     SlaveTarget:
-      - "Targetmu: {0}. Selesaikan tugas kelam ini dengan menggantung targetmu."
+    - "Targetmu: {0}. Selesaikan tugas kelam ini dengan menggantung targetmu."
   Poseidon:
     Poseidon:
-      - ""
+    - ""
     RoleInfoPoseidon:
-      - "\U0001F9DC Anda adalah Poseidon. Sekali per game, Anda dapat membunuh pemain acak di tim desa dengan melepaskan tsunami. Ketika Anda memutuskan untuk melepaskan tsunami, desa akan diberi tahu bahwa tsunami akan datang, tetapi identitas Anda tidak akan terungkap."
+    - "🧜 Anda adalah Poseidon. Sekali per game, Anda dapat membunuh pemain acak di tim desa dengan melepaskan tsunami. Ketika Anda memutuskan untuk melepaskan tsunami, desa akan diberi tahu bahwa tsunami akan datang, tetapi identitas Anda tidak akan terungkap."
     AskPoseidon:
-      - "Apakah Anda ingin memulai tsunami hari ini?"
+    - "Apakah Anda ingin memulai tsunami hari ini?"
     PoseidonRevealInfo:
-      - "Perhatian kepada penduduk desa! Tsunami yang mendekat akan berdampak pada seluruh desa. Dewa laut yang bersemayam di desa itu, tampaknya muncul dari istananya yang megah di dasar laut. Bersiaplah karena ketika tsunami tiba, secara acak akan membunuh satu orang dari desa tersebut."
+    - "Perhatian kepada penduduk desa! Tsunami yang mendekat akan berdampak pada seluruh desa. Dewa laut yang bersemayam di desa itu, tampaknya muncul dari istananya yang megah di dasar laut. Bersiaplah karena ketika tsunami tiba, secara acak akan membunuh satu orang dari desa tersebut."
     PoseidonReveal:
-      - "Dewa laut, telah muncul dari istananya yang megah, dan tsunami melanda desa tersebut. Seluruh desa berusaha melarikan diri dari tsunami, tetapi {0} gagal. {0} mati tenggelam.\n{1}"
+    - "Dewa laut, telah muncul dari istananya yang megah, dan tsunami melanda desa tersebut. Seluruh desa berusaha melarikan diri dari tsunami, tetapi {0} gagal. {0} mati tenggelam.\n{1}"
   Snitch:
     Snitch:
-      - ""
+    - ""
     RoleInfoSnitch:
-      - ""   
+    - ""
     SnitchLynchSuccess:
-      - ""
+    - ""
     SnitchFinalSuccess:
-      - ""
+    - ""
     AskSnitch:
-      - ""
+    - ""
     SnitchNoChoice:
-      - ""
+    - ""
   Illusionist:
     Illusionist:
-      - ""
+    - ""
     RoleInfoIllusionist:
-      - ""
+    - ""
     AskIllusionist:
-      - ""
+    - ""
     IllusionistNoChoice:
-      - ""
+    - ""
     IllusionistKillTarget:
-      - ""
+    - ""
     IllusionistFakeTarget:
-      - ""
+    - ""
     IllusionistKillYou:
-      - ""
+    - ""
   KilledMessages:
     BlacksmithKilled:
-      - "Sepertinya {0}, si Blacksmith sedang sangat tidak beruntung. Lima pisau terbaru yang awalnya terpajang di gudang senjata milik {0}, ditemukan tertancap di tangan, kaki, dan kepalanya. Mungkin si Pembunuh Berantai berniat menguji ketajaman senjata milik Blacksmith sebelum mengambil organ vitalnya."
+    - "Sepertinya {0}, si Blacksmith sedang sangat tidak beruntung. Lima pisau terbaru yang awalnya terpajang di gudang senjata milik {0}, ditemukan tertancap di tangan, kaki, dan kepalanya. Mungkin si Pembunuh Berantai berniat menguji ketajaman senjata milik Blacksmith sebelum mengambil organ vitalnya."
     CultistKilled:
-      - "{0} ditemukan tewas tertusuk kandil di dekat altarnya. Pembunuh Berantai kembali menyerang siapa pun yang ditemuinya! {0} adalah seorang Cultist."
+    - "{0} ditemukan tewas tertusuk kandil di dekat altarnya. Pembunuh Berantai kembali menyerang siapa pun yang ditemuinya! {0} adalah seorang Cultist."
     CupidKilled:
-      - "Pagi tiba. Penduduk desa terhenyak menyaksikan jasad {0} si Cupid terbelah dari ujung kepala hingga ujung kaki. Aneh, jantungnya tidak ditemukan."
+    - "Pagi tiba. Penduduk desa terhenyak menyaksikan jasad {0} si Cupid terbelah dari ujung kepala hingga ujung kaki. Aneh, jantungnya tidak ditemukan."
     DrunkKilled:
-      - "Penduduk desa berharap bertemu {0} untuk memuji Martell-nya, tetapi yang mereka temukan di rumah {0} hanyalah sebuah pisau penuh darah dan organ hati yang membusuk. Bertahun-tahun minum menyebabkan hatinya membusuk bahkan Pembunuh Berantai pun tidak tertarik mengoleksinya."
+    - "Penduduk desa berharap bertemu {0} untuk memuji Martell-nya, tetapi yang mereka temukan di rumah {0} hanyalah sebuah pisau penuh darah dan organ hati yang membusuk. Bertahun-tahun minum menyebabkan hatinya membusuk bahkan Pembunuh Berantai pun tidak tertarik mengoleksinya."
     GuardianAngelKilled:
-      - "{0} biasanya berhasil melawan Pembunuh Berantai, tetapi kali ini Pembunuh Berantai berhasil memadamkan lingkaran cahaya milik Malaikat Pelindung. {0} tewas!"
+    - "{0} biasanya berhasil melawan Pembunuh Berantai, tetapi kali ini Pembunuh Berantai berhasil memadamkan lingkaran cahaya milik Malaikat Pelindung. {0} tewas!"
     GunnerKilled:
-      - "Sepertinya {0} sedang lengah tadi malam! Suara tembakan terdengar, tetapi yang tersisa hanyalah sisa-sisa jasad Gunner, dengan lubang peluru di kepala dan luka tusukan di sekujur tubuh. Ini pasti ulah Pembunuh Berantai!"
+    - "Sepertinya {0} sedang lengah tadi malam! Suara tembakan terdengar, tetapi yang tersisa hanyalah sisa-sisa jasad Gunner, dengan lubang peluru di kepala dan luka tusukan di sekujur tubuh. Ini pasti ulah Pembunuh Berantai!"
     MayorKilled:
-      - "Gawat! Jasad {0} sang Walikota ditemukan di atas meja kerjanya dengan puluhan luka tusukan. Ini pasti ulah si Pembunuh Berantai yang membalas dendam karena telah mengurungnya di rumah sakit jiwa selama bertahun-tahun."
+    - "Gawat! Jasad {0} sang Walikota ditemukan di atas meja kerjanya dengan puluhan luka tusukan. Ini pasti ulah si Pembunuh Berantai yang membalas dendam karena telah mengurungnya di rumah sakit jiwa selama bertahun-tahun."
     PrinceKilled:
-      - "Bel berbunyi di seluruh kota sebelum fajar. Lusinan penjaga bersenjata membanjiri jalan-jalan untuk menyelidiki hilangnya, Yang Mulia Pangeran {0}. Tidak ada petunjuk yang ditemukan, tetapi si Pembunuh Berantai diduga sebagai dalangnya. "
-      - "Sepertinya penjaga Pangeran tertidur malam ini. Potongan jasad {0} ditemukan tergantung di beberapa ruangan istana. Ini pasti ulah si Pembunuh Berantai!"
+    - "Bel berbunyi di seluruh kota sebelum fajar. Lusinan penjaga bersenjata membanjiri jalan-jalan untuk menyelidiki hilangnya, Yang Mulia Pangeran {0}. Tidak ada petunjuk yang ditemukan, tetapi si Pembunuh Berantai diduga sebagai dalangnya. "
+    - "Sepertinya penjaga Pangeran tertidur malam ini. Potongan jasad {0} ditemukan tergantung di beberapa ruangan istana. Ini pasti ulah si Pembunuh Berantai!"
     SeerKilled:
-      - "Pagi ini, penduduk desa menemukan jasad {0} Sang Penerawang yang sudah membusuk dan terbelah dari ujung kepala hingga kaki, penuh dengan tusukan pisau di seluruh tubuhnya. Yang lebih aneh, otaknya telah diambil dengan hati-hati, seolah-olah itu adalah pesan yang menunjukkan bahwa desa telah kehilangan intelektualnya. {0} adalah Penerawang."
+    - "Pagi ini, penduduk desa menemukan jasad {0} Sang Penerawang yang sudah membusuk dan terbelah dari ujung kepala hingga kaki, penuh dengan tusukan pisau di seluruh tubuhnya. Yang lebih aneh, otaknya telah diambil dengan hati-hati, seolah-olah itu adalah pesan yang menunjukkan bahwa desa telah kehilangan intelektualnya. {0} adalah Penerawang."
     PawnKilled:
-      - "Malam ini diharapkan tenang, tetapi penduduk desa menemukan {0} di alun-alun kota, kehilangan beberapa organ tubuh. Sepertinya si pembunuh tidak senang dengan usaha si pion untuk melindungi {1}! Dalam sebuah kejadian yang tragis, {0}, yang mencoba melindungi {1}, menjadi korban dari pembunuh berantai tersebut. {2}"
+    - "Malam ini diharapkan tenang, tetapi penduduk desa menemukan {0} di alun-alun kota, kehilangan beberapa organ tubuh. Sepertinya si pembunuh tidak senang dengan usaha si pion untuk melindungi {1}! Dalam sebuah kejadian yang tragis, {0}, yang mencoba melindungi {1}, menjadi korban dari pembunuh berantai tersebut. {2}"
     DefaultKilled:
-      - "Anggapannya, malam ini adalah malam yang cukup tenang bagi {0}, tapi dia salah. Keesokan paginya, penduduk desa terhenyak menemukan jasad {0} terbelah dari ujung kepala hingga ujung kaki. Anehnya, jantungnya tidak ada. Ini pasti ulah si Pembunuh Berantai (Serial Killer)! {1}"
+    - "Anggapannya, malam ini adalah malam yang cukup tenang bagi {0}, tapi dia salah. Keesokan paginya, penduduk desa terhenyak menemukan jasad {0} terbelah dari ujung kepala hingga ujung kaki. Anehnya, jantungnya tidak ada. Ini pasti ulah si Pembunuh Berantai (Serial Killer)! {1}"
   EatenMessages:
     ApprenticeSeerEaten:
-      - "Pagi ini, penduduk desa menemukan jasad {0} membungkuk di atas papan Ouija tempatnya berlatih meramal, tetapi kepalanya hilang! Murid Penerawang tewas!"
+    - "Pagi ini, penduduk desa menemukan jasad {0} membungkuk di atas papan Ouija tempatnya berlatih meramal, tetapi kepalanya hilang! Murid Penerawang tewas!"
     SorcererEaten:
-      - "Suara lolongan sedih menggema ke seluruh desa. Serigala telah membunuh {0} si Penyihir. Sungguh malang, ini adalah aib."
-      - "Tadi malam, seruan pahit terdengar. \"Saya sekutumu, Bodoh!\" Keesokan paginya, penduduk desa menemukan jasad {0} terbujur kaku bersama bola kristal yang memudar di tangannya. Bola itu tidak sama dengan yang biasa digunakan oleh Penerawang. Ternyata itu milik {0} si Penyihir! Kawanan Serigala telah dibutakan oleh rasa lapar."
+    - "Suara lolongan sedih menggema ke seluruh desa. Serigala telah membunuh {0} si Penyihir. Sungguh malang, ini adalah aib."
+    - "Tadi malam, seruan pahit terdengar. \"Saya sekutumu, Bodoh!\" Keesokan paginya, penduduk desa menemukan jasad {0} terbujur kaku bersama bola kristal yang memudar di tangannya. Bola itu tidak sama dengan yang biasa digunakan oleh Penerawang. Ternyata itu milik {0} si Penyihir! Kawanan Serigala telah dibutakan oleh rasa lapar."
     WildChildEaten:
-      - "NOMNOMNOMNOM! Suara serigala terdengar tadi malam saat memangsa {0} si Wild Child yang lemah. Mereka hanya menyisakan kerangka berukuran kecil. Penduduk desa bertanya-tanya apakah serigala-serigala itu tak merasa bersalah sudah mencabik-cabik anak yang tak berdaya itu."
+    - "NOMNOMNOMNOM! Suara serigala terdengar tadi malam saat memangsa {0} si Wild Child yang lemah. Mereka hanya menyisakan kerangka berukuran kecil. Penduduk desa bertanya-tanya apakah serigala-serigala itu tak merasa bersalah sudah mencabik-cabik anak yang tak berdaya itu."
     PawnEaten:
-      - "Tadi malam, {0} melakukan pengorbanan tertinggi, dengan rela mengorbankan dirinya sendiri untuk melindungi {1} dalam pertempuran yang sedang berlangsung melawan manusia serigala. Tindakan tanpa pamrih mereka, sebuah mercusuar keberanian, meninggalkan jejak yang tak terhapuskan di desa. Semoga desa menemukan penghiburan dalam keberanian yang ditunjukkan oleh {0}, Pion yang menjadi legenda di desa. {2}"
+    - "Tadi malam, {0} melakukan pengorbanan tertinggi, dengan rela mengorbankan dirinya sendiri untuk melindungi {1} dalam pertempuran yang sedang berlangsung melawan manusia serigala. Tindakan tanpa pamrih mereka, sebuah mercusuar keberanian, meninggalkan jejak yang tak terhapuskan di desa. Semoga desa menemukan penghiburan dalam keberanian yang ditunjukkan oleh {0}, Pion yang menjadi legenda di desa. {2}"
     DetectiveEaten:
-      - "Pagi tiba. Penduduk desa berkumpul, tetapi {0} tidak terlihat. Kekhawatiran merayap, mereka mendatangi rumahnya lalu menemukan jasad {0} dengan isi perutnya terburai. Sebuah lencana ditekuk di tenggorokannya. Detektif tewas."
+    - "Pagi tiba. Penduduk desa berkumpul, tetapi {0} tidak terlihat. Kekhawatiran merayap, mereka mendatangi rumahnya lalu menemukan jasad {0} dengan isi perutnya terburai. Sebuah lencana ditekuk di tenggorokannya. Detektif tewas."
     GuardianEaten:
-      - "Pagi tiba, dan yang membuat semua orang terkejut, tertusuk di atas salib gereja adalah {0}, sang Malaikat Pelindung \U0001F47C."
+    - "Pagi tiba, dan yang membuat semua orang terkejut, tertusuk di atas salib gereja adalah {0}, sang Malaikat Pelindung 👼."
     GunnerEaten:
-      - "Pagi tiba. Saat semua orang keluar dari rumah, pecahan senapan terhampar di sekitar... diikuti oleh sepotong kaki... kemudian, sepuluh jari... dan pada akhirnya, di alun-alun kota, tubuh {0} terpampang. Penduduk desa yakin ini ulah serigala. Semua meratap, kehilangan Gunner andalannya."
+    - "Pagi tiba. Saat semua orang keluar dari rumah, pecahan senapan terhampar di sekitar... diikuti oleh sepotong kaki... kemudian, sepuluh jari... dan pada akhirnya, di alun-alun kota, tubuh {0} terpampang. Penduduk desa yakin ini ulah serigala. Semua meratap, kehilangan Gunner andalannya."
     SeerEaten:
-      - "Pagi tiba. Penduduk desa terbangun dengan keterkejutan, menemukan sisa-sisa perut {0} tersebar di atas papan Ouija dan kartu-kartu tarot. Sang Penerawang (Seer)\U0001F473 telah berpulang."
+    - "Pagi tiba. Penduduk desa terbangun dengan keterkejutan, menemukan sisa-sisa perut {0} tersebar di atas papan Ouija dan kartu-kartu tarot. Sang Penerawang (Seer)👳 telah berpulang."
     DrunkEaten:
-      - "Semua orang dibangunkan oleh aroma alkohol dan asap kayu yang terbakar. Sebuah bar terbakar! Setelah api padam, penduduk desa menemukan sisa-sisa jasad {0} yang terkoyak. [Serigala tidak bisa menyerang malam ini]."
+    - "Semua orang dibangunkan oleh aroma alkohol dan asap kayu yang terbakar. Sebuah bar terbakar! Setelah api padam, penduduk desa menemukan sisa-sisa jasad {0} yang terkoyak. [Serigala tidak bisa menyerang malam ini]."
     FoolEaten:
-      - "Saat sinar mentari menyinari desa, penduduk menemukan jasad {0} terhampar di atas papan Ouija, dikelilingi oleh kartu-kartu Sakura dan Hunter. Betapa menggelikan. Sang Fool tewas!"
+    - "Saat sinar mentari menyinari desa, penduduk menemukan jasad {0} terhampar di atas papan Ouija, dikelilingi oleh kartu-kartu Sakura dan Hunter. Betapa menggelikan. Sang Fool tewas!"
     DefaultEaten:
-      - "Pagi tiba. Aroma yang menusuk hidung menyergap semua orang. Dengan hati yang berdebar, mereka mengikuti jejak bau itu hingga menemukan jasad {0} tergulung di dalam kandang babi, tubuhnya tercabik-cabik dan kepalanya lenyap. NOMNOMNOMNOM! {1}"
+    - "Pagi tiba. Aroma yang menusuk hidung menyergap semua orang. Dengan hati yang berdebar, mereka mengikuti jejak bau itu hingga menemukan jasad {0} tergulung di dalam kandang babi, tubuhnya tercabik-cabik dan kepalanya lenyap. NOMNOMNOMNOM! {1}"
     HarlotEaten:
-      - "Harlot melakukan kesalahan besar dengan memilih untuk tinggal di rumah tadi malam. Sayang sekali !! {0} telah dimakan oleh serigala!"
+    - "Harlot melakukan kesalahan besar dengan memilih untuk tinggal di rumah tadi malam. Sayang sekali !! {0} telah dimakan oleh serigala!"
     MasonEaten:
-      - "Ketika semua orang bangun, mereka menemukan tubuh {0} terbujur kaku di antara tumpukan batu, aliran darah membasahi tanah. Seorang Kuli tewas!"
+    - "Ketika semua orang bangun, mereka menemukan tubuh {0} terbujur kaku di antara tumpukan batu, aliran darah membasahi tanah. Seorang Kuli tewas!"
   WinMessages:
     WolfWins:
-      - "AAAAAUUUUUUUU! Serigala menang!"
+    - "AAAAAUUUUUUUU! Serigala menang!"
     WolvesWin:
-      - "AAAUUUUUUU! Kawanan Serigala menang!"
+    - "AAAUUUUUUU! Kawanan Serigala menang!"
     VillageWins:
-      - "YEEEHAWW! Penduduk desa menang!"
+    - "YEEEHAWW! Penduduk desa menang!"
     TannerWins:
-      - "Oh, sial! Ternyata dia Tanner! Karena kebodohan penduduk desa, Tanner memenangkan permainan!"
+    - "Oh, sial! Ternyata dia Tanner! Karena kebodohan penduduk desa, Tanner memenangkan permainan!"
     CultWins:
-      - "Semua ancaman terhadap kelompok Cultist berhasil dilenyapkan! Penduduk desa yang tersisa kini tunduk pada kehendak mereka. Cultist Menang!"
+    - "Semua ancaman terhadap kelompok Cultist berhasil dilenyapkan! Penduduk desa yang tersisa kini tunduk pada kehendak mereka. Cultist Menang!"
     SerialKillerWins:
-      - "Satu-satunya orang yang tersisa adalah si Pembunuh Berantai! Dia memenangkan permainan!"
+    - "Satu-satunya orang yang tersisa adalah si Pembunuh Berantai! Dia memenangkan permainan!"
     NoWinner:
-      - "Senyap memeluk desa. Tidak ada yang tersisa kecuali suara burung gagak dan burung-burung pemakan bangkai yang mendarat di atas mayat."
+    - "Senyap memeluk desa. Tidak ada yang tersisa kecuali suara burung gagak dan burung-burung pemakan bangkai yang mendarat di atas mayat."
     ArsonistWins:
-      - "Deru api yang membara menggema dengan jelas di tengah keheningan. Seluruh desa terbakar, menjadi lautan api yang mengamuk. Dalam cahaya menyala yang membara, wajah Arsonist tersenyum, karena di antara reruntuhan dan kehancuran, dia berdiri sebagai penguasa tunggal, satu-satunya yang masih hidup, dan satu-satunya yang menang!"
+    - "Deru api yang membara menggema dengan jelas di tengah keheningan. Seluruh desa terbakar, menjadi lautan api yang mengamuk. Dalam cahaya menyala yang membara, wajah Arsonist tersenyum, karena di antara reruntuhan dan kehancuran, dia berdiri sebagai penguasa tunggal, satu-satunya yang masih hidup, dan satu-satunya yang menang!"
     LoversWin:
-      - "Terbukti, cinta sejati dapat mengalahkan apa pun! Pasangan paling romantis seantero desa menang!"
+    - "Terbukti, cinta sejati dapat mengalahkan apa pun! Pasangan paling romantis seantero desa menang!"
     SerialKillerWinsOverpower:
-      - "Pagi tiba. Dua sosok terakhir di desa bertemu di pelataran kota. Sorot mata {0} menerawang ke arah {1}. Dengan senyum lembut, dia bergegas menusuk {1} bertubi-tubi hingga tewas."
+    - "Pagi tiba. Dua sosok terakhir di desa bertemu di pelataran kota. Sorot mata {0} menerawang ke arah {1}. Dengan senyum lembut, dia bergegas menusuk {1} bertubi-tubi hingga tewas."
   GroupConfig:
     ThankYou:
-      - "Terima kasih, semoga harimu menyenangkan~"
+    - "Terima kasih, semoga harimu menyenangkan~"
     RoleConfig:
-      - Konfigurasi peran
+    - Konfigurasi peran
     Mechanics:
-      - Mekanika permainan
+    - Mekanika permainan
     GroupSettings:
-      - Pengaturan Grup
+    - Pengaturan Grup
     Timers:
-      - Waktu Permainan
+    - Waktu Permainan
     WhatToDo:
-      - "Apa yang ingin Anda lakukan?"
+    - "Apa yang ingin Anda lakukan?"
     EnableSecretLynch:
     - "Aktifkan Secret Lynch"
     EnableSecretLynchA:
-      - "Aktivasi pemungutan suara rahasia (secret lynch) saat ini: {0}"
+    - "Aktivasi pemungutan suara rahasia (secret lynch) saat ini: {0}"
     EnableSecretLynchQ:
-      - "Aktifkan pemungutan suara (lynch) rahasia? \nSaat Ini: {0}"
+    - "Aktifkan pemungutan suara (lynch) rahasia? \nSaat Ini: {0}"
     RandomMode:
-      - "Aktifkan Mode Acak"
+    - "Aktifkan Mode Acak"
     RandomModeA:
-      - "Pengaktifan mode acak ditetapkan menjadi: {0}"
+    - "Pengaktifan mode acak ditetapkan menjadi: {0}"
     RandomModeQ:
-      - "Aktifkan mode acak? \nKetika mode acak diaktifkan, Chaos, Secret Lynch, Show Roles on Death, dan Izinkan Cultist/si Ceroboh/Tanner akan ditentukan secara acak setiap kali seseorang memulai permainan. \nSaat ini: {0}"
+    - "Aktifkan mode acak? \nKetika mode acak diaktifkan, Chaos, Secret Lynch, Show Roles on Death, dan Izinkan Cultist/si Ceroboh/Tanner akan ditentukan secara acak setiap kali seseorang memulai permainan. \nSaat ini: {0}"
     AllowExtend:
-      - "Izinkan Perpanjangan Waktu"
+    - "Izinkan Perpanjangan Waktu"
     AllowExtendQ:
-      - "Izinkan pemain untuk memperpanjang waktu bergabung? \nSaat ini: {0} memperpanjang \nCatatan: Admin akan selalu dapat memperpanjang"
+    - "Izinkan pemain untuk memperpanjang waktu bergabung? \nSaat ini: {0} memperpanjang \nCatatan: Admin akan selalu dapat memperpanjang"
     AllowExtendA:
-      - "{0} pemain untuk memperpanjang waktu bergabung"
+    - "{0} pemain untuk memperpanjang waktu bergabung"
     AllowFlee:
-      - "Izinkan keluar dari permainan"
+    - "Izinkan keluar dari permainan"
     AllowFleeQ:
-      - "Apakah kamu ingin mengizinkan pemain kabur setelah permainan dimulai? \nCatatan: pemain masih bisa kabur selama fase bergabung. \nKini: {0} kabur"
+    - "Apakah kamu ingin mengizinkan pemain kabur setelah permainan dimulai? \nCatatan: pemain masih bisa kabur selama fase bergabung. \nKini: {0} kabur"
     AllowFleeA:
-      - "Pemain {0} melarikan diri setelah permainan dimulai."
+    - "Pemain {0} melarikan diri setelah permainan dimulai."
     ShowIDs:
     - "Tunjukkan ID saat bergabung"
     ShowIDsQ:
-      - "Tunjukkan ID pemain saat mereka bergabung dengan game? \nSaat Ini: {0}"
+    - "Tunjukkan ID pemain saat mereka bergabung dengan game? \nSaat Ini: {0}"
     ShowIDsA:
-      - "{0} ID"
+    - "{0} ID"
     ThiefFull:
-      - "Peran Pencuri Sepanjang Permainan"
+    - "Peran Pencuri Sepanjang Permainan"
     ThiefFullA:
-      - "Pencuri bermain setiap malam: {0}"
+    - "Pencuri bermain setiap malam: {0}"
     ThiefFullQ:
-      - "Pencuri bisa beraksi setiap malam?\nSaat ini: {0}"
+    - "Pencuri bisa beraksi setiap malam?\nSaat ini: {0}"
     SecretLynchShowVotes:
-      - "Rahasia: Jumlah Suara"
+    - "Rahasia: Jumlah Suara"
     SecretLynchShowVotesQ:
-      - "Saat mode lynch rahasia diaktifkan, tunjukkan jumlah suara di akhir lynch? \nSaat ini: {0}"
+    - "Saat mode lynch rahasia diaktifkan, tunjukkan jumlah suara di akhir lynch? \nSaat ini: {0}"
     SecretLynchShowVotesA:
-      - "Saat mode lynch rahasia diaktifkan, penghitungan suara di akhir lynch akan menjadi: {0}"
+    - "Saat mode lynch rahasia diaktifkan, penghitungan suara di akhir lynch akan menjadi: {0}"
     SecretLynchShowVoters:
-      - "Rahasia: Pemilih"
+    - "Rahasia: Pemilih"
     SecretLynchShowVotersA:
-      - "Saat mode lynch rahasia diaktifkan dan penghitungan suara ditampilkan, nama pemberi suara untuk setiap pemain yang dipilih akan: {0}"
+    - "Saat mode lynch rahasia diaktifkan dan penghitungan suara ditampilkan, nama pemberi suara untuk setiap pemain yang dipilih akan: {0}"
     SecretLynchShowVotersQ:
-      - "Ketika mode lynch rahasia diaktifkan dan penghitungan suara ditampilkan, tunjukkan nama pemberi suara untuk setiap pemain yang dipilih? \nSaat ini: {0}"
+    - "Ketika mode lynch rahasia diaktifkan dan penghitungan suara ditampilkan, tunjukkan nama pemberi suara untuk setiap pemain yang dipilih? \nSaat ini: {0}"
     PinChatMessage:
-      - "Pesan Pin Game"
+    - "Pesan Pin Game"
     PinChatMessageQ:
-      - "Sematkan Pesan Game Secara Otomatis? Setelan awal: {0}"
+    - "Sematkan Pesan Game Secara Otomatis? Setelan awal: {0}"
     PinChatMessageA:
-      - "Menyematkan Pesan Set {0}."
+    - "Menyematkan Pesan Set {0}."
     ShowRolesDeath:
-      - Tunjukkan peran pemain yang tewas
+    - Tunjukkan peran pemain yang tewas
     ShowRolesDeathQ:
-      - "Tampilkan atau sembunyikan peran pemain yang tewas?\n\nSaat ini: {0}"
+    - "Tampilkan atau sembunyikan peran pemain yang tewas?\n\nSaat ini: {0}"
     ShowRolesDeathA:
-      - "Peran pemain akan menjadi {0} saat tewas"
+    - "Peran pemain akan menjadi {0} saat tewas"
     WelcomeMessage:
-      - "Pesan Selamat Datang"
+    - "Pesan Selamat Datang"
     WelcomeMessageQ:
-      - "Menampilkan pesan selamat datang? Default: {0}"
+    - "Menampilkan pesan selamat datang? Default: {0}"
     WelcomeMessageA:
-      - "Pesan Selamat Datang Set {0}."
+    - "Pesan Selamat Datang Set {0}."
     PMMessage:
-      - "Chat Tim"
+    - "Chat Tim"
     PMMessageQ:
-      - "Dapatkah tim saling mengirim pesan melalui PM? Default: {0}"
+    - "Dapatkah tim saling mengirim pesan melalui PM? Default: {0}"
     PMMessageA:
-      - "Set Chat Tim {0}."
+    - "Set Chat Tim {0}."
     RoleCards:
-      - "Kartu Peran"
+    - "Kartu Peran"
     RoleCardsQ:
-      - "Tampilkan Kartu Peran? Default: {0}"
+    - "Tampilkan Kartu Peran? Default: {0}"
     RoleCardsA:
-      - "Kartu Peran Set {0}"
+    - "Kartu Peran Set {0}"
     MaxExtend:
-      - Tetapkan maksimal perpanjangan waktu
+    - Tetapkan maksimal perpanjangan waktu
     MaxExtendQ:
-      - "Pilih jumlah maksimum detik yang ditambahkan ke dalam pengatur waktu gabungan menggunakan perintah /extend.\nSetelan awal: {0}\nSaat ini: {1}"
+    - "Pilih jumlah maksimum detik yang ditambahkan ke dalam pengatur waktu gabungan menggunakan perintah /extend.\nSetelan awal: {0}\nSaat ini: {1}"
     MaxExtendA:
-      - "Waktu perpanjangan maksimum ditetapkan menjadi {0} detik"
+    - "Waktu perpanjangan maksimum ditetapkan menjadi {0} detik"
     DisableGModes:
-      - Nonaktifkan Mode Game
+    - Nonaktifkan Mode Game
     DisableGModesInfo:
-      - "Mode permainan mana yang ingin Anda aktifkan dalam grup?"
+    - "Mode permainan mana yang ingin Anda aktifkan dalam grup?"
     MuteModes:
-      - Pengaturan Mute
+    - Pengaturan Mute
     MuteModesInfo:
-      - "Dalam mode permainan mana Anda ingin menonaktifkan pembisuan pemain yang sudah mati?"
+    - "Dalam mode permainan mana Anda ingin menonaktifkan pembisuan pemain yang sudah mati?"
     Lang:
-      - "Ganti Bahasa"
+    - "Ganti Bahasa"
     DayTimer:
-      - Atur durasi siang
+    - Atur durasi siang
     SetDayTimeA:
-      - "Durasi siang hari ditetapkan menjadi {0} detik"
+    - "Durasi siang hari ditetapkan menjadi {0} detik"
     SetDayTimeQ:
-      - "Pilih waktu dasar (dalam detik) untuk durasi siang hari. Ini masih bisa diubah berdasarkan jumlah pemain. \nSetelan awal: {0} \nSaat Ini: {1}"
+    - "Pilih waktu dasar (dalam detik) untuk durasi siang hari. Ini masih bisa diubah berdasarkan jumlah pemain. \nSetelan awal: {0} \nSaat Ini: {1}"
     NightTimer:
-      - Atur durasi malam
+    - Atur durasi malam
     SetNightTimeQ:
-      - "Pilih waktu (dalam detik) untuk durasi malam hari. Setelan awal: {0} \nSaat Ini: {1}"
+    - "Pilih waktu (dalam detik) untuk durasi malam hari. Setelan awal: {0} \nSaat Ini: {1}"
     SetNightTimeA:
-      - "Durasi malam hari ditetapkan menjadi {0} detik"
+    - "Durasi malam hari ditetapkan menjadi {0} detik"
     LynchTimer:
-      - Setel Pengatur Waktu Voting
+    - Setel Pengatur Waktu Voting
     SetLynchTimeQ:
-      - "Pilih waktu (dalam detik) untuk durasi pemungutan suara (lynch). \nSetelan awal: {0} \nSaat Ini: {1}"
+    - "Pilih waktu (dalam detik) untuk durasi pemungutan suara (lynch). \nSetelan awal: {0} \nSaat Ini: {1}"
     SetLynchTimeA:
-      - "Waktu pemungutan suara (lynch) ditetapkan menjadi {0} detik."
+    - "Waktu pemungutan suara (lynch) ditetapkan menjadi {0} detik."
     MaxPlayer:
-      - "Tentukan Jumlah Maksimal Pemain"
+    - "Tentukan Jumlah Maksimal Pemain"
     MaxPlayersQ:
-      - "Berapa banyak pemain yang ingin ditetapkan sebagai jumlah maksimum? \nSaat ini: {0}"
+    - "Berapa banyak pemain yang ingin ditetapkan sebagai jumlah maksimum? \nSaat ini: {0}"
     MaxPlayersA:
-      - "Jumlah maksimal pemain diatur menjadi {0}"
+    - "Jumlah maksimal pemain diatur menjadi {0}"
     RoleConfigInfo:
-      - "Peran apa yang ingin Anda gunakan dalam permainan?\n\nPanduan Konfigurasi Peran:\n\n✅ = Peran diaktifkan\n❌ = Peran dinonaktifkan\n\nSetelah memilih peran yang diinginkan, gunakan tombol VALIDASI yang terletak di sudut kiri bawah layar untuk memvalidasi dan mengaktifkan pilihan Anda. Jika Anda tidak memvalidasi pilihan Anda, konfigurasi tersebut akan diabaikan dan semua peran secara default akan diaktifkan.\n\nSaat validasi berhasil, tombol di sudut kiri bawah akan berubah menjadi ✅ Valid ✅, menandakan bahwa konfigurasi peran Anda telah berhasil diterapkan."
+    - "Peran apa yang ingin Anda gunakan dalam permainan?\n\nPanduan Konfigurasi Peran:\n\n✅ = Peran diaktifkan\n❌ = Peran dinonaktifkan\n\nSetelah memilih peran yang diinginkan, gunakan tombol VALIDASI yang terletak di sudut kiri bawah layar untuk memvalidasi dan mengaktifkan pilihan Anda. Jika Anda tidak memvalidasi pilihan Anda, konfigurasi tersebut akan diabaikan dan semua peran secara default akan diaktifkan.\n\nSaat validasi berhasil, tombol di sudut kiri bawah akan berubah menjadi ✅ Valid ✅, menandakan bahwa konfigurasi peran Anda telah berhasil diterapkan."
     Validate:
-      - Validasi
+    - Validasi
     WhatLang:
-      - "Bahasa Apa? \nSaat ini: {0}"
+    - "Bahasa Apa? \nSaat ini: {0}"
     WhatVariant:
-      - "Variasi Apa? \nSaat ini: {0}"
+    - "Variasi Apa? \nSaat ini: {0}"
     LangSet:
-      - "Bahasa ditetapkan ke {0}"
+    - "Bahasa ditetapkan ke {0}"
     Allow:
     - "Izinkan"
     Disallow:
-      - "Batalkan"
+    - "Batalkan"
     Show:
-      - "Tampilkan"
+    - "Tampilkan"
     Hide:
-      - "Sembunyikan"
+    - "Sembunyikan"
   SocialCommand:
     MostPlayedWith:
-      - "Paling sering bermain bersama"
+    - "Paling sering bermain bersama"
     Killed:
-      - "\U0001F52AMembunuh"
+    - "🔪Membunuh"
     KilledBy:
-      - "☠️ Dibunuh oleh"
+    - "☠️ Dibunuh oleh"
     DeathType:
-      - "Jenis Kematian"
+    - "Jenis Kematian"
     SocialStats:
-      - "Informasi statistik sosial apa yang ingin kamu lihat?"
+    - "Informasi statistik sosial apa yang ingin kamu lihat?"
   SetLinkCommand:
     SetLinkSuccess:
-      - "Tautan berhasil ditetapkan: {0}"
+    - "Tautan berhasil ditetapkan: {0}"
     SetLinkFailed:
-      - "Kamu perlu menggunakan perintah /setlink untuk menetapkan tautan grup."
+    - "Kamu perlu menggunakan perintah /setlink untuk menetapkan tautan grup."
     SetLinkError:
-      - "Tautan Telegram ini tidak valid."
+    - "Tautan Telegram ini tidak valid."
     SetLinkDelete:
-      - "Tautan grupmu berhasil dihapus."
+    - "Tautan grupmu berhasil dihapus."
   RepCommand:
     RepCommandSuccess:
-      - "Bug berhasil dikirim ke pengembang. Setelah peninjauan, koreksi yang diperlukan akan dilakukan. Terima kasih."
+    - "Bug berhasil dikirim ke pengembang. Setelah peninjauan, koreksi yang diperlukan akan dilakukan. Terima kasih."
     ErrorRepCommand:
-      - "Silakan balas pesan awal permainan dan gunakan perintah. Jika salah satu game mengalami kesalahan, Anda dapat menggunakan perintah dengan merespons daftar #pemain game tersebut."
+    - "Silakan balas pesan awal permainan dan gunakan perintah. Jika salah satu game mengalami kesalahan, Anda dapat menggunakan perintah dengan merespons daftar #pemain game tersebut."
     EmptyReason:
-      - "Silakan tulis deskripsi kesalahannya, di sebelah perintah. Contoh penggunaan: \"/rep pemain yang error tidak dapat digantung\""
+    - "Silakan tulis deskripsi kesalahannya, di sebelah perintah. Contoh penggunaan: \"/rep pemain yang error tidak dapat digantung\""
   Ping:
     PingInfo:
-      - "Waktu untuk menerima pesan ping: {0} \nPesan per detik: {1}"
+    - "Waktu untuk menerima pesan ping: {0} \nPesan per detik: {1}"
     Ping2:
-      - "Waktu untuk mengirim pesan ping: {0}"
+    - "Waktu untuk mengirim pesan ping: {0}"
   ModeInfo:
     LoveInfo:
-      - "Dalam Mode Cinta, setiap pemain memulai permainan dengan pasangan kekasih. Jika salah satu dari mereka mati, pasangan tersebut juga akan mati. Para kekasih dapat berkomunikasi secara pribadi melalui bot. Permainan ini dimenangkan oleh pasangan kekasih terakhir yang bertahan hidup. Perlu dicatat, statistik dan skor tidak akan dihitung dalam mode ini. Dalam mode ini, peran \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476, dan \U0001F9D1‍⚕️ dinonaktifkan."
+    - "Dalam Mode Cinta, setiap pemain memulai permainan dengan pasangan kekasih. Jika salah satu dari mereka mati, pasangan tersebut juga akan mati. Para kekasih dapat berkomunikasi secara pribadi melalui bot. Permainan ini dimenangkan oleh pasangan kekasih terakhir yang bertahan hidup. Perlu dicatat, statistik dan skor tidak akan dihitung dalam mode ini. Dalam mode ini, peran 🏹, 😾, 🖕, 👶, dan 🧑‍⚕️ dinonaktifkan."
     NormalInfo:
-      - "Dalam Mode Normal, tidak ada poin yang dihitung, dan semua peran terlihat oleh pemain. Permainan ini memastikan distribusi peran yang seimbang antara penjahat dan penduduk desa, menciptakan tantangan yang adil dan merata bagi semua peserta."
+    - "Dalam Mode Normal, tidak ada poin yang dihitung, dan semua peran terlihat oleh pemain. Permainan ini memastikan distribusi peran yang seimbang antara penjahat dan penduduk desa, menciptakan tantangan yang adil dan merata bagi semua peserta."
     RankedInfo:
-      - "Dalam Mode Peringkat (Mode Ranked), pemain mendapatkan poin berdasarkan kinerja dan efektivitas dalam menjalankan peran mereka. Permainan ini dirancang untuk memastikan distribusi peran yang seimbang, agar menciptakan kompetisi yang adil bagi semua pemain. Di akhir permainan dengan 10 pemain atau lebih, beberapa peserta akan menerima hadiah berupa Permen (mint), yang bisa digunakan untuk membeli peran atau emoji khusus. Gunakan perintah /topscore untuk memeriksa peringkat global Anda."
+    - "Dalam Mode Peringkat (Mode Ranked), pemain mendapatkan poin berdasarkan kinerja dan efektivitas dalam menjalankan peran mereka. Permainan ini dirancang untuk memastikan distribusi peran yang seimbang, agar menciptakan kompetisi yang adil bagi semua pemain. Di akhir permainan dengan 10 pemain atau lebih, beberapa peserta akan menerima hadiah berupa Permen (mint), yang bisa digunakan untuk membeli peran atau emoji khusus. Gunakan perintah /topscore untuk memeriksa peringkat global Anda."
     ChaosInfo:
-      - "Dalam Mode Chaos, tidak ada keseimbangan peran. Setiap peran ditetapkan secara acak. Hal ini berarti baik penjahat maupun penduduk desa bisa mendapatkan kekuatan yang signifikan. Bersiaplah untuk pengalaman bermain yang penuh kejutan dan kekacauan, di mana segala sesuatu bisa terjadi."
+    - "Dalam Mode Chaos, tidak ada keseimbangan peran. Setiap peran ditetapkan secara acak. Hal ini berarti baik penjahat maupun penduduk desa bisa mendapatkan kekuatan yang signifikan. Bersiaplah untuk pengalaman bermain yang penuh kejutan dan kekacauan, di mana segala sesuatu bisa terjadi."
     CustomInfo:
-      - "Di mode Kustom, permainan dimulai dengan inisiator menentukan peran-peran yang akan dimasukkan ke dalam permainan. Kamu bebas memilih dan menyesuaikan peran yang diinginkan sebelum permainan dimulai. Namun, jika di antara empat peran pertama yang dipilih tidak ada peran penjahat, permainan tidak akan bisa dimulai. Perlu dicatat, hasil akhir permainan di mode ini tidak akan memengaruhi atau menambah statistik permainan."
+    - "Di mode Kustom, permainan dimulai dengan inisiator menentukan peran-peran yang akan dimasukkan ke dalam permainan. Kamu bebas memilih dan menyesuaikan peran yang diinginkan sebelum permainan dimulai. Namun, jika di antara empat peran pertama yang dipilih tidak ada peran penjahat, permainan tidak akan bisa dimulai. Perlu dicatat, hasil akhir permainan di mode ini tidak akan memengaruhi atau menambah statistik permainan."
     ModeInfo:
-      - "Untuk mengetahui lebih lanjut tentang mode permainan saat ini, klik /modeinfo. \n\nMode permainan saat ini: {0}"
+    - "Untuk mengetahui lebih lanjut tentang mode permainan saat ini, klik /modeinfo. \n\nMode permainan saat ini: {0}"
     BonusModeActivated:
-      - "Lebih banyak pemain, lebih banyak poin! Bergabunglah dengan permainan ini, dan saksikan hadiahnya berlipat ganda. Tingkatkan peringkat Anda dengan cepat! \U0001F680"
+    - "Lebih banyak pemain, lebih banyak poin! Bergabunglah dengan permainan ini, dan saksikan hadiahnya berlipat ganda. Tingkatkan peringkat Anda dengan cepat! 🚀"
     RankedMode:
-      - Peringkat
+    - Peringkat
     LoveMode:
-      - Cinta
+    - Cinta
     CustomMode:
-      - Kustom
+    - Kustom
     NormalMode:
-      - ""
+    - ""
     ChaosMode:
-      - ""
+    - ""
   RoleList:
     HelpRoleList:
-      - "Berikut peran-peran yang ada di WolfBlood:\n\nWolfBlood memiliki total {2} peran. Ada {0} peran klasik dan {1} peran khusus yang hanya ada di WolfBlood."
+    - "Berikut peran-peran yang ada di WolfBlood:\n\nWolfBlood memiliki total {2} peran. Ada {0} peran klasik dan {1} peran khusus yang hanya ada di WolfBlood."
     VG:
-      - Tim Warga Desa 🧑‍🌾
+    - Tim Warga Desa 🧑‍🌾
     Baddie:
-      - Tim Serigala 🐺
+    - Tim Serigala 🐺
     Solo:
-      - Tim Solo 👣
+    - Tim Solo 👣
     AboutVGTeam:
-      - "Tim Warga Desa\n\nMereka adalah orang-orang baik yang bekerja sama mengidentifikasi dan melenyapkan para pembunuh yang menyamar di antara mereka. Mereka perlu menggunakan penalaran deduktif dan strategi cermat untuk menemukan pelaku-pelaku pembunuhan, sebelum menjadi target pembunuhan berikutnya.\n\nMusuh:Serigala, Pembunuh Berantai, Arsonist, dan Cultist."
+    - "Tim Warga Desa\n\nMereka adalah orang-orang baik yang bekerja sama mengidentifikasi dan melenyapkan para pembunuh yang menyamar di antara mereka. Mereka perlu menggunakan penalaran deduktif dan strategi cermat untuk menemukan pelaku-pelaku pembunuhan, sebelum menjadi target pembunuhan berikutnya.\n\nMusuh:Serigala, Pembunuh Berantai, Arsonist, dan Cultist."
     AboutBaddieTeam:
-      - "Tim Serigala\n\nSekelompok warga desa diserang oleh kawanan serigala liar pada malam bulan purnama. Desas-desus menyeru, sebagian orang percaya mereka masih hidup dan bertansformasi menjadi manusia serigala. Warga desa percaya, mereka bersembunyi di antara penduduk untuk mengincar nyawa pada malam hari.\n\nMusuh:Pembunuh Berantai, Arsonist, dan Cultist."
+    - "Tim Serigala\n\nSekelompok warga desa diserang oleh kawanan serigala liar pada malam bulan purnama. Desas-desus menyeru, sebagian orang percaya mereka masih hidup dan bertansformasi menjadi manusia serigala. Warga desa percaya, mereka bersembunyi di antara penduduk untuk mengincar nyawa pada malam hari.\n\nMusuh:Pembunuh Berantai, Arsonist, dan Cultist."
     AboutSoloTeam:
-      - "Tim Solo \n\nIndividu di desa yang lebih memilih bekerja sendiri daripada menjadi bagian dari tim. Berbeda dengan para manusia serigala, mereka memiliki kemampuan untuk menghabisi pemain secara individu. Tujuan mereka adalah menjadi satu-satunya yang selamat di desa tersebut, yang akan membawa mereka menuju kemenangan.\n\nPenjahat tunggal : Pembunuh Berantai, Arsonist."
+    - "Tim Solo \n\nIndividu di desa yang lebih memilih bekerja sendiri daripada menjadi bagian dari tim. Berbeda dengan para manusia serigala, mereka memiliki kemampuan untuk menghabisi pemain secara individu. Tujuan mereka adalah menjadi satu-satunya yang selamat di desa tersebut, yang akan membawa mereka menuju kemenangan.\n\nPenjahat tunggal : Pembunuh Berantai, Arsonist."
   Requirements:
     MemberCount:
-      - ""
+    - ""
     RestrictPermission:
-      - ""
+    - ""
     GameCount:
-      - ""
+    - ""
     GroupUnderReview:
-      - ""
+    - ""
     GroupApprovedButNotReady:
-      - ""
+    - ""
     GroupRejected:
-      - ""
+    - ""
     GroupApprovedNotification:
-      - ""
+    - ""
     RequestSent:
-      - ""    
+    - ""
   EndMessages:
     SKHunterEnd:
-      - "Saat matahari terbit tepat di atas alun-alun desa, {0} dan {1} bertemu. Dengan tekad membara, {0} mencabut pisaunya lalu melompat ke arah {1}. Namun, {1} dengan sigap mengeluarkan pistol dan menembak tepat di dahi {0}. Saat tubuh {0} terjatuh, pisau yang digenggamnya menusuk tubuh {1}. Keduanya jatuh meregang nyawa. Tidak ada yang hidup, tidak ada yang menang."
+    - "Saat matahari terbit tepat di atas alun-alun desa, {0} dan {1} bertemu. Dengan tekad membara, {0} mencabut pisaunya lalu melompat ke arah {1}. Namun, {1} dengan sigap mengeluarkan pistol dan menembak tepat di dahi {0}. Saat tubuh {0} terjatuh, pisau yang digenggamnya menusuk tubuh {1}. Keduanya jatuh meregang nyawa. Tidak ada yang hidup, tidak ada yang menang."
     HunterKillsWolfEnd:
-      - "Mengetahui hanya {0} yang tersisa, {1} mencoba memakan {0}, tetapi pengalaman menembak {0} berhasil mengenai {1} tepat di dahinya. Penduduk desa menang!"
+    - "Mengetahui hanya {0} yang tersisa, {1} mencoba memakan {0}, tetapi pengalaman menembak {0} berhasil mengenai {1} tepat di dahinya. Penduduk desa menang!"
     WolfKillsHunterEnd:
-      - "Mengetahui hanya {0} yang tersisa, {1} memilih waktu di mana kewaspadaan {0} sedang lengah. Menyingkirkan penduduk desa terakhir terbukti mudah bagi {1}, karena yang tersisa hanyalah tubuh {0} yang dimutilasi. Sang Hunter, mati dihiasi dengan garis miring di wajah."
+    - "Mengetahui hanya {0} yang tersisa, {1} memilih waktu di mana kewaspadaan {0} sedang lengah. Menyingkirkan penduduk desa terakhir terbukti mudah bagi {1}, karena yang tersisa hanyalah tubuh {0} yang dimutilasi. Sang Hunter, mati dihiasi dengan garis miring di wajah."
     CHKillsCultistEnd:
-      - "{1} dan {0} keluar di siang hari. Melihat salib terbalik berkilauan di leher {0}, dengan segera {1} menghunus pedang untuk yang terakhir kalinya, mengakhiri penyebaran ajaran sesat para Cultist yang telah mencemari desa."
+    - "{1} dan {0} keluar di siang hari. Melihat salib terbalik berkilauan di leher {0}, dengan segera {1} menghunus pedang untuk yang terakhir kalinya, mengakhiri penyebaran ajaran sesat para Cultist yang telah mencemari desa."
     TannerEnd:
-      - "Saat sinar matahari mulai memancar di desa, {0} bangun dalam sunyi yang menyelimuti. Merasa kesepian, {0} melangkah keluar, berakhir sendirian di tengah desa. Di antara mayat yang berserakan di sekelilingnya, {0} hanya bisa mendesah. Impian seumur hidupnya untuk dihukum oleh penduduk desa telah sirna. Dia meraba sekitar, meraih tali yang telah merenggut banyak nyawa, lalu mengikatkannya di lehernya, membiarkan dirinya menggantung dengan bebas dengan senyum sedih merona di wajahnya."
-      - "{0} terbangun saat fajar, sendirian. Dengan penuh kesedihan, dia melihat kegagalan dirinya yang tak mampu memenuhi keinginan masokisnya untuk digantung hingga mati oleh penduduk desa. Menyadari bahwa tak ada lagi yang bisa mewujudkan impiannya, dengan tangan gemetar {0} meraih tali dan menggantung dirinya."
+    - "Saat sinar matahari mulai memancar di desa, {0} bangun dalam sunyi yang menyelimuti. Merasa kesepian, {0} melangkah keluar, berakhir sendirian di tengah desa. Di antara mayat yang berserakan di sekelilingnya, {0} hanya bisa mendesah. Impian seumur hidupnya untuk dihukum oleh penduduk desa telah sirna. Dia meraba sekitar, meraih tali yang telah merenggut banyak nyawa, lalu mengikatkannya di lehernya, membiarkan dirinya menggantung dengan bebas dengan senyum sedih merona di wajahnya."
+    - "{0} terbangun saat fajar, sendirian. Dengan penuh kesedihan, dia melihat kegagalan dirinya yang tak mampu memenuhi keinginan masokisnya untuk digantung hingga mati oleh penduduk desa. Menyadari bahwa tak ada lagi yang bisa mewujudkan impiannya, dengan tangan gemetar {0} meraih tali dan menggantung dirinya."
     SorcererEnd:
-      - "{0} membuka matanya, menyadari keramaian desa  tak seperti biasanya, hening. Dia menatap langit-langit dengan wajah suram. Semua orang telah tiada. Serigala juga telah tiada. Dengan duka yang mendalam, {0} bangkit dan merapikan barang-barangnya, lalu meninggalkan desa itu. Air mata mengalir dari matanya saat dia mengenang kedekatan dirinya dengan para serigala dan harapan untuk kemenangan. Namun, saat ini sudah saatnya untuk memulai hidup baru, bersama kawanan yang baru. Dengan hati yang berat, {0} menyelinap ke dalam kegelapan hutan, menjauhi desa yang telah mati."
-      - "Setelah segala upaya yang telah dilakukan {0}, rekan setia serigala {0} kini terbaring diam tanpa tanda kehidupan. Bahkan jika serigala menang pun, tidak ada yang bisa menikmati kemenangan itu, tidak ada penduduk desa yang tersisa untuk mereka ejek. Dengan hati yang berat, {0} menatap ke dalam bola kristal, diam-diam menghilang, terselubung dalam kabut, mencari serigala baru, sekutu baru, dan mungkin pengkhianatan baru untuk meneruskan kejahatan mereka terhadap umat manusia."
+    - "{0} membuka matanya, menyadari keramaian desa  tak seperti biasanya, hening. Dia menatap langit-langit dengan wajah suram. Semua orang telah tiada. Serigala juga telah tiada. Dengan duka yang mendalam, {0} bangkit dan merapikan barang-barangnya, lalu meninggalkan desa itu. Air mata mengalir dari matanya saat dia mengenang kedekatan dirinya dengan para serigala dan harapan untuk kemenangan. Namun, saat ini sudah saatnya untuk memulai hidup baru, bersama kawanan yang baru. Dengan hati yang berat, {0} menyelinap ke dalam kegelapan hutan, menjauhi desa yang telah mati."
+    - "Setelah segala upaya yang telah dilakukan {0}, rekan setia serigala {0} kini terbaring diam tanpa tanda kehidupan. Bahkan jika serigala menang pun, tidak ada yang bisa menikmati kemenangan itu, tidak ada penduduk desa yang tersisa untuk mereka ejek. Dengan hati yang berat, {0} menatap ke dalam bola kristal, diam-diam menghilang, terselubung dalam kabut, mencari serigala baru, sekutu baru, dan mungkin pengkhianatan baru untuk meneruskan kejahatan mereka terhadap umat manusia."
     DoppelgangerEnd:
-      - "Ah! Betapa sengsaranya kehidupan seseorang yang bahkan tidak mampu melakukan satu-satunya tugas yang dia buat. Apakah kemampuan meniru penampilan orang lain hanya mitos belaka? Kini, {0} sendirian di desa, tanpa seorang pun yang menirunya. Hanya bisa menatap dirinya di cermin."
+    - "Ah! Betapa sengsaranya kehidupan seseorang yang bahkan tidak mampu melakukan satu-satunya tugas yang dia buat. Apakah kemampuan meniru penampilan orang lain hanya mitos belaka? Kini, {0} sendirian di desa, tanpa seorang pun yang menirunya. Hanya bisa menatap dirinya di cermin."
     ThiefEnd:
-      - "Saat {0} mengembara di sekitar desa, dia menyadari bahwa tidak ada lagi peran menyenangkan yang bisa dia curi. Dia bergegas meninggalkan desa yang malang ini, mencari desa lain untuk memulai kembali karir gemerlapnya."
+    - "Saat {0} mengembara di sekitar desa, dia menyadari bahwa tidak ada lagi peran menyenangkan yang bisa dia curi. Dia bergegas meninggalkan desa yang malang ini, mencari desa lain untuk memulai kembali karir gemerlapnya."
   RankedTable:
-    RoleTable: 
-      - ""
+    RoleTable:
+    - ""
     PointTable:
-      - ""
+    - ""
     PenaltyTable:
-      - ""
+    - ""
     BonusModeTable:
-      - ""
+    - ""
     TotalTable:
-      - ""
-    ResultTable: 
-      - ""
+    - ""
+    ResultTable:
+    - ""
     WonGame:
-      - ""
+    - ""
     LostGame:
-      - ""
+    - ""
     Loots:
-      - ""
+    - ""
   Stats:
     AchievementsUnlocked:
-      - "Pencapaian Terbuka"
+    - "Pencapaian Terbuka"
     Score:
-      - "Poin"
+    - "Poin"
     GamesWon:
-      - "kali menang bermain"
+    - "kali menang bermain"
     GamesLost:
-      - "kali kalah bermain"
+    - "kali kalah bermain"
     GamesSurvived:
-      - "kali bertahan hidup dalam permainan"
+    - "kali bertahan hidup dalam permainan"
     TotalGames:
-      - "total permainan"
+    - "total permainan"
     TimesKilled:
-      - "kali membunuh "
+    - "kali membunuh "
     TimesKilledBy:
-      - "kali dibunuh oleh"
+    - "kali dibunuh oleh"
     Afk:
-      - "AFK"
+    - "AFK"
   TimeMessages:
     LynchTime:
-      - "Senja semakin dekat. Di bawah cahaya senja yang merah membara, penduduk desa berkumpul untuk menentukan nasib seseorang yang akan mereka hukum mati sore ini. Setiap pemain hanya memiliki {0} detik untuk memilih!"
+    - "Senja semakin dekat. Di bawah cahaya senja yang merah membara, penduduk desa berkumpul untuk menentukan nasib seseorang yang akan mereka hukum mati sore ini. Setiap pemain hanya memiliki {0} detik untuk memilih!"
     DayTime:
-      - "Hari berganti. Di bawah cahaya terangnya siang, tiap penduduk desa diberi waktu {0} detik untuk membuat tuduhan atau pembelaan."
+    - "Hari berganti. Di bawah cahaya terangnya siang, tiap penduduk desa diberi waktu {0} detik untuk membuat tuduhan atau pembelaan."
     NightTime:
-      - "Malam tiba. Setelah hari yang melelahkan, semua orang menuju tempat tidur masing-masing. Pemain malam, kalian hanya punya waktu {0} detik untuk beraksi!"
+    - "Malam tiba. Setelah hari yang melelahkan, semua orang menuju tempat tidur masing-masing. Pemain malam, kalian hanya punya waktu {0} detik untuk beraksi!"
   CustomMode:
     CustomRoleInvalid:
-      - "Peran berikut tidak valid. Silakan tulis ulang peran di bawah ini, lalu mulai ulang permainan. Kamu bisa menggunakan emoji atau nama peran."
+    - "Peran berikut tidak valid. Silakan tulis ulang peran di bawah ini, lalu mulai ulang permainan. Kamu bisa menggunakan emoji atau nama peran."
     CustomFirstRole:
-      - "Salah satu dari 4 peran pertama harus termasuk dalam tim serigala, Tanner, Cultist, Arsonist, atau Pembunuh Berantai. Pastikan salah satu peran ini ada di antara peran pertama yang ditambahkan."
+    - "Salah satu dari 4 peran pertama harus termasuk dalam tim serigala, Tanner, Cultist, Arsonist, atau Pembunuh Berantai. Pastikan salah satu peran ini ada di antara peran pertama yang ditambahkan."
     CustomMinimumRole:
-      - Kamu membutuhkan minimal 4 peran untuk memulai permainan.
+    - Kamu membutuhkan minimal 4 peran untuk memulai permainan.
     CustomMaxRole:
-      - "Kamu tidak bisa memulai permainan dengan lebih dari 100 peran. Harap hapus beberapa peran, lalu coba lagi."
+    - "Kamu tidak bisa memulai permainan dengan lebih dari 100 peran. Harap hapus beberapa peran, lalu coba lagi."
     CustomNoRole:
-      - Silakan tambahkan peran sebelum memulai permainan.
+    - Silakan tambahkan peran sebelum memulai permainan.
   BanMessages:
     GroupBan:
-      - ""
+    - ""
     GlobalBan:
-      - ""
+    - ""
     BanReason:
-     - ""
+    - ""
     BanExpire:
-      - ""
+    - ""
     GroupBanPlayer:
-      - ""
+    - ""
     Year:
-      - ""
+    - ""
     Day:
-      - ""
+    - ""
     Minutes:
-      - ""
+    - ""
     Hours:
-      - ""
+    - ""
     Seconds:
-      - ""
+    - ""
   TeamsMessages:
     MyTeam:
-      - ""
+    - ""
     NothingTeam:
-      - "Saat ini Anda bukan anggota tim mana pun.\nAnda dapat bergabung dengan tim dengan menggunakan perintah /jointeam di grup mana pun yang memiliki tim.\nBergabung dengan tim sekarang dan jadilah bagian dari upaya kolektif menuju kemenangan!"
+    - "Saat ini Anda bukan anggota tim mana pun.\nAnda dapat bergabung dengan tim dengan menggunakan perintah /jointeam di grup mana pun yang memiliki tim.\nBergabung dengan tim sekarang dan jadilah bagian dari upaya kolektif menuju kemenangan!"
     JoinTeam:
-      - "\U0001F389 Selamat! \U0001F389\nAnda telah berhasil bergabung dengan tim {0}.\nAyo bermain bersama dan mendominasi permainan! \U0001F680\U0001F3AE"
+    - "🎉 Selamat! 🎉\nAnda telah berhasil bergabung dengan tim {0}.\nAyo bermain bersama dan mendominasi permainan! 🚀🎮"
     AlreadyTeam:
-      - "ℹ️ Informasi: Anda sudah menjadi anggota tim {0}. Teruslah berjuang dan mari kita raih kemenangan bersama! \U0001F389\U0001F680"
+    - "ℹ️ Informasi: Anda sudah menjadi anggota tim {0}. Teruslah berjuang dan mari kita raih kemenangan bersama! 🎉🚀"
     LeaveTeam:
-      - "\U0001F44B Anda berhasil keluar dari tim {0}.\nJika Anda ingin bergabung kembali dengan tim, Anda dapat menggunakan perintah /jointeam.\nKami menantikan kedatangan Anda kembali! \U0001F31F"
+    - "👋 Anda berhasil keluar dari tim {0}.\nJika Anda ingin bergabung kembali dengan tim, Anda dapat menggunakan perintah /jointeam.\nKami menantikan kedatangan Anda kembali! 🌟"
   NotAdmin:
     GroupAdminOnly:
-      - "Hanya admin grup yang dapat menjalankan perintah ini."
+    - "Hanya admin grup yang dapat menjalankan perintah ini."
     NotGlobalAdmin:
-      - "Kamu bukan admin global."
+    - "Kamu bukan admin global."
     NotKadir:
-      - "Kamu bukan Kadir, STOP!"
+    - "Kamu bukan Kadir, STOP!"
     GroupCommandOnly:
-      - "Anda harus menjalankan perintah ini dalam grup"
+    - "Anda harus menjalankan perintah ini dalam grup"
   NextGame:
     DeletedFromWaitList:
-      - "Anda telah dihapus dari daftar tunggu grup {0}."
+    - "Anda telah dihapus dari daftar tunggu grup {0}."
     AlreadyOnWaitList:
-      - "Anda sudah ada di daftar tunggu {0}."
+    - "Anda sudah ada di daftar tunggu {0}."
     AddedToWaitList:
-      - "Kamu berhasil ditambahkan ke daftar tunggu {0}. Saya akan menghubungimu melalui pesan pribadi (PM) saat permainan berikutnya dimulai. \nGrup: {0}" 
+    - "Kamu berhasil ditambahkan ke daftar tunggu {0}. Saya akan menghubungimu melalui pesan pribadi (PM) saat permainan berikutnya dimulai. \nGrup: {0}"
   LynchMessages:
     PlayerVotedLynch:
-      - "{0} memilih mengeksekusi {1}."
+    - "{0} memilih mengeksekusi {1}."
     AskLynch:
-      - "Siapa yang kamu pilih untuk dihukum mati?"
+    - "Siapa yang kamu pilih untuk dihukum mati?"
     LynchKill:
-      - "Setelah diselimuti keraguan dan kecurigaan, akhirnya suara-suaralah yang memutuskan. {0} tewas, dihukum mati oleh penduduk desa. {1}"
+    - "Setelah diselimuti keraguan dan kecurigaan, akhirnya suara-suaralah yang memutuskan. {0} tewas, dihukum mati oleh penduduk desa. {1}"
     LynchTie:
-      - "Terjebak dalam keraguan yang membelenggu, penduduk desa berbalik menuju rumah masing-masing. [Vote Imbang]..."
+    - "Terjebak dalam keraguan yang membelenggu, penduduk desa berbalik menuju rumah masing-masing. [Vote Imbang]..."
     NoLynchVotes:
-      - "Kebingungan membelenggu penduduk desa, tak seorang pun berani memutuskan. Tidak ada yang dihukum mati malam ini..."
+    - "Kebingungan membelenggu penduduk desa, tak seorang pun berani memutuskan. Tidak ada yang dihukum mati malam ini..."
     PlayerVoteCounts:
-      - "{0} pemain telah memilih, total {1}."
+    - "{0} pemain telah memilih, total {1}."
     SecretLynchResultEach:
-      - "{0} suara diberikan ke {1}: {2}"
+    - "{0} suara diberikan ke {1}: {2}"
     SecretLynchResultFull:
-      - "Hasil lynch hari ini: \n{0}"
+    - "Hasil lynch hari ini: \n{0}"
     SecretLynchResultNumber:
-      - "{0} suara diberikan ke {1}."
+    - "{0} suara diberikan ke {1}."
   PublicMessages:
     DefaultFellPublic:
-      - "Salah satu kuburan di pemakaman itu berisi terlalu banyak orang malam ini... Rupanya {0} mencoba mengunjungi penggali kubur, jatuh ke dalam kuburan dan meninggal! {1}"
+    - "Salah satu kuburan di pemakaman itu berisi terlalu banyak orang malam ini... Rupanya {0} mencoba mengunjungi penggali kubur, jatuh ke dalam kuburan dan meninggal! {1}"
     KillerSpottedDiggerPublic:
-      - "{0} hilang hari ini... Apakah dia mungkin ketiduran? Kau pergi mencarinya dan menemukan ia mati di kuburan, masih memegang sekop. Sepertinya dia meninggal karena beberapa luka tusukan..."
+    - "{0} hilang hari ini... Apakah dia mungkin ketiduran? Kau pergi mencarinya dan menemukan ia mati di kuburan, masih memegang sekop. Sepertinya dia meninggal karena beberapa luka tusukan..."
     WolvesSpottedDiggerPublic:
-      - "{0} tidak hadir dalam rapat kota. Apakah dia ketiduran lagi? Saat Anda mencarinya, Anda menemukan ia terbaring mati di kuburan, sekop masih di tangannya. Sepertinya dia dikejutkan oleh serigala di malam hari..."
+    - "{0} tidak hadir dalam rapat kota. Apakah dia ketiduran lagi? Saat Anda mencarinya, Anda menemukan ia terbaring mati di kuburan, sekop masih di tangannya. Sepertinya dia dikejutkan oleh serigala di malam hari..."
     HarlotFuckKillerPublic:
-      - "{0} mengunjungi rumah seseorang untuk bersenang-senang. Sayangnya, targetnya ternyata seorang Pembunuh Berantai (Serial Killer)! Si Maniak yang kebetulan sedang marah menikamnya bertubi-tubi hingga tak bernapas. {0} tewas!"
+    - "{0} mengunjungi rumah seseorang untuk bersenang-senang. Sayangnya, targetnya ternyata seorang Pembunuh Berantai (Serial Killer)! Si Maniak yang kebetulan sedang marah menikamnya bertubi-tubi hingga tak bernapas. {0} tewas!"
     HarlotFuckedKilledPublic:
-      - "{0} menyelinap ke rumah {1}, siap untuk malam penuh gairah. Saat tiba, ia menemukan orang asing misterius sedang melakukan operasi pengangkatan isi perut {1}! Pembunuh berantai memutuskan untuk menikam {0} bertubi-tubi sebelum memasukkan organ-organ vital itu ke toples koleksinya."
+    - "{0} menyelinap ke rumah {1}, siap untuk malam penuh gairah. Saat tiba, ia menemukan orang asing misterius sedang melakukan operasi pengangkatan isi perut {1}! Pembunuh berantai memutuskan untuk menikam {0} bertubi-tubi sebelum memasukkan organ-organ vital itu ke toples koleksinya."
   WelcomeMessages:
     OfficialGrp:
-      - "Berikut adalah Grup-Grup Resmi WolfBlood, di semua komunitas. Klik nama grup komunitas yang ingin kamu ikuti!"
+    - "Berikut adalah Grup-Grup Resmi WolfBlood, di semua komunitas. Klik nama grup komunitas yang ingin kamu ikuti!"
     Welcome:
-      - "Halo, {0}! \U0001F43E \nSelamat datang di WolfBlood~\n\nSiapkan diri untuk petualangan seru dan misterius di mana penduduk desa melawan manusia serigala!\n\nNikmati permainan klasik werewolf dengan fitur eksklusif, termasuk peran dan mode permainan baru.\nBergabunglah dengan Grup-Grup Resmi WolfBlood untuk bersaing dengan pemain lain. \n\nIkuti pembaruan terbaru di WolfBlood News dan hubungi Grup Dukungan untuk mendapatkan bantuan.\n\n\U0001F43E Selamat Bertualang \U0001F43A"
+    - "Halo, {0}! 🐾 \nSelamat datang di WolfBlood~\n\nSiapkan diri untuk petualangan seru dan misterius di mana penduduk desa melawan manusia serigala!\n\nNikmati permainan klasik werewolf dengan fitur eksklusif, termasuk peran dan mode permainan baru.\nBergabunglah dengan Grup-Grup Resmi WolfBlood untuk bersaing dengan pemain lain. \n\nIkuti pembaruan terbaru di WolfBlood News dan hubungi Grup Dukungan untuk mendapatkan bantuan.\n\n🐾 Selamat Bertualang 🐺"
     CreditsText:
-      - "\U0001D400\U0001D40F\U0001D40F\U0001D411\U0001D404\U0001D402\U0001D408\U0001D400\U0001D413\U0001D408\U0001D40E\U0001D40D \U0001D40F\U0001D400\U0001D406\U0001D404 \U0001F54A️\n\nWolfbloodbot dikembangkan pada Mei 2022 dan sebagian besar terinspirasi dari @werewolfbot yang merupakan ciptaan fantastis dari Bapak Telegram Werewolf Game dan pengembang asli bot game tersebut - Para.\n\nKami akan selalu berterima kasih kepada Para yang telah menciptakan dan mengkodekan game ini.\n\n\U0001F91D Kami juga ingin berterima kasih kepada Para dan seluruh Tim Pengembangan GreyWolf yang telah membuat bot ini tetap berjalan sejak tahun 2016.\n\n\U0001F64F Kami juga ingin menggunakan kesempatan ini untuk berterima kasih kepada semua orang yang telah membantu kami di Komunitas Wolf Blood, tidak hanya terbatas pada pengembang kami Kadir {0}, Tim Inti {1}, Penerjemah {2}, Moderator {3}, Donatur {4}, Sponsor {5}, dan kepada Pemain tercinta {6} yang telah menunjukkan cinta dan dukungan tanpa henti untuk bot ini. \n\nIde Peran dan Fitur:\n✦ Sebagian besar ide peran kami untuk peran baru berasal dari kami sendiri, sementara beberapa diadaptasi dari saran peran Wolvesville dan GreyWolf.\n\n✦ Peran lainnya berasal dari {7} asli\n\nSementara itu, semua ide fitur berasal dari Tim Inti dan para pemain Wolf Blood yang telah menghubungi kami melalui @wolfbloodsupport dan @wolfbloodadminbot.\n\nSilakan lihat tautan di bawah ini sebagai referensi:\n\n\U0001F517 {8}\n\U0001F517 {9}"
+    - "𝐀𝐏𝐏𝐑𝐄𝐂𝐈𝐀𝐓𝐈𝐎𝐍 𝐏𝐀𝐆𝐄 🕊️\n\nWolfbloodbot dikembangkan pada Mei 2022 dan sebagian besar terinspirasi dari @werewolfbot yang merupakan ciptaan fantastis dari Bapak Telegram Werewolf Game dan pengembang asli bot game tersebut - Para.\n\nKami akan selalu berterima kasih kepada Para yang telah menciptakan dan mengkodekan game ini.\n\n🤝 Kami juga ingin berterima kasih kepada Para dan seluruh Tim Pengembangan GreyWolf yang telah membuat bot ini tetap berjalan sejak tahun 2016.\n\n🙏 Kami juga ingin menggunakan kesempatan ini untuk berterima kasih kepada semua orang yang telah membantu kami di Komunitas Wolf Blood, tidak hanya terbatas pada pengembang kami Kadir {0}, Tim Inti {1}, Penerjemah {2}, Moderator {3}, Donatur {4}, Sponsor {5}, dan kepada Pemain tercinta {6} yang telah menunjukkan cinta dan dukungan tanpa henti untuk bot ini. \n\nIde Peran dan Fitur:\n✦ Sebagian besar ide peran kami untuk peran baru berasal dari kami sendiri, sementara beberapa diadaptasi dari saran peran Wolvesville dan GreyWolf.\n\n✦ Peran lainnya berasal dari {7} asli\n\nSementara itu, semua ide fitur berasal dari Tim Inti dan para pemain Wolf Blood yang telah menghubungi kami melalui @wolfbloodsupport dan @wolfbloodadminbot.\n\nSilakan lihat tautan di bawah ini sebagai referensi:\n\n🔗 {8}\n🔗 {9}"
   AFKs:
     IdleKill:
-      - "{0} tidak memilih dalam 2 hari secara berturut-turut. Kulit kerang ajaib menganggap hal ini sebagai kejahatan yang mengerikan. {0} kemudian dikutuk dan tiba-tiba jatuh, mati. {1}"
+    - "{0} tidak memilih dalam 2 hari secara berturut-turut. Kulit kerang ajaib menganggap hal ini sebagai kejahatan yang mengerikan. {0} kemudian dikutuk dan tiba-tiba jatuh, mati. {1}"
     IdleCount:
-      - "Pemain {0} dihukum mati karena tidak memberikan suara {1} kali dalam 24 jam terakhir."
+    - "Pemain {0} dihukum mati karena tidak memberikan suara {1} kali dalam 24 jam terakhir."
     GroupIdleCount:
-      - "{0} dari kematiannya terjadi di group ini."
+    - "{0} dari kematiannya terjadi di group ini."
   StoreMessages:
     Store:
-      - "Selamat datang di Toko WB~\n\nGunakan Permen WB Anda untuk meningkatkan pengalaman bermain, dengan menjelajahi daftar item yang tersedia untuk dibeli. Klik tombol di bawah ini untuk melanjutkan.\n\nPermen yang Tersedia: {0} \U0001FA99\nFragmen Emoji yang Tersedia: {1} \U0001F9E9"
+    - "Selamat datang di Toko WB~\n\nGunakan Permen WB Anda untuk meningkatkan pengalaman bermain, dengan menjelajahi daftar item yang tersedia untuk dibeli. Klik tombol di bawah ini untuk melanjutkan.\n\nPermen yang Tersedia: {0} 🪙\nFragmen Emoji yang Tersedia: {1} 🧩"
     BuyFailed:
-      - ""
+    - ""
     BuyConfirm:
-      - ""
+    - ""
     BuySuccess:
-      - "\U0001F389Pembelian Berhasil!\n\nAnda telah berhasil membeli {0}. Saldo baru Anda kini {1}. Terima kasih sudah membeli!\""
+    - "🎉Pembelian Berhasil!\n\nAnda telah berhasil membeli {0}. Saldo baru Anda kini {1}. Terima kasih sudah membeli!\""
     BuyItems:
-      - ""
+    - ""
     BuyTicket:
-      - "\U0001F39F Menu Tiket\n\nSelamat datang di Menu Tiket! Di sini, Anda dapat membeli tiket khusus untuk meningkatkan pengalaman bermain game Anda. Klik tombol di bawah ini untuk melanjutkan.\n\nMints yang tersedia: {0} \U0001FA99\nApa yang ingin Anda beli?"
+    - "🎟 Menu Tiket\n\nSelamat datang di Menu Tiket! Di sini, Anda dapat membeli tiket khusus untuk meningkatkan pengalaman bermain game Anda. Klik tombol di bawah ini untuk melanjutkan.\n\nMints yang tersedia: {0} 🪙\nApa yang ingin Anda beli?"
     BuyRole:
-      - ""
+    - ""
     BuyEmoji:
-      - ""
+    - ""
     BuyEmojiDuration:
-      - ""
+    - ""
   TicketButtons:
     ForceToken:
-      - ''
+    - ''
     RoleVouchers:
-      - ''
+    - ''
     FJoin:
-      - ''
+    - ''
     FName:
-      - ''
+    - ''
     BonusPointTicket:
-      - ''
+    - ''
     Fragment:
-      - ''
+    - ''
     Mint:
-      - ''
+    - ''
     BonusRankedModeTicket:
-      - ''
+    - ''
     CustomMessageTicket:
-      - ''
+    - ''
     CustomEmoji:
-      - ''
+    - ''
     PlayerTAG:
-      - ''
+    - ''
     CustomGifs:
-      - ''
+    - ''
     FakeRole:
-      - ''
+    - ''
     MyTicketButton:
-      - ''
+    - ''
     MyItemButton:
-      - ''
+    - ''
     TournamentPoint:
-      - ''
+    - ''
     Month:
-      - ""
+    - ""
     Week:
-      - ""
+    - ""
     Permanent:
-      - ""
+    - ""
     Yearly:
-      - ""
+    - ""
   TopMessages:
     GroupStats:
-      - "Top 10 di Grup {0}:"
+    - "Top 10 di Grup {0}:"
     TopScore:
-      - "10 Pemain Terbaik dengan Skor Tertinggi:"
+    - "10 Pemain Terbaik dengan Skor Tertinggi:"
     YourRanking:
-      - 'Peringkatmu:'
+    - 'Peringkatmu:'
     MostPlayedWithMonth:
-      - Pemain dengan jumlah permainan terbanyak bulan ini.
+    - Pemain dengan jumlah permainan terbanyak bulan ini.
   ProfileMessages:
     ItemsText:
-      - ""
+    - ""
     Profile:
-      - "Halo {0}! Selamat datang di Dompet & Inventaris WB Anda!\n\nDi sini Anda dapat memeriksa semua mint, emoji, item, dan voucher peran yang Anda kumpulkan. Gunakan tombol-tombol di bawah ini untuk melakukan tindakan.\nApa yang ingin Anda lakukan?"
+    - "Halo {0}! Selamat datang di Dompet & Inventaris WB Anda!\n\nDi sini Anda dapat memeriksa semua mint, emoji, item, dan voucher peran yang Anda kumpulkan. Gunakan tombol-tombol di bawah ini untuk melakukan tindakan.\nApa yang ingin Anda lakukan?"
     LockEmoji:
-      - Emoji ini terkunci dan tidak dapat diubah...
+    - Emoji ini terkunci dan tidak dapat diubah...
     MaxEmoji:
-      - "Kamu telah mencapai batas maksimum aktivasi emoji. Untuk mengaktifkan fitur selanjutnya, gunakan perintah /donate."
+    - "Kamu telah mencapai batas maksimum aktivasi emoji. Untuk mengaktifkan fitur selanjutnya, gunakan perintah /donate."
     EmojiChoice:
-      - "Emoji yang Anda peroleh ditunjukkan di bawah. Aktifkan/nonaktifkan emoji yang muncul di samping nama Anda dengan beralih di bawah:"
+    - "Emoji yang Anda peroleh ditunjukkan di bawah. Aktifkan/nonaktifkan emoji yang muncul di samping nama Anda dengan beralih di bawah:"
     NoMyRoles:
-      - "Anda belum memiliki peran saat ini. Teruslah bermain untuk mendapatkan peran baru dan memperluas inventaris Anda!"
+    - "Anda belum memiliki peran saat ini. Teruslah bermain untuk mendapatkan peran baru dan memperluas inventaris Anda!"
     MyRoles:
-      - "\U0001F6C5 Peran Saya\n\nDi sini, Anda bisa melihat dan mengelola semua peran Anda. Aktifkan atau nonaktifkan peran sesuai dengan strategi dan preferensi gameplay Anda.\n\nPeran total: {0}\n\nKlik tombol di bawah untuk mengaktifkan atau menonaktifkan peran Anda."
+    - "🛅 Peran Saya\n\nDi sini, Anda bisa melihat dan mengelola semua peran Anda. Aktifkan atau nonaktifkan peran sesuai dengan strategi dan preferensi gameplay Anda.\n\nPeran total: {0}\n\nKlik tombol di bawah untuk mengaktifkan atau menonaktifkan peran Anda."
     ActivateRole:
-      - '✅ {0} peran berhasil diaktifkan!'
+    - '✅ {0} peran berhasil diaktifkan!'
     DeactivateRole:
-      - '❌ {0} peran berhasil dinonaktifkan!'
+    - '❌ {0} peran berhasil dinonaktifkan!'
     TicketsMenu:
-      - "\U0001F3AB Menu Tiket \U0001F3AB\nDi sini Anda dapat melihat dan mengaktifkan tiket khusus Anda.\nPilihlah tiket yang ingin Anda aktifkan dengan mengklik salah satu tombol di bawah ini."
+    - "🎫 Menu Tiket 🎫\nDi sini Anda dapat melihat dan mengaktifkan tiket khusus Anda.\nPilihlah tiket yang ingin Anda aktifkan dengan mengklik salah satu tombol di bawah ini."
   RewardPM:
-    - ""
-    - ""
-    - ""
-    - ""
+  - ""
+  - ""
+  - ""
+  - ""
   TelegramStars:
     StarShop:
-      - ""
+    - ""
     StarTicket:
-      - ""  
+    - ""
     StarItems:
-      - ""
+    - ""
     StarConfirm:
-      - ""
+    - ""
     StarCustomMessage:
-      - ""
+    - ""
     StarPlayerTAG:
-      - ""
+    - ""
     StarGifMenu:
-      - ""
+    - ""
     StarRole:
-      - ""
+    - ""
     StarEmoji:
-      - ""
+    - ""
     StarEmojiDuration:
-      - ""
+    - ""
     StarSuccess:
-      - ""
+    - ""
     StarPayment:
-      - ""
+    - ""
     StarPaidSuccess:
-      - ""
+    - ""
   GiftMenu:
-    GiftShop: 
-      - ""
+    GiftShop:
+    - ""
     GiftItems:
-      - ""
+    - ""
     GiftConfirm:
-      - ""
+    - ""
     GiftTicket:
-      - ""
+    - ""
     GiftCustomMessage:
-      - ""
+    - ""
     GiftPlayerTAG:
-      - ""
+    - ""
     GiftCustomGif:
-      - ""
+    - ""
     GiftRole:
-      - ""
+    - ""
     GiftEmoji:
-      - ""
+    - ""
     GiftEmojiDuration:
-      - ""
+    - ""
     GiftSentSuccess:
-      - ""
+    - ""
   CustomGifs:
     NotPack:
-      - Kamu belum membuka kunci paket GIF khusus. Silakan gunakan perintah /donasi.
+    - Kamu belum membuka kunci paket GIF khusus. Silakan gunakan perintah /donasi.
     GifPackStatus:
-      - 'Current Approval Status:
+    - 'Current Approval Status:
 
-        Approved Gifs: {0} ✅
+      Approved Gifs: {0} ✅
 
-        Pending Gifs: {1} ⏳
+      Pending Gifs: {1} ⏳
 
-        Rejected Gifs: {2} ⛔️'
+      Rejected Gifs: {2} ⛔️'
     GifPack:
-      - "Siap membuat paket GIF khusus? \nBerikut adalah hal-hal yang perlu kamu ketahui:\n\n● GIF-mu memerlukan persetujuan sebelum dapat digunakan dalam permainan.\n● Tidak boleh mengirim GIF yang brutal, ilegal, atau lainnya di luar kebijakan kami.\n● Kamu akan menerima deskripsi gambar untuk memilih GIF.\n● Mengubah GIF memerlukan persetujuan ulang dari admin.\n\nAyo buat GIF khusus~"
+    - "Siap membuat paket GIF khusus? \nBerikut adalah hal-hal yang perlu kamu ketahui:\n\n● GIF-mu memerlukan persetujuan sebelum dapat digunakan dalam permainan.\n● Tidak boleh mengirim GIF yang brutal, ilegal, atau lainnya di luar kebijakan kami.\n● Kamu akan menerima deskripsi gambar untuk memilih GIF.\n● Mengubah GIF memerlukan persetujuan ulang dari admin.\n\nAyo buat GIF khusus~"
     GifSubmitBtn:
-      - Kirim
+    - Kirim
     GifSend:
-      - ""
+    - ""
     GifReset:
-      - "Setel ulang GIF"
+    - "Setel ulang GIF"
     GifResetSuccess:
-      - ""
+    - ""
     GifStatus:
-      - ''
+    - ''
     Approved:
-      - ''
+    - ''
     Disapproved:
-      - ''
+    - ''
     GifError:
-      - "GIF ini terlalu besar, ukuran maksimum yang diperbolehkan adalah 2MB. Silakan kirimkan GIF yang ingin Anda gunakan."
+    - "GIF ini terlalu besar, ukuran maksimum yang diperbolehkan adalah 2MB. Silakan kirimkan GIF yang ingin Anda gunakan."
     GifSuccess:
-      - "Oke.\nAda lagi yang bisa saya bantu?"
+    - "Oke.\nAda lagi yang bisa saya bantu?"
     GifSubmit:
-      - "Paket GIF Anda telah dikirimkan ke admin untuk disetujui.\nHarap diingat bahwa admin memiliki banyak paket GIF yang harus ditinjau, sehingga proses ini mungkin memakan waktu hingga satu hari kerja. Admin kami akan melacak paket GIF yang dikirimkan, jadi Anda tidak perlu mengirimkannya langsung melalui PM. Terima kasih atas kesabaran Anda~"
+    - "Paket GIF Anda telah dikirimkan ke admin untuk disetujui.\nHarap diingat bahwa admin memiliki banyak paket GIF yang harus ditinjau, sehingga proses ini mungkin memakan waktu hingga satu hari kerja. Admin kami akan melacak paket GIF yang dikirimkan, jadi Anda tidak perlu mengirimkannya langsung melalui PM. Terima kasih atas kesabaran Anda~"
     GifSubmitHour:
-      - "Anda telah mengirimkan paket GIF Anda dalam satu jam terakhir. Jika Anda mengirimkan GIF lalu mengubah sesuatu sebelum disetujui, tidak perlu mengirimkannya lagi. Harap menunggu dengan sabar, GIF Anda sedang ditinjau."
+    - "Anda telah mengirimkan paket GIF Anda dalam satu jam terakhir. Jika Anda mengirimkan GIF lalu mengubah sesuatu sebelum disetujui, tidak perlu mengirimkannya lagi. Harap menunggu dengan sabar, GIF Anda sedang ditinjau."
     GifEmpty:
-      - Harap setel setidaknya satu GIF sebelum mengirimkan paket Anda.
-    GifCheckSuccess: 
-      - ""
+    - Harap setel setidaknya satu GIF sebelum mengirimkan paket Anda.
+    GifCheckSuccess:
+    - ""
   TransferMenu:
     Transfer:
-      - ""
+    - ""
     TransferSelf:
-      - "⚠️ Transfer Tidak Sah\n\nAnda tidak dapat mentransfer barang ke diri sendiri. Silakan pilih penerima lain untuk transaksi ini."
+    - "⚠️ Transfer Tidak Sah\n\nAnda tidak dapat mentransfer barang ke diri sendiri. Silakan pilih penerima lain untuk transaksi ini."
     TransferFailed:
-      - ""
+    - ""
     TransferItems:
-      - ""
+    - ""
     ConfirmTransfer:
-      - "\U0001F504 Konfirmasi Transfer\n\nAnda akan mentransfer {0} ke {1}.\n\nBiaya: {2} Permen WB.\nPermen yang Tersedia: {3} Permen WB.\n\nApakah Anda ingin melanjutkan? Saldo Anda setelah transfer akan menjadi {4} Permen WB."  
+    - "🔄 Konfirmasi Transfer\n\nAnda akan mentransfer {0} ke {1}.\n\nBiaya: {2} Permen WB.\nPermen yang Tersedia: {3} Permen WB.\n\nApakah Anda ingin melanjutkan? Saldo Anda setelah transfer akan menjadi {4} Permen WB."
     TransferSuccess:
-      - "Transfer Berhasil\n\nAnda berhasil mentransfer {0} ke {1}. Saldo baru Anda kini {2} Permen."
+    - "Transfer Berhasil\n\nAnda berhasil mentransfer {0} ke {1}. Saldo baru Anda kini {2} Permen."
     TransferReceived:
-      - "\U0001F381Hadiah Diterima\U0001F381\n\nAnda telah menerima {0} dari {1}. Nikmati item baru Anda. Terima kasih, selamat menikmati permainan~"
+    - "🎁Hadiah Diterima🎁\n\nAnda telah menerima {0} dari {1}. Nikmati item baru Anda. Terima kasih, selamat menikmati permainan~"
     TransferRole:
-      - ""
+    - ""
     TransferEmoji:
-      - ""
+    - ""
     TransferTicket:
-      - ""
+    - ""
     TransferLimit:
-      - ""
+    - ""
   PlayerTAGS:
     TagSuccess:
-      - "Nama tagmu berhasil disetel. Tandai: {0}" 
+    - "Nama tagmu berhasil disetel. Tandai: {0}"
     TagError:
-      - ""
+    - ""
     TAGInvalid:
-      - ""
+    - ""
   CustomMessages:
     CustomMessageLenght:
-      - "❗ Pesan tidak valid!\nPesan Anda harus terdiri dari antara {0} dan {1} karakter. Pilih pesan yang valid dan coba lagi."
+    - "❗ Pesan tidak valid!\nPesan Anda harus terdiri dari antara {0} dan {1} karakter. Pilih pesan yang valid dan coba lagi."
     CustomMessageSuccess:
-      - "✅ Pesan Khusus Berhasil Disetel!\nAnda sekarang dapat menggunakan pesan ini di dalam game!\nPesan baru Anda adalah: {0}"
+    - "✅ Pesan Khusus Berhasil Disetel!\nAnda sekarang dapat menggunakan pesan ini di dalam game!\nPesan baru Anda adalah: {0}"
     CustomMessageAllLetter:
-      - "❗ Pesan Tidak Valid!\nPesan Anda harus hanya berisi huruf. Pilih pesan yang valid dan coba lagi."
+    - "❗ Pesan Tidak Valid!\nPesan Anda harus hanya berisi huruf. Pilih pesan yang valid dan coba lagi."
     CustomMessageInvalid:
-      - "❗ Tidak dapat mengaktifkan Tiket Pesan Khusus!\nAnda perlu mengatur pesan khusus terlebih dahulu. Gunakan perintah /specialmessage untuk memilih pesan, lalu coba aktifkan tiket lagi." 
+    - "❗ Tidak dapat mengaktifkan Tiket Pesan Khusus!\nAnda perlu mengatur pesan khusus terlebih dahulu. Gunakan perintah /specialmessage untuk memilih pesan, lalu coba aktifkan tiket lagi."
   FakeNames:
     FakeNameLenght:
-      - ""
+    - ""
     FakeNameSuccess:
-      - "✅ Tag Nama Palsu Berhasil Disetel!\nTag nama baru Anda adalah: {0}. Anda sekarang dapat menggunakan nama ini di dalam game!"
+    - "✅ Tag Nama Palsu Berhasil Disetel!\nTag nama baru Anda adalah: {0}. Anda sekarang dapat menggunakan nama ini di dalam game!"
     FakeNameInvalid:
-      - "❗ Tidak dapat mengaktifkan Tiket Nama Palsu!\nAnda perlu menetapkan nama palsu terlebih dahulu. Gunakan perintah /fakename untuk memilih nama, lalu coba aktifkan tiket lagi."
+    - "❗ Tidak dapat mengaktifkan Tiket Nama Palsu!\nAnda perlu menetapkan nama palsu terlebih dahulu. Gunakan perintah /fakename untuk memilih nama, lalu coba aktifkan tiket lagi."
   FakeRoles:
     FakeRoleSuccess:
-      - ""
+    - ""
     NoRole:
-      - ""
+    - ""
     RoleInvalid:
-      - ""
+    - ""
   Others:
     Donate:
-      - ""
+    - ""
     UserNotFound:
-      - "⚠️ Pengguna Tidak Ditemukan\n\nID Pengguna atau Nama Pengguna yang Anda masukkan tidak dapat ditemukan. Pastikan Anda telah memasukkan ID atau Nama Pengguna yang benar dan coba lagi."
+    - "⚠️ Pengguna Tidak Ditemukan\n\nID Pengguna atau Nama Pengguna yang Anda masukkan tidak dapat ditemukan. Pastikan Anda telah memasukkan ID atau Nama Pengguna yang benar dan coba lagi."
     ForceJoinSuccess:
-      - "{0} telah bergabung secara paksa ke dalam permainan oleh {1}! Bersiaplah untuk aksi yang mendebarkan! \U0001F389"
-    TicketRequired: 
-      - ""
+    - "{0} telah bergabung secara paksa ke dalam permainan oleh {1}! Bersiaplah untuk aksi yang mendebarkan! 🎉"
+    TicketRequired:
+    - ""
     JoinButton:
-      - "Gabung"
+    - "Gabung"
     Skip:
-      - "Lewati"
+    - "Lewati"
     Yes:
-      - ""
+    - ""
     No:
-      - ""
+    - ""
     VoteBtn:
-      - ""
+    - ""
     GoToBtn:
-      - Pergi ke Bot
+    - Pergi ke Bot
     RolList:
-      - "Daftar Peran :"
+    - "Daftar Peran :"
     NoClaims:
-      - "Non-Klaim"
+    - "Non-Klaim"
     Cancel:
-      - "Batal"
+    - "Batal"
     OfficialBtn:
-      - Grup-Grup Resmi WolfBlood
+    - Grup-Grup Resmi WolfBlood
     SupportBtn:
-      - Grup Dukungan
+    - Grup Dukungan
     NewsBtn:
-      - Berita
+    - Berita
     Done:
-      - "Selesai!"
+    - "Selesai!"
     Back:
-      - "Kembali"
+    - "Kembali"
     EndTime:
-      - "Durasi Permainan: {0}"
+    - "Durasi Permainan: {0}"
     TimesUp:
-      - "Waktu habis!"
+    - "Waktu habis!"
     GetLang:
-      - "Ingin file bahasa apa?"
+    - "Ingin file bahasa apa?"
     GenericDeathNoReveal:
-      - "Pagi tiba, setelah semua orang bagun, mereka menyadari bahwa {0} tidak ada di sekitar. Mereka memeriksa rumah {0}, ditemukan sisa-sisa potongan tubuh."
-      - "Pagi tiba, warga desa berkerumun. Sisa-sisa potongan tubuh {0} berserakan. Entah siapa yang membunuhnya."
+    - "Pagi tiba, setelah semua orang bagun, mereka menyadari bahwa {0} tidak ada di sekitar. Mereka memeriksa rumah {0}, ditemukan sisa-sisa potongan tubuh."
+    - "Pagi tiba, warga desa berkerumun. Sisa-sisa potongan tubuh {0} berserakan. Entah siapa yang membunuhnya."
     ErrorBotMessagePM:
-      - "Gunakan perintah berikut untuk berkomunikasi dengan penerima pesan. Ketik /love untuk berkomunikasi dengan pasanganmu. Ketik /team untuk berkomunikasi dengan tim Serigala atau tim Cultist-mu."
+    - "Gunakan perintah berikut untuk berkomunikasi dengan penerima pesan. Ketik /love untuk berkomunikasi dengan pasanganmu. Ketik /team untuk berkomunikasi dengan tim Serigala atau tim Cultist-mu."
     SecondsAdded:
-      - "Waktu bergabung diperpanjang selama {0}! Tersisa {1} untuk bergabung."
+    - "Waktu bergabung diperpanjang selama {0}! Tersisa {1} untuk bergabung."
     SecondsRemoved:
-      - "Waktu bergabung berkurang {0} detik! Tersisa {1} untuk bergabung."
+    - "Waktu bergabung berkurang {0} detik! Tersisa {1} untuk bergabung."
     LeftToJoin:
-      - "{0} tersisa untuk bergabung."
+    - "{0} tersisa untuk bergabung."
     HaveJoined:
-      - "{0} bergabung dalam permainan pada 30 detik terakhir."
+    - "{0} bergabung dalam permainan pada 30 detik terakhir."
     AlreadyInGame:
-      - "Anda sudah tergabung dalam permainan di \nGrup: ({0})"
+    - "Anda sudah tergabung dalam permainan di \nGrup: ({0})"
     CountPlayersAdded:
-      - "Total {0} Pemain."
+    - "Total {0} Pemain."
     NotEnoughLovePlayers:
-      - "Untuk memainkan mode Romansa, jumlah pemain harus genap (6, 8, 10, 12, dst). Waktu habis dan jumlah pemain tidak mencukupi, permainan dibatalkan."
+    - "Untuk memainkan mode Romansa, jumlah pemain harus genap (6, 8, 10, 12, dst). Waktu habis dan jumlah pemain tidak mencukupi, permainan dibatalkan."
     NotEnoughPlayers:
-      - "Jumlah pemain tidak cukup, permainan dibatalkan!"
+    - "Jumlah pemain tidak cukup, permainan dibatalkan!"
     StartingGameWait:
-      - "Permainan dimulai. Sabarlah menunggu, sementara Narator membagikan peran dan memperbarui database."
+    - "Permainan dimulai. Sabarlah menunggu, sementara Narator membagikan peran dan memperbarui database."
     AlreadyJoined:
-      - "Kamu sudah tergabung dalam permainan!"
+    - "Kamu sudah tergabung dalam permainan!"
     ChoiceAccepted:
-      - "Pilihan diterima."
+    - "Pilihan diterima."
     And:
-      - "dan"
+    - "dan"
     NewUnlocks:
-      - ""
+    - ""
     PlayersAlive:
-      - "Pemain yang masih hidup"
+    - "Pemain yang masih hidup"
     Players:
-      - "Pemain"
+    - "Pemain"
     Was:
-      - "adalah"
+    - "adalah"
     NoGame:
-      - "Tidak ada game yang sedang berlangsung. Mulai permainan baru dengan /startgame atau mulai permainan chaos dengan /startchaos"
+    - "Tidak ada game yang sedang berlangsung. Mulai permainan baru dengan /startgame atau mulai permainan chaos dengan /startchaos"
     NotifyNewGame:
-      - "Permainan baru telah dimulai! Ayo gabung~\nGrup: {0}."
+    - "Permainan baru telah dimulai! Ayo gabung~\nGrup: {0}."
     NotPlaying:
-      - "Anda sepertinya tidak sedang bermain..."
+    - "Anda sepertinya tidak sedang bermain..."
     NotHome:
-      - "Aneh ... {0} tidak ada di rumah! Tidak ada makan malam untuk Anda ..." 
+    - "Aneh ... {0} tidak ada di rumah! Tidak ada makan malam untuk Anda ..."
     GamesPlayed:
-      - "Anggota Baru: {0} ({1})\n\nJumlah Permainan\n∙ Wolf Blood: {2}\n∙ Bot Lainnya: {3}\n\nTotal Permainan: {4}"
+    - "Anggota Baru: {0} ({1})\n\nJumlah Permainan\n∙ Wolf Blood: {2}\n∙ Bot Lainnya: {3}\n\nTotal Permainan: {4}"
     LoverDied:
-      - "Melihat {0} sekarat, {1} bergegas mendekat, air matanya tak terbendung. Tak kuasa merasa kehilangan orang yang dicintainya, dia meraih pistol terdekat yang dia temukan lalu menembakkan peluru ke arah kepalanya. {2}"
+    - "Melihat {0} sekarat, {1} bergegas mendekat, air matanya tak terbendung. Tak kuasa merasa kehilangan orang yang dicintainya, dia meraih pistol terdekat yang dia temukan lalu menembakkan peluru ke arah kepalanya. {2}"
     NoAttack:
-      - "Penduduk desa berkumpul keesokan paginya di pusat desa, dan menghela nafas lega. Wew, tampaknya tidak ada serangan pada malam hari."
+    - "Penduduk desa berkumpul keesokan paginya di pusat desa, dan menghela nafas lega. Wew, tampaknya tidak ada serangan pada malam hari."
     LynchDead:
-      - "Desa memutuskan untuk mengeksekusimu. Kamu mati dengan jiwa yang damai."
+    - "Desa memutuskan untuk mengeksekusimu. Kamu mati dengan jiwa yang damai."
     SentPrivate:
-      - "Saya telah mengirimi Anda pesan melalui PM."
+    - "Saya telah mengirimi Anda pesan melalui PM."
     Help:
-      - "• Untuk menelusuri detail peran dalam permainan, ketik /rolelist.\n• Ingin memilih bahasa, ketik /setlang.\n• Temukan panduan dan aturan permainan dengan mengetik /rules.\n• Mulailah permainan dengan mengetik /startranked.\nSelamat bersenang-senang~"
+    - "• Untuk menelusuri detail peran dalam permainan, ketik /rolelist.\n• Ingin memilih bahasa, ketik /setlang.\n• Temukan panduan dan aturan permainan dengan mengetik /rules.\n• Mulailah permainan dengan mengetik /startranked.\nSelamat bersenang-senang~"
     StartMe:
-      - "Klik \"mulai\" agar saya bisa mengirimimu informasi melalui PM."
+    - "Klik \"mulai\" agar saya bisa mengirimimu informasi melalui PM."
     LatestList:
-      - "Ini adalah daftar terbaru."
+    - "Ini adalah daftar terbaru."
     UnableToGetList:
-      - "Tidak bisa mendapatkan daftar terbaru."
+    - "Tidak bisa mendapatkan daftar terbaru."
     YouJoined:
-      - "Kamu berhasil bergabung dalam permainan di grup {0}"
+    - "Kamu berhasil bergabung dalam permainan di grup {0}"
     CantExtend:
-      - "Hanya admin grup yang dapat memperpanjang waktu lebih dari sekali!"
+    - "Hanya admin grup yang dapat memperpanjang waktu lebih dari sekali!"
     NotMember:
-      - "Kamu tidak bisa bergabung dalam permainan ini karena kamu bukan anggota dari grup {0}."
+    - "Kamu tidak bisa bergabung dalam permainan ini karena kamu bukan anggota dari grup {0}."
     GroupNotFound:
-      - "Tidak dapat menemukan grup. Silakan jalankan perintah ini di grup yang ingin Anda hentikan menunggu, atau tambahkan tautan, id, atau nama pengguna di sebelah perintah."
+    - "Tidak dapat menemukan grup. Silakan jalankan perintah ini di grup yang ingin Anda hentikan menunggu, atau tambahkan tautan, id, atau nama pengguna di sebelah perintah."
     RoleCommand:
-      - ''
+    - ''
     DisableGameMode:
-      - "Maaf {0}, Admin Grup telah menonaktifkan mode ini di grup ini. Bagaimana kalau Anda meminta mereka untuk mengaktifkannya terlebih dahulu :)"
+    - "Maaf {0}, Admin Grup telah menonaktifkan mode ini di grup ini. Bagaimana kalau Anda meminta mereka untuk mengaktifkannya terlebih dahulu :)"
     DeadSlient:
-      - "Karena kamu sudah mati, pengiriman pesanmu ke grup dibatasi hingga akhir permainan. Setelah permainan berakhir, kamu akan dapat menulis lagi. Jika kamu ingin menerima pemberitahuan untuk game berikutnya, silakan klik tombol di bawah ini."
+    - "Karena kamu sudah mati, pengiriman pesanmu ke grup dibatasi hingga akhir permainan. Setelah permainan berakhir, kamu akan dapat menulis lagi. Jika kamu ingin menerima pemberitahuan untuk game berikutnya, silakan klik tombol di bawah ini."
     PlayerLimitReached:
-      - "Maaf, batas pemain maksimum telah tercapai!"
+    - "Maaf, batas pemain maksimum telah tercapai!"
     DeadFlee:
-      - "Kamu sudah keluar dari permainan karena KAMU SUDAH MATI!"
+    - "Kamu sudah keluar dari permainan karena KAMU SUDAH MATI!"
     Flee:
-      - "{0} melarikan diri karena ketakutan!"
+    - "{0} melarikan diri karena ketakutan!"
     FleeDisabled:
-      - "Maaf, tidak bisa. Izin kabur saat permainan sedang berlangsung telah dinonaktifkan oleh admin grup!"
+    - "Maaf, tidak bisa. Izin kabur saat permainan sedang berlangsung telah dinonaktifkan oleh admin grup!"
     PlayerRoleWas:
-      - "{0} adalah {1}"
+    - "{0} adalah {1}"
     CountPlayersRemain:
-      - "{0} pemain tersisa."
+    - "{0} pemain tersisa."
     ByForceStart:
-      - "Perintah dari {0} telah dikirim untuk memaksa dimulainya permainan."
+    - "Perintah dari {0} telah dikirim untuk memaksa dimulainya permainan."
     PlayersGifPack:
-      - "Pemain dengan paket gif khusus :"
+    - "Pemain dengan paket gif khusus :"
     ForceStarted:
-      - 'Permainan dimulai secara paksa oleh: {0}'
+    - 'Permainan dimulai secara paksa oleh: {0}'
     TreasureWin:
-      - ""
+    - ""
     NameExists:
-      - "@{1}, pemain dengan nama {0} sudah bergabung. Harap ubah namamu agar kamu bisa bergabung dalam permainan."
+    - "@{1}, pemain dengan nama {0} sudah bergabung. Harap ubah namamu agar kamu bisa bergabung dalam permainan."
     ChangeNameToJoin:
-      - "{0}, harap ubah nama Anda agar bisa bergabung dalam permainan"
+    - "{0}, harap ubah nama Anda agar bisa bergabung dalam permainan"
     ExitAnonymousMode:
-      - "Kamu tidak diizinkan menggunakan bot ini sebagai admin anonim! Harap keluar dari mode anonim atau minta admin yang mempromosikanmu untuk melakukannya. Coba lagi setelah itu."
+    - "Kamu tidak diizinkan menggunakan bot ini sebagai admin anonim! Harap keluar dari mode anonim atau minta admin yang mempromosikanmu untuk melakukannya. Coba lagi setelah itu."
     MaintBreak:
-      - "Maaf, saya akan memulai jeda pemeliharaan singkat, Anda tidak dapat memulai game sekarang.\nBuka @wolfbloodnews untuk informasi selengkapnya"
+    - "Maaf, saya akan memulai jeda pemeliharaan singkat, Anda tidak dapat memulai game sekarang.\nBuka @wolfbloodnews untuk informasi selengkapnya"
     NoPlayerName:
-      - "Saya tidak bisa menemukan pemain dengan nama itu!"
+    - "Saya tidak bisa menemukan pemain dengan nama itu!"
     NodeShutsDown:
-      - "Terjadi kesalahan, node ini telah ditutup."
+    - "Terjadi kesalahan, node ini telah ditutup."
     NoNodes:
-      - "Tidak ada node yang online saat ini, silakan coba lagi dalam beberapa detik"
+    - "Tidak ada node yang online saat ini, silakan coba lagi dalam beberapa detik"
   BonusPoints:
     DieAsAFK_Penalty:
-      - ""
+    - ""
