@@ -4,17 +4,17 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-    - "{0} yeni bir oyun başlattı. Maceraya dahil olmak için /join tıkla ve oyuna katıl :P"
-    - "{0} tarafından yeni bir oyun başlatıldı! Durma orada öyle hadi sen de /join tıklayarak eğlenceye katıl!"
+    - "{0} yeni bir oyun başlattı! Kazanmak için butona tıkla!"
+    - "{0} normal oyun başlattı! Oyuna katılmak için butona tıkla ve muhtemelen öl!"
     StartChaos:
-    - "{0} dehşet bir oyun başlattı! Aksiyon ve katliamın tam ortasında bulunmak için 'Katıl'a tıkla!"
-    - "{0} kaotik modunda yeni bir oyun başlattı! Kargaşanın ortasında kim vurduya gitmeye hazır ol!"
+    - "{0} kaos modunda oyun başlattı! Eğlenceye katılmak için butona tıkla ve muhtemelen öl :P (Roller tekrar eder)"
+    - "{0} kaos modunda yeni bir oyun başlattı! Parçalara ayrılmak için butona tıkla... (Roller tekrar eder)"
     StartRanked:
-    - "{0} sıralamalı yeni bir oyun başlattı. Zirveye oynamak ve tüm rakiplerine fark atmak için /join tıkla."
+    - "{0} Puanlı yeni oyun başlattı! İlk 10'a girebilecek misin?"
     StartLove:
     - "{0} toksik aşklarla dolu yeni bir oyun başlattı. Ruh eşini bulmak için yada romantizmden tiksinmek için hemen oyuna dahil ol!"
     StartCustom:
-    - "{0} özel rollerden oluşan bir oyun başlattı! Eğlenceye katılmak için şimdi /join tıkla ve oyuna katıl..."
+    - "{0} Özel bir oyun başlattı! Eğlenceye katılmak için butona tıkla ve muhtemelen öl :D"
   Villager:
     Villager:
     - "Köylü 👱"
@@ -29,7 +29,7 @@ strings:
     Harlot:
     - "Yancı 💋"
     RoleInfoHarlot:
-    - ""
+    - "Sen Eskortsun! Gecelerin edepsiz ve çılgın kadını olarak, oyun boyunca başka bir oyuncuyu ziyaret edebilirsin. O gece kötü bir rolü veya kötü rollerin hedefindeki kurbanı ziyaret edersen ölebilirsin. Öte yandan, o gece seni öldürmeye çalışırlarsa, seni evde bulamazlar ve hayatta kalırsın."
     AskVisit:
     - "Kimi ziyaret etmek istiyorsun?"
     HarlotFuckWolf:
@@ -37,22 +37,22 @@ strings:
     HarlotFuckedWolfPublic:
     - "Dün gece yancı {0} yanlış müşteriyi seçti. Bir kurt adamı ziyaret etti ve sonuç olarak öldü. Vaizin sözünü dinleyip belki de bu işleri bırakmalıydı :("
     HarlotFuckedVictimPublic:
-    - "{0} bu gece {1}'in evinde çılgın bir gece geçirmeyi planlıyordu. Hedefinin evine geldiğinde kanlı bir manzara ile karşılaştı. Kurt adamlar onu lime lime ediyordu! {0} tam kaçmak üzereyken ahşap gıcırtısını duyan kurtlar bir anda ona döndü ve davetsiz misafiri de parçalarına ayırdılar."
+    - "{0} dün gece biraz eğlenmek ve stresi azaltmak için {1}'in evine gizlice girdi. Ancak müşterisi {0}'i istemsizce de olsa Kurt adamlar ile aldatıyordu! Kurtlar {1}'in organlarını parçalamak ile meşgul iken bir anda {0}'i de fark ettiler ve ziyafetlerini ikiye katlamak için üzerine atladılar... {0} öldü."
     HarlotVisitNonWolf:
-    - "{0} kurt değil, sabaha kadar alem yaptınız!"
+    - "{0} ile çılgın bir gecenin ardından, onun bir kurt adam olmadığını anladın!"
     HarlotVisitYou:
-    - "Bu gece yapacak bir şey yok derken yancı geldi. Tüm gece yemek ve eğlenceyle geçti..."
+    - "Gecenin ortasında köy Eskortu ile hoşbeş ettiğini hayal ettin. Ama uyandığında bunun bir rüya olmadığını anladın (Çarşafı kontrol et)! Maalesef gece karanlıktı ve yüzüne iyice bakamadın. İşini bitirir bitirmez, seni tatmin olmuş duygularınla baş başa bırakmak için sessizce ayrıldı [Eskort seni ziyaret etti]."
     HarlotDiscoverCult:
     - "Biraz eğlenmek için {0}’in evine gittin... Tam evi terk edecekken yan odada üstünkörü saklanmış ışıklar saçan garip bir sunak fark ettin. 0o0"
     HarlotFuckKiller:
-    - "Bu gece {0}'in evine eğlenmeye gittin. Herşey senin için fevkaladenin ötesinde idi. Ancak bir anda keskin ve soğuk bir maddenin içini deştiğini hissettin... Acıdan tek kelime dahi edemedin ve seri katil seni süzgeçe çevirdi."
+    - "{0}'in evine gizlice giriyor ve biraz eğlenmeye başlıyorsun. Şimdiye kadar her şey harika gidiyor. {0} bir bıçak çıkarır ve seni 69 kez manyak gibi gülerek bıçaklamaya başlar! Öldün."
     HarlotVisitNotHome:
     - "{0} ile biraz eğlenmek için evine gittin, ama ev boş!"
   Seer:
     Seer:
     - "Gözcü 👳"
     RoleInfoSeer:
-    - ""
+    - "Sen Gözcüsün 👳. Her gece bir oyuncunun rolünü algılamak için özel bir görüşe sahipsin. Fakat soytarı olmadıkça, işte o zaman oyunu mahvedersin."
     AskSee:
     - "Kimi görmek istiyorsun?"
     SeerSees:
@@ -61,14 +61,14 @@ strings:
     Traitor:
     - "Hain 🖕"
     RoleInfoTraitor:
-    - ""
+    - "Sen Hainsin 🖕! Hain! Şimdilik bir köylüsün, ancak köyde işlerin bu şekilde yürümesinden sıkıldığın için, kurt adamların geri kalanı öldüğünde onlardan biri olacaksın. Gözcü seni kontrol ettiği takdirde kendini Köylü olarak da tanıtabilirsin Kurt adam olarak da..."
     TraitorTurnWolf:
     - "Seni hain!!! Tüm kurt adamlar öldü ve köy bir an olsun huzura kavuştuğunu zannetti. Onlara bu kâbusu tekrar musallat etmek senin görevin. Yaşayan kurt adam kalmadı ve kanındaki hainlik gereğiyle kurt adama dönüştün!"
   GuardianAngel:
     GuardianAngel:
     - "Koruyucu Melek 👼"
     RoleInfoGuardianAngel:
-    - "👼 Koruyucu meleksin. Her gece bir kişiyi korumak için seçebilirsin. Fakat eğer bir kurtu seçersen, yaşama ihtimalin yüzde %50."
+    - "👼 Koruyucu meleksin. Her gece bir kişiyi korumak için seçebilirsin. Fakat eğer bir kurdu seçersen, yaşama ihtimalin yüzde %50."
     AskGuard:
     - "Kimi korumak istiyorsun?"
     GuardWolf:
@@ -80,7 +80,7 @@ strings:
     GuardEmptyHouse:
     - "{0}’i korumaya gittin ama evde kimse yoktu!"
     GuardSavedYou:
-    - "Kapında davetsiz bir misafir belirdi ancak sakın endişe etme! Koruyucu melek senin için mücadele etti ve seni korudu!"
+    - "Dün gece birisi senin arkanı kolluyordu ve sana saldıran saldırgan ile savaştı! (Bir saldırgan tarafından saldırıya uğradın, ancak seni kurtardılar.)"
     GAGuardedKiller:
     - "Dün gece Koruyucu melek {0}'in beklendiği üzere hedefini koruyup davetsiz misafirlere karşı mücadele ettiği bekleniyordu. Ancak davetsiz misafir olan ta kendisiydi. Seri katilin evindeydi, hayatta kalmak ve kaçıp kurtulmak için mücadele verdi ancak her şey o kapının eşiğinden içeri girdiği an bitmişti."
     GAGuardedWolf:
@@ -92,7 +92,7 @@ strings:
     CleanDoused:
     - "Bu gece {0}'in evinde hiçbir düşmanla savaşmak zorunda kalmadın, bu yüzden etrafa biraz bakmaya karar verdin ve evin benzin içinde olduğunu fark ettin! Yapacak daha iyi bir işin olmadığından, evi onun için temizledin..."
     GuardBlockedWolf:
-    - "Sürü  doğrudan {0}'in evini hedef alıyor. Kapıdan girer girmez büyük bir sürprizle karşılaştılar! Devasa kanatları ve elinde kılıç olan bir figürle savaş verdiler. Eninde sonunda bu savaştan galip gelemeyeceğini anlıyor ve geri çekilmeye karar veriyorsunuz. Bir sonraki sefere önce Koruyucu Meleği hedef alman daha akıllıca olur."
+    - "Sürü doğrudan {0}'in evini hedef alıyor. Kapıdan girer girmez büyük bir sürprizle karşılaştılar! Devasa kanatları ve elinde kılıç olan bir figürle savaş verdiler. Eninde sonunda bu savaştan galip gelemeyeceğini anlıyor ve geri çekilmeye karar veriyorsunuz. Bir sonraki sefere önce Koruyucu Meleği hedef alman daha akıllıca olur."
     GuardKiller:
     - "Seri katili korumaya çalıştın, ama o geldi ve seni 89 defa bıçakladı! Ölüsün...."
     GuardBlockedKiller:
@@ -103,7 +103,7 @@ strings:
     Detective:
     - "Dedektif 🕵️"
     RoleInfoDetective:
-    - ""
+    - "Sen Dedektifsin. Gün boyunca, rollerini araştırmak için bir oyuncu seçebilirsin. Ancak, bunu yaparken rolünün Kurt adamlara ifşa edilmesi için 40% şansın var."
     AskDetect:
     - "Kimi tespit etmek istiyorsun?"
     DetectiveCaught:
@@ -114,13 +114,13 @@ strings:
     Wolf:
     - "Kurtadam 🐺"
     RoleInfoWolf:
-    - ""
+    - "Sen kurt adamsın 🐺! Her gece bir av seçecek ve tüm köylüleri ortadan kaldırmaya çalışacaksın."
     AskEat:
     - "Kimi yemek istiyorsun?"
     WolfVotedKill:
     - "{0} yemek için seçimini yaptı: {1}."
     WolvesEatDrunk:
-    - "Hayırrr olamaz! {0} köyün sarhoşuydu! Şimdi sen de kafayı buldun, yarın akşam kimseye saldıramazsın..."
+    - "Ulannnn! {0} sarhoştu! Şimdi sen de kafayı buldun ve yarın gece saldıramayacaksın."
     WolvesEatDrunkBlockSecondKill:
     - "Oh hayır! {0} sarhoşun tekiydi! Şimdi sen de sarhoşsun ve saldıramayacaksın {1}..."
     AllWolfDead:
@@ -130,44 +130,44 @@ strings:
     WolfPackList:
     - "Kurt Sürüsü :"
     DiscussWith:
-    - " Karar vermeden önce {0} ile bi görüşsen iyi olur."
+    - "Karar vermeden önce sürün ile görüşsen iyi olur:\n{0}"
   Cursed:
     Cursed:
     - "Lanetli 😾"
     RoleInfoCursed:
-    - ""
+    - "Sen Lanetlisin 😾 Bir zamanlar bir çingene ona ömür boyu lanet etmesine rağmen onu tamamen görmezden gelen basit bir köylüsün. Kurt adamlar seni ısırırsa, kurt adam olacaksın! Çingene'nin sana lanet okuduğu gün olmaz olsun! Şimdi her gece sevgili köylülerini kendi isteğin dışında avlamak zorundasın."
     CursedBitten:
     - "Kurt adamlar sana saldırdı! Öldürülmek üzereyken bir anda gözlerinin rengi değişmeye başladı... Vücudundaki kemikler değişim geçirdi! Kanındaki lanet sayesinde ölmek yerine bir kurt adam olarak yaşamına devam edeceksin!"
     CursedBittenToWolves:
-    - "Sürü {0}'e saldırdı... Ancak o lanetliydi ve yeni bir kurt adama dönüştü!"
+    - "Sürü {0}'i parçalarına ayırıp uzun bir ziyafet çekmek için etrafını sardı. Ancak o sıradan bir hedef değildi... Kurtların geçirdiği ilk diş darbesinden sonra vücudu evrim geçirdi ve aniden bir Kurt adama dönüştü. Artık o da sürünün bir parçası."
   Gunner:
     Gunner:
-    - "Silahşör 🔫"
+    - "Silahşor 🔫"
     RoleInfoGunner:
-    - ""
+    - "Sen Silahşorsun 🔫. İki mermin var. Gün boyunca başka bir oyuncuyu vurmayı seçebilirsin. Herkes namludan çıkan ateş seslerini duyacak ve bu infazın senin tarafından yapıldığını bilecek. Oyuncu sayısına göre ekstra mermin olacak."
     AskShoot:
-    - ""
+    - "Kimi vurmak istiyorsun? {0} adet mermi(leri)n kaldı."
     HarlotShot:
-    - "{0} bir anlık duygularına yenik düştü ve kendisini kandırılmış hissetti. Halbuki köyün yancısı yalnızca ona ait değildi... {1} kurşunların hedefi oldu."
+    - "Silahşor, akşamı eskortla geçirdikten sonra kendini ihanete uğramış hissetti. Silahşor öcünü aldı ve {1} öldü."
     DefaultShot:
-    - "Linç öncesi köylüler sandıkların başına gitmek üzere iken aniden bir silah sesi yankılanır. Elinde silahıyla {0} emin adımlarla linç sandığına doğru ilerliyordu ve ardında ise {1}'in cesedi vardı. İki seksen alnının ortasındaki mermi ile yerde yatıyordu. [{2}]"
+    - "Köyün uğultulu tepelerinde bir el ateş sesi duyulur. {0} soğukkanlılığı ile tabancayı tutuyordu ve {1}'in bedeni yerdeydi. Silahşor belli ki bu kişiden rahatsız olmuş ve demokrasiyi hiçe sayarak kendi yöntemleri ile hedefini ortadan kaldırdı. {2}"
     GunnerShotWiseElder:
-    - "Silahşör {0}, Yaşlı Bilge {1}'i vurdu. {0} büyük bir üzüntüyle ağlıyor. Büyük hatasından pişmanlık duyuyor ve geri çekilmeye karar veriyor, bu da onu sürmek için çok fazla toprağı olan basit bir köylü yapıyor."
+    - "Silahşor {0}, Yaşlı Bilge 📚 olan {1}'i vurdu. {0} büyük bir üzüntüyle ağlıyor. Büyük hatasından pişmanlık duyuyor ve geri çekilmeye karar veriyor, bu da onu, sürmek için çok fazla toprağı olan basit bir köylü 👱 yapıyor."
   Tanner:
     Tanner:
     - "İblis 👺"
     RoleInfoTanner:
-    - ""
+    - "Sen İblissin 👺. Linç edilmeyi başarırsan hemen kazanırsın!"
   Fool:
     Fool:
-    - "Aptal 🃏"
+    - "Soytarı 🃏"
     RoleInfoFool:
-    - ""
+    - "Soytarıya gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir."
   WildChild:
     WildChild:
     - "Yabani Çocuk 👶"
     RoleInfoWildChild:
-    - ""
+    - "Sen Yabani Çocuksun 👶! 'Rol modelin' olacak bir oyuncu seçerek başlayacaksın. Tıpkı Çift-giden gibi. Ancak senin rol modelin kim olursa olsun, öldüğü an bir Kurt Adama dönüşeceksin. Bunun için rolünü ve özellikle ROL MODELİNİ köy halkından saklaman senin hayrına olur."
     WildChildToWolves:
     - "{0}’in rol modeli öldü! Nefret içinde Kurt adama dönüştü!"
     WildChildTransform:
@@ -176,7 +176,7 @@ strings:
     Beholder:
     - "Seyirci 👁"
     RoleInfoBeholder:
-    - ""
+    - "Sen Seyircisin 👁. Oyunda Gözcü var ise sana onun kim olduğu anlatılacak."
     BeholderSeer:
     - "\nGözcü {0}."
     BeholderNewSeer:
@@ -184,19 +184,19 @@ strings:
     NoSeer:
     - "Gözcü yok!"
     BeholderSeerStolen:
-    - "Hırsız Gözcünün rolünü çaldı. {0} şimdi yeni Gözcü, ve {1} artık görü yeteneklerini kaybetti!"
+    - "Hırsız Gözcünün rolünü çaldı. {0} şimdi yeni Gözcü ve {1} artık görüş yeteneklerini kaybetti!"
   ApprenticeSeer:
     ApprenticeSeer:
     - "Gözcü Çırağı 🙇"
     RoleInfoApprenticeSeer:
-    - ""
+    - "Sen Gözcü Çırağısın 🙇. Basit bir köylüsün ancak Gözcü öldüğü vakit halefi olarak onun görevini üstlenecek ve yeni Gözcü sen olacaksın."
     ApprenticeNowSeer:
-    - "{0} Gözcüydü. Halefisi olarak onun yerini alma ve yeni Gözcü olma sırası sende."
+    - "{0} Gözcüydü. Halefi olarak onun yerini alma ve yeni Gözcü olma sırası sende."
   Cultist:
     Cultist:
     - "Tarikatçı 👤"
     RoleInfoCultist:
-    - ""
+    - "Sen Tarikatçısın 👤. Her gece birilerini mezhebine dahil etmeye çalışacaksın. Hayatta kalan tüm oyuncular tarikata katılırsa ancak o zaman kazanırsınız."
     CultistVotedConvert:
     - "{0} mezhebine dahil etmek için {1}'i ikna etmeyi seçti."
     AskConvert:
@@ -208,28 +208,28 @@ strings:
     CultistsList:
     - "Tarikat üyeleri:"
     CultConvertWolf:
-    - "Tarikat {0}’i, {1}’i döndürsün diye gönderdi fakat onun yerine {0}'ın kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü..."
+    - "Tarikat {0}’i, {1}’i döndürsün diye gönderdi fakat onun yerine {0}'in kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü..."
     CultistBitten:
     - "İlginç... Bugünkü cemaat toplantısında yeni hedefinizi tartışırken, {0}'i saflarında göremedin. Ne oldu acaba ona?"
     CultConvertHunter:
     - "Tarikatçılar {0}'i cemaatlerine dahil etmek için {1}'in evine gönderdiler. Ancak {1} boş vaatlere ve süslü sözlere kanacak biri değildi. {0} kapının eşiğine gelir gelmez saçmalı tüfekle vuruldu! Tüm tarikatçılar korkudan kaçtı."
     CultConvertSerialKiller:
-    - "Tarikat üyeleri {0}’i, {1}’i kendi mezheplerine çekmek için gönderdi. Genç tarikatçı, hedefin evine girmesi ile camdan fırlaması bir oldu! Sırtında sayısız bıçak darbesi ile kanlar içinde öylece yatıyordu!"
-    - "{0}, hedefinin evine gizlice girer, kapıyı açar ve hemen çılgın bir manyak tarafından bıçakla karşılanır!!! {1} bıçağı, genç tarikatçının organlarına alfabetik sıraya göre sokar ve acı çekerek can vermesini sağlar! {0} öldü."
+    - "Tarikat üyeleri {0}’i, {1}’i kendi mezheplerine çekmek için gönderdi. Genç tarikatçı {0}, hedefin evine girmesi ile camdan fırlaması bir oldu! Sırtında sayısız bıçak darbesi ile kanlar içinde öylece yatıyordu!"
+    - "{0}, hedefi olan {1}'in evine gizlice girer, kapıyı açar ve kapının eşiğinde onu karşılayan çılgın bir manyak tarafından bıçakla karşılanır!!! {1} bıçağı, genç tarikatçı olan {0}'in organlarına alfabetik sıraya göre sokar ve acı çekerek can vermesini sağlar! {0} öldü."
     CHHuntedYou:
     - "Sen evinde dua ederken Tarikat Avcısı seni ziyaret etti ve kelleni uçurdu şimdi ölüsün.."
     HunterKilledCultist:
     - "Köyün vaizi gündüz vakti kilise kapısının önündeki cesedi görünce adeta dehşete kapıldı. Ancak sıradan bir köylünün cesedi değildi. Tarikatçı avcısı bu yobaz ve yozlaşmış sahte cemaat üyelerinden biri olan {0}'i avlamış ve cesedini ibretlik olarak kilisenin önüne bırakmış."
     CultConvertWolfPublic:
     - "Karanlık cemaat üyelerinden biri olan {0}'in, vahşi bir yaratığı kendi mezhebine dahil edebileceği ihtimalini düşünmesi... Yorum bile yapılamayacak düzeyde. Kurtlar net bir şekilde tarikatçıların teklifini reddetmiş."
-    - "Kurt sürüsü avlanmamaya çıkamamış olsa bile, Tanrının bir lütfu olsa gerek ki {0} onların evine geldi. Tanrı bir şekilde tarikatçı üyelerini şanssızlığa uğratıyor gibiydi. Kurt adamı tarikata çevirme düşüncesi gerçek olamayacak düzeyde."
+    - "Kurt sürüsü avlanmaya çıkamamış olsa bile, Tanrının bir lütfu olsa gerek ki {0} onların evine geldi. Tanrı bir şekilde tarikatçı üyelerini şanssızlığa uğratıyor gibiydi. Kurt adamı tarikata çevirme düşüncesi gerçek olamayacak düzeyde."
     CultConvertKillerPublic:
     - "Bugün hissedilen korku, ürperti... Asla unutulmayacak. Köyün lideri olan Tarikat avcısı {0} yozlaşmış dinci tarikatlarla meşgul olmalıydı ancak bir hata ile seri katili ziyaret etti. Köy halkı başıboş ve lidersiz kaldı."
     - "Dün gece amansız ve dehşet verici bir savaşın sesleri duyuldu. Köyün kudretli lideri {0}, seri katili bilmeden ziyaret etmiş olsa da mücadele etmeye çalıştı. Tüm köy halkının başı eğik, şapkaları önünde saygı içerisinde Tarikatçı Avcısını anıyorlar..."
     HunterKilledVisiter:
-    - "Köy meydanının ortasında herkes {0}’in cesedini bulur. Vücudunda sayısız mermi izi vardı. Görünüşe göre avcıya gizlice yaklaşmak pek akıl kârı bir hareket değildi... {1}"
+    - "Köy meydanının ortasında herkes {0}’in cesedini bulur. Vücudunda sayısız mermi izi vardı. Görünüşe göre avcıya gizlice yaklaşmak pek akıl kârı bir hareket değildi... {1}."
     CultVisitEmpty:
-    - ""
+    - "Hedefiniz olan {1}'i ikna etmek içi en genç üyeniz olan {0}'i gönderdin. Bir sebepten ötürü eli boş döndü... Evde kimsenin olmadığını söyledi!"
     CultConvertYou:
     - "Tarikatçılar saflarına seni de dahil ettiler. Her gece başka birilerinin inançlarını sarsabilir ve kendi safına çekebilirsin."
     CultUnableToConvert:
