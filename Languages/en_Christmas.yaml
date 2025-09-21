@@ -4,1667 +4,1667 @@ language:
 strings:
   GameStartMessages:
     StartNormal:
-      - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
-      - "A new game has been started by {0}! Use /join to be eaten!"
+    - "{0} has started a game! use /join to get in on the fun.... and probably die :P"
+    - "A new game has been started by {0}! Use /join to be eaten!"
     StartChaos:
-      - "{0} has started a chaos game! Join to get in on the fun... and probably die :P"
-      - "A new chaos game has been started by {0}! Join to get eaten!"
+    - "{0} has started a chaos game! Join to get in on the fun... and probably die :P"
+    - "A new chaos game has been started by {0}! Join to get eaten!"
     StartRanked:
-      - "{0} has started a ranked game! Will you be able to enter the top 10 in the ranking? Click /join to get in on the fun... :P"
+    - "{0} has started a ranked game! Will you be able to enter the top 10 in the ranking? Click /join to get in on the fun... :P"
     StartLove:
-      - "{0} Has started a game filled with lovers! Are you ready to delve into romance? Click /join now and experience the joy of falling in love! :P"
+    - "{0} Has started a game filled with lovers! Are you ready to delve into romance? Click /join now and experience the joy of falling in love! :P"
     StartCustom:
-      - "{0} launched a game of special roles! To join the fun, click /join now and you will be into it..."
+    - "{0} launched a game of special roles! To join the fun, click /join now and you will be into it..."
   Villager:
     Villager:
-      - "Elf \U0001F471"
+    - "Elf 👱"
     RoleInfoVillager:
-      - "You are an Elf \U0001F471. Each day, you, along with other citizens of the North, will have a chance to melt a Snowman."
+    - "You are an Elf 👱. Each day, you, along with other citizens of the North, will have a chance to melt a Snowman."
   Drunk:
     Drunk:
-      - "Frank Claus \U0001F37B"
+    - "Frank Claus 🍻"
     RoleInfoDrunk:
-      - "You are Frank Claus \U0001F37B, Santa's brother who gets a little wild with the eggnog! But you're still a loyal part of Team Santa. If the Snowmen try to freeze you the alcohol in your blood will start melting them and they will need to rest the next night."
+    - "You are Frank Claus 🍻, Santa's brother who gets a little wild with the eggnog! But you're still a loyal part of Team Santa. If the Snowmen try to freeze you the alcohol in your blood will start melting them and they will need to rest the next night."
   Harlot:
     Harlot:
-      - "Mary Claus \U0001F48B"
+    - "Mary Claus 💋"
     RoleInfoHarlot:
-      - "You are Mary Claus \U0001F48B. As Santa's nosey daughter, you will be given the chance to visit another player each night. If that player is not one of the Snowmen or Krampus, you will survive a warm night by the fire, but if you visit a Snowman you will freeze. If you are visiting a player and the Snowmen choose to freeze you, you will not die because you are not at home."
+    - "You are Mary Claus 💋. As Santa's nosey daughter, you will be given the chance to visit another player each night. If that player is not one of the Snowmen or Krampus, you will survive a warm night by the fire, but if you visit a Snowman you will freeze. If you are visiting a player and the Snowmen choose to freeze you, you will not die because you are not at home."
     AskVisit:
-      - "Who do you want to visit?"
+    - "Who do you want to visit?"
     HarlotFuckWolf:
-      - "You slip into {0}'s house for some hot cocoa, only to be confronted by a evil Snowman. You have been frozen to death."
+    - "You slip into {0}'s house for some hot cocoa, only to be confronted by a evil Snowman. You have been frozen to death."
     HarlotFuckedWolfPublic:
-      - "{0} slipped into the wrong house last night! {0}'s remains have been found laying frozen in the snow...  how sad :("
+    - "{0} slipped into the wrong house last night! {0}'s remains have been found laying frozen in the snow...  how sad :("
     HarlotFuckedVictimPublic:
-      - "{0} slips into {1}'s house, ready to have a drink of hot cocoa to ease off the stress. Instead they find an evil Snowman freezing {1} to death!  The evil Snowman quickly turns around to {0} and freezes them too..."
+    - "{0} slips into {1}'s house, ready to have a drink of hot cocoa to ease off the stress. Instead they find an evil Snowman freezing {1} to death!  The evil Snowman quickly turns around to {0} and freezes them too..."
     HarlotVisitNonWolf:
-      - "You see {0} is not a evil Snowman, and so you enjoyed your hot chocolate all night long with them!"
+    - "You see {0} is not a evil Snowman, and so you enjoyed your hot chocolate all night long with them!"
     HarlotVisitYou:
-      - "Late last night Mary Claus came over to bring you some hot chocolate. How kind of her. When you were done drinking it, Mary Claus left you with a warm feeling inside."
+    - "Late last night Mary Claus came over to bring you some hot chocolate. How kind of her. When you were done drinking it, Mary Claus left you with a warm feeling inside."
     HarlotDiscoverCult:
-      - "You go to {0}'s house to have some hot cocoa... but as you are leaving, you happen to notice a Xmas sign, poorly hidden off in a side room, with a green glow coming from it..."
+    - "You go to {0}'s house to have some hot cocoa... but as you are leaving, you happen to notice a Xmas sign, poorly hidden off in a side room, with a green glow coming from it..."
     HarlotFuckKiller:
-      - "You slip into {0}'s house to share some hot cocoa.  All seems great until {0} pulls out a knife and starts stabbing you, laughing like a maniac!  You are dead...."
+    - "You slip into {0}'s house to share some hot cocoa.  All seems great until {0} pulls out a knife and starts stabbing you, laughing like a maniac!  You are dead...."
     HarlotVisitNotHome:
-      - "You went to {0}'s house to share some hot cocoa, but you found the house empty!"
+    - "You went to {0}'s house to share some hot cocoa, but you found the house empty!"
   Seer:
     Seer:
-      - "Santa Claus \U0001F473"
+    - "Santa Claus 👳"
     RoleInfoSeer:
-      - "You are Santa Claus \U0001F473! You are just trying to make sure Christmas runs smoothly. Each night you have the ability to find out a players true role. Don't reveal yourself too quickly, because if the Snowmen find you, they will try to freeze you."
+    - "You are Santa Claus 👳! You are just trying to make sure Christmas runs smoothly. Each night you have the ability to find out a players true role. Don't reveal yourself too quickly, because if the Snowmen find you, they will try to freeze you."
     AskSee:
-      - "Who do you want to see?"
+    - "Who do you want to see?"
     SeerSees:
-      - "You see {0} is {1}!"
+    - "You see {0} is {1}!"
   Traitor:
     Traitor:
-      - "Miss Candy Cane \U0001F595"
+    - "Miss Candy Cane 🖕"
     RoleInfoTraitor:
-      - "You are Miss Candy Cane \U0001F595. Oh Santa's little mistress! You are on Team Santa… for now. If you live long enough for all the Snowmen to die, you will join Team Frost and become a Snowman."
+    - "You are Miss Candy Cane 🖕. Oh Santa's little mistress! You are on Team Santa… for now. If you live long enough for all the Snowmen to die, you will join Team Frost and become a Snowman."
     TraitorTurnWolf:
-      - "You were Miss Candy Cane \U0001F595 but now you turned into a Snowman \U0001F43A..."
+    - "You were Miss Candy Cane 🖕 but now you turned into a Snowman 🐺..."
   GuardianAngel:
     GuardianAngel:
-      - "Jack Skellington \U0001F47C"
+    - "Jack Skellington 👼"
     RoleInfoGuardianAngel:
-      - "You are Jack Skellington \U0001F47C. Each night, you choose a player who you are protecting from the evil Snowmen and Krampus. However, if you choose to protect a Snowman or Krampus himself, there is a 50% chance you will get frozen by them."
+    - "You are Jack Skellington 👼. Each night, you choose a player who you are protecting from the evil Snowmen and Krampus. However, if you choose to protect a Snowman or Krampus himself, there is a 50% chance you will get frozen by them."
     AskGuard:
-      - "Who do you want to protect?"
+    - "Who do you want to protect?"
     GuardWolf:
-      - "You tried to guard a evil Snowman \U0001F43A! The evil Snowman has frozen you to death."
+    - "You tried to guard a evil Snowman 🐺! The evil Snowman has frozen you to death."
     GuardSaved:
-      - "You have saved {0}'s life!"
+    - "You have saved {0}'s life!"
     GuardNoAttack:
-      - "{0} was not attacked, so you didn't do much of anything."
+    - "{0} was not attacked, so you didn't do much of anything."
     GuardEmptyHouse:
-      - "You went to protect {0}, but they weren't home!"
+    - "You went to protect {0}, but they weren't home!"
     GuardSavedYou:
-      - "Jack Skellington \U0001F47C was watching over you last night and fought off an attacker!"
+    - "Jack Skellington 👼 was watching over you last night and fought off an attacker!"
     GAGuardedKiller:
-      - "It was supposed to be a night where {0} would save the citizens of the North Pole from Krampus, Snowmen and the Non-Believers, but {0}'s energy was gone because he stayed awake for too long now. Krampus used that mistake and knocked {0} out without any mercy."
+    - "It was supposed to be a night where {0} would save the citizens of the North Pole from Krampus, Snowmen and the Non-Believers, but {0}'s energy was gone because he stayed awake for too long now. Krampus used that mistake and knocked {0} out without any mercy."
     GAGuardedWolf:
-      - "{0} tried to protect one of the Snowmen last night from melting away, but too bad that the Snowman recognized this and did his job. The citizens of the North Pole wake up to find {0} frozen in. That was a win for the Snowman this time."
+    - "{0} tried to protect one of the Snowmen last night from melting away, but too bad that the Snowman recognized this and did his job. The citizens of the North Pole wake up to find {0} frozen in. That was a win for the Snowman this time."
     GuardSavedYouFromFire:
-      - "A fire broke out in your house, but luckily Jack Skellington \U0001F47C was there and extinguished it right away before all your toys burned! They'd make a good firefighter, if they weren't so busy protecting Christmas..."
+    - "A fire broke out in your house, but luckily Jack Skellington 👼 was there and extinguished it right away before all your toys burned! They'd make a good firefighter, if they weren't so busy protecting Christmas..."
     GuardSavedFromFire:
-      - "You didn't quite expect a fire to break out when you went to visit {0}, but you saved them nevertheless! Ain't nobody gonna call you a bad Christmas protector..."
+    - "You didn't quite expect a fire to break out when you went to visit {0}, but you saved them nevertheless! Ain't nobody gonna call you a bad Christmas protector..."
     CleanDoused:
-      - "You didn't have to fight off any enemies at {0}'s house tonight, so you had time to look around a bit and noticed that there was some coal in the house! Since you got nothing better to do, you cleaned the house for them..."
+    - "You didn't have to fight off any enemies at {0}'s house tonight, so you had time to look around a bit and noticed that there was some coal in the house! Since you got nothing better to do, you cleaned the house for them..."
     GuardBlockedWolf:
-      - "The Snowmen head to {0}'s house to freeze them, but they are met by a tall dark figure, armed to the teeth. The Jack Skellington \U0001F47C fights everyone off, and you head back defeated."
+    - "The Snowmen head to {0}'s house to freeze them, but they are met by a tall dark figure, armed to the teeth. The Jack Skellington 👼 fights everyone off, and you head back defeated."
     GuardKiller:
-      - "You tried to guard Krampus \U0001F52A, but Krampus came out and stabbed your faith out of you! You are dead...."
+    - "You tried to guard Krampus 🔪, but Krampus came out and stabbed your faith out of you! You are dead...."
     GuardBlockedKiller:
-      - "You tried to collect {0}'s liver for your collection, but you were fought off by Jack Skellington \U0001F47C! No liver for you tonight..."
+    - "You tried to collect {0}'s liver for your collection, but you were fought off by Jack Skellington 👼! No liver for you tonight..."
     GuardBlockedSnowWolf:
-      - "You head to {0}'s house to cast a snow storm spell upon them, but you are met by a tall, slim and dark figure, armed to the teeth.\\nJack Skellington \U0001F47C fights you off, and you head back defeated."
+    - "You head to {0}'s house to cast a snow storm spell upon them, but you are met by a tall, slim and dark figure, armed to the teeth.\\nJack Skellington 👼 fights you off, and you head back defeated."
   Detective:
     Detective:
-      - "Detective \U0001F575️"
+    - "Detective 🕵️"
     RoleInfoDetective:
-      - "You are the Santa's Spy \U0001F575. Each day, you will have the chance to secretly find out a players role. But snoop carefully, as the Snowmen have a 40% chance to see you snooping."
+    - "You are the Santa's Spy 🕵. Each day, you will have the chance to secretly find out a players role. But snoop carefully, as the Snowmen have a 40% chance to see you snooping."
     AskDetect:
-      - "Who do you want to detect?"
+    - "Who do you want to detect?"
     DetectiveCaught:
-      - "You caught {0} snooping about! That must be the Santa's Spy!"
+    - "You caught {0} snooping about! That must be the Santa's Spy!"
     DetectiveSnoop:
-      - "Your snooping has shown you that {0} is {1}."
+    - "Your snooping has shown you that {0} is {1}."
   Wolf:
     Wolf:
-      - "Wolf \U0001F43A"
+    - "Wolf 🐺"
     RoleInfoWolf:
-      - "You are an evil Snowman \U0001F43A! You only have a short time to live as the end of the winter is coming, but you plan to cause chaos before you melt away. Each night, you will pick a player and try to freeze them to death. But watch out, if you try to freeze Frank Claus, your powers will be impaired. However if you try to freeze Dasher, they will join Team Frost!"
+    - "You are an evil Snowman 🐺! You only have a short time to live as the end of the winter is coming, but you plan to cause chaos before you melt away. Each night, you will pick a player and try to freeze them to death. But watch out, if you try to freeze Frank Claus, your powers will be impaired. However if you try to freeze Dasher, they will join Team Frost!"
     AskEat:
-      - "Who do you want to freeze?"
+    - "Who do you want to freeze?"
     WolfVotedKill:
-      - "{0} has voted to freeze {1}."
+    - "{0} has voted to freeze {1}."
     WolvesEatDrunk:
-      - "Oh no! {0} was Frank Claus \U0001F37B! Now you aren't able to freeze anyone to death tomorrow night..."
+    - "Oh no! {0} was Frank Claus 🍻! Now you aren't able to freeze anyone to death tomorrow night..."
     WolvesEatDrunkBlockSecondKill:
-      - "Oh no! {0} was Frank Claus \U0001F37B! Now you got drunk from all of his eggnog, and can't attack {1}..."
+    - "Oh no! {0} was Frank Claus 🍻! Now you got drunk from all of his eggnog, and can't attack {1}..."
     AllWolfDead:
-      - "As all the other snowmen have melted, you are the last part of the cold and evil team that is left! In order to keep freezing the villagers of the North Pole to death, you decide to become a normal snowman from now on"
+    - "As all the other snowmen have melted, you are the last part of the cold and evil team that is left! In order to keep freezing the villagers of the North Pole to death, you decide to become a normal snowman from now on"
     WolvesEatYou:
-      - "Oh no! The evil Snowmen \U0001F43A froze you to death."
+    - "Oh no! The evil Snowmen 🐺 froze you to death."
     WolfPackList:
-      - "The snowmen consists of :"
+    - "The snowmen consists of :"
     DiscussWith:
-      - "Make sure you discuss with {0}"
+    - "Make sure you discuss with {0}"
   Cursed:
     Cursed:
-      - "Dasher \U0001F63E"
+    - "Dasher 😾"
     RoleInfoCursed:
-      - "You are Dasher \U0001F63E! You are on Team Santa but if a Snowman or Jack Frost tries to freeze you, you magically transform into a Snowman yourself and will join Team Frost."
+    - "You are Dasher 😾! You are on Team Santa but if a Snowman or Jack Frost tries to freeze you, you magically transform into a Snowman yourself and will join Team Frost."
     CursedBitten:
-      - "You have been tried to froze by the evil Snowmen \U0001F43A. As you were Dasher \U0001F63E, you have now turned into a evil Snowman yourself!"
+    - "You have been tried to froze by the evil Snowmen 🐺. As you were Dasher 😾, you have now turned into a evil Snowman yourself!"
     CursedBittenToWolves:
-      - "You tried to freeze {0}... but was Dasher, and has become a evil Snowman now! Congrats on your new teammate!"
+    - "You tried to freeze {0}... but was Dasher, and has become a evil Snowman now! Congrats on your new teammate!"
   Gunner:
     Gunner:
-      - "Black Pete \U0001F52B"
+    - "Black Pete 🔫"
     RoleInfoGunner:
-      - "You are Black Pete \U0001F52B. Since you are Santa's companion, you aren't kind to people who don't like Christmas. You get two chances to shoot someone with your flamethrower. Once you choose, everyone will know you are on Santa's side."
+    - "You are Black Pete 🔫. Since you are Santa's companion, you aren't kind to people who don't like Christmas. You get two chances to shoot someone with your flamethrower. Once you choose, everyone will know you are on Santa's side."
     AskShoot:
-      - "Who do you want to shoot? {0} bullet(s) remain."
+    - "Who do you want to shoot? {0} bullet(s) remain."
     HarlotShot:
-      - "Looks like {0} didn't liked Mary Claus' hot chocolate! The Black Pete got revenge. {1} is dead."
+    - "Looks like {0} didn't liked Mary Claus' hot chocolate! The Black Pete got revenge. {1} is dead."
     DefaultShot:
-      - "Suddenly, a bright flame lights up the sky.  The Elves turn to see {0} standing over {1}'s body, a flamethrower still aimed at them. {2}"
+    - "Suddenly, a bright flame lights up the sky.  The Elves turn to see {0} standing over {1}'s body, a flamethrower still aimed at them. {2}"
     GunnerShotWiseElder:
-      - "As black petes \U0001F52B burns {1}, it turns out they are the little girl \U0001F4DA. Sadly staring into the flams, {0}  throws their flamethrower right into them and becomes an Elf \U0001F471 from now on"
+    - "As black petes 🔫 burns {1}, it turns out they are the little girl 📚. Sadly staring into the flams, {0}  throws their flamethrower right into them and becomes an Elf 👱 from now on"
   Tanner:
     Tanner:
-      - "The Grinch \U0001F47A"
+    - "The Grinch 👺"
     RoleInfoTanner:
-      - "You are the Grinch \U0001F47A. If you get burnt, you win automatically!"
+    - "You are the Grinch 👺. If you get burnt, you win automatically!"
   Fool:
     Fool:
-      - "Fool \U0001F0CF"
+    - "Fool 🃏"
     RoleInfoFool:
-      - "The Mall Santa \U0001F0CF gets told to be the real Santa. When they choose to see someone's role at night, they will be told a random role."
+    - "The Mall Santa 🃏 gets told to be the real Santa. When they choose to see someone's role at night, they will be told a random role."
   WildChild:
     WildChild:
-      - "Blitzen \U0001F476"
+    - "Blitzen 👶"
     RoleInfoWildChild:
-      - "You are Blitzen \U0001F476, that crazy, silly reindeer. At the start of the game, you will choose your best friend. If they die, you will join Team Frost."
+    - "You are Blitzen 👶, that crazy, silly reindeer. At the start of the game, you will choose your best friend. If they die, you will join Team Frost."
     WildChildToWolves:
-      - "{0}'s role model just died!  In their rage, they have become a evil Snowman too!"
+    - "{0}'s role model just died!  In their rage, they have become a evil Snowman too!"
     WildChildTransform:
-      - "{0} has died! In your rage, you have become a Snowman!"
+    - "{0} has died! In your rage, you have become a Snowman!"
   Beholder:
     Beholder:
-      - "Mrs. Claus \U0001F441"
+    - "Mrs. Claus 👁"
     RoleInfoBeholder:
-      - "You are Mrs. Claus \U0001F441. You can tell who Santa is (the real one, not that silly Mall Santa which no one really needs)."
+    - "You are Mrs. Claus 👁. You can tell who Santa is (the real one, not that silly Mall Santa which no one really needs)."
     BeholderSeer:
-      - "\nThe Santa Claus \U0001F473 is {0}."
+    - "\nThe Santa Claus 👳 is {0}."
     BeholderNewSeer:
-      - "{0} was Santa's Little Helper \U0001F647, and has now stepped up to replace {1} as the Santa Claus \U0001F473."
+    - "{0} was Santa's Little Helper 🙇, and has now stepped up to replace {1} as the Santa Claus 👳."
     NoSeer:
-      - "No Santa Clause!"
+    - "No Santa Clause!"
     BeholderSeerStolen:
-      - "The Arctic Fox sneaked to Santa Clause! {0} is now Santa, while {1} isn't anymore."
+    - "The Arctic Fox sneaked to Santa Clause! {0} is now Santa, while {1} isn't anymore."
   ApprenticeSeer:
     ApprenticeSeer:
-      - "Santa's Little Helper \U0001F647"
+    - "Santa's Little Helper 🙇"
     RoleInfoApprenticeSeer:
-      - "You are Santa's Little Helper \U0001F647. You are on Team Santa. But if Santa dies, you will become Santa."
+    - "You are Santa's Little Helper 🙇. You are on Team Santa. But if Santa dies, you will become Santa."
     ApprenticeNowSeer:
-      - "{0} was Santa Claus \U0001F473. As Santa's Little Helper \U0001F647, you step up to become the new Santa Claus \U0001F473."
+    - "{0} was Santa Claus 👳. As Santa's Little Helper 🙇, you step up to become the new Santa Claus 👳."
   Cultist:
     Cultist:
-      - "Non-Believer \U0001F464"
+    - "Non-Believer 👤"
     RoleInfoCultist:
-      - "You are a Non-Believer \U0001F464. Your goal is to turn all other players (except Snowmen and Krampus) into Non-Believers. If at the end of the game, all the living players are Non-Believers, you all win."
+    - "You are a Non-Believer 👤. Your goal is to turn all other players (except Snowmen and Krampus) into Non-Believers. If at the end of the game, all the living players are Non-Believers, you all win."
     CultistVotedConvert:
-      - "{0} has voted to turn {1} into a Non-Believer"
+    - "{0} has voted to turn {1} into a Non-Believer"
     AskConvert:
-      - "Who do you want to turn into a Non-Believer?"
+    - "Who do you want to turn into a Non-Believer?"
     CultConvertCultHunter:
     - "{0} was sent to do your dirty work, and tried to turn {1} into a Non-Believer... however, {1} is the Spirit of Christmas! {0} is dead!"
     CultJoin:
-      - "{0} has joined the Non-Believers \U0001F464!"
+    - "{0} has joined the Non-Believers 👤!"
     CultistsList:
-      - "The Non-Believers are currently:"
+    - "The Non-Believers are currently:"
     CultConvertWolf:
-      - "The Non-Believers \U0001F464 send out {0} trying to turn {1} into one of them, but {0} met a Snowman and got frozen to death by that Snowman..."
+    - "The Non-Believers 👤 send out {0} trying to turn {1} into one of them, but {0} met a Snowman and got frozen to death by that Snowman..."
     CultistBitten:
-      - "Strange... The second you start discussing on whom to convert tonight, you realize that {0} isn't here! What has happened to them??"
+    - "Strange... The second you start discussing on whom to convert tonight, you realize that {0} isn't here! What has happened to them??"
     CultConvertHunter:
-      - "The Non-Believers sent {0} to try to convert {1}, but instead a shot rings out and {0}'s body comes flying out of the window! {0} is dead...."
+    - "The Non-Believers sent {0} to try to convert {1}, but instead a shot rings out and {0}'s body comes flying out of the window! {0} is dead...."
     CultConvertSerialKiller:
-      - "The Non-Believers \U0001F464 sent {0} out to try to turn {1} into one of them, but instead {0}'s body comes flying out of the window, knives pushed into every part of their body! WHAT A PSYCHO! {0} is dead...."
-      - "{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by a crazed maniac with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead. D:"
+    - "The Non-Believers 👤 sent {0} out to try to turn {1} into one of them, but instead {0}'s body comes flying out of the window, knives pushed into every part of their body! WHAT A PSYCHO! {0} is dead...."
+    - "{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by a crazed maniac with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead. D:"
     CHHuntedYou:
-      - "The Spirit of Christmas \U0001F482 visited you while you were destroying a christmas tree. You were enlightened so much with his faith in Christmas! You died from regret :("
+    - "The Spirit of Christmas 💂 visited you while you were destroying a christmas tree. You were enlightened so much with his faith in Christmas! You died from regret :("
     HunterKilledCultist:
-      - "A noticeable stench is coming from {0}'s house...  the citizens inspect it to find a body lying in front of an xmas sign. A Non-Believer \U0001F464 has been killed by the Spirit of Christmas \U0001F482!"
+    - "A noticeable stench is coming from {0}'s house...  the citizens inspect it to find a body lying in front of an xmas sign. A Non-Believer 👤 has been killed by the Spirit of Christmas 💂!"
     CultConvertWolfPublic:
-      - "While it seems that the Snowmen took a break this night, the Non-Believers didn't and so went {0} out to do his job and convert another citizen of the North Pole into a Non-Believer, but that wasn't just a Citizen like everyone else, it was a Snowman. {0} tried to escape as fast as possible, but the breath of the Snowman was faster and so anticipated {0} a cold death."
-      - "The last night the Non-Believers tried to turn someone into one of them, but they didn't recognized that someone is there which hates Christmas even more than them. {0} payed that mistake with the life."
+    - "While it seems that the Snowmen took a break this night, the Non-Believers didn't and so went {0} out to do his job and convert another citizen of the North Pole into a Non-Believer, but that wasn't just a Citizen like everyone else, it was a Snowman. {0} tried to escape as fast as possible, but the breath of the Snowman was faster and so anticipated {0} a cold death."
+    - "The last night the Non-Believers tried to turn someone into one of them, but they didn't recognized that someone is there which hates Christmas even more than them. {0} payed that mistake with the life."
     CultConvertKillerPublic:
-      - "{0} one of the Non-Believers thought they could get another citizen away from Christmas and the faith in it, but oh no they came into the wrong house and got trapped by Krampus. Next time choose wisely before you try to convert the wrong citizen."
-      - "Last night, the Non-Believers tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Krampus, and the Krampus made a new piece of art in the town square of {0}'s internal organs."
+    - "{0} one of the Non-Believers thought they could get another citizen away from Christmas and the faith in it, but oh no they came into the wrong house and got trapped by Krampus. Next time choose wisely before you try to convert the wrong citizen."
+    - "Last night, the Non-Believers tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Krampus, and the Krampus made a new piece of art in the town square of {0}'s internal organs."
     HunterKilledVisiter:
-      - "In the middle of the North Pole, everyone finds {0}, with multiple shots to the body. It looks like they tried to sneak up on the Nutcracker \U0001F3AF! Well done, {1}."
+    - "In the middle of the North Pole, everyone finds {0}, with multiple shots to the body. It looks like they tried to sneak up on the Nutcracker 🎯! Well done, {1}."
     CultVisitEmpty:
-      - "{0} was sent to do your dirty work, and turn {1} into a Non-Believer... but no one was at home!"
+    - "{0} was sent to do your dirty work, and turn {1} into a Non-Believer... but no one was at home!"
     CultConvertYou:
-      - "The Non-Believers \U0001F464 have turned you to their order!  You are now a Non-Believer as well.  Every other night, you will have a chance to turn another player into a Non-Believer too."
+    - "The Non-Believers 👤 have turned you to their order!  You are now a Non-Believer as well.  Every other night, you will have a chance to turn another player into a Non-Believer too."
     CultUnableToConvert:
-      - "You send {0} out with the order to turn {1} into a Non-Believer, however their belief in Christmas are too strong, and you were unable to turn them into one of yours. :("
+    - "You send {0} out with the order to turn {1} into a Non-Believer, however their belief in Christmas are too strong, and you were unable to turn them into one of yours. :("
     CultTargetDead:
-      - "Your newest member heads over to {0}'s house to turn them into a Non-Believer, but instead finds the house a complete wreck, ice everywhere and some parts of the evil Snowmen were left behind there as a warning..."
+    - "Your newest member heads over to {0}'s house to turn them into a Non-Believer, but instead finds the house a complete wreck, ice everywhere and some parts of the evil Snowmen were left behind there as a warning..."
     CultAttempt:
-      - "A Non-Believer \U0001F464 tried to make you forget about Christmas, but your faith in Santa was too strong for them."
+    - "A Non-Believer 👤 tried to make you forget about Christmas, but your faith in Santa was too strong for them."
   CultistHunter:
     CultistHunter:
-      - "The Spirit of Christmas \U0001F482"
+    - "The Spirit of Christmas 💂"
     RoleInfoCultistHunter:
-      - "You are the Spirit of Christmas \U0001F482 and your job is to find the Non-Believers \U0001F464. If the Non-Believers try to convert you, their newest member will die. Each night you may pick a player to hunt and if they are Non-Believers, they are going to die."
+    - "You are the Spirit of Christmas 💂 and your job is to find the Non-Believers 👤. If the Non-Believers try to convert you, their newest member will die. Each night you may pick a player to hunt and if they are Non-Believers, they are going to die."
     AskHunt:
-      - "Who do you want to hunt?"
+    - "Who do you want to hunt?"
     CultHunterKilledCultVisit:
-      - "{0} came to your house last night, ready to turn you into a Non-Believer....  you enlightened them so much with your faith in Christmas that they died of it.  A Non-Believer is dead... {1} remain!"
+    - "{0} came to your house last night, ready to turn you into a Non-Believer....  you enlightened them so much with your faith in Christmas that they died of it.  A Non-Believer is dead... {1} remain!"
     HunterVisitDead:
-      - "You went to visit {0} to check their faith. You see {0}'s ungarnished, forlorn house standing out from far away..."
+    - "You went to visit {0} to check their faith. You see {0}'s ungarnished, forlorn house standing out from far away..."
     HunterFailedToFind:
-      - "You went to visit {0} to check their faith. You see {0}'s well-adorned house glimmering with lights. In your mind, you trust that {0} believes in Christmas."
+    - "You went to visit {0} to check their faith. You see {0}'s well-adorned house glimmering with lights. In your mind, you trust that {0} believes in Christmas."
     HunterFindCultist:
-      - "You visit {0}'s house and find them having no faith in Christmas. You enlighten them so much with your faith in Christmas that they die from it."
+    - "You visit {0}'s house and find them having no faith in Christmas. You enlighten them so much with your faith in Christmas that they die from it."
     SerialKillerKilledCH:
-      - "The citizens of the North Pole wake up in the morning, only to find the severed body parts of {0}, the Spirit of Christmas \U0001F482, in a cart placed in full view outside the house of Rudolph. Lesson learned: don't visit Krampus!"
+    - "The citizens of the North Pole wake up in the morning, only to find the severed body parts of {0}, the Spirit of Christmas 💂, in a cart placed in full view outside the house of Rudolph. Lesson learned: don't visit Krampus!"
   Mason:
     Mason:
-      - "Gingerbread Man \U0001F477"
+    - "Gingerbread Man 👷"
     RoleInfoMason:
-      - "You are a Gingerbread Man \U0001F477. Baked from the same oven, you know who the other Gingerbread Men are."
+    - "You are a Gingerbread Man 👷. Baked from the same oven, you know who the other Gingerbread Men are."
     MasonTeam:
-      - "The Gingerbread Men \U0001F477 are: {0}"
+    - "The Gingerbread Men 👷 are: {0}"
     MasonConverted:
-      - "Odd.... {0} didn't showed up for the Gingerbread meeting this morning... O.o"
+    - "Odd.... {0} didn't showed up for the Gingerbread meeting this morning... O.o"
   Doppelganger:
     Doppelganger:
-      - "Prancer \U0001F3AD"
+    - "Prancer 🎭"
     RoleInfoDoppelganger:
-      - "You are Prancer \U0001F3AD! You have a little extra Christmas magic in you. You have the ability to turn into other players. You can pick a player at the start of the game. If that player dies, you will become what they were."
+    - "You are Prancer 🎭! You have a little extra Christmas magic in you. You have the ability to turn into other players. You can pick a player at the start of the game. If that player dies, you will become what they were."
     AskRoleModel:
-      - "Who is your role model?"
+    - "Who is your role model?"
     AskDoppelganger:
-      - "Who do you want to become if they die?"
+    - "Who do you want to become if they die?"
     RoleModelChosen:
-      - "Aww, you didn’t choose a best friend. But you need one! Don’t worry, we picked one for you: {0}"
+    - "Aww, you didn’t choose a best friend. But you need one! Don’t worry, we picked one for you: {0}"
     DGTransformToMason:
-      - "{0} has died, and you transform into a mason.  Your teammates (if any) are: {1}"
+    - "{0} has died, and you transform into a mason.  Your teammates (if any) are: {1}"
     DGTransformToCult:
-      - "{0} has died, and you transform into a Non-Believer \U0001F464. Your teammates (if any) are: {1}"
+    - "{0} has died, and you transform into a Non-Believer 👤. Your teammates (if any) are: {1}"
     DGToMason:
-      - "The Prancer \U0001F3AD {0} has now become a Gingerbread Man \U0001F477, just like you!"
+    - "The Prancer 🎭 {0} has now become a Gingerbread Man 👷, just like you!"
     DGToCult:
-      - "The Prancer \U0001F3AD {0} has now become a Non-Believer \U0001F464, just like you!"
+    - "The Prancer 🎭 {0} has now become a Non-Believer 👤, just like you!"
     DGToWolf:
-      - "Prancer \U0001F3AD {0} has now become a evil Snowman \U0001F43A, just like you!"
+    - "Prancer 🎭 {0} has now become a evil Snowman 🐺, just like you!"
   Cupid:
     Cupid:
-      - "Love Reindeer \U0001F3F9"
+    - "Love Reindeer 🏹"
     RoleInfoCupid:
-      - "You are the Love Reindeer \U0001F3F9. You will choose two players at the start of the game. These 2 players will be madly in love! If one of them dies, the other will die of sadness. Note: Lovers know who they are but not each other’s role. If the lovers are the last 2 alive, they will win regardless of their team. If the lovers are on different teams (Team Santa + Team Frost) and one team wins (Snowman), the lover, (Elf) wins as well. If at least one of the lovers was on the winning team, they both win together."
+    - "You are the Love Reindeer 🏹. You will choose two players at the start of the game. These 2 players will be madly in love! If one of them dies, the other will die of sadness. Note: Lovers know who they are but not each other’s role. If the lovers are the last 2 alive, they will win regardless of their team. If the lovers are on different teams (Team Santa + Team Frost) and one team wins (Snowman), the lover, (Elf) wins as well. If at least one of the lovers was on the winning team, they both win together."
     AskCupid1:
-      - "Who do you want the lovers to be? Choose the first player"
+    - "Who do you want the lovers to be? Choose the first player"
     AskCupid2:
-      - "Who do you want the lovers to be? Choose the second player"
+    - "Who do you want the lovers to be? Choose the second player"
     CupidChosen:
-      - "You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If one of you wins, the other one wins too."
-      - "The arrow of the Love Reindeer has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win."
+    - "You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If one of you wins, the other one wins too."
+    - "The arrow of the Love Reindeer has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win."
   Hunter:
     Hunter:
-      - "Nutcracker \U0001F3AF"
+    - "Nutcracker 🎯"
     RoleInfoHunter:
-      - "You are The Nutcracker \U0001F3AF! Normally you would be spending your time rehearsing for the ballet but there's craziness in the North Pole. If the Snowmen try to freeze you, you have the chance to take one of them down with you. If you die any other way, you will get a chance to burn someone as you die."
+    - "You are The Nutcracker 🎯! Normally you would be spending your time rehearsing for the ballet but there's craziness in the North Pole. If the Snowmen try to freeze you, you have the chance to take one of them down with you. If you die any other way, you will get a chance to burn someone as you die."
     HunterLynchedChoice:
-      - "The citizens of the North Pole has chosen to burn you! This is your last chance, choose to shoot someone as you go down!"
+    - "The citizens of the North Pole has chosen to burn you! This is your last chance, choose to shoot someone as you go down!"
     HunterNoChoiceLynched:
-      - "{0} fumbles for their pistol as the temperature rises, but couldn't get it in time, and burnt to death."
+    - "{0} fumbles for their pistol as the temperature rises, but couldn't get it in time, and burnt to death."
     HunterSkipChoiceLynched:
-      - "{0} whips out their pistol and looks at the crowd... and cannot make a decision on who to shoot. They burn to death, accepting their fate..."
+    - "{0} whips out their pistol and looks at the crowd... and cannot make a decision on who to shoot. They burn to death, accepting their fate..."
     HunterKilledFinalLynched:
-      - "As the temperature rises, {0} whips out a pistol, takes aim, and shoots {1}! {1} falls over, dead.  {2}"
+    - "As the temperature rises, {0} whips out a pistol, takes aim, and shoots {1}! {1} falls over, dead.  {2}"
     HunterShotChoice:
-      - "You've been murdered! In your last moments, you have the chance to shoot someone... make it quick!"
+    - "You've been murdered! In your last moments, you have the chance to shoot someone... make it quick!"
     HunterNoChoiceShot:
-      - "The heat was too much for {0}, so much that they couldn't even reach for their sidearm, as they lay surrounded by flames..."
+    - "The heat was too much for {0}, so much that they couldn't even reach for their sidearm, as they lay surrounded by flames..."
     HunterSkipChoiceShot:
-      - "As {0} lays there, gasping for their final breaths, they can't decide who to shoot... and accept their fate."
+    - "As {0} lays there, gasping for their final breaths, they can't decide who to shoot... and accept their fate."
     HunterKilledFinalShot:
-      - "Burning, {0} falls to the ground.... but not without grasping their pistol, and firing upon {1}, who takes a bullet right between the eyes. {2}"
+    - "Burning, {0} falls to the ground.... but not without grasping their pistol, and firing upon {1}, who takes a bullet right between the eyes. {2}"
     HunterShotWolfMulti:
-      - "The evil Snowmen tried to attack the Nutcracker \U0001F3AF last night, but the Nutcracker was able to take one down with them as he died! {0} has died (Evil Snowman)"
+    - "The evil Snowmen tried to attack the Nutcracker 🎯 last night, but the Nutcracker was able to take one down with them as he died! {0} has died (Evil Snowman)"
     HunterShotWolf:
-      - "An evil Snowman tried to attack the Nutcracker \U0001F3AF last night, but the Nutcracker was able to take the evil Snowman {0} down with their rifle!"
+    - "An evil Snowman tried to attack the Nutcracker 🎯 last night, but the Nutcracker was able to take the evil Snowman {0} down with their rifle!"
     HunterKilledWiseElder:
-      - "As {0} decides to take {1} with them, they realize that they are the little girl \U0001F4DA. Instantly regretting what they did, they decide to put their ballerinas down and die as a simple Elf \U0001F471"
+    - "As {0} decides to take {1} with them, they realize that they are the little girl 📚. Instantly regretting what they did, they decide to put their ballerinas down and die as a simple Elf 👱"
   SerialKiller:
     SerialKiller:
-      - "Krampus \U0001F52A"
+    - "Krampus 🔪"
     RoleInfoSerialKiller:
-      - "Oh you are Krampus \U0001F52A, here to punish all the children who misbehave. You are on your own team. Each night, you will be able to choose a player to kill. If the Snowmen try to freeze you, you will melt one of them and live."
+    - "Oh you are Krampus 🔪, here to punish all the children who misbehave. You are on your own team. Each night, you will be able to choose a player to kill. If the Snowmen try to freeze you, you will melt one of them and live."
     AskKill:
-      - "Who do you want to kill tonight?"
+    - "Who do you want to kill tonight?"
     KillerRandomKill:
-      - "On your way to the house of {0}, a sharp pain surges through your leg. You decide to just go to the nearest house, which appears to be {1}'s, murder them and hurry home."
+    - "On your way to the house of {0}, a sharp pain surges through your leg. You decide to just go to the nearest house, which appears to be {1}'s, murder them and hurry home."
     KillerStumbled:
-      - "You cut the liver out of {0}'s body, but on your way back you leaned too far over an unfinished grave and stumbled into it. Maybe you shouldn't have looked for the liver of the corpse... Now your leg really hurts."
+    - "You cut the liver out of {0}'s body, but on your way back you leaned too far over an unfinished grave and stumbled into it. Maybe you shouldn't have looked for the liver of the corpse... Now your leg really hurts."
     SerialKillerKilledYou:
-      - "Are you too naughty? You are bagged by the Krampus for his dinner!"
-      - "Knock knock, you thought Santa Claus comes and happily opens the door... Oh no! You are greeted by the Krampus! You are his dinner now!"
+    - "Are you too naughty? You are bagged by the Krampus for his dinner!"
+    - "Knock knock, you thought Santa Claus comes and happily opens the door... Oh no! You are greeted by the Krampus! You are his dinner now!"
     SerialKillerKilledWolf:
-      - "The evil Snowmen attempted to freeze someone to death, but were instead greeted by Krampus \U0001F52A! {0} was killed in the fight!"
+    - "The evil Snowmen attempted to freeze someone to death, but were instead greeted by Krampus 🔪! {0} was killed in the fight!"
   Sorcerer:
     Sorcerer:
-      - "Old Man Winter \U0001F52E"
+    - "Old Man Winter 🔮"
     RoleInfoSorcerer:
-      - "You are Old Man Winter \U0001F52E. You side yourself with Team Frost. You have the ability to see if someone is a Snowman or if they are Santa. Use your role wisely to help Team Frost win."
+    - "You are Old Man Winter 🔮. You side yourself with Team Frost. You have the ability to see if someone is a Snowman or if they are Santa. Use your role wisely to help Team Frost win."
   AlphaWolf:
     AlphaWolf:
-      - "Jack Frost ⚡️"  
+    - "Jack Frost ⚡️"
     RoleInfoAlphaWolf:
-      - "You are Jack Frost ⚡️, the King of Winter. Everything you touch becomes cold. Like your snow henchman, you get to choose a player to freeze. Since you are the King, there's a 20% chance that the player you freeze will join Team Frost instead of freezing to death!"
+    - "You are Jack Frost ⚡️, the King of Winter. Everything you touch becomes cold. Like your snow henchman, you get to choose a player to freeze. Since you are the King, there's a 20% chance that the player you freeze will join Team Frost instead of freezing to death!"
     BittenTurned:
-      - "When the night came, you felt that you were suddenly getting so cold. When you look at yourself in the mirror and you notice that you are suddenly a Snowman \U0001F43A, you are astonished how quickly and painlessly the transformation happened!"
+    - "When the night came, you felt that you were suddenly getting so cold. When you look at yourself in the mirror and you notice that you are suddenly a Snowman 🐺, you are astonished how quickly and painlessly the transformation happened!"
     PlayerBitten:
-      - "You were about to be frozen by the Snowmen, but Jack Frost ⚡️ chose you. Instead of being frozen, you will transform into a Snowman \U0001F43A tomorrow night."
+    - "You were about to be frozen by the Snowmen, but Jack Frost ⚡️ chose you. Instead of being frozen, you will transform into a Snowman 🐺 tomorrow night."
     PlayerBittenWolves:
-      - "As the Snowmen start to freeze {0}, {1} stops everyone, being Jack Frost ⚡️, the King of the Winter. {1} tells the team that {0} should join us instead of being frozen to death, so the team gives them a carrot for a nose and leaves them in the snow.  {0} will become a Snowman tomorrow night."
+    - "As the Snowmen start to freeze {0}, {1} stops everyone, being Jack Frost ⚡️, the King of the Winter. {1} tells the team that {0} should join us instead of being frozen to death, so the team gives them a carrot for a nose and leaves them in the snow.  {0} will become a Snowman tomorrow night."
   WolfCub:
     WolfCub:
-      - "Frosty the Snowman \U0001F436"
+    - "Frosty the Snowman 🐶"
     RoleInfoWolfCub:
-      - "You are the Wolf Cub \U0001F436; adored by your wolf pack. Like other wolves, you will choose a villager to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You'll still be dead though."
+    - "You are the Wolf Cub 🐶; adored by your wolf pack. Like other wolves, you will choose a villager to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You'll still be dead though."
   Blacksmith:
     Blacksmith:
-      - "The Weatherman ⚒"
+    - "The Weatherman ⚒"
     RoleInfoBlacksmith:
-      - "You are the Weatherman ⚒. You have the ability to cause a warm front to come through the North Pole. This prevents the Snowmen from freezing someone for one night."
+    - "You are the Weatherman ⚒. You have the ability to cause a warm front to come through the North Pole. This prevents the Snowmen from freezing someone for one night."
     SpreadDust:
-      - "Would you like to bring the warm front today, preventing the Snowmen from freezing others tonight?"
+    - "Would you like to bring the warm front today, preventing the Snowmen from freezing others tonight?"
     BlacksmithSpreadSilver:
-      - "BREAKING NEWS! {0} has brought in a warm front to the North Pole! Enjoy a bit of warm weather tonight. The Snowmen aren't able to freeze someone at the next night."
+    - "BREAKING NEWS! {0} has brought in a warm front to the North Pole! Enjoy a bit of warm weather tonight. The Snowmen aren't able to freeze someone at the next night."
   ClumsyGuy:
     ClumsyGuy:
-      - "Buddy the Elf \U0001F915"
+    - "Buddy the Elf 🤕"
     RoleInfoClumsyGuy:
-      - "You are the Clumsy Guy \U0001F915: You'll try to vote, but there is a 50% chance you'll vote for someone else other than you intended instead. You're still on the village team though."
+    - "You are the Clumsy Guy 🤕: You'll try to vote, but there is a 50% chance you'll vote for someone else other than you intended instead. You're still on the village team though."
   Mayor:
     Mayor:
-      - "Rudolph \U0001F396"
+    - "Rudolph 🎖"
     RoleInfoMayor:
-      - "You are the red-nosed reindeer, Rudolph \U0001F396! Once you reveal that you have a red nose, your votes will count twice. Use that power wisely to help Team Santa!"
+    - "You are the red-nosed reindeer, Rudolph 🎖! Once you reveal that you have a red nose, your votes will count twice. Use that power wisely to help Team Santa!"
     AskMayor:
-      - "Click 'Shout' whenever you wanna shout out, that you are Rudolph the red-nosed reindeer."
+    - "Click 'Shout' whenever you wanna shout out, that you are Rudolph the red-nosed reindeer."
     MayorReveal:
-      - "{0} cries aloud, and the citizens of the North Pole seeing Rudolph \U0001F396 in the manger. Rudolph is the reason for the season so {0}'s votes for banishing will count twice."
+    - "{0} cries aloud, and the citizens of the North Pole seeing Rudolph 🎖 in the manger. Rudolph is the reason for the season so {0}'s votes for banishing will count twice."
     Reveal:
-      - "Shout"
+    - "Shout"
   Prince:
     Prince:
-      - "Grýla \U0001F451"
+    - "Grýla 👑"
     RoleInfoPrince:
-      - "You are Grýla \U0001F451. If the people of the North Pole try to kill you, they will realize that they were wrong! However if it happens again, you will die."
+    - "You are Grýla 👑. If the people of the North Pole try to kill you, they will realize that they were wrong! However if it happens again, you will die."
     PrinceLynched:
-      - "As the town begins to burn {0}, they realize that they tried to burn Grýla, the reason for the season! How dare they! Feeling silly, the people of the North Pole all head back home."
+    - "As the town begins to burn {0}, they realize that they tried to burn Grýla, the reason for the season! How dare they! Feeling silly, the people of the North Pole all head back home."
   Lycan:
     Lycan:
-      - "Gnome \U0001F43A\U0001F31D" 
+    - "Gnome 🐺🌝"
     RoleInfoLycan:
-      - "You are the Gnome \U0001F43A\U0001F31D! You are working for the snowmen, but since you stole an elf's costume, Santa will sure think you are an elf :)"
+    - "You are the Gnome 🐺🌝! You are working for the snowmen, but since you stole an elf's costume, Santa will sure think you are an elf :)"
   Pacifist:
     Pacifist:
-      - "Christmas Tree Decorator ☮️"
+    - "Christmas Tree Decorator ☮️"
     RoleInfoPacifist:
-      - "You are the Christmas Tree Decorator ☮️. You can choose to convince everyone in your village not to lynch anyone. This can only be done once."
+    - "You are the Christmas Tree Decorator ☮️. You can choose to convince everyone in your village not to lynch anyone. This can only be done once."
     AskPacifist:
-      - "Hit this button if you want to show your tree to the whole village and let its beauty stop the burning."
+    - "Hit this button if you want to show your tree to the whole village and let its beauty stop the burning."
     PacifistNoLynch:
-      - "The Christmas Tree Decorator ☮️, {0}, points towards the Christmas tree in the middle of the village and as you see its glory, no one can burn anyone today."
+    - "The Christmas Tree Decorator ☮️, {0}, points towards the Christmas tree in the middle of the village and as you see its glory, no one can burn anyone today."
     PacifistNoLynchNow:
-      - "Because of the glorious tree, decorated by the Christmas Tree Decorator ☮️, won't be any burning today!"
+    - "Because of the glorious tree, decorated by the Christmas Tree Decorator ☮️, won't be any burning today!"
     LynchPeaceTimeout:
-      - Today's Lynching got skipped because of the Pacifist's heartfelt speech!
+    - Today's Lynching got skipped because of the Pacifist's heartfelt speech!
     Peace:
-      - "\U0001F332➡️\U0001F384"
+    - "🌲➡️🎄"
   WiseElder:
     WiseElder:
-      - "Little Girl \U0001F4DA"
+    - "Little Girl 📚"
     RoleInfoWiseElder:
-      - "The Little Girl \U0001F4DA wants to sell her matches. But if snowmen attacks you, you sure as well will use them as a defense. You sold too many though, they only last for one night. If the Black Pete or the Nutcracker kills you, they will cry in great grief and give up their abilities."
+    - "The Little Girl 📚 wants to sell her matches. But if snowmen attacks you, you sure as well will use them as a defense. You sold too many though, they only last for one night. If the Black Pete or the Nutcracker kills you, they will cry in great grief and give up their abilities."
     WolvesTriedToEatWiseElder:
-      - "You tried to freeze {0}. Unfortunately, you are burnt with {0}'s matches! As you retreat, you see the empty match box of the little girl \U0001F4DA. So next time, it will be time to freeze!"
+    - "You tried to freeze {0}. Unfortunately, you are burnt with {0}'s matches! As you retreat, you see the empty match box of the little girl 📚. So next time, it will be time to freeze!"
     WolvesAteWiseElderPM:
-      - "The snowmen tried to freeze you. You have your matches in your little girl hand\U0001F4DA though, and succesfully showed them that they can lit on fire easily. You just hope that they don't notice you have none left."
+    - "The snowmen tried to freeze you. You have your matches in your little girl hand📚 though, and succesfully showed them that they can lit on fire easily. You just hope that they don't notice you have none left."
   Oracle:
     Oracle:
-      - "Street Santa \U0001F300" 
+    - "Street Santa 🌀"
     RoleInfoOracle:
-      - "You are the Street Santa \U0001F300! You are certainly not Santa and don't know who is who, you can only know who is good or bad (by knowing a role they are NOT)... and that because you stole the real Santa’s Naughty List."
+    - "You are the Street Santa 🌀! You are certainly not Santa and don't know who is who, you can only know who is good or bad (by knowing a role they are NOT)... and that because you stole the real Santa’s Naughty List."
     NegSeerSees:
-      - "You see that {0} is NOT {1}!"
+    - "You see that {0} is NOT {1}!"
   Sandman:
     Sandman:
-      - "Christmas Carol singer \U0001F4A4" 
+    - "Christmas Carol singer 💤"
     RoleInfoSandman:
-      - "You are the Christmas carol singer \U0001F4A4.  Once per game, you can use your magic to put everyone into such a deep sleep, they won't be able to use their role at night."
+    - "You are the Christmas carol singer 💤.  Once per game, you can use your magic to put everyone into such a deep sleep, they won't be able to use their role at night."
     AskSandman:
-      - "Would you like to sing your lullaby tonight?"
+    - "Would you like to sing your lullaby tonight?"
     SandmanSleepAll:
-      - "{0} starts singing and suddenly everyone feels so sleepy. Elves stop working in the shops, Santa's eyes feel so heavy, even Snowmen stop their ice for a good night of sleep."
+    - "{0} starts singing and suddenly everyone feels so sleepy. Elves stop working in the shops, Santa's eyes feel so heavy, even Snowmen stop their ice for a good night of sleep."
     SandmanNight:
-      - "Everyone is sleeping tonight. The calm is only interrupted by the isolated sounds of the toy machines which are working unsupervised."
+    - "Everyone is sleeping tonight. The calm is only interrupted by the isolated sounds of the toy machines which are working unsupervised."
   WolfMan:
     WolfMan:
-      - "Ice Sculpturist \U0001F471\U0001F31A"
+    - "Ice Sculpturist 👱🌚"
     RoleInfoWolfMan:
-      - "You are the Ice Sculpturist \U0001F471\U0001F31A. You spend day and night in the snow, so take care, Santa Clause might think you are one of the snowmen, since you work 24/7 so your body is covered in heavy snow till u get home..."
+    - "You are the Ice Sculpturist 👱🌚. You spend day and night in the snow, so take care, Santa Clause might think you are one of the snowmen, since you work 24/7 so your body is covered in heavy snow till u get home..."
   Thief:
     Thief:
-      - "Arctic Fox \U0001F608" 
+    - "Arctic Fox 😈"
     RoleInfoThief:
-      - "You are the Arctic Fox \U0001F608! You can steal a player's role on the first night and turn that player into a villager!"
+    - "You are the Arctic Fox 😈! You can steal a player's role on the first night and turn that player into a villager!"
     RoleInfoThiefFull:
-      - "You are the Arctic Fox \U0001F608! Since the [Full Arctic Fox] mode is turned on, you get a 50% chance to steal a player's role every night, if successful, that player will become the new Arctic Fox and continues with the theft!"
+    - "You are the Arctic Fox 😈! Since the [Full Arctic Fox] mode is turned on, you get a 50% chance to steal a player's role every night, if successful, that player will become the new Arctic Fox and continues with the theft!"
     AskThief:
-      - "Whose role do you want to steal from?"
+    - "Whose role do you want to steal from?"
     ThiefStealFailed:
-      - "You tried to steal the role from {0}, but unfortunately you failed..."
+    - "You tried to steal the role from {0}, but unfortunately you failed..."
     ThiefStealDead:
-      - "You tried to steal the role from {0}, but {0} is already dead..."
+    - "You tried to steal the role from {0}, but {0} is already dead..."
     ThiefStoleRole:
-      - "You successfully stole {0}'s role!"
+    - "You successfully stole {0}'s role!"
     ThiefToMason:
-      - "{0} is no longer your teammate and {1} has now become a Gingerbread Man, just like you!"
+    - "{0} is no longer your teammate and {1} has now become a Gingerbread Man, just like you!"
     ThiefToCult:
-      - "{0} is no longer your teammate and {1} has now become a Non-Believer, just like you!"
+    - "{0} is no longer your teammate and {1} has now become a Non-Believer, just like you!"
     ThiefToWolf:
-      - "{0} is no longer your teammate and {1} has now become a Snowman, just like you!"
+    - "{0} is no longer your teammate and {1} has now become a Snowman, just like you!"
     ThiefStealChosen:
-      - "Your theft target is now {0}."
+    - "Your theft target is now {0}."
     ThiefStoleYourRoleThief:
-      - "Your role got stolen! You are now the new arctic fox \U0001F608 and can steal a role the next night!"
+    - "Your role got stolen! You are now the new arctic fox 😈 and can steal a role the next night!"
     ThiefStoleYourRoleVillager:
-      - "Your role got stolen! You are now an elf \U0001F471, plowing your fields all day."
+    - "Your role got stolen! You are now an elf 👱, plowing your fields all day."
     StealKiller:
-      - "You tried to steal a role... but your target was Krampus! They saw you around their house, and not a minute later, you found yourself as their dinner..."
+    - "You tried to steal a role... but your target was Krampus! They saw you around their house, and not a minute later, you found yourself as their dinner..."
     ThiefStoleKiller:
-      - "The Arctic Fox \U0001F608, {0}, tried to steal the role from the Krampus! This devious act was nothing before the expert Krampus. A moment later, Krampus finished his delicious fox meal."
+    - "The Arctic Fox 😈, {0}, tried to steal the role from the Krampus! This devious act was nothing before the expert Krampus. A moment later, Krampus finished his delicious fox meal."
     NewDGRoleModel:
-      - "You have become the Prancer \U0001F3AD. You will take over {0}'s role after their death."
+    - "You have become the Prancer 🎭. You will take over {0}'s role after their death."
     NewWCRoleModel:
-      - "You are now Blitzen \U0001F476. Your role model is {0}."
+    - "You are now Blitzen 👶. Your role model is {0}."
   Troublemaker:
     Troublemaker:
-      - "Comet the Reindeer \U0001F92F"
+    - "Comet the Reindeer 🤯"
     RoleInfoTroublemaker:
-      - "You are Comet the Reindeer \U0001F92F. As the youngest reindeer in the North Pole, you're the most energetic one out there, always eager for adventure and a good time. Christmas is approaching and you are feeling especially anxious about it, so you cause a huge furor in order to speed everything up and the village will burn twice that day."
+    - "You are Comet the Reindeer 🤯. As the youngest reindeer in the North Pole, you're the most energetic one out there, always eager for adventure and a good time. Christmas is approaching and you are feeling especially anxious about it, so you cause a huge furor in order to speed everything up and the village will burn twice that day."
     AskTroublemaker:
-      - "Do you want to speed the Christmas preparation process today?"
+    - "Do you want to speed the Christmas preparation process today?"
     TroublemakerDoubleLynch:
-      - "{0}, the young reindeer \U0001F92F is making everyone speed up their assigned jobs! Run around and work ASAP! You will burn twice today!"
+    - "{0}, the young reindeer 🤯 is making everyone speed up their assigned jobs! Run around and work ASAP! You will burn twice today!"
     TroubleDoubleLynchNow:
-      - "Because of Comet the reindeer, you are going to burn twice today! Hopefully they are going to be a little more patient tomorrow."
+    - "Because of Comet the reindeer, you are going to burn twice today! Hopefully they are going to be a little more patient tomorrow."
   Chemist:
     Chemist:
-      - "Chemist \U0001F9EA"
+    - "Chemist 🧪"
     RoleInfoChemist:
-      - "You are the Chemist \U0001F9EA, a mad scientist experimenting on living beings. On the first night, you prepare 4 potions 2 are deadly poisons and 2 are harmless painkillers. You can choose a target to give one of each, leaving them to decide their own fate!\n\nIf a bad role die from the poison, you receive 2 extra potions. After visiting someone, you must wait 1 day before visiting another player."
+    - "You are the Chemist 🧪, a mad scientist experimenting on living beings. On the first night, you prepare 4 potions 2 are deadly poisons and 2 are harmless painkillers. You can choose a target to give one of each, leaving them to decide their own fate!\n\nIf a bad role die from the poison, you receive 2 extra potions. After visiting someone, you must wait 1 day before visiting another player."
     AskChemist:
-      - "Who do you want to give the potion to? You have {0} potions left."
+    - "Who do you want to give the potion to? You have {0} potions left."
     AskChemistPill:
-      - "The chemist urges you to choose a potion. One is deadly and one is safe. Which one will you choose?"
+    - "The chemist urges you to choose a potion. One is deadly and one is safe. Which one will you choose?"
     ChemistFail:
-      - "Chemist {0} compelled you to select a potion. You picked the right one, and now you're safe... atleast for now!"
+    - "Chemist {0} compelled you to select a potion. You picked the right one, and now you're safe... atleast for now!"
     ChemistDeadYou:
-      - "Chemist {0} compelled you to select a potion. You chose the poisonous one and now you're dead... Nobody else to blame but your stinky hands :P"
+    - "Chemist {0} compelled you to select a potion. You chose the poisonous one and now you're dead... Nobody else to blame but your stinky hands :P"
     ChemistSuccessPublic:
-      - "The merciless chemist {0} forced {1} to select a potion. {1} picked the poisoned one and died. Looks like they weren't cut out for gambling after all :P"
+    - "The merciless chemist {0} forced {1} to select a potion. {1} picked the poisoned one and died. Looks like they weren't cut out for gambling after all :P"
     ChemistFailPublic:
-      - "The merciless chemist {0} forced {1} to select a potion last night. However, {1} was self-assured in his skills and picked the most effective potion and survived. pew... LUCKY!"
+    - "The merciless chemist {0} forced {1} to select a potion last night. However, {1} was self-assured in his skills and picked the most effective potion and survived. pew... LUCKY!"
     ChemistBrewing:
-      - "While everyone else is getting ready for the day, you're still in the lab making potions. You can give one person their potions for the next day."
+    - "While everyone else is getting ready for the day, you're still in the lab making potions. You can give one person their potions for the next day."
     ChemistExtraPill:
-      - "You have successfully killed a bad role. As a reward, you recieved extra 2 potions."
+    - "You have successfully killed a bad role. As a reward, you recieved extra 2 potions."
   SnowWolf:
     SnowWolf:
-      - "Stormella \U0001F43A☃️"
+    - "Stormella 🐺☃️"
     RoleInfoSnowWolf:
-      - "You are Stormella \U0001F43A☃️. You are an evil queen that creates snow storms. This makes people incapable of leaving their house. Every night you will pick someone to stay home."
+    - "You are Stormella 🐺☃️. You are an evil queen that creates snow storms. This makes people incapable of leaving their house. Every night you will pick someone to stay home."
     AskFreeze:
-      - "At whose house do you want to create a snow storm?"
+    - "At whose house do you want to create a snow storm?"
     SuccessfulFreeze:
-      - "You went to {0}'s house and casted a weather spell on them! Tonight, they won't be able to use their night actions (if any) due to the snow storm heading upon them right now."
+    - "You went to {0}'s house and casted a weather spell on them! Tonight, they won't be able to use their night actions (if any) due to the snow storm heading upon them right now."
     HarlotFrozen:
-      - "As you open the door to leave your house, a gust of wind blows toward you. You notice that a snow storm has formed outside by Stormella \U0001F43A☃️. No amount of hot chocolate anyone could offer would be able to warm you up if you go out in this weather. Ah well, time to stay in for the night."
+    - "As you open the door to leave your house, a gust of wind blows toward you. You notice that a snow storm has formed outside by Stormella 🐺☃️. No amount of hot chocolate anyone could offer would be able to warm you up if you go out in this weather. Ah well, time to stay in for the night."
     CultistFrozen:
-      - "As you don your cloak to protect you from the North Pole’s weather, a gust of wind blows in from the doorway. Stormella's \U0001F43A☃️ snow storm arrived earlier than you expected. Your fellow Non-Believers from around the world call you to schedule your activity of decreasing Christmas’ spirit around the globe, but they end up laughing at your demise. Leaving you home and unable to go out, they promise that they'll make good progress tonight. Now that the snow storm has ceased, you leave the house, cringing in embarrassment."
+    - "As you don your cloak to protect you from the North Pole’s weather, a gust of wind blows in from the doorway. Stormella's 🐺☃️ snow storm arrived earlier than you expected. Your fellow Non-Believers from around the world call you to schedule your activity of decreasing Christmas’ spirit around the globe, but they end up laughing at your demise. Leaving you home and unable to go out, they promise that they'll make good progress tonight. Now that the snow storm has ceased, you leave the house, cringing in embarrassment."
     CHFrozen:
-      - "As you get ready to go make people believe in Christmas, a gust of wind blows in from the window.  Stormella's \U0001F43A☃️ snow storm has suddenly arrived upon your doorway. You groan, but take these extra hours to appreciate the beauty of the Christmas tree in the town square by your window..."
+    - "As you get ready to go make people believe in Christmas, a gust of wind blows in from the window.  Stormella's 🐺☃️ snow storm has suddenly arrived upon your doorway. You groan, but take these extra hours to appreciate the beauty of the Christmas tree in the town square by your window..."
     SeeingFrozen:
-      - "As you sit at your table, ready to use your psychic powers, a gust of wind blew in from the window. Stormella's \U0001F43A☃️ snow storm has formed. That weather spell also gave you a serious case of brain freeze, making it impossible for you to figure out who has been naughty or nice tonight. You aren't worried though, knowing that the sun rising is one of the constants of this world and that you'll be thawed soon."
+    - "As you sit at your table, ready to use your psychic powers, a gust of wind blew in from the window. Stormella's 🐺☃️ snow storm has formed. That weather spell also gave you a serious case of brain freeze, making it impossible for you to figure out who has been naughty or nice tonight. You aren't worried though, knowing that the sun rising is one of the constants of this world and that you'll be thawed soon."
     GAFrozen:
-      - "As you get ready to go out and protect someone from the evil forces fighting against Christmas, a gust of wind blows in from the windows. That can only mean one thing: Stormella \U0001F43A☃️ a snow storm capable of freezing your bones to death has formed  You cringe as you suddenly imagine yourself as an ornament on a Christmas tree. Thankfully, this is now over since the sun has risen."
+    - "As you get ready to go out and protect someone from the evil forces fighting against Christmas, a gust of wind blows in from the windows. That can only mean one thing: Stormella 🐺☃️ a snow storm capable of freezing your bones to death has formed  You cringe as you suddenly imagine yourself as an ornament on a Christmas tree. Thankfully, this is now over since the sun has risen."
     SKFrozen:
-      - "As you admired your liver collection one last time before leaving your house, a gust of wind from a quite new snow storm blew in from the windows, frosting the glass jars... and forcing you to keep inside for the night \U0001F43A☃️. As the sun rises the next morning, you gritted your teeth in annoyance at Stormella’s spell, swearing to make them suffer as much as possible when you take their liver."
+    - "As you admired your liver collection one last time before leaving your house, a gust of wind from a quite new snow storm blew in from the windows, frosting the glass jars... and forcing you to keep inside for the night 🐺☃️. As the sun rises the next morning, you gritted your teeth in annoyance at Stormella’s spell, swearing to make them suffer as much as possible when you take their liver."
     ThiefFrozen:
-      - "As you sulked around the village, you felt a strong gust of wind and not a minute had passed when there was a snow storm above you! You stood frozen in your tracks, literally unable to move for the night \U0001F43A☃️. Luckily, it was dark enough for you to hide into an old trunk and not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you."
+    - "As you sulked around the village, you felt a strong gust of wind and not a minute had passed when there was a snow storm above you! You stood frozen in your tracks, literally unable to move for the night 🐺☃️. Luckily, it was dark enough for you to hide into an old trunk and not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you."
     DefaultFrozen:
-      - "While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that a terrible snow storm with strong raging winds was taking place outside! Looks like Stormella was playing some magic tricks \U0001F43A☃️ on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold."
+    - "While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that a terrible snow storm with strong raging winds was taking place outside! Looks like Stormella was playing some magic tricks 🐺☃️ on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold."
   Augur:
     Augur:
-      - "Alabaster Snowball \U0001F985"
+    - "Alabaster Snowball 🦅"
     RoleInfoAugur:
-      - "You are Alabaster Snowball \U0001F985 . You are an elf in charge of informing Santa whether the children around the world have been behaving. To keep track, you have a long list of naughty little children. As the list is really important to you, you check it everyday to see who is not in it."
+    - "You are Alabaster Snowball 🦅 . You are an elf in charge of informing Santa whether the children around the world have been behaving. To keep track, you have a long list of naughty little children. As the list is really important to you, you check it everyday to see who is not in it."
     AugurSees:
-      - "As you check the nice list, you see that {0} is not in it."
-      - "The birds tell you that {0} is not part of the village right now."
+    - "As you check the nice list, you see that {0} is not in it."
+    - "The birds tell you that {0} is not part of the village right now."
     AugurSeesNothing:
-      - "There is nothing to inform Santa about today. That means that you have checked all the people who are not in your list..."
+    - "There is nothing to inform Santa about today. That means that you have checked all the people who are not in your list..."
   Arsonist:
     Arsonist:
-      - "Naughty Kid \U0001F525"
+    - "Naughty Kid 🔥"
     RoleInfoArsonist:
-      - "You are the Naughty Kid \U0001F525. Each night, you may either throw coal to a nice kid's house or spark, causing all the houses you have previously thrown coal to burn along with all the owner's toys inside them. You can only win if you are the only survivor. If you don't get toys for Christmas, then no one else will."
+    - "You are the Naughty Kid 🔥. Each night, you may either throw coal to a nice kid's house or spark, causing all the houses you have previously thrown coal to burn along with all the owner's toys inside them. You can only win if you are the only survivor. If you don't get toys for Christmas, then no one else will."
     AskArsonist:
-      - "Do you want to throw some coal at another nice kid’s house or do you want to see all the toys of the houses you’ve visited burn?"
+    - "Do you want to throw some coal at another nice kid’s house or do you want to see all the toys of the houses you’ve visited burn?"
     AskArsonistNoDoused:
-      - "Whose house would you like to throw coal at?"
+    - "Whose house would you like to throw coal at?"
     AlreadyDousedList:
-      - "\nYou have already thrown coal at the house of: {0}"
+    - "\nYou have already thrown coal at the house of: {0}"
     ExtraDouse:
-      - "The Snowman dropped the village guard and you got the opportunity to repel someone else."
+    - "The Snowman dropped the village guard and you got the opportunity to repel someone else."
     Doused:
-      - "You successfully threw coal into {0}'s house!"
+    - "You successfully threw coal into {0}'s house!"
     Burning:
-      - "The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but it’s too late to save the toys and the people whose houses were mysteriously filled with coal. Today you mourn the deaths of the following people:\\n{0}"
+    - "The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but it’s too late to save the toys and the people whose houses were mysteriously filled with coal. Today you mourn the deaths of the following people:\\n{0}"
     Burn:
-      - "You should have kept a fire extinguisher! Now your house is burnt down with all your toys and you inside..."
+    - "You should have kept a fire extinguisher! Now your house is burnt down with all your toys and you inside..."
     WolvesVisitBurn:
-      - "The snowmem head to {0}'s house, when suddenly you notice smoke. You try to escape, but it's too late for {1}, who melts in the flames."
+    - "The snowmem head to {0}'s house, when suddenly you notice smoke. You try to escape, but it's too late for {1}, who melts in the flames."
     DefaultVisitBurn:
-      - "{0} should have stayed home tonight... They visited a burning house and died in the flames! {1}"
+    - "{0} should have stayed home tonight... They visited a burning house and died in the flames! {1}"
     WolfVisitBurn:
-      - "The snowmen tried to freeze someone tonight again, but the Naughty Kid \U0001F525 was quicker! {0} couldn't escape from the burning house in time... {1}"
+    - "The snowmen tried to freeze someone tonight again, but the Naughty Kid 🔥 was quicker! {0} couldn't escape from the burning house in time... {1}"
     ArsonistWinsOverpower:
-      - "Only {0} and {1} are left... Suddenly {0} smiles, pulls out a match, lights it and throws it to the feet of {1}, who goes up in flames!"
+    - "Only {0} and {1} are left... Suddenly {0} smiles, pulls out a match, lights it and throws it to the feet of {1}, who goes up in flames!"
     ArsonistVisitKiller:
-      - "The Naughty Kid \U0001F525 {0} tried to throw coal to the house of the Krampus... They didn't quite survive that. Serves them right..."
+    - "The Naughty Kid 🔥 {0} tried to throw coal to the house of the Krampus... They didn't quite survive that. Serves them right..."
     Spark:
-    - "\U0001F525 Spark"
+    - "🔥 Spark"
   Boss:
     Boss:
-      - "Christmas Spy \U0001F3A9"
+    - "Christmas Spy 🎩"
     RoleInfoBoss:
-      - "\U0001F3A9 Christmas Spy: You have a deep disdain for Non-Believers. Whenever you encounter a group of them, you join in their merriment by pretending to be one of them. However, the Non-Believers are blissfully unaware of your true identity, and every night, you secretly report the number of Non-Believers to the Christmas village team."
+    - "🎩 Christmas Spy: You have a deep disdain for Non-Believers. Whenever you encounter a group of them, you join in their merriment by pretending to be one of them. However, the Non-Believers are blissfully unaware of your true identity, and every night, you secretly report the number of Non-Believers to the Christmas village team."
     CultCount:
-      - "\U0001F464 You learned that there are {0} Non-Believers!"
+    - "👤 You learned that there are {0} Non-Believers!"
   Shadow:
     Shadow:
-      - "Icicle \U0001F43A\U0001F31A"
+    - "Icicle 🐺🌚"
     RoleInfoShadow:
-      - "\U0001F43A\U0001F31A You are a Icicle\nYou can freeze someone every night, just like ordinary snowmen. But you have a special 'ice' ability that is different from others. When you take action, the villagers' vote options in bot will appear as '?', covered in ice, but they will remain visible to the group. However, your ability does not affect on fellow snowmen allowing them to see who they voted to burn."
+    - "🐺🌚 You are a Icicle\nYou can freeze someone every night, just like ordinary snowmen. But you have a special 'ice' ability that is different from others. When you take action, the villagers' vote options in bot will appear as '?', covered in ice, but they will remain visible to the group. However, your ability does not affect on fellow snowmen allowing them to see who they voted to burn."
     AskShadow:
-      - "Do you want to use your Ice ability today?"
+    - "Do you want to use your Ice ability today?"
     ShadowPower:
-      - "You have successfully used your abilities. When the lynching phase begins, the villagers will not be able to see who they are lynching, and all lynchings will be seen as '?'. Snowmen will continue to see who they lynch.."
+    - "You have successfully used your abilities. When the lynching phase begins, the villagers will not be able to see who they are lynching, and all lynchings will be seen as '?'. Snowmen will continue to see who they lynch.."
   Skeleton:
     Skeleton:
-      - ""
+    - ""
     RoleInfoSkeleton:
-      - ""
+    - ""
     ButtonAppears:
-      - ""
+    - ""
     AskSkeleton:
-      - ""
+    - ""
     ChoiceConfirmation:
-      - ""
+    - ""
     BlockedNotice:
-      - ""
+    - ""
     HauntButton:
-      - ""
+    - ""
   Doctor:
     Doctor:
-      - "Doctor \U0001F9D1‍⚕️"
+    - "Doctor 🧑‍⚕️"
     RoleInfoDoctor:
-      - "\U0001F9D1‍⚕️ You are the Doctor, with a single touch, you can bring a player back to life, and remember, as the game grows, you can offer the chance of resurrection to more people."
+    - "🧑‍⚕️ You are the Doctor, with a single touch, you can bring a player back to life, and remember, as the game grows, you can offer the chance of resurrection to more people."
     AskDoctor:
-      - "Who do you want to revive ?"
+    - "Who do you want to revive ?"
     DoctorRevive:
-      - "Doctor {0}'s efforts resulted in the player {1}, who was frozen to death last night, returning back to the game. Now it's time to take revenge."
+    - "Doctor {0}'s efforts resulted in the player {1}, who was frozen to death last night, returning back to the game. Now it's time to take revenge."
     DoctorYouRevive:
-      - "The Doctor revived you. Now go back to the village!"
+    - "The Doctor revived you. Now go back to the village!"
   Preacher:
     Preacher:
-      - "Christmas Watcher \U0001F6D0"
+    - "Christmas Watcher 🛐"
     RoleInfoPreacher:
-      - "\U0001F6D0 You are the Christmas Watcher. During the night, you can pray for a citizen. If the citizen you prayed for is visited by a Snowman or Krampus, you will learn the identity of them and their role. However, they will also discover your identity. This ability can be used starting from the second night."
+    - "🛐 You are the Christmas Watcher. During the night, you can pray for a citizen. If the citizen you prayed for is visited by a Snowman or Krampus, you will learn the identity of them and their role. However, they will also discover your identity. This ability can be used starting from the second night."
     AskPreacher:
-      - "Who do you want to pray for on this Christmas night?"
+    - "Who do you want to pray for on this Christmas night?"
     PreacherDone:
-      - "The citizen of the North Pole {0} you prayed for during the night has been visited by {1}. The role of {1}, who snuck in, is {2}."
+    - "The citizen of the North Pole {0} you prayed for during the night has been visited by {1}. The role of {1}, who snuck in, is {2}."
     PreacherFailed:
-      - "The citizen {0}, you prayed for last night has survived and is still full of christmas cheer. You didn't learn anyone's role today. You can continue praying the next night."
+    - "The citizen {0}, you prayed for last night has survived and is still full of christmas cheer. You didn't learn anyone's role today. You can continue praying the next night."
     OhNoPreacher:
-      - "Oh no... You visited the player the Christmas Watcher prayed for at night. Christmas Watcher {0} now knows who you are and what role you play in the North Pole!"
+    - "Oh no... You visited the player the Christmas Watcher prayed for at night. Christmas Watcher {0} now knows who you are and what role you play in the North Pole!"
   GraveDigger:
     GraveDigger:
-      - "Grave Digger ☠️"
+    - "Grave Digger ☠️"
     RoleInfoGraveDigger:
-      - "You are the Grave Digger ☠️. Each night, you dig graves for those who died since your last digging. You have a special one-time ability to use the talents of one dead player for one day. While you're out, wolves and the cult can't find you unless you got no graves to dig and stay home. Visitors might fall into your unfinished graves, with the chance increasing based on how many you've dug. Be careful not to be spotted by wolf or serial killer while you are out."
+    - "You are the Grave Digger ☠️. Each night, you dig graves for those who died since your last digging. You have a special one-time ability to use the talents of one dead player for one day. While you're out, wolves and the cult can't find you unless you got no graves to dig and stay home. Visitors might fall into your unfinished graves, with the chance increasing based on how many you've dug. Be careful not to be spotted by wolf or serial killer while you are out."
     AskGraveDigger:
-      - "Whose skills would you like to use for a day?"
+    - "Whose skills would you like to use for a day?"
     DigNoGraves:
-      - "The dead are buried, and the living are not. Everything is as it should be, and you can get a good night's sleep."
+    - "The dead are buried, and the living are not. Everything is as it should be, and you can get a good night's sleep."
     DigGraves:
-      - "Until late into the night, you dig the grave(s) for {0}. May their souls come to rest and their bodies lie in peace."
+    - "Until late into the night, you dig the grave(s) for {0}. May their souls come to rest and their bodies lie in peace."
     DefaultFellDigger:
-      - "After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice there is dried blood on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. How foolish of {1} visiting you..."
+    - "After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice there is dried blood on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. How foolish of {1} visiting you..."
     DefaultVisitDigger:
-      - "You head towards {0}'s house, just to find that they are not home. All you can see is a candle shining lonely on a grave..."
+    - "You head towards {0}'s house, just to find that they are not home. All you can see is a candle shining lonely on a grave..."
     WolfFellWolves:
-      - "The pack heads to the house of {0}, but on the way there, {1} suddenly steps into a bear trap, falls into an open grave and gets impaled by a silver spear!"
+    - "The pack heads to the house of {0}, but on the way there, {1} suddenly steps into a bear trap, falls into an open grave and gets impaled by a silver spear!"
     WolvesSpotted:
-      - "The packs runs across the graveyard, as they suddenly notice {0}, the grave digger. Before they can react, one of you jumps on their back and kills them with one bite."
+    - "The packs runs across the graveyard, as they suddenly notice {0}, the grave digger. Before they can react, one of you jumps on their back and kills them with one bite."
     WolvesSpottedYou:
-      - "You're just trying to do your job, when suddenly a wolf jumps onto you from behind and kills you!"
+    - "You're just trying to do your job, when suddenly a wolf jumps onto you from behind and kills you!"
     SerialKillerSpotted:
-      - "As you walk past the graveyard with your bloody knife, you notice {0}, the grave digger. Following your instinct, you decide there will be two victims for you today..."
+    - "As you walk past the graveyard with your bloody knife, you notice {0}, the grave digger. Following your instinct, you decide there will be two victims for you today..."
     SerialKillerSpottedYou:
-      - "You're just trying to do your job, when suddenly a crazy killer spots and stabs you! What a pity..."
+    - "You're just trying to do your job, when suddenly a crazy killer spots and stabs you! What a pity..."
     CultConvertGraveDigger:
-      - "On your way to {1}'s house, {0} suddenly decides that it would be a good idea to burn down the church as well. They lead you through the graveyard when suddenly a bear trap snaps around their ankle! All you can hear is their scream before they fall into a grave and you run for your lives."
+    - "On your way to {1}'s house, {0} suddenly decides that it would be a good idea to burn down the church as well. They lead you through the graveyard when suddenly a bear trap snaps around their ankle! All you can hear is their scream before they fall into a grave and you run for your lives."
     DefaultFell:
-      - "You should watch your step when you go to visit someone's house next time... You stepped into a bear trap, fell into an open grave, and got a silver spear right through your heart! What were you thinking coming to visit {0} like that? Serves you right, you little fool!"
+    - "You should watch your step when you go to visit someone's house next time... You stepped into a bear trap, fell into an open grave, and got a silver spear right through your heart! What were you thinking coming to visit {0} like that? Serves you right, you little fool!"
   Conjurer:
     Conjurer:
-      - "Chillbane \U0001F43A✨"
+    - "Chillbane 🐺✨"
     RoleInfoConjurer:
-      - "\U0001F43A✨ You are Chillbane [0% - \U0001F480(\U0001F3E0)], another snowman with a unique ability.\nWhen you unveil your hidden talent, the spirit of Christmas mischief takes over: instead of the citizen with the most votes meeting their fate, the one with the fewest votes will be the one to disappear into the winter wonderland!"
+    - "🐺✨ You are Chillbane [0% - 💀(🏠)], another snowman with a unique ability.\nWhen you unveil your hidden talent, the spirit of Christmas mischief takes over: instead of the citizen with the most votes meeting their fate, the one with the fewest votes will be the one to disappear into the winter wonderland!"
     AskConjurer:
-      - "Do you want to use your ability today?"
+    - "Do you want to use your ability today?"
     ConjurerChoice:
-      - "North pole citizens, Attention! The chillbane has used his skills today. Instead of the one with the most votes, THE PLAYER WITH THE LEAST VOTES WILL DIE!"
+    - "North pole citizens, Attention! The chillbane has used his skills today. Instead of the one with the most votes, THE PLAYER WITH THE LEAST VOTES WILL DIE!"
   Miner:
     Miner:
-      - "Olaf ⛏"
+    - "Olaf ⛏"
     RoleInfoMiner:
-      - "⛏ You are Olaf, a creation of snow and christmas magic.\nEvery night you can create an Ice-slide outside of the citizens' houses. Thanks to the slides you create, night visitors will slip on ice and go to a random house. You cannot form ice slides at  the same player's house two times in game."
+    - "⛏ You are Olaf, a creation of snow and christmas magic.\nEvery night you can create an Ice-slide outside of the citizens' houses. Thanks to the slides you create, night visitors will slip on ice and go to a random house. You cannot form ice slides at  the same player's house two times in game."
     AskMiner:
-      - "Where do you want to make an Ice-slide?"
+    - "Where do you want to make an Ice-slide?"
     MinerDone:
-      - "You have successfully built an Ice-slide outside {0}'s house. Now players with night action will slip on ice and land in a random house!"
+    - "You have successfully built an Ice-slide outside {0}'s house. Now players with night action will slip on ice and land in a random house!"
     MinerChanged:
-      - "You were on your way to {0}'s house, but suddenly, you slipped and fell into a tunnel dug by miner. While you try to realize what happened, you see you've appeared at {1}'s house."
+    - "You were on your way to {0}'s house, but suddenly, you slipped and fell into a tunnel dug by miner. While you try to realize what happened, you see you've appeared at {1}'s house."
   Pawn:
     Pawn:
-      - "Pawn ♟"
+    - "Pawn ♟"
     RoleInfoPawn:
-      - "♟ You are the Pawn. Every night you will choose someone to protect. If your target gets attacked, you will sacrifice yourself. If you try to protect a Wolf or Serial Killer, you will die." 
+    - "♟ You are the Pawn. Every night you will choose someone to protect. If your target gets attacked, you will sacrifice yourself. If you try to protect a Wolf or Serial Killer, you will die."
     AskPawn:
-      - "Who do you want to sacrifice yourself for?"
+    - "Who do you want to sacrifice yourself for?"
     PawnSaved:
-      - "You chose {0} to protect and your target was attacked. As an honorable soldier, you sacrificed yourself and died for your target's survival."
+    - "You chose {0} to protect and your target was attacked. As an honorable soldier, you sacrificed yourself and died for your target's survival."
     PawnSavedYou:
-      - "Last night, Pawn {0} chose to protect you and sacrificed themselves in the battle."
+    - "Last night, Pawn {0} chose to protect you and sacrificed themselves in the battle."
     PawnNoAttack:
-      - "{0} was not attacked, so you didn't do much of anything."
+    - "{0} was not attacked, so you didn't do much of anything."
     PawnWolf:
-      - "You chose to protect {0}, but he was a wolf and now you are dead."
+    - "You chose to protect {0}, but he was a wolf and now you are dead."
     PawnKiller:
-      - "You chose to protect {0}, but he was the Serial Killer and now you are dead."
+    - "You chose to protect {0}, but he was the Serial Killer and now you are dead."
     PawnEmptyHouse:
-      - "You chose to protect {0}, but he wasn't home."
+    - "You chose to protect {0}, but he wasn't home."
     PawnKilledCH:
-      - "Last night pawn {0} made a huge sacrifice, but guess he wanted to protect a cultist from dying :( Cultist Hunter killed him instead."
+    - "Last night pawn {0} made a huge sacrifice, but guess he wanted to protect a cultist from dying :( Cultist Hunter killed him instead."
     PawnGuardedKiller:
-      - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the serial killer, and the serial killer stabbed him 80 times."
+    - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the serial killer, and the serial killer stabbed him 80 times."
     PawnGuardedWolf:
-      - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the wolf, and pawn is now dead"
+    - "{0} was looking for someone to protect last night, but he chose the wrong person. He visited the wolf, and pawn is now dead"
     PawnBlockedWolf:
-      - "Last night you chose to attack {0} for a snack. But pawn was there and he chose to sacrifice himself instead."
+    - "Last night you chose to attack {0} for a snack. But pawn was there and he chose to sacrifice himself instead."
     PawnBlockedKiller:
-      - "Last night you chose to collect {0}'s liver for your collection. But pawn was there and he chose to sacrifice himself instead."
+    - "Last night you chose to collect {0}'s liver for your collection. But pawn was there and he chose to sacrifice himself instead."
     PawnBlockedCH:
-      - "You went to {0}'s house to hunt down cultists, but there was a pawn guarding there and he sacrificed himself instead."
+    - "You went to {0}'s house to hunt down cultists, but there was a pawn guarding there and he sacrificed himself instead."
   Soldier:
     Soldier:
-      - "Winter Soldier \U0001FA96"
+    - "Winter Soldier 🪖"
     RoleInfoSoldier:
-      - ""
+    - ""
     AskSoldier:
-      - "Who do you want to save during lynching time?"
+    - "Who do you want to save during lynching time?"
     AskSoldier2:
-      - "To whom do you want to direct the lynching vote?"
+    - "To whom do you want to direct the lynching vote?"
     SoldierChoice:
-      - "You chose {0} to save, and if he dies during the lynching phase, you can choose someone else."
+    - "You chose {0} to save, and if he dies during the lynching phase, you can choose someone else."
     SoldierDone:
-      - "The citizens of north pole successfully casted their votes in the lynching phase. {0} was selected to be lynched. However, there was winter soldier watching over {0} and he chose to direct the entire votes towards {1}. {2}"
+    - "The citizens of north pole successfully casted their votes in the lynching phase. {0} was selected to be lynched. However, there was winter soldier watching over {0} and he chose to direct the entire votes towards {1}. {2}"
   Rogue:
     Rogue:
-      - "Rogue Wolf \U0001F43A\U0001F9E7"
+    - "Rogue Wolf 🐺🧧"
     RoleInfoRogue:
-      - "You are the Rogue Wolf  \U0001F43A\U0001F9E7, known for your cunning and ability to disguise as another player. During the first night, you have the opportunity to select one player to impersonate. If you get checked or meet your demise, your role will be seen as your target's. If the player you rogued has any revealing ability, you can imitate that too, but be warned as it won't have any actual effect."
+    - "You are the Rogue Wolf  🐺🧧, known for your cunning and ability to disguise as another player. During the first night, you have the opportunity to select one player to impersonate. If you get checked or meet your demise, your role will be seen as your target's. If the player you rogued has any revealing ability, you can imitate that too, but be warned as it won't have any actual effect."
     AskRogue:
-      - "Who do you want to disguise as?"
+    - "Who do you want to disguise as?"
     AskRogue2:
-      - "Do you want to use your ability?"
+    - "Do you want to use your ability?"
     RogueSuccess:
-      - "You have chosen to imitate {0}. The role you are imitating is {1}!"
+    - "You have chosen to imitate {0}. The role you are imitating is {1}!"
   Executioner:
     Executioner:
-      - ""
+    - ""
     RoleInfoExecutioner:
-      - ""
+    - ""
     AskExecutioner:
-      - ""
+    - ""
     AskExecutionerLynch:
-      - ""
+    - ""
     ExecutionerLynch:
-      - ""
+    - ""
   Slave:
     Slave:
-      - "Slave \U0001F635‍\U0001F4AB"
+    - "Slave 😵‍💫"
     RoleInfoSlave:
-      - "\U0001F635‍\U0001F4AB You are the Slave. You don't side with any team in the village. Your sole purpose is to deliver the target given to you into the merciless hands of justice. Your target has disturbed the peace of the village and you must have them lynched. If your target dies for any reason other than lynching, you must despair and get yourself lynched. You win the game if your target is lynched."
+    - "😵‍💫 You are the Slave. You don't side with any team in the village. Your sole purpose is to deliver the target given to you into the merciless hands of justice. Your target has disturbed the peace of the village and you must have them lynched. If your target dies for any reason other than lynching, you must despair and get yourself lynched. You win the game if your target is lynched."
     SlaveLynched:
-      - "You successfully had {0} lynched. Your quest for justice in the village has ended, and you have achieved your goal. You fulfilled the task assigned to you and emerged victorious in this dark game."
+    - "You successfully had {0} lynched. Your quest for justice in the village has ended, and you have achieved your goal. You fulfilled the task assigned to you and emerged victorious in this dark game."
     SlaveTarget:
-      - "Your target: {0}. Complete this dark task by having your target lynched."
+    - "Your target: {0}. Complete this dark task by having your target lynched."
   Poseidon:
     Poseidon:
-      - "Poseidon \U0001F9DC"
+    - "Poseidon 🧜"
     RoleInfoPoseidon:
-      - "\U0001F9DC You are Poseidon, the dark spirit of the sea, intent on spreading chaos during the Christmas season. Once per game, you can unleash a ruthless tidal wave that will whisk away a random citizen from the nice list. The citizens will only know that a Christmas tidal wave is approaching, but your identity will remain a secret, buried in snow"
+    - "🧜 You are Poseidon, the dark spirit of the sea, intent on spreading chaos during the Christmas season. Once per game, you can unleash a ruthless tidal wave that will whisk away a random citizen from the nice list. The citizens will only know that a Christmas tidal wave is approaching, but your identity will remain a secret, buried in snow"
     AskPoseidon:
-      - "Will you unleash your Christmas tidal wave of chaos tonight?"
+    - "Will you unleash your Christmas tidal wave of chaos tonight?"
     PoseidonRevealInfo:
-      - "Attention, citizens of the North Pole! A menacing Christmas tidal wave is approaching the village! Poseidon, the dark spirit of the sea, has emerged from his shadowy palace beneath the waves. Brace yourselves, for when the tidal wave crashes down, one of you will be swept away into his frozen lair!"
+    - "Attention, citizens of the North Pole! A menacing Christmas tidal wave is approaching the village! Poseidon, the dark spirit of the sea, has emerged from his shadowy palace beneath the waves. Brace yourselves, for when the tidal wave crashes down, one of you will be swept away into his frozen lair!"
     PoseidonReveal:
-      - "Poseidon, the dark spirit of the seas, has come forth from his shadowy palace, unleashing a tidal wave of chaos upon the North Pole. The citizen scramble to escape, but {0} is engulfed by the dark waters and whisked away to Poseidon's icy domain.\n{1}"
+    - "Poseidon, the dark spirit of the seas, has come forth from his shadowy palace, unleashing a tidal wave of chaos upon the North Pole. The citizen scramble to escape, but {0} is engulfed by the dark waters and whisked away to Poseidon's icy domain.\n{1}"
   Snitch:
     Snitch:
-      - ""
+    - ""
     RoleInfoSnitch:
-      - ""   
+    - ""
     SnitchLynchSuccess:
-      - ""
+    - ""
     SnitchFinalSuccess:
-      - ""
+    - ""
     AskSnitch:
-      - ""
+    - ""
     SnitchNoChoice:
-      - ""
+    - ""
   Illusionist:
     Illusionist:
-      - ""
+    - ""
     RoleInfoIllusionist:
-      - ""
+    - ""
     AskIllusionist:
-      - ""
+    - ""
     IllusionistNoChoice:
-      - ""
+    - ""
     IllusionistKillTarget:
-      - ""
+    - ""
     IllusionistFakeTarget:
-      - ""
+    - ""
     IllusionistKillYou:
-      - ""
+    - ""
   KilledMessages:
     BlacksmithKilled:
-      - "Seems like {0}, The Weatherman ⚒ couldn’t have predicted this. His insides were found all over the freshly laid snow. Maybe Krampus didn’t like the forecast."
+    - "Seems like {0}, The Weatherman ⚒ couldn’t have predicted this. His insides were found all over the freshly laid snow. Maybe Krampus didn’t like the forecast."
     CultistKilled:
-      - "{0} was found laying down in the deep snow. Krampus has struck again! Guess it doesn’t care if you believe in Santa or not! {0} was a Non-Believer \U0001F464."
+    - "{0} was found laying down in the deep snow. Krampus has struck again! Guess it doesn’t care if you believe in Santa or not! {0} was a Non-Believer 👤."
     CupidKilled:
-      - "The next morning, the citizens of the North Pole were heartbroken to find {0}, the Love Reindeer \U0001F3F9, laying in the snow. Maybe Krampus has a thing for reindeer hearts..."
+    - "The next morning, the citizens of the North Pole were heartbroken to find {0}, the Love Reindeer 🏹, laying in the snow. Maybe Krampus has a thing for reindeer hearts..."
     DrunkKilled:
-      - "The citizens of the North Pole wander to the bar and find {0} cut up in pieces. All those years of drinking eggnog didn’t help him fight off Krampus."
+    - "The citizens of the North Pole wander to the bar and find {0} cut up in pieces. All those years of drinking eggnog didn’t help him fight off Krampus."
     GuardianAngelKilled:
-      - "{0} would normally easily fight off Krampus, but was too tired to defend themself properly. {0} is no longer alive."
+    - "{0} would normally easily fight off Krampus, but was too tired to defend themself properly. {0} is no longer alive."
     GunnerKilled:
-      - "Looks like {0} was sleeping on the job last night! The charging of the flamethrower was heard last night, but all that was left was the remains of Black Pete \U0001F52B, with some burnings at the head and a stab to the heart. Krampus has taken another victim."
+    - "Looks like {0} was sleeping on the job last night! The charging of the flamethrower was heard last night, but all that was left was the remains of Black Pete 🔫, with some burnings at the head and a stab to the heart. Krampus has taken another victim."
     MayorKilled:
-      - "It’s a sad day in the North Pole. {0}, Rudolph \U0001F396, the red-nosed reindeer, was found dead in his stable! Krampus clearly doesn’t care if Rudolphs red nose glows or not."
+    - "It’s a sad day in the North Pole. {0}, Rudolph 🎖, the red-nosed reindeer, was found dead in his stable! Krampus clearly doesn’t care if Rudolphs red nose glows or not."
     PrinceKilled:
-      - "Grýla \U0001F451! {0} was found slained in his manger! Clearly Krampus doesn’t care about the lives of innocent babies either."
-      - "{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade."
+    - "Grýla 👑! {0} was found slained in his manger! Clearly Krampus doesn’t care about the lives of innocent babies either."
+    - "{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade."
     SeerKilled:
-      - "The citizens of the North Pole wake up to see a red and white suit with blood all over it! {0} had stabs all over his holly jolly belly. Krampus has struck again. {0} was the Santa Claus \U0001F473."
+    - "The citizens of the North Pole wake up to see a red and white suit with blood all over it! {0} had stabs all over his holly jolly belly. Krampus has struck again. {0} was the Santa Claus 👳."
     PawnKilled:
-      - "This night was expected to be quiet, but the villagers discovered {0} in the town square, missing several organs. It seems the killer was displeased with the pawn's efforts to protect {1}! In a tragic turn of events, {0}, who tried to protect {1}, became the victim of the serial killer. {2}"
+    - "This night was expected to be quiet, but the villagers discovered {0} in the town square, missing several organs. It seems the killer was displeased with the pawn's efforts to protect {1}! In a tragic turn of events, {0}, who tried to protect {1}, became the victim of the serial killer. {2}"
     DefaultKilled:
-      - "It seemed a quiet enough night for {0}, but they were wrong.  The citizens of the North Pole gather in the morning to find {0} split from head to toe, but oddly the liver was missing...  Krampus \U0001F52A has struck again! {1}"
+    - "It seemed a quiet enough night for {0}, but they were wrong.  The citizens of the North Pole gather in the morning to find {0} split from head to toe, but oddly the liver was missing...  Krampus 🔪 has struck again! {1}"
   EatenMessages:
     ApprenticeSeerEaten:
-      - "The people of the North Pole awake to find {0} frozen in. Santa’s Little Helper \U0001F647 is dead."
+    - "The people of the North Pole awake to find {0} frozen in. Santa’s Little Helper 🙇 is dead."
     SorcererEaten:
-      - "A large blizzard comes through the North Pole and the citizens see that a mistake has been made. The Snowmen have frozen one of their own. Old Man Winter \U0001F52E {0} is dead."
-      - "'I'm on Frost’s side!' was heard last night. All the villagers found next morning were an old body and smashed snow globe, belonging to {0}, Old Man Winter \U0001F52E. He was frozen by one of his friends, and lies cold in the snow."
+    - "A large blizzard comes through the North Pole and the citizens see that a mistake has been made. The Snowmen have frozen one of their own. Old Man Winter 🔮 {0} is dead."
+    - "'I'm on Frost’s side!' was heard last night. All the villagers found next morning were an old body and smashed snow globe, belonging to {0}, Old Man Winter 🔮. He was frozen by one of his friends, and lies cold in the snow."
     WildChildEaten:
-      - "Oh no! Blitzen \U0001F476 was wandering around in the woods of the North Pole and stumbled upon a Snowman. He may have wanted a snack and ate the Snowman’s nose! The Snowmen did not like this and froze {0}, leaving only a reindeer icicle."
+    - "Oh no! Blitzen 👶 was wandering around in the woods of the North Pole and stumbled upon a Snowman. He may have wanted a snack and ate the Snowman’s nose! The Snowmen did not like this and froze {0}, leaving only a reindeer icicle."
     PawnEaten:
-      - "Last Night, {0} made the ultimate sacrifice, willingly offering themselves to protect {1} in the ongoing battle against the werewolves. Their selfless act, a beacon of courage, leaves an indelible mark on the village. May the village find solace in the courage shown by {0}, the Pawn who became a legend in the village. {2}"
+    - "Last Night, {0} made the ultimate sacrifice, willingly offering themselves to protect {1} in the ongoing battle against the werewolves. Their selfless act, a beacon of courage, leaves an indelible mark on the village. May the village find solace in the courage shown by {0}, the Pawn who became a legend in the village. {2}"
     DetectiveEaten:
-      - "The citizens of the North Pole gather in the morning, but they don't see {0}.  They wander over to the house, to find {0} frozen, a stocking shoved down their throat. Santa's Spy \U0001F575 is dead."
+    - "The citizens of the North Pole gather in the morning, but they don't see {0}.  They wander over to the house, to find {0} frozen, a stocking shoved down their throat. Santa's Spy 🕵 is dead."
     GuardianEaten:
-      - "Morning comes, and to everyone's dismay, impaled on top of the church's cross is {0}, the Guardian Angel \U0001F47C."
+    - "Morning comes, and to everyone's dismay, impaled on top of the church's cross is {0}, the Guardian Angel 👼."
     GunnerEaten:
-      - "When everyone comes out of their cabins in the morning, they find pieces of Black Pete's ({0}) icey body \U0001F52B strewn about, frozen and smashed up by an attack of the evil Snowmen.  You have lost Black Pete \U0001F52B."
+    - "When everyone comes out of their cabins in the morning, they find pieces of Black Pete's ({0}) icey body 🔫 strewn about, frozen and smashed up by an attack of the evil Snowmen.  You have lost Black Pete 🔫."
     SeerEaten:
-      - "The citizens of the North Pole awake in the morning, to find the disemboweled remains of {0} in the snow.  Santa Claus \U0001F473 is dead."
+    - "The citizens of the North Pole awake in the morning, to find the disemboweled remains of {0} in the snow.  Santa Claus 👳 is dead."
     DrunkEaten:
-      - "Everyone wakes up and recognizes the smell of eggnog...the cabin of Frank Claus \U0001F37B is frozen!  After the cabin has been freed from the ice, you find {0} dead inside it."
+    - "Everyone wakes up and recognizes the smell of eggnog...the cabin of Frank Claus 🍻 is frozen!  After the cabin has been freed from the ice, you find {0} dead inside it."
     FoolEaten:
-      - "As the sun rises above the North Pole, the citizens find {0} frozen in the snow with presents around him. But wait, those aren't actually the presents for the people out there. They are all empty inside. The Mall Santa \U0001F0CF has died."
+    - "As the sun rises above the North Pole, the citizens find {0} frozen in the snow with presents around him. But wait, those aren't actually the presents for the people out there. They are all empty inside. The Mall Santa 🃏 has died."
     DefaultEaten:
-      - "As everyone rises in the morning, they don't hear anything from {0}.  They are searching for {0} and are soon finding his body frozen in the snow. \n{1}"
+    - "As everyone rises in the morning, they don't hear anything from {0}.  They are searching for {0} and are soon finding his body frozen in the snow. \n{1}"
     HarlotEaten:
-      - "Mary Claus \U0001F48B chose the wrong night to stay home. {0} has been frozen to death by the evil Snowmen!"
+    - "Mary Claus 💋 chose the wrong night to stay home. {0} has been frozen to death by the evil Snowmen!"
     MasonEaten:
-      - "As everyone rises, they find the body of {0} laying frozen in the deep snow.  One of your Gingerbread Men \U0001F477 has died!"
+    - "As everyone rises, they find the body of {0} laying frozen in the deep snow.  One of your Gingerbread Men 👷 has died!"
   WinMessages:
     WolfWins:
-      - "The Snowman has won and successfully stopped Christmas!"
+    - "The Snowman has won and successfully stopped Christmas!"
     WolvesWin:
-      - "The Snowmen has won and successfully stopped Christmas!"
+    - "The Snowmen has won and successfully stopped Christmas!"
     VillageWins:
-      - "The citizens of the North Pole have won!"
+    - "The citizens of the North Pole have won!"
     TannerWins:
-      - "Oh no! You burnt the Grinch \U0001F47A! The Grinch wins the game, stupid."
+    - "Oh no! You burnt the Grinch 👺! The Grinch wins the game, stupid."
     CultWins:
-      - "All Snowmen and Krampus died, and citizens left standing have all been converted to Non-Believers...  The Non-Believers \U0001F464 won and destroyed the faith in Christmas completely!"
+    - "All Snowmen and Krampus died, and citizens left standing have all been converted to Non-Believers...  The Non-Believers 👤 won and destroyed the faith in Christmas completely!"
     SerialKillerWins:
-      - "The only person left standing is Krampus \U0001F52A! They have won!"
+    - "The only person left standing is Krampus 🔪! They have won!"
     NoWinner:
-      - "Everyone in the North Pole is dead. Christmas is cancelled this year."
+    - "Everyone in the North Pole is dead. Christmas is cancelled this year."
     ArsonistWins:
-      - "The only one left is the Naughty Kid \U0001F525, standing on a pile of ashes. The Naughty Kid \U0001F525 wins..."
+    - "The only one left is the Naughty Kid 🔥, standing on a pile of ashes. The Naughty Kid 🔥 wins..."
     LoversWin:
-      - "True love endures! The lovers have won!"
+    - "True love endures! The lovers have won!"
     SerialKillerWinsOverpower:
-      - "It is morning of December the 25th. The last two people in the North Pole walk out to the center of town. {0} takes a look at {1}, laughs his evil laugh, pulls out a knife, and takes {1} out."
+    - "It is morning of December the 25th. The last two people in the North Pole walk out to the center of town. {0} takes a look at {1}, laughs his evil laugh, pulls out a knife, and takes {1} out."
   GroupConfig:
     ThankYou:
-      - "Thank you for using me, have a good Christmas and enjoy your hot chocolate with marshmallows \U0001F642"
+    - "Thank you for using me, have a good Christmas and enjoy your hot chocolate with marshmallows 🙂"
     RoleConfig:
-      - Role Configuration
+    - Role Configuration
     Mechanics:
-      - Game Mechanics
+    - Game Mechanics
     GroupSettings:
-      - Group Settings
+    - Group Settings
     Timers:
-      - Game Timers
+    - Game Timers
     WhatToDo:
-      - "What would you like to do?"
+    - "What would you like to do?"
     EnableSecretLynch:
     - "Enable Secret Lynch"
     EnableSecretLynchA:
-      - "Enabling of secret Lynch set to: {0}"
+    - "Enabling of secret Lynch set to: {0}"
     EnableSecretLynchQ:
-      - "Enable Secret Lynch?\nCurrent: {0}"
+    - "Enable Secret Lynch?\nCurrent: {0}"
     RandomMode:
-      - "Enable Random Mode"
+    - "Enable Random Mode"
     RandomModeA:
-      - "Enabling of random mode set to: {0}"
+    - "Enabling of random mode set to: {0}"
     RandomModeQ:
-      - "Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}"
+    - "Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}"
     AllowExtend:
-      - "Allow Extending Timer"
+    - "Allow Extending Timer"
     AllowExtendQ:
-      - "Allow players to extend join time?\nCurrent: {0} extending\nNote: Admins will always be able to extend"
+    - "Allow players to extend join time?\nCurrent: {0} extending\nNote: Admins will always be able to extend"
     AllowExtendA:
-      - "{0} players to extend join time"
+    - "{0} players to extend join time"
     AllowFlee:
-      - "Allow Fleeing"
+    - "Allow Fleeing"
     AllowFleeQ:
-      - "Do you want to allow fleeing once the game has started?\nNote: players can still flee during join phase\nCurrent: {0} fleeing"
+    - "Do you want to allow fleeing once the game has started?\nNote: players can still flee during join phase\nCurrent: {0} fleeing"
     AllowFleeA:
-      - "{0} fleeing after game start"
+    - "{0} fleeing after game start"
     ShowIDs:
     - "Show IDs on joining"
     ShowIDsQ:
-      - "Show IDs of players while they join the game?\nCurrent: {0}"
+    - "Show IDs of players while they join the game?\nCurrent: {0}"
     ShowIDsA:
-      - "{0} IDs"
+    - "{0} IDs"
     ThiefFull:
-      - "Arctic Fox Full Game"
+    - "Arctic Fox Full Game"
     ThiefFullA:
-      - "Arctic Fox will play every night: {0}"
+    - "Arctic Fox will play every night: {0}"
     ThiefFullQ:
-      - "Arctic Fox can be used every night?\nCurrent: {0}"
+    - "Arctic Fox can be used every night?\nCurrent: {0}"
     SecretLynchShowVotes:
-      - "Secret: Votes Count"
+    - "Secret: Votes Count"
     SecretLynchShowVotesQ:
-      - "When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}"
+    - "When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}"
     SecretLynchShowVotesA:
-      - "When secret lynch is turned on, the vote count at the end of the lynch will: {0}"
+    - "When secret lynch is turned on, the vote count at the end of the lynch will: {0}"
     SecretLynchShowVoters:
-      - "Secret: Voters"
+    - "Secret: Voters"
     SecretLynchShowVotersA:
-      - "When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}"
+    - "When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}"
     SecretLynchShowVotersQ:
-      - "When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}"
+    - "When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}"
     PinChatMessage:
-      - "Pin Game Messages"
+    - "Pin Game Messages"
     PinChatMessageQ:
-      - "Automatically Pin Game Messages? Default: {0}"
+    - "Automatically Pin Game Messages? Default: {0}"
     PinChatMessageA:
-      - "Pinning Messages Set {0}."
+    - "Pinning Messages Set {0}."
     ShowRolesDeath:
-      - Show Roles on Death
+    - Show Roles on Death
     ShowRolesDeathQ:
-      - "Show or Hide roles on death?\n\nCurrent: {0}"
+    - "Show or Hide roles on death?\n\nCurrent: {0}"
     ShowRolesDeathA:
-      - "Roles will be {0} on death"
+    - "Roles will be {0} on death"
     WelcomeMessage:
-      - "Welcome Messages"
+    - "Welcome Messages"
     WelcomeMessageQ:
-      - "Show welcome messages? Default: {0}"
+    - "Show welcome messages? Default: {0}"
     WelcomeMessageA:
-      - "Welcome Messages Set {0}."
+    - "Welcome Messages Set {0}."
     PMMessage:
-      - "Team Chat"
+    - "Team Chat"
     PMMessageQ:
-      - "Can teams message each other via PM? Default: {0}"
+    - "Can teams message each other via PM? Default: {0}"
     PMMessageA:
-      - "Team Chat Set {0}."
+    - "Team Chat Set {0}."
     RoleCards:
-      - "Role Cards"
+    - "Role Cards"
     RoleCardsQ:
-      - "Show Role Cards? Default: {0}"
+    - "Show Role Cards? Default: {0}"
     RoleCardsA:
-      - "Role Cards Set {0}."
+    - "Role Cards Set {0}."
     MaxExtend:
-      - Set Max Extend Time
+    - Set Max Extend Time
     MaxExtendQ:
-      - "Choose maximum number of seconds which can be added to joining timer by a single /extend command.\r\nDefault setting: {0}\r\nCurrent:{1}"
+    - "Choose maximum number of seconds which can be added to joining timer by a single /extend command.\r\nDefault setting: {0}\r\nCurrent:{1}"
     MaxExtendA:
-      - "Maximum extending time set to {0} seconds"
+    - "Maximum extending time set to {0} seconds"
     DisableGModes:
-      - Disable Game Mode
+    - Disable Game Mode
     DisableGModesInfo:
-      - "Which game modes would you like to enable in the group?"
+    - "Which game modes would you like to enable in the group?"
     MuteModes:
-      - Mute Settings
+    - Mute Settings
     MuteModesInfo:
-      - "In which game mode do you want to disable muting dead players?"
+    - "In which game mode do you want to disable muting dead players?"
     Lang:
-      - "Change Language"
+    - "Change Language"
     DayTimer:
-      - Set Day Timer
+    - Set Day Timer
     SetDayTimeA:
-      - "Base day time set to {0} seconds"
+    - "Base day time set to {0} seconds"
     SetDayTimeQ:
-      - "Choose the base time (in seconds) for day time. This will still be modified based on number of players.\nDefault setting: {0}\nCurrent: {1}"
+    - "Choose the base time (in seconds) for day time. This will still be modified based on number of players.\nDefault setting: {0}\nCurrent: {1}"
     NightTimer:
-      - Set Night Timer
+    - Set Night Timer
     SetNightTimeQ:
-      - "Choose the time (in seconds) for night time. Default setting: {0}\nCurrent:{1}"
+    - "Choose the time (in seconds) for night time. Default setting: {0}\nCurrent:{1}"
     SetNightTimeA:
-      - "Night time set to {0} seconds"
+    - "Night time set to {0} seconds"
     LynchTimer:
-      - Set Lynch Timer
+    - Set Lynch Timer
     SetLynchTimeQ:
-      - "Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}"
+    - "Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}"
     SetLynchTimeA:
-      - "Lynch voting time set to {0} seconds"
+    - "Lynch voting time set to {0} seconds"
     MaxPlayer:
-      - "Set Max Players"
+    - "Set Max Players"
     MaxPlayersQ:
-      - "How many players would like to set as the maximum?\nCurrent: {0}"
+    - "How many players would like to set as the maximum?\nCurrent: {0}"
     MaxPlayersA:
-      - "Max players set to {0}"
+    - "Max players set to {0}"
     RoleConfigInfo:
-      - "Which roles would you like to use in the game?\nConfiguration Tutorial:\n\n✅ = Role enabled\n❌ = Role disabled\n\nAfter selecting the roles, you need to use the VALIDATE button in the bottom left corner to validate and enable your role selection! If you don't validate your selection, it will be ignored and all roles will be used!\n\nIf the validation succeeded, the bottom left button says ✅ Valid ✅ and your role configuration will be used!"
+    - "Which roles would you like to use in the game?\nConfiguration Tutorial:\n\n✅ = Role enabled\n❌ = Role disabled\n\nAfter selecting the roles, you need to use the VALIDATE button in the bottom left corner to validate and enable your role selection! If you don't validate your selection, it will be ignored and all roles will be used!\n\nIf the validation succeeded, the bottom left button says ✅ Valid ✅ and your role configuration will be used!"
     Validate:
-      - Validate
+    - Validate
     WhatLang:
-      - "What Language?\nCurrent: {0}"
+    - "What Language?\nCurrent: {0}"
     WhatVariant:
-      - "What Variant?\nCurrent: {0}"
+    - "What Variant?\nCurrent: {0}"
     LangSet:
-      - "Language set to {0}"
+    - "Language set to {0}"
     Allow:
     - "Allow"
     Disallow:
-      - "Disallow"
+    - "Disallow"
     Show:
-      - "Show"
+    - "Show"
     Hide:
-      - "Hide"
+    - "Hide"
   SocialCommand:
     MostPlayedWith:
-      - "\U0001F3AE Most played with"
+    - "🎮 Most played with"
     Killed:
-      - "\U0001F52A Kills"
+    - "🔪 Kills"
     KilledBy:
-      - "☠️ Killed by"
+    - "☠️ Killed by"
     DeathType:
-      - "\U0001F4CA Death type"
+    - "📊 Death type"
     SocialStats:
-      - "What social statistical information do you want to see?"
+    - "What social statistical information do you want to see?"
   SetLinkCommand:
     SetLinkSuccess:
-      - "Link Successfully Set: {0}"
+    - "Link Successfully Set: {0}"
     SetLinkFailed:
-      - "You must use the /setlink command with the group invite link."
+    - "You must use the /setlink command with the group invite link."
     SetLinkError:
-      - "This is an invalid telegram invite link."
+    - "This is an invalid telegram invite link."
     SetLinkDelete:
-      - "Your group's link has been successfully deleted."
+    - "Your group's link has been successfully deleted."
   RepCommand:
     RepCommandSuccess:
-      - "Bug successfully sent to developers. After review, necessary corrections will be made. Thank you."
+    - "Bug successfully sent to developers. After review, necessary corrections will be made. Thank you."
     ErrorRepCommand:
-      - "Please reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
+    - "Please reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
     EmptyReason:
-      - "Please write the description of the error, next to the command. Example usage: /rep error player cannot be lynched"
+    - "Please write the description of the error, next to the command. Example usage: /rep error player cannot be lynched"
   Ping:
     PingInfo:
-      - "Time to receive ping message: {0}\nMessages per second: {1}"
+    - "Time to receive ping message: {0}\nMessages per second: {1}"
     Ping2:
-      - "Time to send ping message: {0}"
+    - "Time to send ping message: {0}"
   ModeInfo:
     LoveInfo:
-      - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, \U0001F3F9, \U0001F63E, \U0001F595, \U0001F476, and \U0001F9D1‍⚕️ roles are disabled."
+    - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, 🏹, 😾, 🖕, 👶, and 🧑‍⚕️ roles are disabled."
     NormalInfo:
-      - "In Normal mode, there are no points, and all roles are visible. The game ensures a balanced distribution between baddies and villagers, creating a fair and even challenge for all players."
+    - "In Normal mode, there are no points, and all roles are visible. The game ensures a balanced distribution between baddies and villagers, creating a fair and even challenge for all players."
     RankedInfo:
-      - "In Ranked mode, players are awarded points based on their performance and role effectiveness. The game ensures balanced role distribution for fair play. At the end of a game with 10 or more players, some participants receive mint rewards, which can be used to purchase roles or emojis. Use the /topscore command to check your global ranking."
+    - "In Ranked mode, players are awarded points based on their performance and role effectiveness. The game ensures balanced role distribution for fair play. At the end of a game with 10 or more players, some participants receive mint rewards, which can be used to purchase roles or emojis. Use the /topscore command to check your global ranking."
     ChaosInfo:
-      - "In Chaos mode, there is no balance, roles are assigned completely at random. This means that either the villains or the villagers could end up with significant power. Prepare for an unpredictable and chaotic game where anything can happen!"
+    - "In Chaos mode, there is no balance, roles are assigned completely at random. This means that either the villains or the villagers could end up with significant power. Prepare for an unpredictable and chaotic game where anything can happen!"
     CustomInfo:
-      - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics."
+    - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics."
     ModeInfo:
-      - "To learn more about the current game mode, click /modeinfo.\n\nGame Mode: {0}"
+    - "To learn more about the current game mode, click /modeinfo.\n\nGame Mode: {0}"
     BonusModeActivated:
-      - "More players, more points! Join the game, and watch rewards get doubled. Boost your rank fast! \U0001F680"
+    - "More players, more points! Join the game, and watch rewards get doubled. Boost your rank fast! 🚀"
     RankedMode:
-      - Ranked
+    - Ranked
     LoveMode:
-      - Love
+    - Love
     CustomMode:
-      - Custom
+    - Custom
     NormalMode:
-      - Normal
+    - Normal
     ChaosMode:
-      - Chaos
+    - Chaos
   RoleList:
     HelpRoleList:
-      - "Here are the roles of Wolf Blood:\n\nWolf Blood has a total of {2} roles.\nThere are {0} classic roles and {1} wb special roles."
+    - "Here are the roles of Wolf Blood:\n\nWolf Blood has a total of {2} roles.\nThere are {0} classic roles and {1} wb special roles."
     VG:
-      - Village Team 🧑‍🌾
+    - Village Team 🧑‍🌾
     Baddie:
-      - Wolf Team 🐺
+    - Wolf Team 🐺
     Solo:
-      - Solo Team 👣
+    - Solo Team 👣
     AboutVGTeam:
-      - "Team Village\n\nThe innocent townspeople who are working together to identify and eliminate the killers hiding among them. They must use their deductive reasoning and strategic thinking to figure out who the killers are before they become victims of their deadly attacks.\n\nRivals : Werewolves , Serial Killer, Arsonist, Cultists"
+    - "Team Village\n\nThe innocent townspeople who are working together to identify and eliminate the killers hiding among them. They must use their deductive reasoning and strategic thinking to figure out who the killers are before they become victims of their deadly attacks.\n\nRivals : Werewolves , Serial Killer, Arsonist, Cultists"
     AboutBaddieTeam:
-      - "Team Werewolf\n\nA group of villagers who got attacked by a pack of feral wolves on a magical night under the full moon, but miraculously escaped death. They experienced a strange transformation in their bodies, and from that moment on, they turned into werewolves at night, hunting unsuspecting villagers while pretending to be innocent members of the community during the day.\n\nRivals : Serial Killer, Arsonist, Cultists"
+    - "Team Werewolf\n\nA group of villagers who got attacked by a pack of feral wolves on a magical night under the full moon, but miraculously escaped death. They experienced a strange transformation in their bodies, and from that moment on, they turned into werewolves at night, hunting unsuspecting villagers while pretending to be innocent members of the community during the day.\n\nRivals : Serial Killer, Arsonist, Cultists"
     AboutSoloTeam:
-      - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
+    - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
   Requirements:
     MemberCount:
-      - ""
+    - ""
     RestrictPermission:
-      - ""
+    - ""
     GameCount:
-      - ""
+    - ""
     GroupUnderReview:
-      - ""
+    - ""
     GroupApprovedButNotReady:
-      - ""
+    - ""
     GroupRejected:
-      - ""
+    - ""
     GroupApprovedNotification:
-      - ""
+    - ""
     RequestSent:
-      - ""    
+    - ""
   EndMessages:
     SKHunterEnd:
-      - "As the sun rises over the snowy hills, {0} and {1} walk out into the middle of town. {0} pulls out their knife, and jumps at {1}. {1} pulls out a gun and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead. The North Pole is silent. Not a creature in sight. No one wins this Winter. What a bad ending :("
+    - "As the sun rises over the snowy hills, {0} and {1} walk out into the middle of town. {0} pulls out their knife, and jumps at {1}. {1} pulls out a gun and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead. The North Pole is silent. Not a creature in sight. No one wins this Winter. What a bad ending :("
     HunterKillsWolfEnd:
-      - "{1} tried to freeze {0} in vain, but {1} had to find out that he has no chance against the power of {0}. The last remaining Snowman has been melted and Christmas got saved. The delivery of the Christmas presents is now no longer in danger."
+    - "{1} tried to freeze {0} in vain, but {1} had to find out that he has no chance against the power of {0}. The last remaining Snowman has been melted and Christmas got saved. The delivery of the Christmas presents is now no longer in danger."
     WolfKillsHunterEnd:
-      - "As {0}, the last remaining citizen of the North Pole, tried to keep the delivery of the Christmas presents ongoing, {1}, a Snowman, suddenly came around the corner and froze them. The cruel Snowmen successfully destroyed Christmas."
+    - "As {0}, the last remaining citizen of the North Pole, tried to keep the delivery of the Christmas presents ongoing, {1}, a Snowman, suddenly came around the corner and froze them. The cruel Snowmen successfully destroyed Christmas."
     CHKillsCultistEnd:
-      - "{1} and {0} go out in daylight. As {1} sees how {0} secretly tries to destroy the Christmas presents for all people all over the world, they pull him away and let {0} watch as the faith on Christmas never can be destroyed. Again {1} has shown that the Christmas will always exist. Christmas got saved!"
+    - "{1} and {0} go out in daylight. As {1} sees how {0} secretly tries to destroy the Christmas presents for all people all over the world, they pull him away and let {0} watch as the faith on Christmas never can be destroyed. Again {1} has shown that the Christmas will always exist. Christmas got saved!"
     TannerEnd:
-      - "As the sun rises on the North Pole, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the North Pole. Looking at the sight of the corpses strewn all across the North Pole, {0} sighs. Their lifelong dream of being chosen to be lynched by the citizens of the North Pole is as dead as the citizens themself are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face."
-      - "{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left."
+    - "As the sun rises on the North Pole, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the North Pole. Looking at the sight of the corpses strewn all across the North Pole, {0} sighs. Their lifelong dream of being chosen to be lynched by the citizens of the North Pole is as dead as the citizens themself are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face."
+    - "{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left."
     SorcererEnd:
-      - "{0} opens their eyes, but instead of hearing the usual bustle of the North Pole, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The Snowmen were melted away. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the North Pole. A tear slips from their eye, as {0} recalls how close they and their Snowmen were to victory. Lastly, it is time to start a new life, with a new pack now. {0} slips into the darkness of the forest, leaving the North Pole forever behind."
-      - "For all of {0}'s efforts, {0}'s Snowman friends lay motionless and lifeless in the deep snow. Even if the Snowmen have been brought victory, there is no one to savour the success with, neither are there any living citizens to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new Snowmen, new allies, and new treachery to commit new crimes against the humanity and their faith in christmas."
+    - "{0} opens their eyes, but instead of hearing the usual bustle of the North Pole, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The Snowmen were melted away. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the North Pole. A tear slips from their eye, as {0} recalls how close they and their Snowmen were to victory. Lastly, it is time to start a new life, with a new pack now. {0} slips into the darkness of the forest, leaving the North Pole forever behind."
+    - "For all of {0}'s efforts, {0}'s Snowman friends lay motionless and lifeless in the deep snow. Even if the Snowmen have been brought victory, there is no one to savour the success with, neither are there any living citizens to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new Snowmen, new allies, and new treachery to commit new crimes against the humanity and their faith in christmas."
     DoppelgangerEnd:
-      - "Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!"
+    - "Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!"
     ThiefEnd:
-      - "As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career."
+    - "As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career."
   RankedTable:
-    RoleTable: 
-      - ""
+    RoleTable:
+    - ""
     PointTable:
-      - ""
+    - ""
     PenaltyTable:
-      - ""
+    - ""
     BonusModeTable:
-      - ""
+    - ""
     TotalTable:
-      - ""
-    ResultTable: 
-      - ""
+    - ""
+    ResultTable:
+    - ""
     WonGame:
-      - ""
+    - ""
     LostGame:
-      - ""
+    - ""
     Loots:
-      - "Loots!"
+    - "Loots!"
   Stats:
     AchievementsUnlocked:
-      - "Achievement Unlocked"
+    - "Achievement Unlocked"
     Score:
-      - "Point"
+    - "Point"
     GamesWon:
-      - "Games Won"
+    - "Games Won"
     GamesLost:
-      - "Games Lost"
+    - "Games Lost"
     GamesSurvived:
-      - "Games Survived"
+    - "Games Survived"
     TotalGames:
-      - "Total Games"
+    - "Total Games"
     TimesKilled:
-      - "Most Killed"
+    - "Most Killed"
     TimesKilledBy:
-      - "Most Killed By"
+    - "Most Killed By"
     Afk:
-      - "AFK Deaths"
+    - "AFK Deaths"
   TimeMessages:
     LynchTime:
-      - "Dusk draws near, and all citizens of the North Pole are coming together to decide who they are burning this evening...Everyone now has {0} seconds to vote!"
+    - "Dusk draws near, and all citizens of the North Pole are coming together to decide who they are burning this evening...Everyone now has {0} seconds to vote!"
     DayTime:
-      - "Another ice-cold night is over. You wake up and warm up next to your fireplaces. You have {0} seconds to get ready in time for today's work."
+    - "Another ice-cold night is over. You wake up and warm up next to your fireplaces. You have {0} seconds to get ready in time for today's work."
     NightTime:
-      - "Another stressful night at the North Pole is heading in. The work is over for today, but the next day is already coming soon. Get yourself some rest to be ready for the next hard day.  The night active roles are preparing to choose their victims today, they have {0} seconds for it."
+    - "Another stressful night at the North Pole is heading in. The work is over for today, but the next day is already coming soon. Get yourself some rest to be ready for the next hard day.  The night active roles are preparing to choose their victims today, they have {0} seconds for it."
   CustomMode:
     CustomRoleInvalid:
-      - The following roles are invalid. Please rewrite the roles below and then restart the game. You can use emoji or role names.
+    - The following roles are invalid. Please rewrite the roles below and then restart the game. You can use emoji or role names.
     CustomFirstRole:
-      - "One of the first 4 roles must be a wolf team, tanner, cultist, arsonist, or serial killer. Please make sure these roles are included among the first roles added."
+    - "One of the first 4 roles must be a wolf team, tanner, cultist, arsonist, or serial killer. Please make sure these roles are included among the first roles added."
     CustomMinimumRole:
-      - You need a minimum of 4 roles to start the game.
+    - You need a minimum of 4 roles to start the game.
     CustomMaxRole:
-      - You cannot start the game with more than 100 roles. Please delete some roles and try again.
+    - You cannot start the game with more than 100 roles. Please delete some roles and try again.
     CustomNoRole:
-      - Please add roles before starting the game.
+    - Please add roles before starting the game.
   BanMessages:
     GroupBan:
-      - "You have been banned from joining the game."
+    - "You have been banned from joining the game."
     GlobalBan:
-      - "You are globally banned from using the bot."
+    - "You are globally banned from using the bot."
     BanReason:
-     - "Reason: {0}"
+    - "Reason: {0}"
     BanExpire:
-      - "Expiration: {0}"
+    - "Expiration: {0}"
     GroupBanPlayer:
-      - "You can't join the game because you have been banned by the admins of the {0} group."
+    - "You can't join the game because you have been banned by the admins of the {0} group."
     Year:
-      - "Year"
+    - "Year"
     Day:
-      - "Day"
+    - "Day"
     Minutes:
-      - "Minute"
+    - "Minute"
     Hours:
-      - "Hour"
+    - "Hour"
     Seconds:
-      - "Second"
+    - "Second"
   TeamsMessages:
     MyTeam:
-      - "\U0001F465 Team Information\n\nYou are a member of the team {0}\n\nTo leave this team, use the /leaveteam command.\nLet's work together and achieve greatness! \U0001F680\U0001F3C6"
+    - "👥 Team Information\n\nYou are a member of the team {0}\n\nTo leave this team, use the /leaveteam command.\nLet's work together and achieve greatness! 🚀🏆"
     NothingTeam:
-      - "You are not currently a member of any team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
+    - "You are not currently a member of any team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
     JoinTeam:
-      - "\U0001F389 Congratulations! \U0001F389\nYou have successfully joined the team {0}.\nLet's play together and dominate the game! \U0001F680\U0001F3AE"
+    - "🎉 Congratulations! 🎉\nYou have successfully joined the team {0}.\nLet's play together and dominate the game! 🚀🎮"
     AlreadyTeam:
-      - "ℹ️ Information: You are already a member of the team {0}. Keep up the good work and let's achieve victory together! \U0001F389\U0001F680"
+    - "ℹ️ Information: You are already a member of the team {0}. Keep up the good work and let's achieve victory together! 🎉🚀"
     LeaveTeam:
-      - "\U0001F44B You have successfully left the team {0}.\nIf you ever want to rejoin the team, you can use the /jointeam command.\nWe look forward to having you back! \U0001F31F"
+    - "👋 You have successfully left the team {0}.\nIf you ever want to rejoin the team, you can use the /jointeam command.\nWe look forward to having you back! 🌟"
   NotAdmin:
     GroupAdminOnly:
-      - "Only a real Santa Claus can run this command."
+    - "Only a real Santa Claus can run this command."
     NotGlobalAdmin:
-      - "You aren't a global admin..."
+    - "You aren't a global admin..."
     NotKadir:
-      - "You aren't Kadir!"
+    - "You aren't Kadir!"
     GroupCommandOnly:
-      - "You must run this command in a group"
+    - "You must run this command in a group"
   NextGame:
     DeletedFromWaitList:
-      - "You decided not to join the next Christmas Party in {0} due to the heaviness of your work."
+    - "You decided not to join the next Christmas Party in {0} due to the heaviness of your work."
     AlreadyOnWaitList:
-      - "You are already on the wait list for {0}."
+    - "You are already on the wait list for {0}."
     AddedToWaitList:
-      - "You have been added to the wait list for {0}. I will PM you when the next game is starting." 
+    - "You have been added to the wait list for {0}. I will PM you when the next game is starting."
   LynchMessages:
     PlayerVotedLynch:
-      - "{0} has voted to burn {1}."
+    - "{0} has voted to burn {1}."
     AskLynch:
-      - "Who do you want to burn?"
+    - "Who do you want to burn?"
     LynchKill:
-      - "The citizens of the North Pole have cast their votes, amid doubts and suspicions. {0} has been burnt to death. {1}."
+    - "The citizens of the North Pole have cast their votes, amid doubts and suspicions. {0} has been burnt to death. {1}."
     LynchTie:
-      - "Unable to come up with a proper decision on who to burn, the citizens returns to their homes for the night, frustrated..."
+    - "Unable to come up with a proper decision on who to burn, the citizens returns to their homes for the night, frustrated..."
     NoLynchVotes:
-      - "Something is fishy, because no one voted!  Time to go sleep now..."
+    - "Something is fishy, because no one voted!  Time to go sleep now..."
     PlayerVoteCounts:
-      - "{0} players have voted, {1} total."
+    - "{0} players have voted, {1} total."
     SecretLynchResultEach:
-      - "{0} votes went to {1}: {2}"
+    - "{0} votes went to {1}: {2}"
     SecretLynchResultFull:
-      - "The lynch result for today:\n{0}"
+    - "The lynch result for today:\n{0}"
     SecretLynchResultNumber:
-      - "{0} votes went to {1}."
+    - "{0} votes went to {1}."
   PublicMessages:
     DefaultFellPublic:
-      - "One of the graves on the graveyard contained too many people tonight... Apparently {0} tried to visit the grave digger, fell into a grave and died! {1}"
+    - "One of the graves on the graveyard contained too many people tonight... Apparently {0} tried to visit the grave digger, fell into a grave and died! {1}"
     KillerSpottedDiggerPublic:
-      - "{0} is missing today... Did they maybe oversleep? You go look for them and find them dead on the graveyard, still holding their shovel. It seems they died from several stabbing wounds..."
+    - "{0} is missing today... Did they maybe oversleep? You go look for them and find them dead on the graveyard, still holding their shovel. It seems they died from several stabbing wounds..."
     WolvesSpottedDiggerPublic:
-      - "{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by wolves in the night..."
+    - "{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by wolves in the night..."
     HarlotFuckKillerPublic:
-      - "The citizens of the North Pole see {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead."
+    - "The citizens of the North Pole see {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead."
     HarlotFuckedKilledPublic:
-      - "{0} slips into {1}'s house, ready to share some hot cocoa, only to find a horned-goat demon removing {1}'s head! Krampus decides to add {0} to his naughty children collection!"
+    - "{0} slips into {1}'s house, ready to share some hot cocoa, only to find a horned-goat demon removing {1}'s head! Krampus decides to add {0} to his naughty children collection!"
   WelcomeMessages:
     OfficialGrp:
-      - Here are our Official Groups across all communities. Click on the community group you want to join!
+    - Here are our Official Groups across all communities. Click on the community group you want to join!
     Welcome:
-      - "Hello, {0}! \U0001F43E Welcome to Wolf Blood!\n\nGet ready for an exciting and mysterious journey ahead where villagers battle against werewolves. Experience the classic werewolf gameplay with exclusive features including new roles and game modes.\n\nJoin Official Groups to compete with other players. Find new updates at Wolf Blood News and reach Support Group for assistance.\n\n\U0001F43E Happy wolfing \U0001F43A"
+    - "Hello, {0}! 🐾 Welcome to Wolf Blood!\n\nGet ready for an exciting and mysterious journey ahead where villagers battle against werewolves. Experience the classic werewolf gameplay with exclusive features including new roles and game modes.\n\nJoin Official Groups to compete with other players. Find new updates at Wolf Blood News and reach Support Group for assistance.\n\n🐾 Happy wolfing 🐺"
     CreditsText:
-      - "\U0001D400\U0001D40F\U0001D40F\U0001D411\U0001D404\U0001D402\U0001D408\U0001D400\U0001D413\U0001D408\U0001D40E\U0001D40D \U0001D40F\U0001D400\U0001D406\U0001D404 \U0001F54A️\n\nWolfbloodbot was developed on May 2022 and mainly inspired from @werewolfbot which is a fantastic creation of the Father of Telegram Werewolf Game and the original developer of the said game bot- Para.\n\nWe will be forever grateful to Para for inventing and coding this game.\n\n\U0001F91D We would also like to thank Para and the whole GreyWolf Development Team for keeping the og bot running since 2016.\n\n\U0001F64F We would also like to grab this opportunity to thank everyone who helped us in Wolf Blood Community, not just limited to our developer Kadir {0}, Core Team {1}, Translators {2}, Moderators {3}, Donors {4}, Sponsors {5}, and to our beloved Players {6} who have shown an unending love and support for the bot. \n\nRole and Feature Ideas:\n✦ Most of our role ideas for the new roles are originally from our own, while some are adapted from Wolvesville and GreyWolf role suggestions.\n\n✦ The rest of the roles are from original {7}\n\n✦ Meanwhile, all feature ideas came from the Core Team and Wolf Blood players who have reached us through @wolfbloodsupport and @wolfbloodadminbot.\n\nPlease see the below links as references:\n\n\U0001F517 {8}\n\U0001F517 {9}"
+    - "𝐀𝐏𝐏𝐑𝐄𝐂𝐈𝐀𝐓𝐈𝐎𝐍 𝐏𝐀𝐆𝐄 🕊️\n\nWolfbloodbot was developed on May 2022 and mainly inspired from @werewolfbot which is a fantastic creation of the Father of Telegram Werewolf Game and the original developer of the said game bot- Para.\n\nWe will be forever grateful to Para for inventing and coding this game.\n\n🤝 We would also like to thank Para and the whole GreyWolf Development Team for keeping the og bot running since 2016.\n\n🙏 We would also like to grab this opportunity to thank everyone who helped us in Wolf Blood Community, not just limited to our developer Kadir {0}, Core Team {1}, Translators {2}, Moderators {3}, Donors {4}, Sponsors {5}, and to our beloved Players {6} who have shown an unending love and support for the bot. \n\nRole and Feature Ideas:\n✦ Most of our role ideas for the new roles are originally from our own, while some are adapted from Wolvesville and GreyWolf role suggestions.\n\n✦ The rest of the roles are from original {7}\n\n✦ Meanwhile, all feature ideas came from the Core Team and Wolf Blood players who have reached us through @wolfbloodsupport and @wolfbloodadminbot.\n\nPlease see the below links as references:\n\n🔗 {8}\n🔗 {9}"
   AFKs:
     IdleKill:
-      - "{0} has not voted for about 2 days in a row and so they have suddenly been burnt. You need to continue without {1}."
+    - "{0} has not voted for about 2 days in a row and so they have suddenly been burnt. You need to continue without {1}."
     IdleCount:
-      - "Player {0} has been killed for not voting {1} times in the past 24 hours."
+    - "Player {0} has been killed for not voting {1} times in the past 24 hours."
     GroupIdleCount:
-      - "{0} of those kills were in this group."
+    - "{0} of those kills were in this group."
   StoreMessages:
     Store:
-      - "\U0001F6D2 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nAvailable Emoji Fragment: {1} \U0001F9E9\n\nWhat would you like to buy?"
+    - "🛒 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nAvailable Emoji Fragment: {1} 🧩\n\nWhat would you like to buy?"
     BuyFailed:
-      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for purchasing {0} is {1}. Please check your balance and try again."
+    - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for purchasing {0} is {1}. Please check your balance and try again."
     BuyConfirm:
-      - "\U0001F504 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1}\nAvailable: {2}\nDo you want to proceed?\nBalance after purchase: {3}"
+    - "🔄 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1}\nAvailable: {2}\nDo you want to proceed?\nBalance after purchase: {3}"
     BuySuccess:
-      - "\U0001F389 Purchase Successful!\nYou have successfully purchased {0}\nYour new balance is {1}\nThank you for your purchase!"
+    - "🎉 Purchase Successful!\nYou have successfully purchased {0}\nYour new balance is {1}\nThank you for your purchase!"
     BuyItems:
-      - "\U0001F6D2 Purchase Items\nHow many {1}'s would you like to purchase?\nPlease select the item and quantity you wish to buy.\nAvailable Mints: {0} \U0001FA99"
+    - "🛒 Purchase Items\nHow many {1}'s would you like to purchase?\nPlease select the item and quantity you wish to buy.\nAvailable Mints: {0} 🪙"
     BuyTicket:
-      - "\U0001F39F Ticket Menu\n\nWelcome to the Ticket Menu! Here, you can purchase special tickets to enhance your gameplay experience. Click on the buttons below to proceed.\n\nAvailable Mints: {0} \U0001FA99\nWhat would you like to buy?"
+    - "🎟 Ticket Menu\n\nWelcome to the Ticket Menu! Here, you can purchase special tickets to enhance your gameplay experience. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nWhat would you like to buy?"
     BuyRole:
-      - "\U0001F3AB Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} \U0001FA99\nChoose a role to purchase!"
+    - "🎫 Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} 🪙\nChoose a role to purchase!"
     BuyEmoji:
-      - "\U0001F604 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (\U0001F9E9).\nAvailable Fragments: {0} \U0001F9E9\n\nPick an emoji to buy and personalize your experience!"
+    - "😄 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (🧩).\nAvailable Fragments: {0} 🧩\n\nPick an emoji to buy and personalize your experience!"
     BuyEmojiDuration:
-      - ""
+    - ""
   TicketButtons:
     ForceToken:
-      - '{0} FS Token'
+    - '{0} FS Token'
     RoleVouchers:
-      - '{0} Roles'
+    - '{0} Roles'
     FJoin:
-      - '{0} Force Join'
+    - '{0} Force Join'
     FName:
-      - '{0} Fake Name'
+    - '{0} Fake Name'
     BonusPointTicket:
-      - '{0} Bonus Point'
+    - '{0} Bonus Point'
     Fragment:
-      - '{0} Fragment'
+    - '{0} Fragment'
     Mint:
-      - '{0} Mint'
+    - '{0} Mint'
     BonusRankedModeTicket:
-      - '{0} Bonus Ranked'
+    - '{0} Bonus Ranked'
     CustomMessageTicket:
-      - '{0} Custom Message'
+    - '{0} Custom Message'
     CustomEmoji:
-      - '{0} Emojis'
+    - '{0} Emojis'
     PlayerTAG:
-      - '{0} Player TAG'
+    - '{0} Player TAG'
     CustomGifs:
-      - '{0} Custom Gifs'
+    - '{0} Custom Gifs'
     FakeRole:
-      - '{0} Fake Role'
+    - '{0} Fake Role'
     MyTicketButton:
-      - '{0} Tickets'
+    - '{0} Tickets'
     MyItemButton:
-      - '{0} Items'
+    - '{0} Items'
     TournamentPoint:
-      - '{0} Tournament Point'
+    - '{0} Tournament Point'
     Month:
-      - ""
+    - ""
     Week:
-      - ""
+    - ""
     Permanent:
-      - ""
+    - ""
     Yearly:
-      - ""
+    - ""
   TopMessages:
     GroupStats:
-      - "Top 10 in {0} :"
+    - "Top 10 in {0} :"
     TopScore:
-      - "Top 10 players with the highest score :"
+    - "Top 10 players with the highest score :"
     YourRanking:
-      - 'Your Ranking:'
+    - 'Your Ranking:'
     MostPlayedWithMonth:
-      - Players with the most games this month.
+    - Players with the most games this month.
   ProfileMessages:
     ItemsText:
-      - "Hey {0}! Check out your awesome loot!\\n\\nYour Inventory:\\n\\n{1}"
+    - "Hey {0}! Check out your awesome loot!\\n\\nYour Inventory:\\n\\n{1}"
     Profile:
-      - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
+    - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
     LockEmoji:
-      - This emoji is locked and cannot be changed...
+    - This emoji is locked and cannot be changed...
     MaxEmoji:
-      - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
+    - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
     EmojiChoice:
-      - "The emojis you acquire are shown below. Turn on/off an emoji appearing next to your name by toggling below:"
+    - "The emojis you acquire are shown below. Turn on/off an emoji appearing next to your name by toggling below:"
     NoMyRoles:
-      - "You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
+    - "You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
     MyRoles:
-      - "\U0001F6C5 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
+    - "🛅 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
     ActivateRole:
-      - '✅ {0} role activated successfully!'
+    - '✅ {0} role activated successfully!'
     DeactivateRole:
-      - '❌ {0} role deactivated successfully!'
+    - '❌ {0} role deactivated successfully!'
     TicketsMenu:
-      - "\U0001F3AB Ticket Menu \U0001F3AB\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
+    - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
   RewardPM:
-    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Way to go! You’ve gained {0} in your inventory!"
-    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Fantastic! You have obtained {0} for your inventory!"
-    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Congratulations! You've earned {0} for your inventory!"
-    - "<b>༺ Inventory Update ༻</b>\n\n\U0001F4E6 Well done! You now have extra {0} in your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Way to go! You’ve gained {0} in your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Fantastic! You have obtained {0} for your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Congratulations! You've earned {0} for your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Well done! You now have extra {0} in your inventory!"
   TelegramStars:
     StarShop:
-      - "\U0001F31F Welcome to the Telegram Stars Shop!\n\nReady to level up your gameplay?\nUse your Telegram Stars to unlock exclusive items and features.\n\nTap a button below to explore what’s available."
+    - "🌟 Welcome to the Telegram Stars Shop!\n\nReady to level up your gameplay?\nUse your Telegram Stars to unlock exclusive items and features.\n\nTap a button below to explore what’s available."
     StarTicket:
-      - "\U0001F3AB Telegram Stars Ticket Menu\n\nWelcome to the Telegram Stars Ticket Menu! Here, you can purchase special tickets using your Telegram Stars. Click on the buttons below to proceed.\n\nWhat would you like to buy?"  
+    - "🎫 Telegram Stars Ticket Menu\n\nWelcome to the Telegram Stars Ticket Menu! Here, you can purchase special tickets using your Telegram Stars. Click on the buttons below to proceed.\n\nWhat would you like to buy?"
     StarItems:
-      - "\U0001F6CD Purchase Items\nHow many {0} would you like to buy?\nPlease choose the quantity."
+    - "🛍 Purchase Items\nHow many {0} would you like to buy?\nPlease choose the quantity."
     StarConfirm:
-      - "\U0001F6D2 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1} ⭐️\nDo you want to proceed?"
+    - "🛒 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1} ⭐️\nDo you want to proceed?"
     StarCustomMessage:
-      - "\U0001F4AC Purchase a {0}\n\nYou’re about to purchase a custom message slot using your Telegram Stars. Select how many letters or options you’d like."
+    - "💬 Purchase a {0}\n\nYou’re about to purchase a custom message slot using your Telegram Stars. Select how many letters or options you’d like."
     StarPlayerTAG:
-      - "\U0001F3F7 Purchase a {0}\n\nYou’re about to purchase a custom player tag using your Telegram Stars. Select how many letters or options you’d like."
+    - "🏷 Purchase a {0}\n\nYou’re about to purchase a custom player tag using your Telegram Stars. Select how many letters or options you’d like."
     StarGifMenu:
-      - "\U0001F4F8 Purchase a {0}\n\nYou’re about to purchase a custom GIF pack using your Telegram Stars. Select which GIF pack you want to buy."
+    - "📸 Purchase a {0}\n\nYou’re about to purchase a custom GIF pack using your Telegram Stars. Select which GIF pack you want to buy."
     StarRole:
-      - "\U0001F9E9 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
+    - "🧩 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
     StarEmoji:
-      - "\U0001F604 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
+    - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
     StarEmojiDuration:
-      - ""
+    - ""
     StarSuccess:
-      - "\U0001F4E6 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} \U0001F6CD️\nIt'll cost you {2} Telegram Stars \U0001F31F\nCheck your messages — once you complete the payment, your goodies will be on their way! \U0001F381\U0001F680"
+    - "📦 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} 🛍️\nIt'll cost you {2} Telegram Stars 🌟\nCheck your messages — once you complete the payment, your goodies will be on their way! 🎁🚀"
     StarPayment:
-      - "\U0001FA99 Time to Pay Up!\nThis invoice was prepared for {0} \U0001F4BC\nYou're one step away from claiming {1} for {2} Telegram Stars \U0001F31F\nHit that 'Pay' button below and it's all yours!"
+    - "🪙 Time to Pay Up!\nThis invoice was prepared for {0} 💼\nYou're one step away from claiming {1} for {2} Telegram Stars 🌟\nHit that 'Pay' button below and it's all yours!"
     StarPaidSuccess:
-      - "\U0001F389 Payment Complete!\n\n{0}, your payment of {1} Telegram Stars was successful! \U0001F31F\n\nThe following item(s) have been delivered to you:\n{2} \U0001F4E6\n\nEnjoy your new goodies and keep shining in the game! ✨"
+    - "🎉 Payment Complete!\n\n{0}, your payment of {1} Telegram Stars was successful! 🌟\n\nThe following item(s) have been delivered to you:\n{2} 📦\n\nEnjoy your new goodies and keep shining in the game! ✨"
   GiftMenu:
-    GiftShop: 
-      - "\U0001F381 Gift Sending Menu\n\nReady to send a surprise?\nSelect a special gift and make {0}'s day unforgettable! \U0001F31F\n\nTap a button below to choose a gift."
+    GiftShop:
+    - "🎁 Gift Sending Menu\n\nReady to send a surprise?\nSelect a special gift and make {0}'s day unforgettable! 🌟\n\nTap a button below to choose a gift."
     GiftItems:
-      - "\U0001F381 Gift Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    - "🎁 Gift Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
     GiftConfirm:
-      - "✅ Confirm Sending\n\nYou are about to send {0} gift(s) to {1}.\nCost: {2} ⭐️\nDo you want to proceed?"
+    - "✅ Confirm Sending\n\nYou are about to send {0} gift(s) to {1}.\nCost: {2} ⭐️\nDo you want to proceed?"
     GiftTicket:
-      - "\U0001F3AB Gift a {0}\n\nYou're about to gift a special ticket to {1}!\n\nUse your Telegram Stars to help them join games more easily. Select a ticket below to continue."
+    - "🎫 Gift a {0}\n\nYou're about to gift a special ticket to {1}!\n\nUse your Telegram Stars to help them join games more easily. Select a ticket below to continue."
     GiftCustomMessage:
-      - "\U0001F4AC Gift a {0}\n\nYou're about to gift a custom message slot to {1}!\n\nLet them express themselves freely. Choose the number of letters or options."
+    - "💬 Gift a {0}\n\nYou're about to gift a custom message slot to {1}!\n\nLet them express themselves freely. Choose the number of letters or options."
     GiftPlayerTAG:
-      - "\U0001F3F7 Gift a {0}\n\nYou're about to gift a custom player tag to {1}!\n\nAllow them to stand out with a unique identity. Choose the tag to send."
+    - "🏷 Gift a {0}\n\nYou're about to gift a custom player tag to {1}!\n\nAllow them to stand out with a unique identity. Choose the tag to send."
     GiftCustomGif:
-      - "\U0001F4F8 Gift a {0}\n\nYou're about to gift a custom GIF pack to {1}!\n\nSend them a personalized touch to their game experience. Pick the GIF you want to send."
+    - "📸 Gift a {0}\n\nYou're about to gift a custom GIF pack to {1}!\n\nSend them a personalized touch to their game experience. Pick the GIF you want to send."
     GiftRole:
-      - "\U0001F9E9 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
+    - "🧩 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
     GiftEmoji:
-      - "\U0001F604 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
+    - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
     GiftEmojiDuration:
-      - ""
+    - ""
     GiftSentSuccess:
-      - "\U0001F381 Gift Delivered!\n\nYour gift to {0} has been successfully sent! \U0001F4E8\nYou've just shared:\n{1} \U0001F389\n\nKindness like this keeps the game fun and full of surprises. \U0001F31F"
+    - "🎁 Gift Delivered!\n\nYour gift to {0} has been successfully sent! 📨\nYou've just shared:\n{1} 🎉\n\nKindness like this keeps the game fun and full of surprises. 🌟"
   CustomGifs:
     NotPack:
-      - You have not unlocked a custom GIF pack. Please use /donate.
+    - You have not unlocked a custom GIF pack. Please use /donate.
     GifPackStatus:
-      - 'Current Approval Status:
+    - 'Current Approval Status:
 
-        Approved Gifs: {0} ✅
+      Approved Gifs: {0} ✅
 
-        Pending Gifs: {1} ⏳
+      Pending Gifs: {1} ⏳
 
-        Rejected Gifs: {2} ⛔️'
+      Rejected Gifs: {2} ⛔️'
     GifPack:
-      - "Ready to build your custom gif pack? Here's what you need to know:\n\n• Your pack will need approval before you can use it in games.\n• Not allowed: brutal or illegal gifs, and others at our discretion.\n• You'll receive a description of the image to choose the gif.\n• Changing gifs will require re-approval by an admin.\n\nLet's get started by selecting a situation for your gif!"
+    - "Ready to build your custom gif pack? Here's what you need to know:\n\n• Your pack will need approval before you can use it in games.\n• Not allowed: brutal or illegal gifs, and others at our discretion.\n• You'll receive a description of the image to choose the gif.\n• Changing gifs will require re-approval by an admin.\n\nLet's get started by selecting a situation for your gif!"
     GifSubmitBtn:
-      - Submit for approval
+    - Submit for approval
     GifSend:
-      - "Okay. Reply to this message with which gif you want to use for this."
+    - "Okay. Reply to this message with which gif you want to use for this."
     GifReset:
-      - "Reset Gifs"
+    - "Reset Gifs"
     GifResetSuccess:
-      - "Your {0} GIFs have successfully been reset."
+    - "Your {0} GIFs have successfully been reset."
     GifStatus:
-      - 'Gif Status: {0}'
+    - 'Gif Status: {0}'
     Approved:
-      - 'Approved ✅'
+    - 'Approved ✅'
     Disapproved:
-      - 'Disapproved ⛔️'
+    - 'Disapproved ⛔️'
     GifError:
-      - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
     GifSuccess:
-      - "Got it! Any more?"
+    - "Got it! Any more?"
     GifSubmit:
-      - "Your GIF pack has been submitted to the admins for approval!\n\nPlease keep in mind that admins have a huge number of GIF packs to review, hence this process may take up to 1 working days.\n\nOur admins will keep track of the submitted GIF packs, you don’t have to PM them directly. Thank you for your patience!"
+    - "Your GIF pack has been submitted to the admins for approval!\n\nPlease keep in mind that admins have a huge number of GIF packs to review, hence this process may take up to 1 working days.\n\nOur admins will keep track of the submitted GIF packs, you don’t have to PM them directly. Thank you for your patience!"
     GifSubmitHour:
-      - "You have already submitted your GIF pack in the last hour! If you submit your GIFs and then change something before it gets approved, you don't have to submit it again! Please wait patiently while your GIFs are being reviewed."
+    - "You have already submitted your GIF pack in the last hour! If you submit your GIFs and then change something before it gets approved, you don't have to submit it again! Please wait patiently while your GIFs are being reviewed."
     GifEmpty:
-      - Please set at least one GIF before you submit your pack!
-    GifCheckSuccess: 
-      - "\U0001F389 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! \U0001F43A✨"
+    - Please set at least one GIF before you submit your pack!
+    GifCheckSuccess:
+    - "🎉 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! 🐺✨"
   TransferMenu:
     Transfer:
-      - ""
+    - ""
     TransferSelf:
-      - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
+    - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
     TransferFailed:
-      - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for transferring {0} is {1}. Please check your balance item and try again."
+    - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for transferring {0} is {1}. Please check your balance item and try again."
     TransferItems:
-      - "\U0001F504 Transfer Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    - "🔄 Transfer Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
     ConfirmTransfer:
-      - "\U0001F504 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"  
+    - "🔄 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"
     TransferSuccess:
-      - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
+    - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
     TransferReceived:
-      - "\U0001F389 You've received a Gift \U0001F381\n\nYou have received {0} from {1}.\n\nEnjoy your new items and thank you for playing!"
+    - "🎉 You've received a Gift 🎁\n\nYou have received {0} from {1}.\n\nEnjoy your new items and thank you for playing!"
     TransferRole:
-      - "\U0001F9E9 Transfer a {0}\n\nYou're about to transfer a powerful role to {1}!\n\nShare the thrill, change their destiny, and shake up the game!\nChoose the role you'd like to send their way."
+    - "🧩 Transfer a {0}\n\nYou're about to transfer a powerful role to {1}!\n\nShare the thrill, change their destiny, and shake up the game!\nChoose the role you'd like to send their way."
     TransferEmoji:
-      - "\U0001F604 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
+    - "😄 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
     TransferTicket:
-      - "\U0001F3AB Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
+    - "🎫 Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
     TransferLimit:
-      - ""
+    - ""
   PlayerTAGS:
     TagSuccess:
-      - "Your new name tag was set successfully. Tag: {0}" 
+    - "Your new name tag was set successfully. Tag: {0}"
     TagError:
-      - "The player tag you specified could not be set. Please set a tag {0} characters long and do not use special characters. Example usage: /settag PRO"
+    - "The player tag you specified could not be set. Please set a tag {0} characters long and do not use special characters. Example usage: /settag PRO"
     TAGInvalid:
-      - "❗ Cannot activate Player TAG Ticket!\nYou need to set a tag first. Use the /settag command to choose a tag, then try activating the ticket again."
+    - "❗ Cannot activate Player TAG Ticket!\nYou need to set a tag first. Use the /settag command to choose a tag, then try activating the ticket again."
   CustomMessages:
     CustomMessageLenght:
-      - "❗ Invalid Message!\nYour message must be between {0} and {1} characters long. Please choose a valid message and try again."
+    - "❗ Invalid Message!\nYour message must be between {0} and {1} characters long. Please choose a valid message and try again."
     CustomMessageSuccess:
-      - "✅ Custom Message Set Successfully!\nYou can now use this message in the game!\nYour new message is: {0}"
+    - "✅ Custom Message Set Successfully!\nYou can now use this message in the game!\nYour new message is: {0}"
     CustomMessageAllLetter:
-      - "❗ Invalid Message!\nYour message must contain only letters. Please choose a valid message and try again."
+    - "❗ Invalid Message!\nYour message must contain only letters. Please choose a valid message and try again."
     CustomMessageInvalid:
-      - "❗ Cannot activate Custom Message Ticket!\nYou need to set a custom message first. Use the /specialmessage command to choose a message, then try activating the ticket again." 
+    - "❗ Cannot activate Custom Message Ticket!\nYou need to set a custom message first. Use the /specialmessage command to choose a message, then try activating the ticket again."
   FakeNames:
     FakeNameLenght:
-      - "❗ Invalid Name!\nYour name must be between {0} and {1} characters long. Please choose a valid name and try again."
+    - "❗ Invalid Name!\nYour name must be between {0} and {1} characters long. Please choose a valid name and try again."
     FakeNameSuccess:
-      - "✅ Fake Name Tag Set Successfully!\nYour new name tag is: {0}. You can now use this name in the game!"
+    - "✅ Fake Name Tag Set Successfully!\nYour new name tag is: {0}. You can now use this name in the game!"
     FakeNameInvalid:
-      - "❗ Cannot activate Fake Name Ticket!\nYou need to set a fake name first. Use the /fakename command to choose a name, then try activating the ticket again."
+    - "❗ Cannot activate Fake Name Ticket!\nYou need to set a fake name first. Use the /fakename command to choose a name, then try activating the ticket again."
   FakeRoles:
     FakeRoleSuccess:
-      - "✅ Fake Role Set Successfully!\nYour new role is: {0}. Now you can imitate this role in the play!"
+    - "✅ Fake Role Set Successfully!\nYour new role is: {0}. Now you can imitate this role in the play!"
     NoRole:
-      - "❗ The role of '{0}' is invalid. Please type a valid role name and try again."
+    - "❗ The role of '{0}' is invalid. Please type a valid role name and try again."
     RoleInvalid:
-      - "❗ Cannot activate Fake Role Ticket!\nYou need to set a role first. Use the /fakerole command to choose a role, then try activating the ticket again."
+    - "❗ Cannot activate Fake Role Ticket!\nYou need to set a role first. Use the /fakerole command to choose a role, then try activating the ticket again."
   Others:
     Donate:
-      - "Telegram Stars is a fun way to support your favorite bots and creators on Telegram. By sending Stars, you help keep the bot running — and show your appreciation!\n\n\U0001F4B0 How to donate:\n1. Open the bot chat\n2. Send the /donate command\n3. Tap the Telegram Stars button\n4. Enter the amount you want to donate\n5. Confirm the invoice\n\nNote: This is for donations only — no special features are unlocked here.\nWant cool perks? Head over to the /stars menu! \U0001F680\n\nThanks for supporting Wolf Blood Bot! \U0001F43A✨"
+    - "Telegram Stars is a fun way to support your favorite bots and creators on Telegram. By sending Stars, you help keep the bot running — and show your appreciation!\n\n💰 How to donate:\n1. Open the bot chat\n2. Send the /donate command\n3. Tap the Telegram Stars button\n4. Enter the amount you want to donate\n5. Confirm the invoice\n\nNote: This is for donations only — no special features are unlocked here.\nWant cool perks? Head over to the /stars menu! 🚀\n\nThanks for supporting Wolf Blood Bot! 🐺✨"
     UserNotFound:
-      - "⚠️ User Not Found\n\nThe specified User ID or Username could not be found. Please make sure you have entered the correct User ID or Username and try again."
+    - "⚠️ User Not Found\n\nThe specified User ID or Username could not be found. Please make sure you have entered the correct User ID or Username and try again."
     ForceJoinSuccess:
-      - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! \U0001F389"
-    TicketRequired: 
-      - "❗ Ticket Required!\nYou need a {0} Ticket to use this command. Please purchase one first using the /stars command! \U0001F39F️"
+    - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
+    TicketRequired:
+    - "❗ Ticket Required!\nYou need a {0} Ticket to use this command. Please purchase one first using the /stars command! 🎟️"
     JoinButton:
-      - "Fly to North Pole ✈️"
+    - "Fly to North Pole ✈️"
     Skip:
-      - "Skip"
+    - "Skip"
     Yes:
-      - "Yes"
+    - "Yes"
     No:
-      - "No"
+    - "No"
     VoteBtn:
-      - Vote 🗳
+    - Vote 🗳
     GoToBtn:
-      - Go To Bot
+    - Go To Bot
     RolList:
-      - "Role List :"
+    - "Role List :"
     NoClaims:
-      - "Non-Claims"
+    - "Non-Claims"
     Cancel:
-      - "Cancel"
+    - "Cancel"
     OfficialBtn:
-      - Offical Groups
+    - Offical Groups
     SupportBtn:
-      - Support Group
+    - Support Group
     NewsBtn:
-      - News
+    - News
     Done:
-      - "Done!"
+    - "Done!"
     Back:
-      - "Back"
+    - "Back"
     EndTime:
-      - "Game Length: {0}"
+    - "Game Length: {0}"
     TimesUp:
-      - "Time's up!"
+    - "Time's up!"
     GetLang:
-      - "Get which language file?"
+    - "Get which language file?"
     GenericDeathNoReveal:
-      - "Everyone wakes up in the morning, and notices that {0} is not around... They check the house to find the remains of {0}."
-      - "As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night..."
+    - "Everyone wakes up in the morning, and notices that {0} is not around... They check the house to find the remains of {0}."
+    - "As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night..."
     ErrorBotMessagePM:
-      - "Please specify the recipient of your message by using the appropriate command: Type /love to message your lover, or /team to communicate with your wolf pack or cult members."
+    - "Please specify the recipient of your message by using the appropriate command: Type /love to message your lover, or /team to communicate with your wolf pack or cult members."
     SecondsAdded:
-      - "Join time extended by {0}!\n{1} left to Join"
+    - "Join time extended by {0}!\n{1} left to Join"
     SecondsRemoved:
-      - "All the Christmas Party guests arrived and they are very impatient! The party will start {0} seconds sooner! \n{1} left to Join."
+    - "All the Christmas Party guests arrived and they are very impatient! The party will start {0} seconds sooner! \n{1} left to Join."
     LeftToJoin:
-      - "{0} left to Join"
+    - "{0} left to Join"
     HaveJoined:
-      - "{0}arrived with the sled."
+    - "{0}arrived with the sled."
     AlreadyInGame:
-      - "You are already in a game! ({0})"
+    - "You are already in a game! ({0})"
     CountPlayersAdded:
-      - "Total {0} Citizens."
+    - "Total {0} Citizens."
     NotEnoughLovePlayers:
-      - "To play in Love mode you need to reach an even number (6,8,10,12...) This game has been canceled..."
+    - "To play in Love mode you need to reach an even number (6,8,10,12...) This game has been canceled..."
     NotEnoughPlayers:
-      - "Oh no! Christmas got cancelled this year because you didn't help to deliver presents for the people all over the world."
+    - "Oh no! Christmas got cancelled this year because you didn't help to deliver presents for the people all over the world."
     StartingGameWait:
-      - "It's December in the North Pole and almost time for Christmas! Time to snuff out the evil Snowmen and Krampus who are trying to stop Christmas from happening! Wait a bit while roles get assigned to players."
+    - "It's December in the North Pole and almost time for Christmas! Time to snuff out the evil Snowmen and Krampus who are trying to stop Christmas from happening! Wait a bit while roles get assigned to players."
     AlreadyJoined:
-      - "Tsk tsk tsk, someone seems to be impatient. You are already a player of this game, be more patient and drink your hot chocolate."
+    - "Tsk tsk tsk, someone seems to be impatient. You are already a player of this game, be more patient and drink your hot chocolate."
     ChoiceAccepted:
-      - "Choice accepted."
+    - "Choice accepted."
     And:
-      - "and"
+    - "and"
     NewUnlocks:
-      - ""
+    - ""
     PlayersAlive:
-      - "Citizens Alive"
+    - "Citizens Alive"
     Players:
-      - "Players"
+    - "Players"
     Was:
-      - "was"
+    - "was"
     NoGame:
-      - "There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
+    - "There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
     NotifyNewGame:
-      - "A new game is starting in {0}."
+    - "A new game is starting in {0}."
     NotPlaying:
-      - "You don't seem to be playing..."
+    - "You don't seem to be playing..."
     NotHome:
-      - "Odd... {0} was not home! No dinner for you..." 
+    - "Odd... {0} was not home! No dinner for you..."
     GamesPlayed:
-      - "New Member: {0} ({1})\n\nPlayer Game Counts\n∙ Wolf Blood: {2}\n∙ Other Bots: {3}\n\nTotal Games: {4}"
+    - "New Member: {0} ({1})\n\nPlayer Game Counts\n∙ Wolf Blood: {2}\n∙ Other Bots: {3}\n\nTotal Games: {4}"
     LoverDied:
-      - "With {0}'s dying breath, {1} rushes over and falls, crying.  They cannot stand the loss of their loved one, and shoot themselves with the nearest pistol they can find. {2}"
+    - "With {0}'s dying breath, {1} rushes over and falls, crying.  They cannot stand the loss of their loved one, and shoot themselves with the nearest pistol they can find. {2}"
     NoAttack:
-      - "The Elves gather the next morning in the town center, to sighs of relief - it appears that no one was frozen the previous night."
+    - "The Elves gather the next morning in the town center, to sighs of relief - it appears that no one was frozen the previous night."
     LynchDead:
-      - "The citizens of the north pole chose to burn you, and you died..."
+    - "The citizens of the north pole chose to burn you, and you died..."
     SentPrivate:
-      - "I have sent you a PM"
+    - "I have sent you a PM"
     Help:
-      - "If you want to browse the roles in the game, you can use the /rolelist command.\nYou can select the language with the /setlang command.\nStart a game with the /startranked command immediately. Have fun."
+    - "If you want to browse the roles in the game, you can use the /rolelist command.\nYou can select the language with the /setlang command.\nStart a game with the /startranked command immediately. Have fun."
     StartMe:
-      - "Please start me so I can PM you"
+    - "Please start me so I can PM you"
     LatestList:
-      - "I received the latest citizens list, here they are listed"
+    - "I received the latest citizens list, here they are listed"
     UnableToGetList:
-      - "Unable to get latest list"
+    - "Unable to get latest list"
     YouJoined:
-      - "The delicious hot chocolate with marshmallows is ready and so are you now. You entered a Christmas game in {0}"
+    - "The delicious hot chocolate with marshmallows is ready and so are you now. You entered a Christmas game in {0}"
     CantExtend:
-      - "Only group admins can extend the time more than once!"
+    - "Only group admins can extend the time more than once!"
     NotMember:
-      - "You can't join this game because you don't seem to be a member of {0}."
+    - "You can't join this game because you don't seem to be a member of {0}."
     GroupNotFound:
-      - "Couldn't find the group. Please run this command in the group you want to stop waiting for, or add link, id, or username next to the command."
+    - "Couldn't find the group. Please run this command in the group you want to stop waiting for, or add link, id, or username next to the command."
     RoleCommand:
-      - 'No such role was found. Search by adding role next to the command. Example usage: /role villager'
+    - 'No such role was found. Search by adding role next to the command. Example usage: /role villager'
     DisableGameMode:
-      - "Sorry {0}, Group Admins have disabled this mode in this group. How about asking them to enable it first :)"
+    - "Sorry {0}, Group Admins have disabled this mode in this group. How about asking them to enable it first :)"
     DeadSlient:
-      - "Because you are dead, you cannot send messages to the group until the end of the game. After the game ends, you will be able to write again. If you want to receive notifications for the next game, please click on the button below."
+    - "Because you are dead, you cannot send messages to the group until the end of the game. After the game ends, you will be able to write again. If you want to receive notifications for the next game, please click on the button below."
     PlayerLimitReached:
-      - "Sorry, max player limit has been reached!"
+    - "Sorry, max player limit has been reached!"
     DeadFlee:
-      - "You can't run away! You're frozen to death!  While waiting till the next game starts you can get yourself a hot chocolate to warm up a bit."
+    - "You can't run away! You're frozen to death!  While waiting till the next game starts you can get yourself a hot chocolate to warm up a bit."
     Flee:
-      - "{0} has fled in fear of the evil Snowmen, Krampus and the fear of becoming a Non-Believer!"
+    - "{0} has fled in fear of the evil Snowmen, Krampus and the fear of becoming a Non-Believer!"
     FleeDisabled:
-      - "Fleeing while the game is running has been disabled by the group admin!"
+    - "Fleeing while the game is running has been disabled by the group admin!"
     PlayerRoleWas:
-      - "{0} was {1}"
+    - "{0} was {1}"
     CountPlayersRemain:
-      - "{0} players remain."
+    - "{0} players remain."
     ByForceStart:
-      - "A command was sent by {0} to start the game by force."
+    - "A command was sent by {0} to start the game by force."
     PlayersGifPack:
-      - "Players with custom gif packs :"
+    - "Players with custom gif packs :"
     ForceStarted:
-      - 'Force Started By: {0}'
+    - 'Force Started By: {0}'
     TreasureWin:
-      - "\U0001F381 Mystery Unveiled! \U0001F381\n\nCongratulations to the following Treasure Hunters! \U0001F929\U0001F973\n\n\U0001F3C6 Prize Announcement:\nHere’s the adventurers who have been selected to receive a mysterious treasure chest:\n\n<b>{0}</b>\n\nJoin us in celebrating their victories and stay tuned for more adventures ahead! \U0001F31F"
+    - "🎁 Mystery Unveiled! 🎁\n\nCongratulations to the following Treasure Hunters! 🤩🥳\n\n🏆 Prize Announcement:\nHere’s the adventurers who have been selected to receive a mysterious treasure chest:\n\n<b>{0}</b>\n\nJoin us in celebrating their victories and stay tuned for more adventures ahead! 🌟"
     NameExists:
-      - "@{1}, a player with the name {0} has already joined. Please change your name to join."
+    - "@{1}, a player with the name {0} has already joined. Please change your name to join."
     ChangeNameToJoin:
-      - "{0}, please change your name to join"
+    - "{0}, please change your name to join"
     ExitAnonymousMode:
-      - "You can't use this bot as anonymous admin! Please exit the anonymous mode (or ask the admin who promoted you to do so) and try again!"
+    - "You can't use this bot as anonymous admin! Please exit the anonymous mode (or ask the admin who promoted you to do so) and try again!"
     MaintBreak:
-      - "Sorry, I'm about to start a short maintenance break, you can't start a game right now...\nGo to @wolfbloodnews for more information"
+    - "Sorry, I'm about to start a short maintenance break, you can't start a game right now...\nGo to @wolfbloodnews for more information"
     NoPlayerName:
-      - "I can't find a player by that name!"
+    - "I can't find a player by that name!"
     NodeShutsDown:
-      - "An error has occured, and this node has shut down :/"
+    - "An error has occured, and this node has shut down :/"
     NoNodes:
-      - "There are no nodes online right now, please try again in a few seconds"
+    - "There are no nodes online right now, please try again in a few seconds"
   BonusPoints:
     DieAsAFK_Penalty:
-      - ""
+    - ""
