@@ -257,9 +257,9 @@ strings:
     - "Köylüler sabahleyin uyandığında Tarikatçı Avcısı {0}'in kesip biçilmiş vücudunu belediye binasının kapısının önünde buldular. Sunakların bulunduğu gizli tarikat yuvalarını harap etmesi beklenirken, Tarikatçı Avcısı için Seri katili avlamak pek de uygun bir hedef değildi..."
   Mason:
     Mason:
-    - ""
+    - "Mason 👷"
     RoleInfoMason:
-    - ""
+    - "Sen Masonsun 👷. Eğer başka masonlar var ise birbirinizi bileceksiniz. Onun harici basit bir köylüden farkın yok."
     MasonTeam:
     - "Masonlar: {0}"
     MasonConverted:
@@ -268,7 +268,7 @@ strings:
     Doppelganger:
     - "Çift Giden 🎭"
     RoleInfoDoppelganger:
-    - ""
+    - "Sen Çift-gidensin 🎭. Efsaneye göre ataların şekil değiştiriciydi ve istedikleri herhangi bir şekli seçebilirlerdi. Onun bazı yeteneklerini miras aldın. Bir oyuncu seç; O öldüğünde, onun rolüne geçeceksin. Oyuncu hangi takıma ait bir rol ise o takıma hizmet edecek ve de ona göre oynamak zorundasın."
     AskRoleModel:
     - "Rol modelin kim?"
     AskDoppelganger:
@@ -289,7 +289,7 @@ strings:
     Cupid:
     - "Eros 🏹"
     RoleInfoCupid:
-    - ""
+    - "Sen Erossun 🏹. Sadece iç çamaşırın, bir yay ve iki okla Dünya'ya gönderildin. Sonsuza kadar birbirini sevecek iki oyuncu seçmelisin. Biri ölürse, diğeri de kederinden ölecektir."
     AskCupid1:
     - "Kimlerin aşık olmasını istersin? İlk oyuncuyu seç"
     AskCupid2:
@@ -301,7 +301,7 @@ strings:
     Hunter:
     - "Avcı 🎯"
     RoleInfoHunter:
-    - ""
+    - "Sen Avcısın 🎯. İyi uyuyamıyorsun ve asla tüfeğin olmadan yatmamalısın. Eğer linç edilirsen, yanında kendinle birlikte öldürmek için birini seçebilirsin. Eğer kurtlar seni yemeye çalışırsa, onu öldürme şansın var. Ancak hedefini seçemezsin."
     HunterLynchedChoice:
     - "Köy seni asmayı seçti! Bu son şansın... Gider ayak yanında kimi yanında götürmek istiyorsun?"
     HunterNoChoiceLynched:
@@ -328,7 +328,7 @@ strings:
     SerialKiller:
     - "Seri Katil 🔪"
     RoleInfoSerialKiller:
-    - ""
+    - "Sen Seri Katilsin 🔪. Yakın zamanda yerel tımarhaneden kaçtın. Amacın diğer herkesin ölmesi. Her gece koleksiyonuna bir karaciğer ekleyebilirsin."
     AskKill:
     - "Bu gece kimi öldürmek istersin?"
     KillerRandomKill:
@@ -344,12 +344,12 @@ strings:
     Sorcerer:
     - "Falcı 🔮"
     RoleInfoSorcerer:
-    - ""
+    - "Sen Falcısın 🔮. Köylüler yerine, gecenin yaratıklarıyla ittifak yapmayı tercih ediyorsun. Geceleri bir oyuncunun rolünü öğrenmek için güçlerini kullanacaksın. Sadece kurt adamlar kazanırsa kazanırsın. Kurt adamların sefil köylülerden kurtulmasına yardım etmenin tadını çıkar!"
   AlphaWolf:
     AlphaWolf:
     - "Alfa Kurt ⚡️"
     RoleInfoAlphaWolf:
-    - ""
+    - "Sen Alfa Kurtsun ⚡️ :D lanetin kaynağı, sürünün liderisin. Isırığın, köylüleri kurt adama dönüştüren hastalığın sebebidir. Her gece, saldırmak ve öldürmek için bir köylü seçebilirsin. Ancak hayatta olduğun sürece, saldırdığın birini kurt adama dönüştürme olasılığın 20%."
     BittenTurned:
     - "Gecenin karanlığı çöktüğünde vücudundaki eklemlerin kırılıp bükülmeye başladı. Seçimini yapmışsın!!! Kurt adamların tarafını seçtin ve Alfa kurt sayesinde artık sen de onlardan birisisin."
     PlayerBitten:
@@ -360,12 +360,12 @@ strings:
     WolfCub:
     - "Yavru Kurt 🐶"
     RoleInfoWolfCub:
-    - ""
+    - "Sen Yavru Kurtsun 🐶. Sürün seni seviyor!! Kurt adamların geri kalanı gibi, her gece bir köylüye saldırıp onu öldürmeyi seçeceksin. Eğer ölürsen, sürün öfkeye kapılır ve ertesi gece iki köylüye birden saldırır. Ne yazık ki, yine de ölmüş olacaksın."
   Blacksmith:
     Blacksmith:
     - "Demirci ⚒"
     RoleInfoBlacksmith:
-    - ""
+    - "Sen Demircisin ⚒. Köyün metal işçisi. Kurt adamların bir gece saldırmasını engellemeye yetecek kadar az miktarda gümüş tozu var. Gün boyunca, onu kasabanın etrafına serpmek isteyip istemediğini seçebilirsin. Bunun dışında basit bir köylüsün."
     SpreadDust:
     - "Gümüş tozunu bugün serperek, Kurtları bu gece engellemek ister misin?"
     BlacksmithSpreadSilver:
@@ -374,12 +374,12 @@ strings:
     ClumsyGuy:
     - "Beceriksiz 🤕"
     RoleInfoClumsyGuy:
-    - ""
+    - "Sen Beceriksizsin 🤕. Oy vererek kendi isteğin dışında farklı birine oy verme şansın 50%'dir. Yine de bir köylüsün."
   Mayor:
     Mayor:
     - "Muhtar 🎖"
     RoleInfoMayor:
-    - ""
+    - "Sen Muhtarsın 🎖. Rolünü halka açıkladıktan sonra linç söz konusu olduğunda 2 oy hakkın olacaktır. Köylülerin ekibindesin."
     AskMayor:
     - "Hazır olduğunda kendini ortaya çıkarmak için “Ortaya Çık”a bas."
     MayorReveal:
@@ -390,19 +390,19 @@ strings:
     Prince:
     - "Prens 👑"
     RoleInfoPrince:
-    - ""
+    - "Sen Prenssin 👑. Gününü köylülerle geçirmek için sıkıcı ve şımarık hayatını bıraktın (ne kadar içten!). Seni linç etmeye çalışırlarsa pişman olacaklar ve o gün kimse linç edilmeyecek."
     PrinceLynched:
     - "Köylüler ellerinde meşaleler ile {0}’in üzerine doğru ilerleyerek linç etmeye çalışıyorlar. \"Durun! Ben Prens'im. Bu Kral'ın bana verdiği kraliyet yüzüğü ve kralın mührü bunu kanıtlıyor. Siz sefiller beni linç edemezsiniz çünkü ben kötü değilim\". Köylüler aptal gibi hissederek, koyun gibi gece için inzivaya çekildiler."
   Lycan:
     Lycan:
-    - ""
+    - "Lycan 🐺🌝"
     RoleInfoLycan:
-    - ""
+    - "Sen Lycansın 🐺🌝. Sen bir kurtsun, ama gözcünün kafası karışacak ve seni bir köylü olarak algılayacak."
   Pacifist:
     Pacifist:
     - "Barışçıl ☮️"
     RoleInfoPacifist:
-    - ""
+    - "Sen Barışçılsın ☮️. Kimsenin linç edilmemesi için komşularını ikna etme gücüne sahipsin. Bunu yalnızca bir kez yapabilirsin."
     AskPacifist:
     - "Köye barış ve huzuru getirip bu kaosa son vermek için düğmeye bas! Herhangi bir anda bu yürekten konuşmayı yapabilirsin."
     PacifistNoLynch:
@@ -410,14 +410,14 @@ strings:
     PacifistNoLynchNow:
     - "Barışçıl’ın yürekten dostluk,birlik ve beraberlik mesajları sayesinde, linç aşaması bugün atlanacak! ☮️"
     LynchPeaceTimeout:
-    - ""
+    - "Bugün barışçılın duygusal konuşması sayesinde linç olmayacak!"
     Peace:
     - "Barış!"
   WiseElder:
     WiseElder:
     - "Yaşlı Bilge 👵🏻"
     RoleInfoWiseElder:
-    - ""
+    - "Sen Yaşlı Bilgesin 📚. Kurt adamların saldırısından yalnızca bir kez kurtulabileceksin. Bir dahaki sefere bu kadar şanslı olmayacaksın. Silahşor, Avcı veya Kimyager tarafından öldürülürsen, güçlerini kaybederler ve köylü olurlar."
     WolvesTriedToEatWiseElder:
     - "Sürü {0}'in evine ziyafet çekmek için gidiyor. Ancak karşılarında çerezlik bir köylü yerine asası ile adeta şov yapan yaşlı bilge 👵🏻 ile karşılaşıyorlar! Yaşına rağmen {0} yine de size karşı kusursuz bir savunma gerçekleştirdi. Daha fazla rezil olmadan hızlıca ayrıldınız ve şanslısınız ki hiçbirinizi tanıyamadı."
     WolvesAteWiseElderPM:
@@ -426,14 +426,14 @@ strings:
     Oracle:
     - "Kâhin 🌀"
     RoleInfoOracle:
-    - ""
+    - "Sen Kâhinsin 🌀. Her gece baktığın kişinin ne olmadığını görmek için birini seçebilirsin. Hâlâ hayatta olan başka birinin rolünü göreceksin, bu yüzden role dikkat edin, onlardan biri hâlâ var. :)"
     NegSeerSees:
     - "{0}’in {1} OLMADIĞINI gördün!"
   Sandman:
     Sandman:
     - "Uyutucu 💤"
     RoleInfoSandman:
-    - ""
+    - "Sen Uyutucusun 💤. Oyunda yalnızca bir kez herkesi sağlıklı bir şekilde uyutabilirsin. Böylece o gece kimse gece eylemlerini kullanamaz."
     AskSandman:
     - "Tüm oyuncuları bu gece uyutmak ister misin?"
     SandmanSleepAll:
@@ -444,14 +444,14 @@ strings:
     WolfMan:
     - "Kurdumsu 👱🌚"
     RoleInfoWolfMan:
-    - ""
+    - "Sen Kurdumsusun 👱🌚. Bir köylü daha. Ancak ormanda kurtlarla çok zaman geçirdiğin için Gözcü seni bir Kurt adam olarak algılayacaktır."
   Thief:
     Thief:
     - "Hırsız 😈"
     RoleInfoThief:
-    - ""
+    - "Sen Hırsızsın 😈! İlk gece bir oyuncunun rolünü çalabilir ve o oyuncuyu bir köylüye dönüştürebilirsin!"
     RoleInfoThiefFull:
-    - ""
+    - "Sen Hırsızsın 😈! Tam Hırsız mod açık olduğundan, her gece bir oyuncunun rolünü çalmak için %50 şansın olur. Eğer başarılı olursan, o oyuncu yeni hırsız olur ve hırsızlığa devam eder!"
     AskThief:
     - "Kimden rol çalmak istiyorsun?"
     ThiefStealFailed:
@@ -493,30 +493,30 @@ strings:
     - "Baş belası yüzünden bugün iki kez linç edeceksin! Umarım yarın sessiz bir gün olur."
   Chemist:
     Chemist:
-    - ""
+    - "Kimyager 🧪"
     RoleInfoChemist:
-    - ""
+    - "Sen Kimyagersin 🧪. Canlılar üzerinde deneyler yapan çılgın bir bilim adamısın. İlk gece, 2'si ölümcül zehir ve 2'si zararsız ağrı kesici olmak üzere 4 iksir hazırlıyorsun. Her birinden bir tane vermek için bir hedef seçebilir ve onları kendi kaderlerine karar vermeye bırakabilirsiniz!\n\nKötü bir rol zehirden ölürse, 2 ekstra iksir alırsın. Birini ziyaret ettikten sonra, başka bir oyuncuyu ziyaret etmeden önce 1 gün beklemek zorundasın."
     AskChemist:
-    - ""
+    - "Kime iksir vermek istiyorsun? {0} iksirin kaldı."
     AskChemistPill:
-    - ""
+    - "Kimyager seni bir iksir seçmeye zorluyor. Biri ölümcül, diğeri güvenli. Hangisini seçeceksin?"
     ChemistFail:
-    - ""
+    - "Kimyager {0} seni bir iksir seçmeye zorladı. Doğru olanı seçtin ve artık güvendesin... en azından şimdilik!"
     ChemistDeadYou:
-    - ""
+    - "Kimyager {0} seni bir iksir seçmeye zorladı. Zehirli olanı seçtin ve şimdi ölüsün... Kokuşmuş ellerinden başka suçlayacak kimse yok."
     ChemistSuccessPublic:
-    - ""
+    - "Acımasız kimyager {0}, {1}'i bir iksir seçmeye zorladı. {1} zehirli olanı seçti ve ölümcül sonuçları ile yüzleşti. Görünüşe göre kumar oynamak için yaratılmamış..."
     ChemistFailPublic:
-    - ""
+    - "Acımasız kimyager {0} dün gece {1}'i bir iksir seçmeye zorladı. Ancak {1} yeteneklerine güvenerek en etkili iksiri seçti ve hayatta kaldı. ŞANSLI SEÇİM!"
     ChemistBrewing:
-    - ""
+    - "Herkes güne hazırlanırken sen hâlâ laboratuvarda iksir yapıyorsun. Bir kişiye ertesi gün için iksirlerini verebilirsin."
     ChemistExtraPill:
-    - ""
+    - "Kötü bir rolü başarıyla öldürdün. Ödül olarak fazladan 2 iksir aldın."
   SnowWolf:
     SnowWolf:
     - "Beyaz Kurt 🐺☃️"
     RoleInfoSnowWolf:
-    - ""
+    - "Sen Beyaz Kurtsun 🐺☃️. Her gece, avlanmak için sürünü takip etmek yerine, herhangi bir köylüyü dondurmak için sinsice hareket edersin ve onların o gece aksiyonlarından alıkoyarsın. Ancak kurbanında gücünün artıkları olacak ve arka arkaya iki gece dondurulamayacak."
     AskFreeze:
     - "Bu gece kimi dondurmak istersin?"
     SuccessfulFreeze:
@@ -541,7 +541,7 @@ strings:
     Augur:
     - "Müneccim 🦅"
     RoleInfoAugur:
-    - ""
+    - "Sen Müneccimsin 🦅. Bir şeyleri görme gücüne sahipsin, ancak eskorttan veya kahinden çok farklı bir şekilde. Köyde olmayan rolleri görebilen tek kişi sensin ve bunlardan birini asla iki kez göremeyeceksin (Oyunda mason olmadığı bilgisi gelirse ikinci kez sana bu bilgi verilmeyecek)!"
     AugurSees:
     - "Gökyüzüne bakarken, kuşların çok sıradışı bir desen oluşturduğunu farkettin. Bunun anlamı köyde {0} yok."
     - "Kuşlar sana, köyde {0} rolünün olmadığını söylüyor."
@@ -551,7 +551,7 @@ strings:
     Arsonist:
     - "Kundakçı 🔥"
     RoleInfoArsonist:
-    - ""
+    - "Sen Kundakçısın 🔥. Her gece evlerini benzinlemek için bir hedef seçeceksin. Benzinli olan kurbanlarını tek tek yakmak da isteyebilirsin ya da hepsini birkaç gün sonra toplu bir katliam şeklinde yakabilirsin. Yalnızca sen hayatta kalırsan oyunu kazanırsın."
     AskArsonist:
     - "Başka bir evi mi benzinlemek istiyorsun yoksa tüm evlerin yandığını görmek mi istiyorsun?"
     AskArsonistNoDoused:
@@ -571,7 +571,7 @@ strings:
     DefaultVisitBurn:
     - "{0} bu gece evde kalmalıydı... Yanan bir evi ziyaret etti ve alevler içinde öldü! {1}"
     WolfVisitBurn:
-    - ""
+    - "Kurtlar bu gece yine birini yemeye çalıştı ama kundakçı daha hızlıydı! {0} yanan evden zamanında kaçamadı... {1}"
     ArsonistWinsOverpower:
     - "Sadece {0} ve {1} kaldı... Birden {0} gülümsedi, bir kibrit çıkardı, yaktı ve {1}’in ayağına fırlattı!"
     ArsonistVisitKiller:
@@ -582,14 +582,14 @@ strings:
     Boss:
     - "Patron 🎩"
     RoleInfoBoss:
-    - ""
+    - "Sen Patronsun 🎩. Tarikatçılara karşı güçlü bir nefretin var. Ne zaman bir tarikatla karşılaşsa, onlardan biriymiş gibi davranarak saflarına katılıyorsun. Ancak tarikatçılar gerçek kimliğinden habersizdir ve her gece gizlice tarikatçıların sayısını köy ekibine bildirirsin."
     CultCount:
     - "👤 Tarikatıçı nüfusunun {0} olduğunu görüyorsun."
   Shadow:
     Shadow:
     - "Gölge Kurt 🐺🌚"
     RoleInfoShadow:
-    - ""
+    - "Sen Gölge Kurtsun 🐺🌚. Tıpkı sıradan kurt adamlar gibi her gece birini öldürebilirsin. Ancak tüm kurtlardan farklı bir gölge yeteneğin var. Yeteneklerini kullandığında, gölgeler köylülerin oylarını botta '?' olarak göstererek gizler, ancak grup tarafından görülebilir kalırlar. Bununla birlikte, yeteneğin kurt grubunu etkilemez ve kimi linç ettiklerini görmelerini sağlar."
     AskShadow:
     - "Bugün gölge yeteneğini kullanmak ister misin ?"
     ShadowPower:
