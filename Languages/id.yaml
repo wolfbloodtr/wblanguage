@@ -1265,8 +1265,7 @@ strings:
     - '❌ {0} peran berhasil dinonaktifkan!'
     TicketsMenu:
     - "🎫 Menu Tiket 🎫\nDi sini Anda dapat melihat dan mengaktifkan tiket khusus Anda.\nPilihlah tiket yang ingin Anda aktifkan dengan mengklik salah satu tombol di bawah ini."
-  RewardPM:
-  - ""
+  RewardPM: []
   TelegramStars:
     StarShop: []
     StarTicket: []

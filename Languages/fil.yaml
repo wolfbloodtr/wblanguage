@@ -1221,8 +1221,7 @@ strings:
     DeactivateRole: []
     TicketsMenu:
     - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
-  RewardPM:
-  - ""
+  RewardPM: []
   TelegramStars:
     StarShop: []
     StarTicket: []

@@ -1278,8 +1278,7 @@ strings:
     - '❌ {0} Ruolo disattivato con successo!'
     TicketsMenu:
     - "🎫 Menu biglietti 🎫\nQui è possibile visualizzare e attivare i biglietti speciali.\nScegliete il biglietto che desiderate attivare cliccando su uno dei pulsanti sottostanti."
-  RewardPM:
-  - ""
+  RewardPM: []
   TelegramStars:
     StarShop: []
     StarTicket: []

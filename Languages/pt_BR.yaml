@@ -1275,8 +1275,7 @@ strings:
     - '❌ {0} função desativada com sucesso!'
     TicketsMenu:
     - "🎫 Menu de ingressos 🎫\nAqui você pode visualizar e ativar seus bilhetes especiais.\nEscolha o ingresso que deseja ativar clicando em um dos botões abaixo."
-  RewardPM:
-  - ""
+  RewardPM: []
   TelegramStars:
     StarShop: []
     StarTicket: []
