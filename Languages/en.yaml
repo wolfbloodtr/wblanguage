@@ -1667,6 +1667,8 @@ strings:
       - "An error has occured, and this node has shut down :/"
     NoNodes:
       - "There are no nodes online right now, please try again in a few seconds"
+    TranslateSite:
+      - "You can help translate the bot to your language by going to this site: {0}\nAlso rewards are available for translators!\nIf you want to help with the bot translations, please contact @wolfbloodsupport"
   BonusPoints:
     TryCH_Penalty:
       - "Try CH :"
