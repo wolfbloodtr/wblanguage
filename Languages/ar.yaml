@@ -145,8 +145,7 @@ strings:
     - "القناص 🔫"
     RoleInfoGunner:
     - "أنت القناص 🔫. لديك طلقتان. أثناء النهار، يمكنك أن تطلق على لاعبٍ آخر. الجميع سيسمع الطلقات، وسيعلمون أنك القناص (ولست ذئبًا)."
-    AskShoot:
-    - ""
+    AskShoot: []
     HarlotShot:
     - "يبدو أن {0} أصبح إيجابيًا بعد قضاء ليلةٍ مع الزوارة! القناص نفذ انتقامه. {1} ماتت."
     DefaultShot:
@@ -409,8 +408,7 @@ strings:
     - "المسالم ☮، {0}، يلقي خطابًا نابعًا من القلب عن الصداقة والثقة أمام القرية. وبسبب خطابه الذي أثار المشاعر، لن يكون هناك إعدام اليوم!"
     PacifistNoLynchNow:
     - "بسبب خطاب المسالم ☮ النابع من القلب، سيتم اليوم تخطي مرحلة الإعدام!"
-    LynchPeaceTimeout:
-    - ""
+    LynchPeaceTimeout: []
     Peace:
     - "سلام!"
   WiseElder:
@@ -496,8 +494,7 @@ strings:
     - "كيميائي 🧪"
     RoleInfoChemist:
     - "أنت الكيميائي 🧪، انت عالم مجنون تجري تجارب على الكائنات الحية. في الليلة الأولى، تقوم بإعداد 4 جرعات، اثنتان منها سموم قاتلة واثنتان منها مسكنات ألم غير ضارة. يمكنك اختيار هدف لإعطائه واحدة من كل منها، وتركه يقرر مصيره بنفسه!\n\nإذا مات لاعب سيئ بسبب السم، فستتلقى جرعتين إضافيتين. بعد زيارة شخص ما، يجب عليك الانتظار لمدة يوم واحد قبل زيارة لاعب آخر."
-    AskChemist:
-    - ""
+    AskChemist: []
     AskChemistPill:
     - "يحثك الكيميائي على اختيار جرعة واحدة، إحداها قاتلة والأخرى آمنة، فأيهما ستختار؟"
     ChemistFail:
@@ -597,18 +594,12 @@ strings:
   Skeleton:
     Skeleton:
     - "الهيكل العظمي 💀"
-    RoleInfoSkeleton:
-    - ""
-    ButtonAppears:
-    - ""
-    AskSkeleton:
-    - ""
-    ChoiceConfirmation:
-    - ""
-    BlockedNotice:
-    - ""
-    HauntButton:
-    - ""
+    RoleInfoSkeleton: []
+    ButtonAppears: []
+    AskSkeleton: []
+    ChoiceConfirmation: []
+    BlockedNotice: []
+    HauntButton: []
   Doctor:
     Doctor:
     - "الطبيب 🧑‍⚕️️"
@@ -644,8 +635,7 @@ strings:
     - "الأموات مدفونين والأحياء ليسوا كذلك. كل شيءٍ كما ينبغي أن يكون، ويمكنك أن تحظى بنومٍ هانئ في الليل."
     DigGraves:
     - "حتى وقتٍ متأخرٍ في الليل، حفرت قبورًا لـ {0}. عسى ان ترتاح أرواحهم وترقد أجسادهم في سلام."
-    DefaultFellDigger:
-    - ""
+    DefaultFellDigger: []
     DefaultVisitDigger:
     - "تتجه نحو منزل {0}، لتكتشف أنه ليس بالمنزل. كلّما تراه هو شمعة تضيء وحيدة على قبر..."
     WolfFellWolves:
@@ -716,8 +706,7 @@ strings:
   Soldier:
     Soldier:
     - "الجندي 🪖"
-    RoleInfoSoldier:
-    - ""
+    RoleInfoSoldier: []
     AskSoldier:
     - "من الذي تريد حمايته خلال عملية الإعدام؟"
     AskSoldier2:
@@ -733,21 +722,16 @@ strings:
     - "أنت الذئب المخادع 🐺🧧, المعروف بمكره وقدرته على التنكر في هيئة لاعب آخر. خلال الليلة الأولى، لديك الفرصة لاختيار لاعب واحد لتقمصه. إذا تمت رؤيتك أو لقيت حتفك، فسيتم اعتبار دورك بمثابة هدفك. إذا كان اللاعب الذي قمت بتقليده لديه أي قدرة على الكشف، فيمكنك تقليده أيضًا، ولكن كن حذرًا لأنه لن يكون له أي تأثير فعلي."
     AskRogue:
     - "من تريد أن تتنكر في هيئة؟"
-    AskRogue2:
-    - ""
+    AskRogue2: []
     RogueSuccess:
     - "لقد اخترت تقليد {0}. الدور الذي تحاول تقليده هو {1}!"
   Executioner:
     Executioner:
     - "الجلاد 🦸‍♂️"
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "العبد 😵‍💫"
@@ -769,33 +753,20 @@ strings:
     PoseidonReveal:
     - "لقد خرج غرنق البحر من قصره المهيب، وعاصفة تسونامي تجتاح القرية. حاولت القرية بأكملها الهروب من كارثة تسونامي، لكن {0} فشل. غرق {0} حتى الموت.\n{1}"
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "يبدو أنه {0} الحداد، يبدو أنه كان غير محظوظٍ للغاية. خمس سكاكين جديدة من مستودع {0} وجدت ليلة الأمس مغروسةً على يديه وقدميه ورأسه وهو مثبت على طاولة الحدادة. ربما كان السفاح يأمل أن ينمي من مجموعة أسلحته بجانب مجموعة الأعضاء البشرية..."
@@ -942,38 +913,28 @@ strings:
     - "عرض أو إخفاء الأدوار الميتة؟\n\nالحالي: {0}"
     ShowRolesDeathA:
     - "الأدوار ستكون {0} عند الموت"
-    WelcomeMessage:
-    - ""
-    WelcomeMessageQ:
-    - ""
-    WelcomeMessageA:
-    - ""
+    WelcomeMessage: []
+    WelcomeMessageQ: []
+    WelcomeMessageA: []
     PMMessage:
     - "دردشة الفريق"
     PMMessageQ:
     - "هل يمكن للفرق إرسال رسائل لبعضها البعض عبر الرسائل الخاصة؟ الافتراضي: {0}"
     PMMessageA:
     - "مجموعة دردشة الفريق {0}."
-    RoleCards:
-    - ""
-    RoleCardsQ:
-    - ""
-    RoleCardsA:
-    - ""
+    RoleCards: []
+    RoleCardsQ: []
+    RoleCardsA: []
     MaxExtend:
     - اضبط الحد الأقصى لتمديد الوقت
     MaxExtendQ:
     - "اختر الحد الأقصى لعدد الثواني التي يمكن إضافتها إلى مؤقت الانضمام بواسطة أمر واحد /extend\n\r\nالإعداد الافتراضي: {0}\r\n\nالحالي:{1}"
     MaxExtendA:
     - "الحد الأقصى لتمديد الوقت يصل إلى {0} ثانية"
-    DisableGModes:
-    - ""
-    DisableGModesInfo:
-    - ""
-    MuteModes:
-    - ""
-    MuteModesInfo:
-    - ""
+    DisableGModes: []
+    DisableGModesInfo: []
+    MuteModes: []
+    MuteModesInfo: []
     Lang:
     - "تغيير اللغة"
     DayTimer:
@@ -1051,30 +1012,18 @@ strings:
     Ping2:
     - "الوقت لإرسال رسالة التثبيت: {0}"
   ModeInfo:
-    LoveInfo:
-    - ""
-    NormalInfo:
-    - ""
-    RankedInfo:
-    - ""
-    ChaosInfo:
-    - ""
-    CustomInfo:
-    - ""
-    ModeInfo:
-    - ""
-    BonusModeActivated:
-    - ""
-    RankedMode:
-    - ""
-    LoveMode:
-    - ""
-    CustomMode:
-    - ""
-    NormalMode:
-    - ""
-    ChaosMode:
-    - ""
+    LoveInfo: []
+    NormalInfo: []
+    RankedInfo: []
+    ChaosInfo: []
+    CustomInfo: []
+    ModeInfo: []
+    BonusModeActivated: []
+    RankedMode: []
+    LoveMode: []
+    CustomMode: []
+    NormalMode: []
+    ChaosMode: []
   RoleList:
     HelpRoleList:
     - "ها هي أدوار دَم الذئب:\n\nلدى دَم الذئب مجموعة {2} من الأدوار.\n\nهناك {0} أدوار كلاسيكية و{1} أدوار دَم الذئب الخاصة"
@@ -1091,22 +1040,14 @@ strings:
     AboutSoloTeam:
     - "فريق المنفرد\n\nالأفراد في القرية الذين يفضلون العمل بمفردهم بدلا من أن يكونوا جزءا من فريق. على عكس الذئاب، لديهم القدرة على القضاء على اللاعبين بشكل فردي. هدفهم هو أن يكونوا الناجي الوحيد في القرية، مما سيقودهم إلى النصر.\n\nالأشرار المنفردون: السفاح، مشعل الحرائق"
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "بينما تشرق الشمس، يمشي {0} و {1} إلى القرية. {0} يُخرج سكينه وينقض على {1}. لكن {1} يسحب مسدسًا ويطلق النار على وجه {0} وبينما يسقط {0}، يغرس السكين عميقًا في جسد {1}. مات كلاهما، القرية فارغة، لا يوجد فائز..."
@@ -1127,24 +1068,15 @@ strings:
     ThiefEnd:
     - "بينما يتجول {0} حول القرية، يكتشف أنه لم يعد هناك أي أدوارٍ ممتعة متوفرةٌ له ليسرقها. لذا يغادر هذه القرية الكئيبة مسرعًا ليبحث عن قريةٍ أخرى كي يبدأ مهنتة الشهيرة من جديد."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
-    Loots:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
+    Loots: []
   Stats:
     AchievementsUnlocked:
     - "الإنجازات المحققة"
@@ -1183,29 +1115,18 @@ strings:
     CustomNoRole:
     - الرجاء إضافة الأدوار قبل بَدء اللعبة.
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
-    BanReason:
-    - ""
-    BanExpire:
-    - ""
-    GroupBanPlayer:
-    - ""
-    Year:
-    - ""
-    Day:
-    - ""
-    Minutes:
-    - ""
-    Hours:
-    - ""
-    Seconds:
-    - ""
+    GroupBan: []
+    GlobalBan: []
+    BanReason: []
+    BanExpire: []
+    GroupBanPlayer: []
+    Year: []
+    Day: []
+    Minutes: []
+    Hours: []
+    Seconds: []
   TeamsMessages:
-    MyTeam:
-    - ""
+    MyTeam: []
     NothingTeam:
     - "أنت لست عضوا حاليا في أي فريق. يمكنك الانضمام إلى فريق باستخدام الأمر /jointeam في أي مجموعة تتوفر بها الفرق. انضم إلى فريق الآن وكن جزءًا من الجهد الجماعي نحو النصر!"
     JoinTeam:
@@ -1265,8 +1186,7 @@ strings:
     - فيما يلي مجموعاتنا الرسمية في جميع المجتمعات.  انقر على مجموعة المجتمع الذي تريد الانضمام إليه!
     Welcome:
     - "مرحبًا، {0}!  🐾 مرحبًا بك في دم الذئب!\n\n استعد لرحلة مثيرة وغامضة حيث يقاتل القرويون ضد المستذئبين. جرب طريقة اللعب الكلاسيكية بالذئب مع ميزات حصرية بما في ذلك الأدوار وأوضاع اللعب الجديدة.\n\n انضم إلى المجموعات الرسمية للتنافس مع لاعبين آخرين.  ابحث عن تحديثات جديدة على Wolf Blood News وتواصل مع مجموعة الدعم للحصول على المساعدة.\n\n 🐾 ذئب سعيد 🐺"
-    CreditsText:
-    - ""
+    CreditsText: []
   AFKs:
     IdleKill:
     - "لم يصوت {0} لليلتين على التوالي. قوى الخير إعتبرت هذه جريمةً شنيعة، وفجأةً يسقط {0} ميتًا. {1}"
@@ -1277,79 +1197,48 @@ strings:
   StoreMessages:
     Store:
     - "🛒 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nAvailable Emoji Fragment: {1} 🧩\n\nWhat would you like to buy?"
-    BuyFailed:
-    - ""
-    BuyConfirm:
-    - ""
-    BuySuccess:
-    - ""
-    BuyItems:
-    - ""
-    BuyTicket:
-    - ""
-    BuyRole:
-    - ""
-    BuyEmoji:
-    - ""
-    BuyEmojiDuration:
-    - ""
+    BuyFailed: []
+    BuyConfirm: []
+    BuySuccess: []
+    BuyItems: []
+    BuyTicket: []
+    BuyRole: []
+    BuyEmoji: []
+    BuyEmojiDuration: []
   TicketButtons:
-    ForceToken:
-    - ''
-    RoleVouchers:
-    - ''
-    FJoin:
-    - ''
-    FName:
-    - ''
-    BonusPointTicket:
-    - ''
-    Fragment:
-    - ''
-    Mint:
-    - ''
-    BonusRankedModeTicket:
-    - ''
-    CustomMessageTicket:
-    - ''
-    CustomEmoji:
-    - ''
-    PlayerTAG:
-    - ''
-    CustomGifs:
-    - ''
-    FakeRole:
-    - ''
-    MyTicketButton:
-    - ''
-    MyItemButton:
-    - ''
-    TournamentPoint:
-    - ''
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    ForceToken: []
+    RoleVouchers: []
+    FJoin: []
+    FName: []
+    BonusPointTicket: []
+    Fragment: []
+    Mint: []
+    BonusRankedModeTicket: []
+    CustomMessageTicket: []
+    CustomEmoji: []
+    PlayerTAG: []
+    CustomGifs: []
+    FakeRole: []
+    MyTicketButton: []
+    MyItemButton: []
+    TournamentPoint: []
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "أعلى 10 في {0} :"
     TopScore:
     - "أفضل 10 لاعبين الذين حصلوا على أعلى النقاط :"
-    YourRanking:
-    - ''
+    YourRanking: []
     MostPlayedWithMonth:
     - اللاعبون الذين لعبوا اكثر عدد من الألعاب هذا الشهر.
   ProfileMessages:
-    ItemsText:
-    - ""
+    ItemsText: []
     Profile:
     - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
-    LockEmoji:
-    - ""
+    LockEmoji: []
     MaxEmoji:
     - لقد وصلت إلى الحد الأقصى لعدد تنشيط الرموز التعبيرية. لتنشيط أكثر، تبرع باستخدام الأمر /donate
     EmojiChoice:
@@ -1367,58 +1256,32 @@ strings:
   RewardPM:
   - ""
   - ""
-  - ""
-  - ""
   TelegramStars:
-    StarShop:
-    - ""
-    StarTicket:
-    - ""
-    StarItems:
-    - ""
-    StarConfirm:
-    - ""
-    StarCustomMessage:
-    - ""
-    StarPlayerTAG:
-    - ""
-    StarGifMenu:
-    - ""
-    StarRole:
-    - ""
-    StarEmoji:
-    - ""
-    StarEmojiDuration:
-    - ""
-    StarSuccess:
-    - ""
-    StarPayment:
-    - ""
-    StarPaidSuccess:
-    - ""
+    StarShop: []
+    StarTicket: []
+    StarItems: []
+    StarConfirm: []
+    StarCustomMessage: []
+    StarPlayerTAG: []
+    StarGifMenu: []
+    StarRole: []
+    StarEmoji: []
+    StarEmojiDuration: []
+    StarSuccess: []
+    StarPayment: []
+    StarPaidSuccess: []
   GiftMenu:
-    GiftShop:
-    - ""
-    GiftItems:
-    - ""
-    GiftConfirm:
-    - ""
-    GiftTicket:
-    - ""
-    GiftCustomMessage:
-    - ""
-    GiftPlayerTAG:
-    - ""
-    GiftCustomGif:
-    - ""
-    GiftRole:
-    - ""
-    GiftEmoji:
-    - ""
-    GiftEmojiDuration:
-    - ""
-    GiftSentSuccess:
-    - ""
+    GiftShop: []
+    GiftItems: []
+    GiftConfirm: []
+    GiftTicket: []
+    GiftCustomMessage: []
+    GiftPlayerTAG: []
+    GiftCustomGif: []
+    GiftRole: []
+    GiftEmoji: []
+    GiftEmojiDuration: []
+    GiftSentSuccess: []
   CustomGifs:
     NotPack:
     - لم تقم بإلغاء تأمين حُزْمَة GIF مخصصة.  الرجاء استخدام الأمر /donate
@@ -1434,18 +1297,13 @@ strings:
     - "هل أنت مستعد لإنشاء حزمة GIF المخصصة الخاصة بك؟  إليك ما تحتاج إلى معرفته:\n\n • سوف تحتاج الحزمة الخاصة بك إلى موافقة قبل أن تتمكن من استخدامها في الألعاب.\n • غير مسموح به: الصور المتحركة الوحشية أو غير القانونية وغيرها وفقًا لتقديرنا.\n • سيصلك وصف للصورة لاختيار الصورة المتحركة.\n • سيتطلب تغيير صور GIF إعادة الموافقة من قبل المشرف.\n\n لنبدأ باختيار موقف لصورتك المتحركة!"
     GifSubmitBtn:
     - قدم للحصول على موافقة
-    GifSend:
-    - ""
+    GifSend: []
     GifReset:
     - "إعادة تعيين صور متحركة"
-    GifResetSuccess:
-    - ""
-    GifStatus:
-    - ''
-    Approved:
-    - ''
-    Disapproved:
-    - ''
+    GifResetSuccess: []
+    GifStatus: []
+    Approved: []
+    Disapproved: []
     GifError:
     - مِلَفّ GIF هذا كبير جدًا، والحد الأقصى للحجم المسموح به هو 2MB.  من فضلك أرسل لي صورة GIF التي تريد استخدامها في هذا الموقف، كرد.
     GifSuccess:
@@ -1456,78 +1314,53 @@ strings:
     - لقد قمت بالفعل بإرسال حزمة GIF الخاصة بك في الساعة الماضية!  إذا قمت بإرسال ملفات GIF الخاصة بك ثم قمت بتغيير شيء ما قبل الموافقة عليه، فلن يتعين عليك إرساله مرة أخرى!  يرجى الانتظار بصبر بينما تتم مراجعة ملفات GIF الخاصة بك.
     GifEmpty:
     - يرجى تعيين صورة GIF واحدة على الأقل قبل إرسال الحُزْمَة الخاصة بك!
-    GifCheckSuccess:
-    - ""
+    GifCheckSuccess: []
   TransferMenu:
-    Transfer:
-    - ""
-    TransferSelf:
-    - ""
-    TransferFailed:
-    - ""
-    TransferItems:
-    - ""
+    Transfer: []
+    TransferSelf: []
+    TransferFailed: []
+    TransferItems: []
     ConfirmTransfer:
     - "🔄 تأكيد التحويل\nأنت على وشك تحويل {0} إلى {1}.\n\nالتكلفة: {2} من عملات نعناع WB\nالعملات المتوفرة: {3} من عملات نعناع WB \n\nهل تريد المتابعة؟\nالرصيد بعد التحويل: {4} من عملات نعناع WB "
     TransferSuccess:
     - "✅ تم التحويل بنجاح\n\nتم إنجاح عملية تحويل {0} إلى {1}. رصيدك الجديد هو {2} نعناع.\n\nشكرًا لك على استخدام قصة دَم الذئب!"
     TransferReceived:
     - "🎉 لقد تلقيت هدية 🎁\n\nلقد تلقيت {0} من {1}.\n\nاستمتع بالعناصر الجديدة ونشكرك على اللعب!"
-    TransferRole:
-    - ""
-    TransferEmoji:
-    - ""
-    TransferTicket:
-    - ""
-    TransferLimit:
-    - ""
+    TransferRole: []
+    TransferEmoji: []
+    TransferTicket: []
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "تم تعيين علامة الاسم الجديدة الخاصة بك بنجاح.  بطاقة شعار {0}"
-    TagError:
-    - ""
-    TAGInvalid:
-    - ""
+    TagError: []
+    TAGInvalid: []
   CustomMessages:
-    CustomMessageLenght:
-    - ""
-    CustomMessageSuccess:
-    - ""
-    CustomMessageAllLetter:
-    - ""
-    CustomMessageInvalid:
-    - ""
+    CustomMessageLenght: []
+    CustomMessageSuccess: []
+    CustomMessageAllLetter: []
+    CustomMessageInvalid: []
   FakeNames:
-    FakeNameLenght:
-    - ""
-    FakeNameSuccess:
-    - ""
-    FakeNameInvalid:
-    - ""
+    FakeNameLenght: []
+    FakeNameSuccess: []
+    FakeNameInvalid: []
   FakeRoles:
-    FakeRoleSuccess:
-    - ""
-    NoRole:
-    - ""
-    RoleInvalid:
-    - ""
+    FakeRoleSuccess: []
+    NoRole: []
+    RoleInvalid: []
   Others:
-    Donate:
-    - ""
+    Donate: []
     UserNotFound:
     - "⚠️ لم يتم العثور على المستخدم\n\nلم يتم العثور على معرف المستخدم أو اسم المستخدم المحدد. يرجى التأكد من إدخال معرف المستخدم أو اسم المستخدم بشكل الصحيح ثم المحاولة مرة أخرى."
     ForceJoinSuccess:
     - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
-    TicketRequired:
-    - ""
+    TicketRequired: []
     JoinButton:
     - "إنضمام"
     Skip:
     - "تخطي"
-    Yes:
-    - ""
-    No:
-    - ""
+    Yes: []
+    No: []
     VoteBtn:
     - صوت 🗳
     GoToBtn:
@@ -1583,8 +1416,7 @@ strings:
     - "تم قبول الإختيار."
     And:
     - "و"
-    NewUnlocks:
-    - ""
+    NewUnlocks: []
     PlayersAlive:
     - "اللاعبين الأحياء"
     Players:
@@ -1599,8 +1431,7 @@ strings:
     - "لا يبدو أنك تلعب..."
     NotHome:
     - "يا للغرابة... لم يكن {0} موجودٌ بالمنزل! لا عشاء لك..."
-    GamesPlayed:
-    - ""
+    GamesPlayed: []
     LoverDied:
     - "بينما يموت {0} ويلفظ أنفاسه الأخيرة، يسرع {1} ويسقط باكيًا. لا يمكنه تحمل فقد أحبائه، ويطلق النار على نفسه بأقرب مسدسٍ يستطيع العثور عليه. {2}"
     NoAttack:
@@ -1625,10 +1456,8 @@ strings:
     - "لا يمكنك الانضمام إلى هذه اللعبة لأنك لا تبدُ عضوًا في {0}."
     GroupNotFound:
     - "تعذر العثور على المجموعة.  الرجاء تشغيل هذا الأمر في المجموعة التي تريد التوقف عن انتظارها، أو إضافة رابط أو معرف أو اسم مستخدم بجوار الأمر."
-    RoleCommand:
-    - ''
-    DisableGameMode:
-    - ""
+    RoleCommand: []
+    DisableGameMode: []
     DeadSlient:
     - "نظرًا لأنك ميت، سيتم كتمك حتى نهاية اللعبة. إذا كنت ترغب في تلقي إشعارات عند بدء اللعبة التالية، فيرجى النقر على الزر أدناه."
     PlayerLimitReached:
@@ -1647,10 +1476,8 @@ strings:
     - "تم إرسال أمر بواسطة {0} لبدء اللعبة بالقوة."
     PlayersGifPack:
     - "اللاعبون الذين لديهم حزم الرموز المتحركة المخصصة:"
-    ForceStarted:
-    - ''
-    TreasureWin:
-    - ""
+    ForceStarted: []
+    TreasureWin: []
     NameExists:
     - "يا @{1}، لاعب بالإسم {0} قد انضم بالفعل. من فضلك غير إسمك كي تنضم."
     ChangeNameToJoin:
@@ -1666,5 +1493,4 @@ strings:
     NoNodes:
     - "لا يوجد أي نودز متصلة في هذه اللحظة، رجاءًا حاول مجددًا بعد بضع ثواني"
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []

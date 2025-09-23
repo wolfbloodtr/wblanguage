@@ -145,8 +145,7 @@ strings:
     - "El justiciero 🔫"
     RoleInfoGunner:
     - "Eres el justiciero 🔫. Tienes dos balas. Durante el día, puedes elegir disparar a otro jugador. Todo el mundo oirá los disparos y sabrá que eres el justiciero (y no un hombre lobo)."
-    AskShoot:
-    - ""
+    AskShoot: []
     HarlotShot:
     - "Parece que el justiciero pilló la sífilis después de pasar la noche con la ramera. {0} se ha tomado la venganza por su mano y {1} ha muerto. [{0} es el justiciero y ha eliminado a {1}]."
     DefaultShot:
@@ -409,8 +408,7 @@ strings:
     - "El pacifista ☮️, {0}, está dando un emotivo discurso de paz, amor y amistad en la plaza del pueblo. Conmovido por su retórica, el pueblo decide no linchar a nadie esta noche."
     PacifistNoLynchNow:
     - "A causa del enternecedor discurso del pacifista ☮️, no habrá linchamientos por hoy."
-    LynchPeaceTimeout:
-    - ""
+    LynchPeaceTimeout: []
     Peace:
     - "¡Haya paz!"
   WiseElder:
@@ -496,22 +494,15 @@ strings:
     - "Químico 🧪"
     RoleInfoChemist:
     - "Eres el Químico 🧪, un científico loco que experimenta con seres vivos. En la primera noche, preparas 4 pociones 2 son venenos mortales y 2 son analgésicos inofensivos. Puedes elegir un objetivo para darle uno de cada, ¡dejándole decidir su propio destino!\n\nSi un rol malo muere por el veneno, recibes 2 pociones extra. Después de visitar a alguien, debes esperar 1 día antes de visitar a otro jugador."
-    AskChemist:
-    - ""
+    AskChemist: []
     AskChemistPill:
     - "El químico te insta a elegir una poción. Una es mortal y la otra segura. ¿Cuál elegirás?"
-    ChemistFail:
-    - ""
-    ChemistDeadYou:
-    - ""
-    ChemistSuccessPublic:
-    - ""
-    ChemistFailPublic:
-    - ""
-    ChemistBrewing:
-    - ""
-    ChemistExtraPill:
-    - ""
+    ChemistFail: []
+    ChemistDeadYou: []
+    ChemistSuccessPublic: []
+    ChemistFailPublic: []
+    ChemistBrewing: []
+    ChemistExtraPill: []
   SnowWolf:
     SnowWolf:
     - "El lobo de nieve 🐺☃️"
@@ -597,21 +588,14 @@ strings:
   Skeleton:
     Skeleton:
     - "Esqueleto 💀"
-    RoleInfoSkeleton:
-    - ""
-    ButtonAppears:
-    - ""
-    AskSkeleton:
-    - ""
-    ChoiceConfirmation:
-    - ""
-    BlockedNotice:
-    - ""
-    HauntButton:
-    - ""
+    RoleInfoSkeleton: []
+    ButtonAppears: []
+    AskSkeleton: []
+    ChoiceConfirmation: []
+    BlockedNotice: []
+    HauntButton: []
   Doctor:
-    Doctor:
-    - ""
+    Doctor: []
     RoleInfoDoctor:
     - "🧑‍⚕️ Eres el Doctor, con un solo toque, puedes devolver la vida a un jugador, y recuerda, a medida que el juego crece, puedes ofrecer la oportunidad de resurrección a más personas."
     AskDoctor:
@@ -636,18 +620,15 @@ strings:
   GraveDigger:
     GraveDigger:
     - "El sepulturero ☠️"
-    RoleInfoGraveDigger:
-    - ""
+    RoleInfoGraveDigger: []
     AskGraveDigger:
     - "¿Las habilidades de quién te gustaría utilizar por un día?"
     DigNoGraves:
     - "Los muertos están enterrados, y los vivos no lo están. Todo está donde debería estar y puedes tener una buena noche de sueño"
     DigGraves:
     - "Hasta tarde en la noche, cavaste la(s) tumba(s) para {0}. Que sus almas y cuerpos descansen en paz."
-    DefaultFellDigger:
-    - ""
-    DefaultVisitDigger:
-    - ""
+    DefaultFellDigger: []
+    DefaultVisitDigger: []
     WolfFellWolves:
     - "La manada se dirige a casa de {0}, pero en el camino, ¡{1} pisa una trampa para osos, cae en una tumba abierta y queda empalado por una lanza de plata!"
     WolvesSpotted:
@@ -660,8 +641,7 @@ strings:
     - "Solo estás intentando hacer tu trabajo, cuando de repente, ¡una loca asesina te encuentra y acuchilla! Qué lástima..."
     CultConvertGraveDigger:
     - "En el camino a la casa de {1}, {0} decide que sería una buena idea quemar la iglesia. {0} lidera al culto a través del cementerio, ¡cuando de repente una trampa para osos atrapa su tobillo! Todo lo que pueden escuchar es su grito después de caer en una tumba, y el resto del culto corre por su vida."
-    DefaultFell:
-    - ""
+    DefaultFell: []
   Conjurer:
     Conjurer:
     - "Lobo Prestidigitador 🐺✨"
@@ -680,8 +660,7 @@ strings:
     - "¿En cuáles casas quieres cavar un gran túnel?"
     MinerDone:
     - "Has cavado con éxito un túnel en la casa de {0}.  ¡Ahora los jugadores con acción nocturna no alcanzarán sus objetivos y tocarán en una casa diferente!"
-    MinerChanged:
-    - ""
+    MinerChanged: []
   Pawn:
     Pawn:
     - "Peón ♟"
@@ -701,23 +680,17 @@ strings:
     - "Elegiste proteger a {0}, pero él era el Asesino en Serie y ahora estás muerto."
     PawnEmptyHouse:
     - "Elegiste proteger a {0}, pero no estaba en casa."
-    PawnKilledCH:
-    - ""
-    PawnGuardedKiller:
-    - ""
-    PawnGuardedWolf:
-    - ""
+    PawnKilledCH: []
+    PawnGuardedKiller: []
+    PawnGuardedWolf: []
     PawnBlockedWolf:
     - "Anoche elegiste atacar a {0} para merendar. Pero el peón estaba allí y eligió sacrificarse en su lugar."
-    PawnBlockedKiller:
-    - ""
-    PawnBlockedCH:
-    - ""
+    PawnBlockedKiller: []
+    PawnBlockedCH: []
   Soldier:
     Soldier:
     - "Soldado 🪖"
-    RoleInfoSoldier:
-    - ""
+    RoleInfoSoldier: []
     AskSoldier:
     - "¿A quién salvará de ser linchado? "
     AskSoldier2:
@@ -740,14 +713,10 @@ strings:
   Executioner:
     Executioner:
     - "El verdugo. 🦸‍♂️"
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "Esclavo 😵‍💫"
@@ -769,33 +738,20 @@ strings:
     PoseidonReveal:
     - "Poseidón, el dios de los mares, ha salido de su majestuoso palacio y un tsunami arrasa el aldea. Todos los aldeanos intentan escapar del tsunami, pero {0} no lo consigue. {0} se ahoga. \n{1}"
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "Parece que {0}, el herrero del pueblo, ha tenido muy mala suerte durante la noche, ya que se lo ha encontrado en su mesa de herrería junto con 5 cuchillos, sacados de su armería clavados en manos, pies y cabeza. Tal vez la asesina tenía la esperanza de ampliar su colección de armas y órganos con el corazón, hígado y estómago de {0}."
@@ -828,8 +784,7 @@ strings:
     - "Anoche se escucharon unos gritos agudos: «¡Soy tu aliado, tolái!». A la mañana siguiente, los aldeanos encontraron un cuerpo exhumado junto con una bola de cristal pero algo oscura. No parece ser la misma que la que usa la vidente. Pertenecía a {0}, la hechicera. El hambre supera a la camada."
     WildChildEaten:
     - "¡ÑAMÑAMÑAM! Anoche se oyó el ruido de los dientes de los lobos contra la carne de un tierno niño salvaje, {0}. ¡Dejaron únicamente su pequeño esqueleto! El pueblo se pregunta si los lobos sintieron alguna culpa mientras destripaban al pobre niño indefenso."
-    PawnEaten:
-    - ""
+    PawnEaten: []
     DetectiveEaten:
     - "Los aldeanos se reúnen por la mañana, pero no ven a {0}. Miran toda su casa, ¡hasta encontrarlo desmembrado junto con una vieja placa clavada en la garganta! Habéis perdido a vuestro detective."
     GuardianEaten:
@@ -910,8 +865,7 @@ strings:
     - "Mostrar IDs durante el join."
     ShowIDsQ:
     - "¿Mostrar los IDs de los jugadores conforme se vayan uniendo?\nActualmente: {0}"
-    ShowIDsA:
-    - ""
+    ShowIDsA: []
     ThiefFull:
     - "Modo «Ladrón completo»"
     ThiefFullA:
@@ -956,24 +910,18 @@ strings:
     - "Chat de Equipo Set {0}."
     RoleCards:
     - "Tarjetas de rol"
-    RoleCardsQ:
-    - ""
-    RoleCardsA:
-    - ""
+    RoleCardsQ: []
+    RoleCardsA: []
     MaxExtend:
     - Poner el máximo de tiempo extendido
     MaxExtendQ:
     - "Elija la cantidad máxima de segundos que se pueden agregar al temporizador de unión mediante un solo comando /extend.\r\nConfiguración predeterminada: {0}\r\nActual:{1}"
     MaxExtendA:
     - "Tiempo máximo de extensión establecido en {0} segundos"
-    DisableGModes:
-    - ""
-    DisableGModesInfo:
-    - ""
-    MuteModes:
-    - ""
-    MuteModesInfo:
-    - ""
+    DisableGModes: []
+    DisableGModesInfo: []
+    MuteModes: []
+    MuteModesInfo: []
     Lang:
     - "Cambiar idioma"
     DayTimer:
@@ -1063,16 +1011,14 @@ strings:
     - "En el modo personalizado, el juego comienza con el iniciador seleccionando qué roles se incluirán. Eliges los roles que quieres añadir antes de que comience el juego. Sin embargo, si ninguno de los primeros cuatro papeles son villanos, el juego no comenzará. Tenga en cuenta que este modo no afecta ni contribuye a las estadísticas generales."
     ModeInfo:
     - "Para obtener más información sobre el modo de juego actual, haga clic en /modeinfo.\n\n\nModo de juego: {0}"
-    BonusModeActivated:
-    - ""
+    BonusModeActivated: []
     RankedMode:
     - Clasificatoria
     LoveMode:
     - Amor
     CustomMode:
     - Personalizado
-    NormalMode:
-    - ""
+    NormalMode: []
     ChaosMode:
     - Caos
   RoleList:
@@ -1091,22 +1037,14 @@ strings:
     AboutSoloTeam:
     - "Equipo en solitario\n\nLas personas de la aldea que prefieren operar solas en lugar de ser parte de un equipo. A diferencia de los hombres lobo, tienen la capacidad de eliminar jugadores individualmente. Su objetivo es ser el único superviviente del pueblo, lo que les llevaría a la victoria.\n\nVillanos en solitario: Asesino en serie, Pirómano"
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "Cuando sale el sol, {0} y {1} caminan hacia el pueblo. {0} saca su cuchillo, y salta sobre {1}. {1} saca una pistola y dispara en la cara de {0} mientras {0} se lanza y clava el cuchillo profundamente en {1}. Ambos mueren, el pueblo está vacío, no hay ganador."
@@ -1127,24 +1065,15 @@ strings:
     ThiefEnd:
     - "{0} deambula por la aldea, y de pronto se da cuenta de que ya no quedan roles divertidos que robar, por lo que, rápidamente, recoge sus cosas y se va en busca de otro lugar donde retomar su ilustre carrera profesional."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
-    Loots:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
+    Loots: []
   Stats:
     AchievementsUnlocked:
     - "Logro desbloqueado"
@@ -1183,29 +1112,18 @@ strings:
     CustomNoRole:
     - Por favor agregar los roles antes de comenzar el juego.
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
-    BanReason:
-    - ""
-    BanExpire:
-    - ""
-    GroupBanPlayer:
-    - ""
-    Year:
-    - ""
-    Day:
-    - ""
-    Minutes:
-    - ""
-    Hours:
-    - ""
-    Seconds:
-    - ""
+    GroupBan: []
+    GlobalBan: []
+    BanReason: []
+    BanExpire: []
+    GroupBanPlayer: []
+    Year: []
+    Day: []
+    Minutes: []
+    Hours: []
+    Seconds: []
   TeamsMessages:
-    MyTeam:
-    - ""
+    MyTeam: []
     NothingTeam:
     - "No eres miembro de ningún equipo.\nPuedes unirte a un equipo usando el comando /jointeam en cualquiera de los grupos que tengan los equipos habilitados.\n¡Únete a un equipo ahora y esfuércense juntos para alcanzar la victoria!"
     JoinTeam:
@@ -1250,12 +1168,9 @@ strings:
     SecretLynchResultNumber:
     - "{0} votos para {1}."
   PublicMessages:
-    DefaultFellPublic:
-    - ""
-    KillerSpottedDiggerPublic:
-    - ""
-    WolvesSpottedDiggerPublic:
-    - ""
+    DefaultFellPublic: []
+    KillerSpottedDiggerPublic: []
+    WolvesSpottedDiggerPublic: []
     HarlotFuckKillerPublic:
     - "{0} intentó divertirse esta noche, pero se topó con una asesina en serie de muy malas pulgas. {0} ha muerto."
     HarlotFuckedKilledPublic:
@@ -1265,8 +1180,7 @@ strings:
     - Aquí están nuestros grupos oficiales en todas las comunidades. ¡Haz clic en el grupo comunitario al que quieres unirte!
     Welcome:
     - "¡Hola, {0}! 🐾 ¡Bienvenido a Wolf Blood!\n\nPrepárate para un emocionante y misterioso viaje por delante donde los aldeanos luchan contra los hombres lobo. Experimenta la clásica jugabilidad del hombre lobo con características exclusivas que incluyen nuevos roles y modos de juego.\n\nÚnete a grupos oficiales para competir con otros jugadores. Encuentre nuevas actualizaciones en Wolf Blood News y comuníquese con el Grupo de Apoyo para obtener ayuda.\n\n🐾 Feliz lobo 🐺"
-    CreditsText:
-    - ""
+    CreditsText: []
   AFKs:
     IdleKill:
     - "{0} no ha votado dos noches seguidas. Las fuerzas del bien han visto esto como un crimen terrible y {0} cae de repente, muerto.\n{1}."
@@ -1277,63 +1191,36 @@ strings:
   StoreMessages:
     Store:
     - "🛒 ¡Bienvenido a la tienda WB!\n\nUsa tus WB Mints para mejorar tu experiencia de juego explorando la lista de artículos disponibles para comprar. Haga clic en los botones de abajo para continuar.\n\nMentas disponibles: {0} 🪙\nFragmento de emoji disponible: {1} 🧩\n\n¿Qué te gustaría comprar?"
-    BuyFailed:
-    - ""
-    BuyConfirm:
-    - ""
+    BuyFailed: []
+    BuyConfirm: []
     BuySuccess:
     - "🎉 ¡Compra exitosa!\n\nHas comprado correctamente {0}\n\nTu nuevo saldo es {1}\n\n¡Gracias por su compra!"
-    BuyItems:
-    - ""
-    BuyTicket:
-    - ""
-    BuyRole:
-    - ""
-    BuyEmoji:
-    - ""
-    BuyEmojiDuration:
-    - ""
+    BuyItems: []
+    BuyTicket: []
+    BuyRole: []
+    BuyEmoji: []
+    BuyEmojiDuration: []
   TicketButtons:
-    ForceToken:
-    - ''
-    RoleVouchers:
-    - ''
-    FJoin:
-    - ''
-    FName:
-    - ''
-    BonusPointTicket:
-    - ''
-    Fragment:
-    - ''
-    Mint:
-    - ''
-    BonusRankedModeTicket:
-    - ''
-    CustomMessageTicket:
-    - ''
-    CustomEmoji:
-    - ''
-    PlayerTAG:
-    - ''
-    CustomGifs:
-    - ''
-    FakeRole:
-    - ''
-    MyTicketButton:
-    - ''
-    MyItemButton:
-    - ''
-    TournamentPoint:
-    - ''
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    ForceToken: []
+    RoleVouchers: []
+    FJoin: []
+    FName: []
+    BonusPointTicket: []
+    Fragment: []
+    Mint: []
+    BonusRankedModeTicket: []
+    CustomMessageTicket: []
+    CustomEmoji: []
+    PlayerTAG: []
+    CustomGifs: []
+    FakeRole: []
+    MyTicketButton: []
+    MyItemButton: []
+    TournamentPoint: []
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "Top 10 en {0} :"
@@ -1344,12 +1231,10 @@ strings:
     MostPlayedWithMonth:
     - Jugadores con más partidas este mes.
   ProfileMessages:
-    ItemsText:
-    - ""
+    ItemsText: []
     Profile:
     - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
-    LockEmoji:
-    - ""
+    LockEmoji: []
     MaxEmoji:
     - "Has logrado el número máximo de activar emoji. Para seguir activa, haz una donación con el comando /donate."
     EmojiChoice:
@@ -1367,58 +1252,32 @@ strings:
   RewardPM:
   - ""
   - ""
-  - ""
-  - ""
   TelegramStars:
-    StarShop:
-    - ""
-    StarTicket:
-    - ""
-    StarItems:
-    - ""
-    StarConfirm:
-    - ""
-    StarCustomMessage:
-    - ""
-    StarPlayerTAG:
-    - ""
-    StarGifMenu:
-    - ""
-    StarRole:
-    - ""
-    StarEmoji:
-    - ""
-    StarEmojiDuration:
-    - ""
-    StarSuccess:
-    - ""
-    StarPayment:
-    - ""
-    StarPaidSuccess:
-    - ""
+    StarShop: []
+    StarTicket: []
+    StarItems: []
+    StarConfirm: []
+    StarCustomMessage: []
+    StarPlayerTAG: []
+    StarGifMenu: []
+    StarRole: []
+    StarEmoji: []
+    StarEmojiDuration: []
+    StarSuccess: []
+    StarPayment: []
+    StarPaidSuccess: []
   GiftMenu:
-    GiftShop:
-    - ""
-    GiftItems:
-    - ""
-    GiftConfirm:
-    - ""
-    GiftTicket:
-    - ""
-    GiftCustomMessage:
-    - ""
-    GiftPlayerTAG:
-    - ""
-    GiftCustomGif:
-    - ""
-    GiftRole:
-    - ""
-    GiftEmoji:
-    - ""
-    GiftEmojiDuration:
-    - ""
-    GiftSentSuccess:
-    - ""
+    GiftShop: []
+    GiftItems: []
+    GiftConfirm: []
+    GiftTicket: []
+    GiftCustomMessage: []
+    GiftPlayerTAG: []
+    GiftCustomGif: []
+    GiftRole: []
+    GiftEmoji: []
+    GiftEmojiDuration: []
+    GiftSentSuccess: []
   CustomGifs:
     NotPack:
     - "No has desbloqueado un paquete de GIF personalizado. Por favor, utilice /donate."
@@ -1434,18 +1293,13 @@ strings:
     - "¿Listo para crear tu paquete de gif personalizado? Esto es lo que necesitas saber:\n\n• Tu paquete necesitará aprobación antes de que puedas usarlo en juegos.\n• No se permiten: gifs brutales o ilegales, y otros a nuestra discreción.\n• Recibirás una descripción de la imagen para elegir el gif.\n• Cambiar los gifs requerirá la reaprobación de un administrador.\n\n¡Comencemos seleccionando una situación para tu gif!"
     GifSubmitBtn:
     - Enviado por aprobación.
-    GifSend:
-    - ""
+    GifSend: []
     GifReset:
     - "Reiniciar GIFS"
-    GifResetSuccess:
-    - ""
-    GifStatus:
-    - ''
-    Approved:
-    - ''
-    Disapproved:
-    - ''
+    GifResetSuccess: []
+    GifStatus: []
+    Approved: []
+    Disapproved: []
     GifError:
     - "Este GIF es demasiado grande, el tamaño máximo permitido es de 2 MB. Por favor, envíame el GIF que quieras usar para esta situación, como respuesta."
     GifSuccess:
@@ -1456,78 +1310,54 @@ strings:
     - "¡Ya has enviado tu paquete de GIF en la última hora! Si envías tus GIF y luego cambias algo antes de que se apruebe, ¡no tienes que enviarlo de nuevo! Por favor, espere pacientemente mientras se revisan sus GIF."
     GifEmpty:
     - "¡Por favor, establezca al menos un GIF antes de enviar su paquete!"
-    GifCheckSuccess:
-    - ""
+    GifCheckSuccess: []
   TransferMenu:
-    Transfer:
-    - ""
+    Transfer: []
     TransferSelf:
     - "⚠️ Transferencia no válida\n\nNo puedes transferirte artículos a ti mismo. Por favor, especifique un destinatario diferente para esta transacción."
-    TransferFailed:
-    - ""
-    TransferItems:
-    - ""
+    TransferFailed: []
+    TransferItems: []
     ConfirmTransfer:
     - "🔄 Confirmar transferencia\n\nEstás a punto de transferir {0} a {1}.\n\nCosto: {2} WB Mints\nMentas disponibles: {3} Mentas WB\n\n¿Quieres continuar?\nSaldo después de la transferencia: {4} WB Mints"
     TransferSuccess:
     - "✅ Transferencia exitosa\n\nHa transferido con éxito {0} a {1}. Su nuevo saldo es {2} Mint.\n\n¡Gracias por usar Wolf Blood Tienda!"
     TransferReceived:
     - "🎉 Has recibido un regalo 🎁\n\nHas recibido {0} de {1}.\n\n¡Disfruta de tus nuevos artículos y gracias por jugar!"
-    TransferRole:
-    - ""
-    TransferEmoji:
-    - ""
-    TransferTicket:
-    - ""
-    TransferLimit:
-    - ""
+    TransferRole: []
+    TransferEmoji: []
+    TransferTicket: []
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "Tu nueva etiqueta de nombre se ha establecido con éxito. Etiqueta: {0}"
-    TagError:
-    - ""
-    TAGInvalid:
-    - ""
+    TagError: []
+    TAGInvalid: []
   CustomMessages:
-    CustomMessageLenght:
-    - ""
-    CustomMessageSuccess:
-    - ""
-    CustomMessageAllLetter:
-    - ""
-    CustomMessageInvalid:
-    - ""
+    CustomMessageLenght: []
+    CustomMessageSuccess: []
+    CustomMessageAllLetter: []
+    CustomMessageInvalid: []
   FakeNames:
-    FakeNameLenght:
-    - ""
-    FakeNameSuccess:
-    - ""
-    FakeNameInvalid:
-    - ""
+    FakeNameLenght: []
+    FakeNameSuccess: []
+    FakeNameInvalid: []
   FakeRoles:
-    FakeRoleSuccess:
-    - ""
-    NoRole:
-    - ""
-    RoleInvalid:
-    - ""
+    FakeRoleSuccess: []
+    NoRole: []
+    RoleInvalid: []
   Others:
-    Donate:
-    - ""
+    Donate: []
     UserNotFound:
     - "⚠️ Usuario no encontrado\n\nNo se pudo encontrar el ID de usuario o el nombre de usuario especificados. Por favor, asegúrese de haber introducido el ID de usuario o nombre de usuario correcto e inténtelo de nuevo."
     ForceJoinSuccess:
     - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
-    TicketRequired:
-    - ""
+    TicketRequired: []
     JoinButton:
     - "¡Palante!"
     Skip:
     - "Omitir"
-    Yes:
-    - ""
-    No:
-    - ""
+    Yes: []
+    No: []
     VoteBtn:
     - Votar 🗳️
     GoToBtn:
@@ -1583,8 +1413,7 @@ strings:
     - "Ya has elegido. No hay vuelta atrás."
     And:
     - "y"
-    NewUnlocks:
-    - ""
+    NewUnlocks: []
     PlayersAlive:
     - "Jugadores vivos"
     Players:
@@ -1599,8 +1428,7 @@ strings:
     - "No parece que estés jugando..."
     NotHome:
     - "¡Ups! ¡{0} no estaba en casa! Te quedaste sin cena. [Estaba visitando a otro jugador]."
-    GamesPlayed:
-    - ""
+    GamesPlayed: []
     LoverDied:
     - "Con el último aliento de {0}, su amado(a), {1}, se derrumba y se echa a llorar desconsoladamente. En un golpe de locura, no puede soportar su muerte y se dispara con la primera pistola que encuentra. {2}"
     NoAttack:
@@ -1625,10 +1453,8 @@ strings:
     - "No puedes unirte al juego porque parece que no pertecenes a {0}."
     GroupNotFound:
     - "No pude encontrar el grupo. Por favor, usa este comando en el grupo del que quieres dejar de esperar, o añade enlace, id o nombre de usuario al lado del comando."
-    RoleCommand:
-    - ''
-    DisableGameMode:
-    - ""
+    RoleCommand: []
+    DisableGameMode: []
     DeadSlient:
     - "Debido a que estás muerto, tu envío de mensajes al grupo está restringido hasta el final del juego. Después de que termine el juego, podrás volver a escribir. Si desea recibir notificaciones para el próximo juego, haga clic en el botón a continuación."
     PlayerLimitReached:
@@ -1649,8 +1475,7 @@ strings:
     - "Jugadores con paquetes de gif personalizados: "
     ForceStarted:
     - 'Juego forzado por:{0}'
-    TreasureWin:
-    - ""
+    TreasureWin: []
     NameExists:
     - "@{1}, un jugador con el nombre {0} ya se ha unido. Por favor, cambia tu nombre para unirte."
     ChangeNameToJoin:
@@ -1666,5 +1491,4 @@ strings:
     NoNodes:
     - "Ahora mismo no hay nodos online, por favor, inténtalo de nuevo pasados unos segundos"
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []

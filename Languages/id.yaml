@@ -26,8 +26,7 @@ strings:
     RoleInfoDrunk:
     - "🍻 Ayyy! Kamu adalah Pemabuk! Semua orang di desa tahu siapa kamu"
   Harlot:
-    Harlot:
-    - ""
+    Harlot: []
     RoleInfoHarlot:
     - "💋 Ahhh.. Kamu adalah Harlot. Setiap malam, kamu bisa memilih untuk mengunjungi seseorang. Namun, jika ternyata targetmu adalah Serigala, atau sedang dibunuh Serigala, kamu akan mati. Beruntungnya, jika kamu sedang mengunjungi seseorang, dan Serigala ingin memakan kamu, maka kamu akan selamat."
     AskVisit:
@@ -141,12 +140,10 @@ strings:
     CursedBittenToWolves:
     - "{0} berhasil digigit, ternyata dia adalah Cursed! Kini, dia menjadi serigala sepertimu. Selamat atas rekan barumu!"
   Gunner:
-    Gunner:
-    - ""
+    Gunner: []
     RoleInfoGunner:
     - "🔫 Kamu adalah Gunner. Kamu memiliki 2 peluru di setiap pertandingan. Pada siang hari, kamu bisa memilih untuk menembak seseorang. Berhati-hatilah, karena suara tembakanmu akan membelah dinding-dinding sepi, menarik perhatian seluruh warga desa yang terjaga."
-    AskShoot:
-    - ""
+    AskShoot: []
     HarlotShot:
     - "Sepertinya si Gunner terjangkit sifilis usai malam penuh gairah bersama Harlot. {0} meluapkan amarah dengan tindakannya, membalas dendam dengan tembakan yang merenggut nyawa {1}. "
     DefaultShot:
@@ -154,8 +151,7 @@ strings:
     GunnerShotWiseElder:
     - "{0} si Gunner 🔫 menembak {1} Sang Tetua👵🏻 desa. {0} terisak sedih, menyesali kesalahannya, lalu memutuskan untuk melepaskan senjatanya. Kini dia menjalani hidup sebagai penduduk desa sederhana dengan ladang yang harus dibajak."
   Tanner:
-    Tanner:
-    - ""
+    Tanner: []
     RoleInfoTanner:
     - "Kamu adalah Tanner 👺. Jika mayoritas penduduk desa memilih untuk menghukum mati kamu, kamu menang."
   Fool:
@@ -164,8 +160,7 @@ strings:
     RoleInfoFool:
     - "Fool akan mengira dirinya Penerawang (Seer). Saat dia mengecek peran seseorang pada malam hari, bot akan mengiriminya informasi random."
   WildChild:
-    WildChild:
-    - ""
+    WildChild: []
     RoleInfoWildChild:
     - "👶 Kamu adalah Wild Child! Pilihlah seseorang untuk kamu jadikan panutan, jika panutanmu mati kamu akan menjadi serigala."
     WildChildToWolves:
@@ -173,8 +168,7 @@ strings:
     WildChildTransform:
     - "{0} tewas! Dalam kemarahan, kamu berubah menjadi serigala!"
   Beholder:
-    Beholder:
-    - ""
+    Beholder: []
     RoleInfoBeholder:
     - "👁 Kamu adalah Beholder. Kamu dapat mengetahui siapa Penerawang (Seer) yang asli."
     BeholderSeer:
@@ -265,8 +259,7 @@ strings:
     MasonConverted:
     - "Aneh, {0} tidak hadir di rapat para kuli pagi ini. Hmmm."
   Doppelganger:
-    Doppelganger:
-    - ""
+    Doppelganger: []
     RoleInfoDoppelganger:
     - "Kamu adalah Doppelgänger 🎭. Menurut legenda, nenek moyangmu adalah perubah bentuk, makhluk yang mampu berubah wujud apa pun yang diinginkan. Kamu mewarisi kemampuan itu. Pilihlah seorang pemain; saat pemain itu tewas, kamu akan memiliki perannya."
     AskRoleModel:
@@ -286,8 +279,7 @@ strings:
     DGToWolf:
     - "{0} si Doppelganger kini menjadi serigala sepertimu!"
   Cupid:
-    Cupid:
-    - ""
+    Cupid: []
     RoleInfoCupid:
     - "Kamu adalah Cupid 🏹. Diutus ke Bumi hanya membawa celana dalam, busur, dan dua anak panah. Tugasmu adalah memilih dua pemain untuk saling mencintai selamanya, jika salah satu dari mereka tewas yang lain akan menyusul ke alam kematian, karena diselimuti kesedihan yang mendalam."
     AskCupid1:
@@ -394,8 +386,7 @@ strings:
     PrinceLynched:
     - "Saat penduduk desa bersiap menggantungnya, {0} berteriak. \"Tunggu! Aku Pangeran dari kerajaan ini! Lihatlah baik-baik, Rakyatku. Cincin dan stempel kerajaan ini buktinya!\" Dia menunjuk ke arah salah satu kerumunan. \"Mereka adalah para pelayan setiaku, mereka akan bersaksi untukku.\" Menyaksikan itu, penduduk desa merasa malu. Mereka kembali ke rumah masing-masing, dan pangeran dibebaskan dari hukuman gantung."
   Lycan:
-    Lycan:
-    - ""
+    Lycan: []
     RoleInfoLycan:
     - "Kamu adalah Lycan 🐺🌝, salah satu jenis dari kawanan serigala. Kemampuan manipulasimu membuat Penerawang (Seer) kebingungan dan mengira kamu hanyalah penduduk desa biasa."
   Pacifist:
@@ -423,8 +414,7 @@ strings:
     WolvesAteWiseElderPM:
     - "Serigala mencoba memakanmu, tetapi kamu tidak mati karena kamu adalah Sang Tetua👵🏻 desa, yang tidak mudah dilenyapkan oleh penyerang. Kamu berhasil menggagalkan serangan itu, tetapi kamu tidak mengenali si penyerang."
   Oracle:
-    Oracle:
-    - ""
+    Oracle: []
     RoleInfoOracle:
     - "Kamu adalah Oracle 🌀. Setiap malam, kamu bisa memilih satu pemain untuk dilihat perannya. Namun, kamu hanya akan melihat yang BUKAN perannya. Hasil terawanganmu menunjukkan bahwa pemain dengan peran tersebut masih hidup di desa. Gunakan kemampuan dan kecerdikanmu untuk membantu tim penduduk desa mencari peran jahat."
     NegSeerSees:
@@ -441,8 +431,7 @@ strings:
     SandmanNight:
     - "Saat semua orang pulang, mereka hampir tidak bisa mencapai tempat tidur karena kelelahan. Mereka semua tertidur pulas, bahkan tidak ingat kapan mereka tertidur ..."
   WolfMan:
-    WolfMan:
-    - ""
+    WolfMan: []
     RoleInfoWolfMan:
     - "👱🌚 Kamu adalah WolfMan. Pada siang hari, kamu tampak seperti penduduk desa biasa. Namun, malam-malam panjang yang kamu habiskan di hutan tempat serigala-serigala berkeliaran, membuat Penerawang (Seer) keliru. Dalam penerawangannya kamu terlihat seperti seekor serigala."
   Thief:
@@ -496,8 +485,7 @@ strings:
     - "Ahli Kimia 🧪"
     RoleInfoChemist:
     - "Anda adalah Ahli Kimia 🧪, seorang ilmuwan gila yang bereksperimen dengan makhluk hidup. Pada malam pertama, Anda menyiapkan 4 ramuan. 2 adalah racun yang mematikan dan 2 adalah obat penghilang rasa sakit yang tidak berbahaya. Anda dapat memilih target untuk memberikan masing-masing ramuan, dan membiarkan mereka menentukan nasibnya sendiri!\n\nJika peran jahat mati karena racun, Anda menerima 2 ramuan ekstra. Setelah mengunjungi seseorang, Anda harus menunggu 1 hari sebelum mengunjungi pemain lain."
-    AskChemist:
-    - ""
+    AskChemist: []
     AskChemistPill:
     - "Ahli kimia mendesak Anda untuk memilih ramuan. Yang satu mematikan dan yang satu lagi aman. Mana yang akan Anda pilih?"
     ChemistFail:
@@ -538,8 +526,7 @@ strings:
     DefaultFrozen:
     - "Saat kamu tertidur lelap, dingin menusuk tulangmu. Kamu menyadari bahwa tubuhmu terperangkap dalam es, tak bisa bergerak. Tampaknya Serigala Salju memberimu mantra pembekuan ❄️. Namun, kamu tidak peduli dan kembali tidur. Kamu masih bisa tidur dengan nyenyak meski dalam kondisi beku."
   Augur:
-    Augur:
-    - ""
+    Augur: []
     RoleInfoAugur:
     - "Kamu adalah Augur 🦅\nKamu adalah satu-satunya yang bisa melihat peran apa saja yang tidak ada di desa."
     AugurSees:
@@ -548,8 +535,7 @@ strings:
     AugurSeesNothing:
     - "Tak ada seekor burung pun di langit hari ini. Kekosongan ini mungkin menandakan bahwa kamu sudah melihat semua peran yang tidak ada di desa."
   Arsonist:
-    Arsonist:
-    - ""
+    Arsonist: []
     RoleInfoArsonist:
     - "Kamu adalah Arsonist🔥, sosok menyeramkan dan legendaris yang diceritakan dengan gemetar oleh orang dewasa kepada anak-anak, untuk menakut-nakuti mereka. Kamu memiliki resep rahasia untuk solusi mudah terbakar yang dapat menyulut api di setiap sudut desa. Setiap malam, kamu bisa menyiram satu rumah pemain dengan minyak tanah. Jika tidak ada serigala yang tersisa di desa, siang harinya kamu bisa menyiram satu rumah pemain. Kamu memiliki kesempatan untuk menyiram beberapa rumah pemain lalu membakarnya bersamaan, atau menyiram dan membakarnya satu per satu."
     AskArsonist:
@@ -597,18 +583,12 @@ strings:
   Skeleton:
     Skeleton:
     - "Kerangka 💀"
-    RoleInfoSkeleton:
-    - ""
-    ButtonAppears:
-    - ""
-    AskSkeleton:
-    - ""
-    ChoiceConfirmation:
-    - ""
-    BlockedNotice:
-    - ""
-    HauntButton:
-    - ""
+    RoleInfoSkeleton: []
+    ButtonAppears: []
+    AskSkeleton: []
+    ChoiceConfirmation: []
+    BlockedNotice: []
+    HauntButton: []
   Doctor:
     Doctor:
     - "Dokter 🧑‍⚕️"
@@ -634,8 +614,7 @@ strings:
     OhNoPreacher:
     - "Tidak... Anda membunuh pemain yang didoakan pengkhotbah di malam hari. Pengkhotbah {0} sekarang tahu siapa Anda dan peran Anda."
   GraveDigger:
-    GraveDigger:
-    - ""
+    GraveDigger: []
     RoleInfoGraveDigger:
     - "Anda adalah Grave Digger  ☠️. Setiap malam, Anda menggali kuburan untuk mereka yang telah meninggal sejak penggalian terakhir Anda. Kamu memiliki kemampuan khusus satu kali untuk menggunakan talenta dari satu pemain yang telah meninggal selama satu hari. Saat Anda keluar, serigala dan sekte tidak dapat menemukan Anda kecuali jika Anda tidak memiliki kuburan untuk digali dan tetap tinggal di rumah. Pengunjung mungkin akan jatuh ke dalam kuburan yang belum selesai kamu gali, dengan peluang yang meningkat berdasarkan jumlah kuburan yang kamu gali. Berhati-hatilah agar tidak terlihat oleh serigala atau pembunuh berantai saat Anda keluar."
     AskGraveDigger:
@@ -644,8 +623,7 @@ strings:
     - "Yang mati dikuburkan, sementara yang hidup tetap berada di dunia ini. Semuanya harus berada di tempat yang seharusnya, jadi kamu sulit tidur dengan tenang."
     DigGraves:
     - "Hingga larut malam, kamu menggali kuburan untuk {0}. Semoga jiwa dan tubuhnya beristirahat dengan tenang."
-    DefaultFellDigger:
-    - ""
+    DefaultFellDigger: []
     DefaultVisitDigger:
     - "Anda menuju ke rumah {0}, hanya untuk menemukan bahwa mereka tidak ada di rumah. Yang Anda lihat hanyalah lilin yang bersinar kesepian di atas kuburan..."
     WolfFellWolves:
@@ -716,8 +694,7 @@ strings:
   Soldier:
     Soldier:
     - "Prajurit  🪖"
-    RoleInfoSoldier:
-    - ""
+    RoleInfoSoldier: []
     AskSoldier:
     - "Siapa yang ingin kamu selamatkan hari ini?"
     AskSoldier2:
@@ -727,8 +704,7 @@ strings:
     SoldierDone:
     - "Penduduk desa memilih mengeksekusi {0}. Namun, seorang prajurit berhasil melindunginya dengan cara menukar  {0} dengan {1}. {2}"
   Rogue:
-    Rogue:
-    - ""
+    Rogue: []
     RoleInfoRogue:
     - "Anda adalah Rogue Wolf 🐺🧧, yang dikenal karena kelicikan dan kemampuan Anda untuk menyamar sebagai pemain lain. Pada malam pertama, Anda memiliki kesempatan untuk memilih satu pemain untuk ditiru perannya. Jika Anda diperiksa atau menemui ajalmu, peran Anda akan terlihat sebagai target Anda. Jika pemain yang Anda tipu memiliki kemampuan yang bisa di reveal, Anda dapat menirunya juga, tetapi berhati-hatilah karena itu tidak memiliki efek yang sebenarnya."
     AskRogue:
@@ -740,14 +716,10 @@ strings:
   Executioner:
     Executioner:
     - "Algojo 🦸‍♂️"
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "Budak 😵‍💫"
@@ -758,8 +730,7 @@ strings:
     SlaveTarget:
     - "Targetmu: {0}. Selesaikan tugas kelam ini dengan menggantung targetmu."
   Poseidon:
-    Poseidon:
-    - ""
+    Poseidon: []
     RoleInfoPoseidon:
     - "🧜 Anda adalah Poseidon. Sekali per game, Anda dapat membunuh pemain acak di tim desa dengan melepaskan tsunami. Ketika Anda memutuskan untuk melepaskan tsunami, desa akan diberi tahu bahwa tsunami akan datang, tetapi identitas Anda tidak akan terungkap."
     AskPoseidon:
@@ -769,33 +740,20 @@ strings:
     PoseidonReveal:
     - "Dewa laut, telah muncul dari istananya yang megah, dan tsunami melanda desa tersebut. Seluruh desa berusaha melarikan diri dari tsunami, tetapi {0} gagal. {0} mati tenggelam.\n{1}"
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "Sepertinya {0}, si Blacksmith sedang sangat tidak beruntung. Lima pisau terbaru yang awalnya terpajang di gudang senjata milik {0}, ditemukan tertancap di tangan, kaki, dan kepalanya. Mungkin si Pembunuh Berantai berniat menguji ketajaman senjata milik Blacksmith sebelum mengambil organ vitalnya."
@@ -1071,10 +1029,8 @@ strings:
     - Cinta
     CustomMode:
     - Kustom
-    NormalMode:
-    - ""
-    ChaosMode:
-    - ""
+    NormalMode: []
+    ChaosMode: []
   RoleList:
     HelpRoleList:
     - "Berikut peran-peran yang ada di WolfBlood:\n\nWolfBlood memiliki total {2} peran. Ada {0} peran klasik dan {1} peran khusus yang hanya ada di WolfBlood."
@@ -1091,22 +1047,14 @@ strings:
     AboutSoloTeam:
     - "Tim Solo \n\nIndividu di desa yang lebih memilih bekerja sendiri daripada menjadi bagian dari tim. Berbeda dengan para manusia serigala, mereka memiliki kemampuan untuk menghabisi pemain secara individu. Tujuan mereka adalah menjadi satu-satunya yang selamat di desa tersebut, yang akan membawa mereka menuju kemenangan.\n\nPenjahat tunggal : Pembunuh Berantai, Arsonist."
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "Saat matahari terbit tepat di atas alun-alun desa, {0} dan {1} bertemu. Dengan tekad membara, {0} mencabut pisaunya lalu melompat ke arah {1}. Namun, {1} dengan sigap mengeluarkan pistol dan menembak tepat di dahi {0}. Saat tubuh {0} terjatuh, pisau yang digenggamnya menusuk tubuh {1}. Keduanya jatuh meregang nyawa. Tidak ada yang hidup, tidak ada yang menang."
@@ -1127,24 +1075,15 @@ strings:
     ThiefEnd:
     - "Saat {0} mengembara di sekitar desa, dia menyadari bahwa tidak ada lagi peran menyenangkan yang bisa dia curi. Dia bergegas meninggalkan desa yang malang ini, mencari desa lain untuk memulai kembali karir gemerlapnya."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
-    Loots:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
+    Loots: []
   Stats:
     AchievementsUnlocked:
     - "Pencapaian Terbuka"
@@ -1183,29 +1122,18 @@ strings:
     CustomNoRole:
     - Silakan tambahkan peran sebelum memulai permainan.
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
-    BanReason:
-    - ""
-    BanExpire:
-    - ""
-    GroupBanPlayer:
-    - ""
-    Year:
-    - ""
-    Day:
-    - ""
-    Minutes:
-    - ""
-    Hours:
-    - ""
-    Seconds:
-    - ""
+    GroupBan: []
+    GlobalBan: []
+    BanReason: []
+    BanExpire: []
+    GroupBanPlayer: []
+    Year: []
+    Day: []
+    Minutes: []
+    Hours: []
+    Seconds: []
   TeamsMessages:
-    MyTeam:
-    - ""
+    MyTeam: []
     NothingTeam:
     - "Saat ini Anda bukan anggota tim mana pun.\nAnda dapat bergabung dengan tim dengan menggunakan perintah /jointeam di grup mana pun yang memiliki tim.\nBergabung dengan tim sekarang dan jadilah bagian dari upaya kolektif menuju kemenangan!"
     JoinTeam:
@@ -1277,63 +1205,37 @@ strings:
   StoreMessages:
     Store:
     - "Selamat datang di Toko WB~\n\nGunakan Permen WB Anda untuk meningkatkan pengalaman bermain, dengan menjelajahi daftar item yang tersedia untuk dibeli. Klik tombol di bawah ini untuk melanjutkan.\n\nPermen yang Tersedia: {0} 🪙\nFragmen Emoji yang Tersedia: {1} 🧩"
-    BuyFailed:
-    - ""
-    BuyConfirm:
-    - ""
+    BuyFailed: []
+    BuyConfirm: []
     BuySuccess:
     - "🎉Pembelian Berhasil!\n\nAnda telah berhasil membeli {0}. Saldo baru Anda kini {1}. Terima kasih sudah membeli!\""
-    BuyItems:
-    - ""
+    BuyItems: []
     BuyTicket:
     - "🎟 Menu Tiket\n\nSelamat datang di Menu Tiket! Di sini, Anda dapat membeli tiket khusus untuk meningkatkan pengalaman bermain game Anda. Klik tombol di bawah ini untuk melanjutkan.\n\nMints yang tersedia: {0} 🪙\nApa yang ingin Anda beli?"
-    BuyRole:
-    - ""
-    BuyEmoji:
-    - ""
-    BuyEmojiDuration:
-    - ""
+    BuyRole: []
+    BuyEmoji: []
+    BuyEmojiDuration: []
   TicketButtons:
-    ForceToken:
-    - ''
-    RoleVouchers:
-    - ''
-    FJoin:
-    - ''
-    FName:
-    - ''
-    BonusPointTicket:
-    - ''
-    Fragment:
-    - ''
-    Mint:
-    - ''
-    BonusRankedModeTicket:
-    - ''
-    CustomMessageTicket:
-    - ''
-    CustomEmoji:
-    - ''
-    PlayerTAG:
-    - ''
-    CustomGifs:
-    - ''
-    FakeRole:
-    - ''
-    MyTicketButton:
-    - ''
-    MyItemButton:
-    - ''
-    TournamentPoint:
-    - ''
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    ForceToken: []
+    RoleVouchers: []
+    FJoin: []
+    FName: []
+    BonusPointTicket: []
+    Fragment: []
+    Mint: []
+    BonusRankedModeTicket: []
+    CustomMessageTicket: []
+    CustomEmoji: []
+    PlayerTAG: []
+    CustomGifs: []
+    FakeRole: []
+    MyTicketButton: []
+    MyItemButton: []
+    TournamentPoint: []
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "Top 10 di Grup {0}:"
@@ -1344,8 +1246,7 @@ strings:
     MostPlayedWithMonth:
     - Pemain dengan jumlah permainan terbanyak bulan ini.
   ProfileMessages:
-    ItemsText:
-    - ""
+    ItemsText: []
     Profile:
     - "Halo {0}! Selamat datang di Dompet & Inventaris WB Anda!\n\nDi sini Anda dapat memeriksa semua mint, emoji, item, dan voucher peran yang Anda kumpulkan. Gunakan tombol-tombol di bawah ini untuk melakukan tindakan.\nApa yang ingin Anda lakukan?"
     LockEmoji:
@@ -1367,58 +1268,32 @@ strings:
   RewardPM:
   - ""
   - ""
-  - ""
-  - ""
   TelegramStars:
-    StarShop:
-    - ""
-    StarTicket:
-    - ""
-    StarItems:
-    - ""
-    StarConfirm:
-    - ""
-    StarCustomMessage:
-    - ""
-    StarPlayerTAG:
-    - ""
-    StarGifMenu:
-    - ""
-    StarRole:
-    - ""
-    StarEmoji:
-    - ""
-    StarEmojiDuration:
-    - ""
-    StarSuccess:
-    - ""
-    StarPayment:
-    - ""
-    StarPaidSuccess:
-    - ""
+    StarShop: []
+    StarTicket: []
+    StarItems: []
+    StarConfirm: []
+    StarCustomMessage: []
+    StarPlayerTAG: []
+    StarGifMenu: []
+    StarRole: []
+    StarEmoji: []
+    StarEmojiDuration: []
+    StarSuccess: []
+    StarPayment: []
+    StarPaidSuccess: []
   GiftMenu:
-    GiftShop:
-    - ""
-    GiftItems:
-    - ""
-    GiftConfirm:
-    - ""
-    GiftTicket:
-    - ""
-    GiftCustomMessage:
-    - ""
-    GiftPlayerTAG:
-    - ""
-    GiftCustomGif:
-    - ""
-    GiftRole:
-    - ""
-    GiftEmoji:
-    - ""
-    GiftEmojiDuration:
-    - ""
-    GiftSentSuccess:
-    - ""
+    GiftShop: []
+    GiftItems: []
+    GiftConfirm: []
+    GiftTicket: []
+    GiftCustomMessage: []
+    GiftPlayerTAG: []
+    GiftCustomGif: []
+    GiftRole: []
+    GiftEmoji: []
+    GiftEmojiDuration: []
+    GiftSentSuccess: []
   CustomGifs:
     NotPack:
     - Kamu belum membuka kunci paket GIF khusus. Silakan gunakan perintah /donasi.
@@ -1434,18 +1309,13 @@ strings:
     - "Siap membuat paket GIF khusus? \nBerikut adalah hal-hal yang perlu kamu ketahui:\n\n● GIF-mu memerlukan persetujuan sebelum dapat digunakan dalam permainan.\n● Tidak boleh mengirim GIF yang brutal, ilegal, atau lainnya di luar kebijakan kami.\n● Kamu akan menerima deskripsi gambar untuk memilih GIF.\n● Mengubah GIF memerlukan persetujuan ulang dari admin.\n\nAyo buat GIF khusus~"
     GifSubmitBtn:
     - Kirim
-    GifSend:
-    - ""
+    GifSend: []
     GifReset:
     - "Setel ulang GIF"
-    GifResetSuccess:
-    - ""
-    GifStatus:
-    - ''
-    Approved:
-    - ''
-    Disapproved:
-    - ''
+    GifResetSuccess: []
+    GifStatus: []
+    Approved: []
+    Disapproved: []
     GifError:
     - "GIF ini terlalu besar, ukuran maksimum yang diperbolehkan adalah 2MB. Silakan kirimkan GIF yang ingin Anda gunakan."
     GifSuccess:
@@ -1456,38 +1326,28 @@ strings:
     - "Anda telah mengirimkan paket GIF Anda dalam satu jam terakhir. Jika Anda mengirimkan GIF lalu mengubah sesuatu sebelum disetujui, tidak perlu mengirimkannya lagi. Harap menunggu dengan sabar, GIF Anda sedang ditinjau."
     GifEmpty:
     - Harap setel setidaknya satu GIF sebelum mengirimkan paket Anda.
-    GifCheckSuccess:
-    - ""
+    GifCheckSuccess: []
   TransferMenu:
-    Transfer:
-    - ""
+    Transfer: []
     TransferSelf:
     - "⚠️ Transfer Tidak Sah\n\nAnda tidak dapat mentransfer barang ke diri sendiri. Silakan pilih penerima lain untuk transaksi ini."
-    TransferFailed:
-    - ""
-    TransferItems:
-    - ""
+    TransferFailed: []
+    TransferItems: []
     ConfirmTransfer:
     - "🔄 Konfirmasi Transfer\n\nAnda akan mentransfer {0} ke {1}.\n\nBiaya: {2} Permen WB.\nPermen yang Tersedia: {3} Permen WB.\n\nApakah Anda ingin melanjutkan? Saldo Anda setelah transfer akan menjadi {4} Permen WB."
     TransferSuccess:
     - "Transfer Berhasil\n\nAnda berhasil mentransfer {0} ke {1}. Saldo baru Anda kini {2} Permen."
     TransferReceived:
     - "🎁Hadiah Diterima🎁\n\nAnda telah menerima {0} dari {1}. Nikmati item baru Anda. Terima kasih, selamat menikmati permainan~"
-    TransferRole:
-    - ""
-    TransferEmoji:
-    - ""
-    TransferTicket:
-    - ""
-    TransferLimit:
-    - ""
+    TransferRole: []
+    TransferEmoji: []
+    TransferTicket: []
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "Nama tagmu berhasil disetel. Tandai: {0}"
-    TagError:
-    - ""
-    TAGInvalid:
-    - ""
+    TagError: []
+    TAGInvalid: []
   CustomMessages:
     CustomMessageLenght:
     - "❗ Pesan tidak valid!\nPesan Anda harus terdiri dari antara {0} dan {1} karakter. Pilih pesan yang valid dan coba lagi."
@@ -1498,38 +1358,29 @@ strings:
     CustomMessageInvalid:
     - "❗ Tidak dapat mengaktifkan Tiket Pesan Khusus!\nAnda perlu mengatur pesan khusus terlebih dahulu. Gunakan perintah /specialmessage untuk memilih pesan, lalu coba aktifkan tiket lagi."
   FakeNames:
-    FakeNameLenght:
-    - ""
+    FakeNameLenght: []
     FakeNameSuccess:
     - "✅ Tag Nama Palsu Berhasil Disetel!\nTag nama baru Anda adalah: {0}. Anda sekarang dapat menggunakan nama ini di dalam game!"
     FakeNameInvalid:
     - "❗ Tidak dapat mengaktifkan Tiket Nama Palsu!\nAnda perlu menetapkan nama palsu terlebih dahulu. Gunakan perintah /fakename untuk memilih nama, lalu coba aktifkan tiket lagi."
   FakeRoles:
-    FakeRoleSuccess:
-    - ""
-    NoRole:
-    - ""
-    RoleInvalid:
-    - ""
+    FakeRoleSuccess: []
+    NoRole: []
+    RoleInvalid: []
   Others:
-    Donate:
-    - ""
+    Donate: []
     UserNotFound:
     - "⚠️ Pengguna Tidak Ditemukan\n\nID Pengguna atau Nama Pengguna yang Anda masukkan tidak dapat ditemukan. Pastikan Anda telah memasukkan ID atau Nama Pengguna yang benar dan coba lagi."
     ForceJoinSuccess:
     - "{0} telah bergabung secara paksa ke dalam permainan oleh {1}! Bersiaplah untuk aksi yang mendebarkan! 🎉"
-    TicketRequired:
-    - ""
+    TicketRequired: []
     JoinButton:
     - "Gabung"
     Skip:
     - "Lewati"
-    Yes:
-    - ""
-    No:
-    - ""
-    VoteBtn:
-    - ""
+    Yes: []
+    No: []
+    VoteBtn: []
     GoToBtn:
     - Pergi ke Bot
     RolList:
@@ -1583,8 +1434,7 @@ strings:
     - "Pilihan diterima."
     And:
     - "dan"
-    NewUnlocks:
-    - ""
+    NewUnlocks: []
     PlayersAlive:
     - "Pemain yang masih hidup"
     Players:
@@ -1625,8 +1475,7 @@ strings:
     - "Kamu tidak bisa bergabung dalam permainan ini karena kamu bukan anggota dari grup {0}."
     GroupNotFound:
     - "Tidak dapat menemukan grup. Silakan jalankan perintah ini di grup yang ingin Anda hentikan menunggu, atau tambahkan tautan, id, atau nama pengguna di sebelah perintah."
-    RoleCommand:
-    - ''
+    RoleCommand: []
     DisableGameMode:
     - "Maaf {0}, Admin Grup telah menonaktifkan mode ini di grup ini. Bagaimana kalau Anda meminta mereka untuk mengaktifkannya terlebih dahulu :)"
     DeadSlient:
@@ -1649,8 +1498,7 @@ strings:
     - "Pemain dengan paket gif khusus :"
     ForceStarted:
     - 'Permainan dimulai secara paksa oleh: {0}'
-    TreasureWin:
-    - ""
+    TreasureWin: []
     NameExists:
     - "@{1}, pemain dengan nama {0} sudah bergabung. Harap ubah namamu agar kamu bisa bergabung dalam permainan."
     ChangeNameToJoin:
@@ -1666,5 +1514,4 @@ strings:
     NoNodes:
     - "Tidak ada node yang online saat ini, silakan coba lagi dalam beberapa detik"
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []

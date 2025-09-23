@@ -623,8 +623,7 @@ strings:
   Preacher:
     Preacher:
     - "Vaiz 🛐"
-    RoleInfoPreacher:
-    - ""
+    RoleInfoPreacher: []
     AskPreacher:
     - "Kim için dua etmek istiyorsun?"
     PreacherDone:
@@ -636,18 +635,14 @@ strings:
   GraveDigger:
     GraveDigger:
     - "Mezarcı ☠️"
-    RoleInfoGraveDigger:
-    - ""
-    AskGraveDigger:
-    - ""
+    RoleInfoGraveDigger: []
+    AskGraveDigger: []
     DigNoGraves:
     - "Ölüler gömülüdür ve yaşayanlar değildir. Her şey olması gerektiği gibi olduğu için iyi bir gece uykusu çekebilirsin."
     DigGraves:
     - "Gecenin geç saatlerine kadar, {0}’in mezarını kazıyorsun. Bedenleri huzur içinde yatsın."
-    DefaultFellDigger:
-    - ""
-    DefaultVisitDigger:
-    - ""
+    DefaultFellDigger: []
+    DefaultVisitDigger: []
     WolfFellWolves:
     - "{0}’i yemek için gittin ancak o da ne??? {1} aniden bir ayı tuzağına adım attı. Açık bir mezara düştü ve gömüldü!"
     WolvesSpotted:
@@ -660,13 +655,11 @@ strings:
     - "Sadece işini yapmaya çalışıyordun, aniden çılgın bir katil seni gördü ve bıçakladı! Ne yazık..."
     CultConvertGraveDigger:
     - "{1}'in evine giderken, {0} birdenbire kiliseyi de ziyaret etmenin iyi bir fikir olduğuna karar verir. Birdenbire bir ayı tuzağı ayak bileği çevresine oturarak mezara kapaklanır! Duyabildiğin tek şey onların bir mezara düşmeden önceki çığlıkları ve hayatın için kaçıyorsun."
-    DefaultFell:
-    - ""
+    DefaultFell: []
   Conjurer:
     Conjurer:
     - "Hokkabaz Kurt 🐺✨"
-    RoleInfoConjurer:
-    - ""
+    RoleInfoConjurer: []
     AskConjurer:
     - "Yeteneğini bugün kullanmak ister misin?"
     ConjurerChoice:
@@ -674,50 +667,35 @@ strings:
   Miner:
     Miner:
     - "Madenci ⛏"
-    RoleInfoMiner:
-    - ""
+    RoleInfoMiner: []
     AskMiner:
     - "Kimin evine tünel kazmak istiyorsun?"
     MinerDone:
     - "{0}'in evine başarıyla tünel kazdın. Şimdi gece aksiyonu olan oyuncular hedeflerini şaşıracak ve farklı bir eve çıkacaklar."
-    MinerChanged:
-    - ""
+    MinerChanged: []
   Pawn:
     Pawn:
     - "Piyon ♟"
-    RoleInfoPawn:
-    - ""
+    RoleInfoPawn: []
     AskPawn:
     - "Kim için kendini feda etmek istiyorsun ?"
     PawnSaved:
     - "Korumak için {0}'i seçtin ve hedefin saldırı aldı. Onurlu bir fedai olarak hedefinin hayatta kalması için kendini feda ettin ve öldün."
-    PawnSavedYou:
-    - ""
-    PawnNoAttack:
-    - ""
-    PawnWolf:
-    - ""
-    PawnKiller:
-    - ""
-    PawnEmptyHouse:
-    - ""
-    PawnKilledCH:
-    - ""
-    PawnGuardedKiller:
-    - ""
-    PawnGuardedWolf:
-    - ""
-    PawnBlockedWolf:
-    - ""
-    PawnBlockedKiller:
-    - ""
-    PawnBlockedCH:
-    - ""
+    PawnSavedYou: []
+    PawnNoAttack: []
+    PawnWolf: []
+    PawnKiller: []
+    PawnEmptyHouse: []
+    PawnKilledCH: []
+    PawnGuardedKiller: []
+    PawnGuardedWolf: []
+    PawnBlockedWolf: []
+    PawnBlockedKiller: []
+    PawnBlockedCH: []
   Soldier:
     Soldier:
     - "Komando 🪖"
-    RoleInfoSoldier:
-    - ""
+    RoleInfoSoldier: []
     AskSoldier:
     - "Linç oylamasında kimi korumak istiyorsun?"
     AskSoldier2:
@@ -727,41 +705,29 @@ strings:
     SoldierDone:
     - "Köylüler linç aşamasında başarıyla oylarını kullandılar. Linç edilmek üzere {0} seçildi. Ancak {0}'i kollayan bir komando vardı ve linç aşamasını {1}'e yönlendirmeyi tercih etti. {2}"
   Rogue:
-    Rogue:
-    - ""
-    RoleInfoRogue:
-    - ""
-    AskRogue:
-    - ""
-    AskRogue2:
-    - ""
-    RogueSuccess:
-    - ""
+    Rogue: []
+    RoleInfoRogue: []
+    AskRogue: []
+    AskRogue2: []
+    RogueSuccess: []
   Executioner:
     Executioner:
     - "Cellat 🦸‍♂️"
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "Köle 😵‍💫"
-    RoleInfoSlave:
-    - ""
+    RoleInfoSlave: []
     SlaveLynched:
     - "Başarılı bir şekilde {0}'i linç ettirdin. Köydeki adalet arayışın artık sona erdi ve amacınıza ulaştın. Sana verilen görevi yerine getirdin ve bu karanlık oyundan galip ayrıldın."
     SlaveTarget:
     - "Hedefin: {0}.\nHedefini linç ettirerek bu karanlık görevi tamamlamak zorundasın."
   Poseidon:
-    Poseidon:
-    - ""
-    RoleInfoPoseidon:
-    - ""
+    Poseidon: []
+    RoleInfoPoseidon: []
     AskPoseidon:
     - "Bugün tsunami başlatmak ister misin?"
     PoseidonRevealInfo:
@@ -769,33 +735,20 @@ strings:
     PoseidonReveal:
     - "Gün ağırdıktan hemen sonra köye vuran şiddetli dalgalar tsunamiye sebep oldu. Denizlerin görkemli tanrısı Poseidon kendisi için bir günah keçisi arıyordu ve kızgın dalgaların hedefi {0} oldu!\n{1}."
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "Gündüz vakti olduğunda köylüler herhangi bir dövme sesi duymuyordu. İmalathaneyi kontrol etmeye gittiklerinde ise demirci başı olan {0}'in cesedi ile karşılaşırlar. Seri katil elindeki bıçağı daha iyi bilemek için imalathaneye girmiş ve fırsattan istifade köyün demircisinden de kurtulmuş."
@@ -816,8 +769,7 @@ strings:
     - "Gündüz olduğunda tüm köy hazır olda bekliyordu. Dün gece Kral için kara bir geceydi. Gecenin geç vakitlerinde prens {0} seri katilin kurbanlarından biriydi. Hiçbir asil kan ölümsüz değildir ve bu olay bunun ispatı oldu. {0} için amansız bir son..."
     SeerKilled:
     - "Görüş kazanmak için yaptığı ritüeller sırasında Gözcü {0}, beklenmedik bir sürprizle karşılaştı. Gözüne kestiremediği bir seri katil ironik bir şekilde onu kesip doğradı. Vücudundaki her bir kesik, detaylı bir şekilde oluşturulmuştu..."
-    PawnKilled:
-    - ""
+    PawnKilled: []
     DefaultKilled:
     - "{0} için yeterince sessiz bir gece olması bekleniyordu. Rüyasının tam ortasında ciğerine saplanmış bir bıçak olacağını kim bilebilirdi! Köylüler {0}'i yatağında organlarından bazılarını eksik şekilde buldular. Görünüşe göre katil kurbanlarını kâbuslarında avlamakla yetinmemiş! {1}."
   EatenMessages:
@@ -828,12 +780,10 @@ strings:
     - "Dolunay vakti tepelerdeki kurt sürüsünün uğultusu hayli ürpertici idi. Ancak bu uğultunun kaynağı tamamıyla kederliydi. Kurt sürüsünün gözü öyle dönmüş olmalı ki kendi müttefikleri olan Falcı {0}'i öldürdüler."
     WildChildEaten:
     - "OOOOYYYYYYY! Gece vakti duyulan çığlıklar hiç de normal sesler değildi. Bir çocuğun çığlık sesleriydi. Kurt sürüsü gittikçe tehlikeli ve onursuz bir hâl almaya başlıyor. {0} gibi böylesine masum, küçük bir çocuğu atıştırmalık olarak görmek nereden baksak omurgasızlık!"
-    PawnEaten:
-    - ""
+    PawnEaten: []
     DetectiveEaten:
     - "Sabah vakti köy halkı telaşla {0}'in evinin önünde toplandılar. Köyün muhtarı kalabalığın arasından geçerek ne olduğunu anlamaya çalıştı ancak karşılaştığı manzara içler acısıydı. Köy halkının büyük umudu olan Dedektif {0} kurt adamlar tarafından tespit edilmiş ve öldürülmüş!"
-    GuardianEaten:
-    - ""
+    GuardianEaten: []
     GunnerEaten:
     - "Gece vakti yaşanan gürültüden sonra sabah vakti tüm köy halkı alel acele meydana toplandı. Sadece silah tutan, bedeninden kopmuş bir el buldular. Az biraz ötede ise {0}'in cansız bedenini. Silahşörünüzü kaybettiniz."
     SeerEaten:
@@ -938,42 +888,28 @@ strings:
     - "Mesajları Sabitleme Ayarlandı {0}."
     ShowRolesDeath:
     - Ölümlerde rolleri göster
-    ShowRolesDeathQ:
-    - ""
+    ShowRolesDeathQ: []
     ShowRolesDeathA:
     - "Ölümlerde roller {0} olarak ayarlandı"
-    WelcomeMessage:
-    - ""
-    WelcomeMessageQ:
-    - ""
-    WelcomeMessageA:
-    - ""
-    PMMessage:
-    - ""
-    PMMessageQ:
-    - ""
-    PMMessageA:
-    - ""
-    RoleCards:
-    - ""
-    RoleCardsQ:
-    - ""
-    RoleCardsA:
-    - ""
+    WelcomeMessage: []
+    WelcomeMessageQ: []
+    WelcomeMessageA: []
+    PMMessage: []
+    PMMessageQ: []
+    PMMessageA: []
+    RoleCards: []
+    RoleCardsQ: []
+    RoleCardsA: []
     MaxExtend:
     - Max extend süresini ayarla
     MaxExtendQ:
     - "Oyuna katılım aşamasında /extend komutu ile tek seferde eklenebilecek max süre sayısını belirle\r\nVarsayılan: {0}\r\nMevcut: {1}"
     MaxExtendA:
     - "Max süre uzatma {0} saniye olarak ayarlandı"
-    DisableGModes:
-    - ""
-    DisableGModesInfo:
-    - ""
-    MuteModes:
-    - ""
-    MuteModesInfo:
-    - ""
+    DisableGModes: []
+    DisableGModesInfo: []
+    MuteModes: []
+    MuteModesInfo: []
     Lang:
     - "Dili Değiştir"
     DayTimer:
@@ -1071,8 +1007,7 @@ strings:
     - Aşk
     CustomMode:
     - Özel
-    NormalMode:
-    - ""
+    NormalMode: []
     ChaosMode:
     - Kaos
   RoleList:
@@ -1091,22 +1026,14 @@ strings:
     AboutSoloTeam:
     - "Solo Takım\n\nKöyde bir takımın parçası olmak yerine tek başına hareket etmeyi tercih eden bireyler. Kurt adamların aksine, oyuncuları bireysel olarak ortadan kaldırma yeteneğine sahiptirler. Amaçları köyde hayatta kalan tek kişi olmaktır, bu da onları zafere götürecektir.\n\nSolo Oyuncular: Seri Katil, Kundakçı, İblis, Hırsız (rol çalana dek), Çift Giden (rol modeli ölene dek)"
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "Köy meydanında ayakta duran yalnızca iki kişi vardı... {0} hiç düşünmeden hedefinin üzerine elindeki bıçakla saldırmaya başladı. Tüfeğine davranamadan sayısız bıçak darbesi alan {1}, kan kaybından ölmek üzereydi ancak büyük bir acı çekmek uğruna risk aldı ve bıçağın üzerine atlayarak son anda tüfeğine ulaştı ve {0}'i vurmayı başardı... ancak bu köyde kazanan kimse yok!"
@@ -1127,22 +1054,14 @@ strings:
     ThiefEnd:
     - "{0} köyün etrafında dolaşırken, çalmak için daha eğlenceli bir rol bulunmadığını öğrendi. Hızla bu fakir köyden ayrıldı ve şanlı kariyerini yeniden başlatmak için başka bir köy aradı.."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
     Loots:
     - "Ganimetler!"
   Stats:
@@ -1183,29 +1102,18 @@ strings:
     CustomNoRole:
     - Oyuna başlamadan önce rolleri ekle lütfen.
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
-    BanReason:
-    - ""
-    BanExpire:
-    - ""
-    GroupBanPlayer:
-    - ""
-    Year:
-    - ""
-    Day:
-    - ""
-    Minutes:
-    - ""
-    Hours:
-    - ""
-    Seconds:
-    - ""
+    GroupBan: []
+    GlobalBan: []
+    BanReason: []
+    BanExpire: []
+    GroupBanPlayer: []
+    Year: []
+    Day: []
+    Minutes: []
+    Hours: []
+    Seconds: []
   TeamsMessages:
-    MyTeam:
-    - ""
+    MyTeam: []
     NothingTeam:
     - "Şuan herhangi bir takıma üye değilsin.\n/jointeam komutu ile, var olan herhangi bir takıma üye olabilirsin.\nBir takımın üyesi ol ve zafere giden yolda mücadeleci bir ekibin parçası ol!"
     JoinTeam:
@@ -1250,12 +1158,9 @@ strings:
     SecretLynchResultNumber:
     - "{0} kişi {1}’a oy verdi."
   PublicMessages:
-    DefaultFellPublic:
-    - ""
-    KillerSpottedDiggerPublic:
-    - ""
-    WolvesSpottedDiggerPublic:
-    - ""
+    DefaultFellPublic: []
+    KillerSpottedDiggerPublic: []
+    WolvesSpottedDiggerPublic: []
     HarlotFuckKillerPublic:
     - "Köy {0}'in cesedini görür, sayısız bıçak yarası ile meydanda ölü yatıyor. {0} öldü."
     HarlotFuckedKilledPublic:
@@ -1265,8 +1170,7 @@ strings:
     - Burada tüm topluluklara erişebileceğin Resmi Gruplar mevcut. Katılmak istediğin topluluk grubuna tıkla.
     Welcome:
     - "Merhaba {0}! 🐾 Wolf Blood'a hoşgeldin!\n\nKöy kasabasının kurt sürüsüne karşı olduğu, inanılmaz derecede heyecanlı ve gizemli olan bir yolculuğa hazır ol. Klasik Kurt Adam oyununu mod ve rol yenilikleri ile üst düzey bir deneyim seviyesine çıkar.\n\nResmi gruplara katıl ve global'de birçok oyuncu ile mücadelelere gir. Yeni güncellemeleri Wolf Blood News kanalından takip edebilir ve herhangi bir yardım için Destek grubuna ulaşım sağlayabilirsin.\n\n🐾 İyi Oyunlar🐺"
-    CreditsText:
-    - ""
+    CreditsText: []
   AFKs:
     IdleKill:
     - "{0} üst üste iki gece oylamaya katılmadı. AFK kalmanın bedelini canını vererek ödedi. {0} yere kapaklandı ve öldü. {1}"
@@ -1277,63 +1181,36 @@ strings:
   StoreMessages:
     Store:
     - "🛒 WB Mağazasına Hoş geldiniz!\nSatın alınabilecek öğelerin listesini keşfederek oyun deneyiminizi geliştirmek için WB Mint kullanın. Devam etmek için aşağıdaki butonlara tıklayın.\n\nMevcut Mint: {0} 🪙\nMevcut Emoji Parçası: {1} 🧩\n\nNe satın almak istersin?"
-    BuyFailed:
-    - ""
-    BuyConfirm:
-    - ""
+    BuyFailed: []
+    BuyConfirm: []
     BuySuccess:
     - "🎉 Satın alma işlemi başarılı!\nBaşarılı bir şekilde {0} itemini satın aldın\nMevcut bakiyen {1}\nSatın alma için teşekkürler!"
-    BuyItems:
-    - ""
-    BuyTicket:
-    - ""
-    BuyRole:
-    - ""
-    BuyEmoji:
-    - ""
-    BuyEmojiDuration:
-    - ""
+    BuyItems: []
+    BuyTicket: []
+    BuyRole: []
+    BuyEmoji: []
+    BuyEmojiDuration: []
   TicketButtons:
-    ForceToken:
-    - ''
-    RoleVouchers:
-    - ''
-    FJoin:
-    - ''
-    FName:
-    - ''
-    BonusPointTicket:
-    - ''
-    Fragment:
-    - ''
-    Mint:
-    - ''
-    BonusRankedModeTicket:
-    - ''
-    CustomMessageTicket:
-    - ''
-    CustomEmoji:
-    - ''
-    PlayerTAG:
-    - ''
-    CustomGifs:
-    - ''
-    FakeRole:
-    - ''
-    MyTicketButton:
-    - ''
-    MyItemButton:
-    - ''
-    TournamentPoint:
-    - ''
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    ForceToken: []
+    RoleVouchers: []
+    FJoin: []
+    FName: []
+    BonusPointTicket: []
+    Fragment: []
+    Mint: []
+    BonusRankedModeTicket: []
+    CustomMessageTicket: []
+    CustomEmoji: []
+    PlayerTAG: []
+    CustomGifs: []
+    FakeRole: []
+    MyTicketButton: []
+    MyItemButton: []
+    TournamentPoint: []
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "{0}'daki en iyi ilk 10 :"
@@ -1344,12 +1221,10 @@ strings:
     MostPlayedWithMonth:
     - Bu ayın en çok oyun oynayan oyuncuları
   ProfileMessages:
-    ItemsText:
-    - ""
+    ItemsText: []
     Profile:
     - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
-    LockEmoji:
-    - ""
+    LockEmoji: []
     MaxEmoji:
     - Maksimum emoji aktif etme sayısına ulaştınız. Daha fazla aktif etmek için /donate komutu ile bağış yapın.
     EmojiChoice:
@@ -1367,58 +1242,32 @@ strings:
   RewardPM:
   - ""
   - ""
-  - ""
-  - ""
   TelegramStars:
-    StarShop:
-    - ""
-    StarTicket:
-    - ""
-    StarItems:
-    - ""
-    StarConfirm:
-    - ""
-    StarCustomMessage:
-    - ""
-    StarPlayerTAG:
-    - ""
-    StarGifMenu:
-    - ""
-    StarRole:
-    - ""
-    StarEmoji:
-    - ""
-    StarEmojiDuration:
-    - ""
-    StarSuccess:
-    - ""
-    StarPayment:
-    - ""
-    StarPaidSuccess:
-    - ""
+    StarShop: []
+    StarTicket: []
+    StarItems: []
+    StarConfirm: []
+    StarCustomMessage: []
+    StarPlayerTAG: []
+    StarGifMenu: []
+    StarRole: []
+    StarEmoji: []
+    StarEmojiDuration: []
+    StarSuccess: []
+    StarPayment: []
+    StarPaidSuccess: []
   GiftMenu:
-    GiftShop:
-    - ""
-    GiftItems:
-    - ""
-    GiftConfirm:
-    - ""
-    GiftTicket:
-    - ""
-    GiftCustomMessage:
-    - ""
-    GiftPlayerTAG:
-    - ""
-    GiftCustomGif:
-    - ""
-    GiftRole:
-    - ""
-    GiftEmoji:
-    - ""
-    GiftEmojiDuration:
-    - ""
-    GiftSentSuccess:
-    - ""
+    GiftShop: []
+    GiftItems: []
+    GiftConfirm: []
+    GiftTicket: []
+    GiftCustomMessage: []
+    GiftPlayerTAG: []
+    GiftCustomGif: []
+    GiftRole: []
+    GiftEmoji: []
+    GiftEmojiDuration: []
+    GiftSentSuccess: []
   CustomGifs:
     NotPack:
     - "Henüz özel GIF paketinin kilidini açmadın.\n/donate komutunu kullanarak bunu sağkayabilirsin."
@@ -1434,18 +1283,13 @@ strings:
     - "Kendi özel, kişisel GIF paketini oluşturmaya hazır mısın? İşte bilmen gerekenler;\n\n• Paketin oyunlarda kullanmadan önce yönetici onayından geçmesi lazım.\n• İzin verilmeyen içerik: Vahşet ya da illegal içerikli GIFler ve yönetimin takdirine bağlı olan kriterler.\n• GIF seçmek için, bir açıklama mesajı göreceksin.\n• GIF paketini yeniden düzenlemek, değiştirmek tekrardan yönetici tarafından onay sürecine girer.\n\nMevcut paketinin durumuna göre sana uygun GIF paketi oluşturalım!"
     GifSubmitBtn:
     - Onay için talepte bulun
-    GifSend:
-    - ""
+    GifSend: []
     GifReset:
     - "GIFleri sıfırla"
-    GifResetSuccess:
-    - ""
-    GifStatus:
-    - ''
-    Approved:
-    - ''
-    Disapproved:
-    - ''
+    GifResetSuccess: []
+    GifStatus: []
+    Approved: []
+    Disapproved: []
     GifError:
     - "Bu GIF boyutu çok fazla, en fazla 2MB boyutunda olan GIFlere izin verilebilir. Lütfen bu koşula uygun olarak, mesajı yanıtlayarak istediğin bir GIF gönder."
     GifSuccess:
@@ -1456,78 +1300,54 @@ strings:
     - "GIF paketini son bir saat içinde zaten gönderdin! GIF'lerini gönderir ve onaylanmadan önce bir şeyleri değiştirirsen, tekrar göndermene gerek yok! Lütfen GIF paketin incelenirken sabırla bekle."
     GifEmpty:
     - Lütfen paketini göndermeden önce en az bir GIF ayarla!
-    GifCheckSuccess:
-    - ""
+    GifCheckSuccess: []
   TransferMenu:
-    Transfer:
-    - ""
+    Transfer: []
     TransferSelf:
     - "⚠️ Geçersiz Transfer\n\nİtemleri kendine transfer edemezsin. Nesin sen dahi falan mı? Başka bir alıcı belirle lütfen."
-    TransferFailed:
-    - ""
-    TransferItems:
-    - ""
+    TransferFailed: []
+    TransferItems: []
     ConfirmTransfer:
     - "🔄 Transfer Onayı\n{0} itemini {1} kullanıcısına transfer etmek üzeresin.\n\nÜcret: {2} WB Mint\nMevcut Mint: {3} WB Mint\n\nİşlemi gerçekleştirmek istiyor musun?\nTransfer sonrası bakiye: {4} WB Mint"
     TransferSuccess:
     - "✅ Transfer işlemi başarılı\n\n{0} başarı ile {1} kullanıcısına transfer ettin. Mevcut bakiyen {2} Mint.\n\nWolf Blood mağazasını kullandığın için teşekkürler."
     TransferReceived:
     - "🎉 Bir Hediye Elde Ettin 🎁\n\n{1} tarafından sana {0} gönderildi.\n\nYeni itemlerinin tadını çıkar!"
-    TransferRole:
-    - ""
-    TransferEmoji:
-    - ""
-    TransferTicket:
-    - ""
-    TransferLimit:
-    - ""
+    TransferRole: []
+    TransferEmoji: []
+    TransferTicket: []
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "Yeni isim etiketin başarıyla ayarlandı. Etiket: {0}"
-    TagError:
-    - ""
-    TAGInvalid:
-    - ""
+    TagError: []
+    TAGInvalid: []
   CustomMessages:
-    CustomMessageLenght:
-    - ""
-    CustomMessageSuccess:
-    - ""
-    CustomMessageAllLetter:
-    - ""
-    CustomMessageInvalid:
-    - ""
+    CustomMessageLenght: []
+    CustomMessageSuccess: []
+    CustomMessageAllLetter: []
+    CustomMessageInvalid: []
   FakeNames:
-    FakeNameLenght:
-    - ""
-    FakeNameSuccess:
-    - ""
-    FakeNameInvalid:
-    - ""
+    FakeNameLenght: []
+    FakeNameSuccess: []
+    FakeNameInvalid: []
   FakeRoles:
-    FakeRoleSuccess:
-    - ""
-    NoRole:
-    - ""
-    RoleInvalid:
-    - ""
+    FakeRoleSuccess: []
+    NoRole: []
+    RoleInvalid: []
   Others:
-    Donate:
-    - ""
+    Donate: []
     UserNotFound:
     - "⚠️ Kullanıcı Bulunamadı\n\nSpesifik olarak belirtilen Kullanıcının ID/Kullanıcı Adı bulunamadı. Doğru ID/Kullanıcı Adı girdiğine emin ol ve ardından lütfen tekrar dene."
     ForceJoinSuccess:
     - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
-    TicketRequired:
-    - ""
+    TicketRequired: []
     JoinButton:
     - "Katıl"
     Skip:
     - "Geç"
-    Yes:
-    - ""
-    No:
-    - ""
+    Yes: []
+    No: []
     VoteBtn:
     - OY VER 🗳
     GoToBtn:
@@ -1625,10 +1445,8 @@ strings:
     - "Bu oyuna katılamazsınız çünkü {0} ait bir üye değilsiniz."
     GroupNotFound:
     - "Grup bulunamadı. Lütfen bu komutu grubunuzda çalıştırın ve beklememek için komuttan sonra yanına link, id veya kullanıcı adı bırakın."
-    RoleCommand:
-    - ''
-    DisableGameMode:
-    - ""
+    RoleCommand: []
+    DisableGameMode: []
     DeadSlient:
     - "Öldüğün için gruba mesaj göndermen oyun sonuna kadar kısıtlandı. Oyun bittikten sonra yeniden yazmaya başlayabilirsin. Bir sonraki oyun için bildirim almak istiyorsan aşağıdaki butona tıkla."
     PlayerLimitReached:
@@ -1649,8 +1467,7 @@ strings:
     - "Özel GIF paketi olan oyuncular:"
     ForceStarted:
     - 'Forcestart yapan oyuncu: {0}'
-    TreasureWin:
-    - ""
+    TreasureWin: []
     NameExists:
     - "@{1}, {0} isminde bir oyuncu zaten katıldı. Lütfen katılmak için ismini değiştir."
     ChangeNameToJoin:
@@ -1666,5 +1483,4 @@ strings:
     NoNodes:
     - "Şu an herhangi bir çevrimiçi ağ yok; birkaç saniye sonra yine dene."
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []

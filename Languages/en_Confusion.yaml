@@ -595,20 +595,13 @@ strings:
     ShadowPower:
     - "You have successfully used your abilities. When the lynching phase begins, the villagers will not be able to see who they are lynching, and all lynchings will be seen as '?'. Werewolves will continue to see who they lynch.."
   Skeleton:
-    Skeleton:
-    - ""
-    RoleInfoSkeleton:
-    - ""
-    ButtonAppears:
-    - ""
-    AskSkeleton:
-    - ""
-    ChoiceConfirmation:
-    - ""
-    BlockedNotice:
-    - ""
-    HauntButton:
-    - ""
+    Skeleton: []
+    RoleInfoSkeleton: []
+    ButtonAppears: []
+    AskSkeleton: []
+    ChoiceConfirmation: []
+    BlockedNotice: []
+    HauntButton: []
   Doctor:
     Doctor:
     - "Doctor 🧑‍⚕️"
@@ -738,16 +731,11 @@ strings:
     RogueSuccess:
     - "You have chosen to imitate {0}. The role you are imitating is {1}!"
   Executioner:
-    Executioner:
-    - ""
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    Executioner: []
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "Slave 😵‍💫"
@@ -769,33 +757,20 @@ strings:
     PoseidonReveal:
     - "Poseidon, the god of the seas, has emerged from his majestic palace, and a tsunami is sweeping through the village. The entire village attempts to escape the tsunami, but {0} fails. {0} drowns to death.\n{1}"
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "Seems like {0}, the resident blacksmith, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe the serial killer was hoping to expand their weapon collection alongside their organ one..."
@@ -1091,22 +1066,14 @@ strings:
     AboutSoloTeam:
     - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "As the sun rises, {0} and {1} walk out into the village. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the village is empty, there is no winner..."
@@ -1127,22 +1094,14 @@ strings:
     ThiefEnd:
     - "As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
     Loots:
     - "Loots!"
   Stats:
@@ -1291,8 +1250,7 @@ strings:
     - "🎫 Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} 🪙\nChoose a role to purchase!"
     BuyEmoji:
     - "😄 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (🧩).\nAvailable Fragments: {0} 🧩\n\nPick an emoji to buy and personalize your experience!"
-    BuyEmojiDuration:
-    - ""
+    BuyEmojiDuration: []
   TicketButtons:
     ForceToken:
     - '{0} FS Token'
@@ -1326,14 +1284,10 @@ strings:
     - '{0} Items'
     TournamentPoint:
     - '{0} Tournament Point'
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "Top 10 in {0} :"
@@ -1388,8 +1342,7 @@ strings:
     - "🧩 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
     StarEmoji:
     - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
-    StarEmojiDuration:
-    - ""
+    StarEmojiDuration: []
     StarSuccess:
     - "📦 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} 🛍️\nIt'll cost you {2} Telegram Stars 🌟\nCheck your messages — once you complete the payment, your goodies will be on their way! 🎁🚀"
     StarPayment:
@@ -1415,8 +1368,7 @@ strings:
     - "🧩 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
     GiftEmoji:
     - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
-    GiftEmojiDuration:
-    - ""
+    GiftEmojiDuration: []
     GiftSentSuccess:
     - "🎁 Gift Delivered!\n\nYour gift to {0} has been successfully sent! 📨\nYou've just shared:\n{1} 🎉\n\nKindness like this keeps the game fun and full of surprises. 🌟"
   CustomGifs:
@@ -1459,8 +1411,7 @@ strings:
     GifCheckSuccess:
     - "🎉 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! 🐺✨"
   TransferMenu:
-    Transfer:
-    - ""
+    Transfer: []
     TransferSelf:
     - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
     TransferFailed:
@@ -1479,8 +1430,7 @@ strings:
     - "😄 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
     TransferTicket:
     - "🎫 Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
-    TransferLimit:
-    - ""
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "Your new name tag was set successfully. Tag: {0}"
@@ -1583,8 +1533,7 @@ strings:
     - "Choice accepted."
     And:
     - "and"
-    NewUnlocks:
-    - ""
+    NewUnlocks: []
     PlayersAlive:
     - "Players Alive"
     Players:
@@ -1666,5 +1615,4 @@ strings:
     NoNodes:
     - "There are no nodes online right now, please try again in a few seconds"
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []

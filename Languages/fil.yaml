@@ -145,8 +145,7 @@ strings:
     - "si FPJ 🔫"
     RoleInfoGunner:
     - "Ikaw si FPJ 🔫. May dalawa kang bala. Sa araw, pwede ka pumili ng player na babarilin. Maririnig ng lahat ang putok ng baril mo at malalaman na ikaw ang Gunner (at hindi wolf)"
-    AskShoot:
-    - ""
+    AskShoot: []
     HarlotShot:
     - "Mukhang naging positive si {0} matapos ang gabi kasama ang Haliparot! Si FPJ ay nakaganti. Si {1} ay patay na."
     DefaultShot:
@@ -286,8 +285,7 @@ strings:
     DGToWolf:
     - "Ang transformer na si {0} ay wolf na ngayon!"
   Cupid:
-    Cupid:
-    - ""
+    Cupid: []
     RoleInfoCupid:
     - "Ikaw si Kupido 🏹 (Cupid). Pinadala sa mundo ng naka-diaper lang na may hawak na pana. Pumili ng dalawang player na papanain at sila’y magmamahalan habang buhay (kasi walang forever). Kapag namatay ang isa sakanila, madedepress ng todo yung isa kaya magssuicide nalang siya (baka daw kasi may forever sa kabilang buhay)"
     AskCupid1:
@@ -411,8 +409,7 @@ strings:
     - "Dahil sa taos-pusong pananalita ng Pasipista ☮️, walang pagbitay ngayon!"
     LynchPeaceTimeout:
     - Skipped ang Lynching ngayon dahil sa taos pusong speech ng Pacifist!
-    Peace:
-    - ""
+    Peace: []
   WiseElder:
     WiseElder:
     - "the Wise Elder 📚"
@@ -492,12 +489,10 @@ strings:
     TroubleDoubleLynchNow:
     - "Dahil sa basagulero, dalawang beses ang pagbitay ngayon! Sana tumahimik na siya bukas."
   Chemist:
-    Chemist:
-    - ""
+    Chemist: []
     RoleInfoChemist:
     - "Ikaw ang Chemist 🧪, isang baliw na siyentipiko na nag-eeksperimento sa mga buhay na nilalang. Sa unang gabi, naghahanda ka ng 4 na potion 2 ay nakamamatay na lason at 2 ay hindi nakakapinsalang mga pangpawala ng sakit. Maaari kang pumili ng target na ibibigay sa isa sa bawat isa, na iniiwan sa kanila na magpasya sa kanilang sariling kapalaran! Kung ang isang masamang papel ay namatay mula sa lason, makakatanggap ka ng 2 dagdag na potion. Pagkatapos bisitahin ang isang tao, kailangan mong maghintay ng 1 araw bago bumisita sa isa pang manlalaro."
-    AskChemist:
-    - ""
+    AskChemist: []
     AskChemistPill:
     - "Pinipilit ka ng Chemist na pumili ng potion. Ang isa ay nakamamatay at ang isa ay ligtas. Alin ang pipiliin mo?"
     ChemistFail:
@@ -576,11 +571,9 @@ strings:
     - "Si {0} at {1} na lang ang natitira... Biglang ngumiti si {0}, naglabas ng posporo, sinindihan ito at inihagis sa paanan ni {1}, ito ay nagliyab!"
     ArsonistVisitKiller:
     - "Ang arson na si {0} ay sinubukang lagyan ng petrolyo ang bahay ng mamamatay-tao... Hindi sila nakaligtas dito."
-    Spark:
-    - ""
+    Spark: []
   Boss:
-    Boss:
-    - ""
+    Boss: []
     RoleInfoBoss:
     - "🎩 Ikaw ang Amo. Kinamumuhian mo ang mga bibe at saan ka man makakita ng isang bibe, sumasali ka sa kanila sa pamamagitan ng pagpapanggap na sila. Gayunpaman, hindi nila alam na kabilang ka sa kanila, at iniuulat mo ang bilang ng mga bibe sa grupo ng mga taga barangay gabi-gabi.. "
     CultCount:
@@ -597,18 +590,12 @@ strings:
   Skeleton:
     Skeleton:
     - "Kalansay 💀"
-    RoleInfoSkeleton:
-    - ""
-    ButtonAppears:
-    - ""
-    AskSkeleton:
-    - ""
-    ChoiceConfirmation:
-    - ""
-    BlockedNotice:
-    - ""
-    HauntButton:
-    - ""
+    RoleInfoSkeleton: []
+    ButtonAppears: []
+    AskSkeleton: []
+    ChoiceConfirmation: []
+    BlockedNotice: []
+    HauntButton: []
   Doctor:
     Doctor:
     - "Mangagamot 🧑‍⚕️"
@@ -634,8 +621,7 @@ strings:
     OhNoPreacher:
     - "Hala... Pinatay mo ang manlalaro na ipinagdasal ng pari kagabi. Ang Pari na si {0} ay alam na ang iyong pagkakakilanlan at ang iyong tungkulin."
   GraveDigger:
-    GraveDigger:
-    - ""
+    GraveDigger: []
     RoleInfoGraveDigger:
     - "Ikaw ang Grave Digger ☠️. Bawat gabi, naghuhukay ka ng mga libingan para sa mga namatay mula noong huli mong paghukay. Mayroon kang espesyal na minsanang kakayahang gamitin ang mga talento ng isang patay na manlalaro sa loob ng isang araw. Habang nasa labas ka, hindi ka mahahanap ng mga lobo at kulto maliban kung wala kang libingan na mahukay at manatili sa bahay. Maaaring mahulog ang mga bisita sa iyong hindi natapos na mga libingan, na tumataas ang pagkakataon batay sa kung gaano karami ang iyong nahukay. Mag-ingat na hindi makita ng lobo o serial killer habang nasa labas ka."
     AskGraveDigger:
@@ -644,8 +630,7 @@ strings:
     - "Inilibing na ang mga patay, at ang mga buhay ay hindi. Ang lahat ay katulad lamang ng nararapat, at ngayon ay magkaroon ka ng magandang tulog sa gabi."
     DigGraves:
     - "Hanggang sa mag hatinggabi, hinuhukay mo ang (mga) libingan para kay {0}. Nawa'y magpahinga ang kanilang mga kaluluwa at ang kanilang mga katawan ay mahiga sa kapayapaan."
-    DefaultFellDigger:
-    - ""
+    DefaultFellDigger: []
     DefaultVisitDigger:
     - "Pumunta ka sa bahay ni {0}, pero wala siya sa kanila. Ang nakita mo lang ay ang kandila na nagliliwanag sa libingan..."
     WolfFellWolves:
@@ -716,8 +701,7 @@ strings:
   Soldier:
     Soldier:
     - "Sundalo 🪖"
-    RoleInfoSoldier:
-    - ""
+    RoleInfoSoldier: []
     AskSoldier:
     - "Sino ang gusto mong iligtas mula sa hatol ng bitay?"
     AskSoldier2:
@@ -727,8 +711,7 @@ strings:
     SoldierDone:
     - "Nagtagumpay ang mga taganayon na bumoto sa hatol ng pagbitay. Si {0} ang napili para bitayin. Ngunit mayroong sundalo na nakabantay kay {0} at pinili niyang isalin ang lahat ng boto kay {1}. {2}"
   Rogue:
-    Rogue:
-    - ""
+    Rogue: []
     RoleInfoRogue:
     - "Ikaw ang Rogue Wolf 🐺🧧, kilala sa iyong tuso at kakayahang magkaila bilang ibang manlalaro. Sa unang gabi, may pagkakataon kang pumili ng isang manlalaro na gagayahin. Kung ikaw ay susuriin o matugunan ang iyong pagkamatay, ang iyong tungkulin ay makikita bilang iyong target. Kung ang player na niloko mo ay may anumang nagpapakitang kakayahan, maaari mo ring gayahin iyon, ngunit bigyan ng babala dahil hindi ito magkakaroon ng anumang aktwal na epekto."
     AskRogue:
@@ -740,14 +723,10 @@ strings:
   Executioner:
     Executioner:
     - "Berdugo 🦸‍♂️"
-    RoleInfoExecutioner:
-    - ""
-    AskExecutioner:
-    - ""
-    AskExecutionerLynch:
-    - ""
-    ExecutionerLynch:
-    - ""
+    RoleInfoExecutioner: []
+    AskExecutioner: []
+    AskExecutionerLynch: []
+    ExecutionerLynch: []
   Slave:
     Slave:
     - "Alipin 😵‍💫"
@@ -758,8 +737,7 @@ strings:
     SlaveTarget:
     - "Ang target mo: {0}. Kumpletuhin ang dark task na ito sa paraang kailangang ma-lynch ang iyong target."
   Poseidon:
-    Poseidon:
-    - ""
+    Poseidon: []
     RoleInfoPoseidon:
     - "🧜 Ikaw si Poseidon. Isang beses sa bawat laro, maaari kang pumatay ng isang manlalaro sa koponan ng nayon sa pamamagitan ng pagpapakawala ng isang Daluyong. Kapag nagpasya kang magpakawala ng Daluyong, Maabisuhan ang taganayon na may paparating na Daluyong, nang hindi nabubunyag ang iyong pagkakakilanlan."
     AskPoseidon:
@@ -769,33 +747,20 @@ strings:
     PoseidonReveal:
     - "Si Poseidon, Ang diyos ng mga dagat, ay lumabas mula sa kanyang magarbong  palasyo, at isang Daluyong ang aagos sa nayon. Sinusubukan ng buong nayon na takasan ang Daluyong, ngunit nabigo ang {0}. Namtay sa lunod  si {0}. {1}"
   Snitch:
-    Snitch:
-    - ""
-    RoleInfoSnitch:
-    - ""
-    SnitchLynchSuccess:
-    - ""
-    SnitchFinalSuccess:
-    - ""
-    AskSnitch:
-    - ""
-    SnitchNoChoice:
-    - ""
+    Snitch: []
+    RoleInfoSnitch: []
+    SnitchLynchSuccess: []
+    SnitchFinalSuccess: []
+    AskSnitch: []
+    SnitchNoChoice: []
   Illusionist:
-    Illusionist:
-    - ""
-    RoleInfoIllusionist:
-    - ""
-    AskIllusionist:
-    - ""
-    IllusionistNoChoice:
-    - ""
-    IllusionistKillTarget:
-    - ""
-    IllusionistFakeTarget:
-    - ""
-    IllusionistKillYou:
-    - ""
+    Illusionist: []
+    RoleInfoIllusionist: []
+    AskIllusionist: []
+    IllusionistNoChoice: []
+    IllusionistKillTarget: []
+    IllusionistFakeTarget: []
+    IllusionistKillYou: []
   KilledMessages:
     BlacksmithKilled:
     - "Mukhang ang residenteng panday na si {0} ay malas ngayaon. Natagpuan ang limang kutsilayo na mula pa sa armory ni {0}, nakataga sa kamay, paa, at ulo neto, at may nakatusok pa sa lamesa ng panday kagabi. Mukhang ang serial killer ay gustong padamihin ang mga koleksyon netong armas kasama na ang mga lamang-loob ng tao..."
@@ -882,26 +847,22 @@ strings:
     - Mga Timer ng Laro
     WhatToDo:
     - "Anong gusto mong gawin?"
-    EnableSecretLynch:
-    - ""
+    EnableSecretLynch: []
     EnableSecretLynchA:
     - "Ang pagpapagana ng secret lynch ay binigay kay: {0}"
     EnableSecretLynchQ:
     - "Paganahin ang Secret Lynch?\nCurrent: {0}"
-    RandomMode:
-    - ""
+    RandomMode: []
     RandomModeA:
     - "Paganahin ang random mode sa: {0}"
     RandomModeQ:
     - "Paganahin ang random mode?\nKung ang random mode ay na on, ang Chaos, Secret Lynch, Show Roles on Death, at Allow Cult / Fool / Tanner ay random na mapipili tuwing may magsisimula ng laro.\nCurrent:{0}"
-    AllowExtend:
-    - ""
+    AllowExtend: []
     AllowExtendQ:
     - "Pahintulutan ang manlalaaro na makapag-extend ng oras ng pagsali?\nKasalukuyan: {0} extending\nTandaan: Ang mga admins ay palaging makakapag-extend."
     AllowExtendA:
     - "{0} mga manlalaro na mage-extend ng oras ng pagsali"
-    AllowFlee:
-    - ""
+    AllowFlee: []
     AllowFleeQ:
     - "Gusto mo ba payagan ang pag-flee kahit nagsimula na ang laro?\nNote: Ang mga players ay pwede magflee habang hindi pa nagsisimula ang laro. \nCurrent: Ang mga players ay {0} pwede mag-flee"
     AllowFleeA:
@@ -910,10 +871,8 @@ strings:
     - "Ipakita ang IDs sa pagsali"
     ShowIDsQ:
     - "Ipakita ang IDs ng mga manlalaro habang sumasali sila sa laro?\nKasalukuyan: {0}"
-    ShowIDsA:
-    - ""
-    ThiefFull:
-    - ""
+    ShowIDsA: []
+    ThiefFull: []
     ThiefFullA:
     - "Ang role na magnanakaw ay maglalaro tuwing gabi: {0}"
     ThiefFullQ:
@@ -934,46 +893,30 @@ strings:
     - "I-pin ang mga Mensahe ng Laro"
     PinChatMessageQ:
     - "Awtomatikong i-Pin ang mga Mensahe ng Laro? Default: {0}"
-    PinChatMessageA:
-    - ""
-    ShowRolesDeath:
-    - ""
-    ShowRolesDeathQ:
-    - ""
+    PinChatMessageA: []
+    ShowRolesDeath: []
+    ShowRolesDeathQ: []
     ShowRolesDeathA:
     - "Ang mga roles ay {0} kapag namatay"
-    WelcomeMessage:
-    - ""
-    WelcomeMessageQ:
-    - ""
-    WelcomeMessageA:
-    - ""
-    PMMessage:
-    - ""
-    PMMessageQ:
-    - ""
-    PMMessageA:
-    - ""
-    RoleCards:
-    - ""
-    RoleCardsQ:
-    - ""
-    RoleCardsA:
-    - ""
+    WelcomeMessage: []
+    WelcomeMessageQ: []
+    WelcomeMessageA: []
+    PMMessage: []
+    PMMessageQ: []
+    PMMessageA: []
+    RoleCards: []
+    RoleCardsQ: []
+    RoleCardsA: []
     MaxExtend:
     - Hoy
     MaxExtendQ:
     - "Pumili ng maximum na bilang ng segundo na maaaring idagdag sa pagsali sa timer sa pamamagitan ng iisang command na /extend.\nDefault setting: {0}\nKasalukuyan:{1}"
     MaxExtendA:
     - "Ang maximum ng pag extend ng oras ay nakahanda sa {0} segundo."
-    DisableGModes:
-    - ""
-    DisableGModesInfo:
-    - ""
-    MuteModes:
-    - ""
-    MuteModesInfo:
-    - ""
+    DisableGModes: []
+    DisableGModesInfo: []
+    MuteModes: []
+    MuteModesInfo: []
     Lang:
     - "Ibahin ang wika"
     DayTimer:
@@ -1002,8 +945,7 @@ strings:
     - "Ang maximum number ng players ay {0}"
     RoleConfigInfo:
     - "Aling roles ang nais mong gamitin sa laro?\nConfiguration Tutorial:\n\n✅ = Paganahin ang Role\n❌ = Huwag Paganahin ang Role\n\nPagkatapos piliin ang ang mga role, kailangan mong pintudin ang VALIDATE button sa kaliwang ibabang bahagi upang ma-validate at paganahin ang iyong pagpili ng mga role! Kung hindi mo ma-validate ang iyong pagpili, ito ay hindi papansinin at lahat ng roles ay gagamitin!\n\nKung ang validation ay nagtagumpay, ang pindutan sa kaliwang ibabang bahagi ay magsasabing ✅ Valid ✅ at gagamitin ang iyong pagsasaayos ng mga role!"
-    Validate:
-    - ""
+    Validate: []
     WhatLang:
     - "Anong Language?\nCurrent: {0}"
     WhatVariant:
@@ -1051,30 +993,19 @@ strings:
     Ping2:
     - "Oras para magpadala ng Ping: {0}"
   ModeInfo:
-    LoveInfo:
-    - ""
-    NormalInfo:
-    - ""
+    LoveInfo: []
+    NormalInfo: []
     RankedInfo:
     - "Sa Ranked mode, yung players ay binibigyan ng points based sa kanilang performance and role effectiveness. Don't worry, balanced ang role distribution para sa fair play. Sa dulo ng game na may 10 or more players, yung ibang participants ay makaka-receive ng mint rewards na magagamit nila sa pag purchase ng roles or emojis. Use /topscore para tignan yung global ranking mo."
-    ChaosInfo:
-    - ""
-    CustomInfo:
-    - ""
-    ModeInfo:
-    - ""
-    BonusModeActivated:
-    - ""
-    RankedMode:
-    - ""
-    LoveMode:
-    - ""
-    CustomMode:
-    - ""
-    NormalMode:
-    - ""
-    ChaosMode:
-    - ""
+    ChaosInfo: []
+    CustomInfo: []
+    ModeInfo: []
+    BonusModeActivated: []
+    RankedMode: []
+    LoveMode: []
+    CustomMode: []
+    NormalMode: []
+    ChaosMode: []
   RoleList:
     HelpRoleList:
     - "Narito ang mga tungkulin sa Wolf Blood:\n\nAng Wolf Blood ay mayroong total na {2} na mga tungkulin. Mayroong {0} na klasikong mga tungkulin at {1} na espesyal na mga tungkulin sa wb."
@@ -1091,22 +1022,14 @@ strings:
     AboutSoloTeam:
     - "Pangkat ng mga Solo\n\nAng mga indibidwal sa nayon na mas gustong magtrabaho mag-isa kaysa maging parte ng isang grupo. Hindi tulad ng mga taong lobo, mayroon silang kakayahan na mag-alis ng mga manlalaro nang pa-isa isa. Ang kanilang layunin ay ang maging nag-iisang ligtas sa nayon na maghahatid sa kanila sa tagumpay.\n\nMga Solong Kontrabida : Mamamatay-tao, Arson\n\n"
   Requirements:
-    MemberCount:
-    - ""
-    RestrictPermission:
-    - ""
-    GameCount:
-    - ""
-    GroupUnderReview:
-    - ""
-    GroupApprovedButNotReady:
-    - ""
-    GroupRejected:
-    - ""
-    GroupApprovedNotification:
-    - ""
-    RequestSent:
-    - ""
+    MemberCount: []
+    RestrictPermission: []
+    GameCount: []
+    GroupUnderReview: []
+    GroupApprovedButNotReady: []
+    GroupRejected: []
+    GroupApprovedNotification: []
+    RequestSent: []
   EndMessages:
     SKHunterEnd:
     - "Pagsikat ng araw, naglakad-lakad sila {0} at {1}. Naglabas ng kutsilyo si {0} tapos tumalon siya kay {1} pero naglabas ng baril si {1} at binaril niya sa muka si {0}, bago matumba si {0}, sinaksak niya muna si {1}. Patay silang dalawa, walang nanalo..."
@@ -1127,24 +1050,15 @@ strings:
     ThiefEnd:
     - "Habang naglilibot libot si {0} sa baranggay, napansin niya na wala nang ibang roles na pwedeng nakawin. Mabilis niyang nilisan ang kawawang baranggay at naghanap ng ibang lugar upang ipagpatuloy ang kaniyang trabaho."
   RankedTable:
-    RoleTable:
-    - ""
-    PointTable:
-    - ""
-    PenaltyTable:
-    - ""
-    BonusModeTable:
-    - ""
-    TotalTable:
-    - ""
-    ResultTable:
-    - ""
-    WonGame:
-    - ""
-    LostGame:
-    - ""
-    Loots:
-    - ""
+    RoleTable: []
+    PointTable: []
+    PenaltyTable: []
+    BonusModeTable: []
+    TotalTable: []
+    ResultTable: []
+    WonGame: []
+    LostGame: []
+    Loots: []
   Stats:
     AchievementsUnlocked:
     - "Nabuksan ang Tagumpay"
@@ -1162,8 +1076,7 @@ strings:
     - "Pinakamaraming beses pinatay si"
     TimesKilledBy:
     - "Pinakamaraming beses pinatay ni"
-    Afk:
-    - ""
+    Afk: []
   TimeMessages:
     LynchTime:
     - "Malapit na ang takipsilim, at ang mga taganayon ay nagtitipon upang magpasya kung sino ang kanilang papatayin ngayong gabi... Lahat ay mayroon na ngayong {0} (na) segundo upang bumoto!"
@@ -1172,40 +1085,24 @@ strings:
     NightTime:
     - "Gabi na. Ang bawat tao'y tumungo sa kama, pagod pagkatapos ng isa pang nakakapagod na araw. Mga manlalaro sa gabi: mayroon kang {0} (na) segundo na gamitin ang iyong mga aksyon!"
   CustomMode:
-    CustomRoleInvalid:
-    - ""
-    CustomFirstRole:
-    - ""
-    CustomMinimumRole:
-    - ""
-    CustomMaxRole:
-    - ""
-    CustomNoRole:
-    - ""
+    CustomRoleInvalid: []
+    CustomFirstRole: []
+    CustomMinimumRole: []
+    CustomMaxRole: []
+    CustomNoRole: []
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
-    BanReason:
-    - ""
-    BanExpire:
-    - ""
-    GroupBanPlayer:
-    - ""
-    Year:
-    - ""
-    Day:
-    - ""
-    Minutes:
-    - ""
-    Hours:
-    - ""
-    Seconds:
-    - ""
+    GroupBan: []
+    GlobalBan: []
+    BanReason: []
+    BanExpire: []
+    GroupBanPlayer: []
+    Year: []
+    Day: []
+    Minutes: []
+    Hours: []
+    Seconds: []
   TeamsMessages:
-    MyTeam:
-    - ""
+    MyTeam: []
     NothingTeam:
     - "Kasalukuyan kang hindi miyembro ng alinmang koponan. Maaari kang sumali sa koponan sa pamamagitan ng paggamit ng command na /jointeam sa alinmang grupo na mayroong team.\nSumali sa koponan at maging parte ng sama-samang pagsisikap patungo sa tagumpay!\n\n"
     JoinTeam:
@@ -1256,169 +1153,103 @@ strings:
     - "{0} ay nawawala... Napuyat ba siya sa taong pinapaasa lang siya? Pinuntahan mo at nakita mong patay na siya sa sementeryo, hawak pa rin ang kanyang pala. Mukhang namatay siya dahil sa ilang saksak sa puso kakaasa... "
     WolvesSpottedDiggerPublic:
     - "{0} ay hindi nagpakita sa pulong ng bayan. Hays, napuyat na naman ba siya kakaasa sa taong 'di naman siya gusto? Habang hinahanap mo siya, nakita mong nakahiga na siyang patay sa sementeryo, hawak pa rin ang pala. Mukhang inabutan siya ng mga lobo sa gabi..."
-    HarlotFuckKillerPublic:
-    - ""
+    HarlotFuckKillerPublic: []
     HarlotFuckedKilledPublic:
     - "Si {0} ay pumasok sa bahay ni {1}, handa para sa isang gabing pagsinta, para lang makita ang misteryosong estranghero na inaalis ang laman loob ni {1} sa pamamagitan ng operasyon! Ang mamamatay-tao ay nagpasyang pasiyahin si {0} bago niya idagdag ang maharot nitong puso sa kaniyang koleksiyon!"
   WelcomeMessages:
-    OfficialGrp:
-    - ""
-    Welcome:
-    - ""
-    CreditsText:
-    - ""
+    OfficialGrp: []
+    Welcome: []
+    CreditsText: []
   AFKs:
     IdleKill:
     - "{0} ay hindi bumoto ng 2 gabi. Para sa mga mamamayan, ito ay isang krimen, si {0} ay biglang bumagsak at namatay. {1}"
     IdleCount:
     - "Ang manlalaro na si {0} ay pinatay sa kadahilanang hindi bumoto nang {1} beses sa loob ng 24 oras."
-    GroupIdleCount:
-    - ""
+    GroupIdleCount: []
   StoreMessages:
     Store:
     - "🛒 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nAvailable Emoji Fragment: {1} 🧩\n\nWhat would you like to buy?"
-    BuyFailed:
-    - ""
-    BuyConfirm:
-    - ""
-    BuySuccess:
-    - ""
-    BuyItems:
-    - ""
-    BuyTicket:
-    - ""
-    BuyRole:
-    - ""
-    BuyEmoji:
-    - ""
-    BuyEmojiDuration:
-    - ""
+    BuyFailed: []
+    BuyConfirm: []
+    BuySuccess: []
+    BuyItems: []
+    BuyTicket: []
+    BuyRole: []
+    BuyEmoji: []
+    BuyEmojiDuration: []
   TicketButtons:
-    ForceToken:
-    - ''
-    RoleVouchers:
-    - ''
-    FJoin:
-    - ''
-    FName:
-    - ''
-    BonusPointTicket:
-    - ''
-    Fragment:
-    - ''
-    Mint:
-    - ''
-    BonusRankedModeTicket:
-    - ''
-    CustomMessageTicket:
-    - ''
-    CustomEmoji:
-    - ''
-    PlayerTAG:
-    - ''
-    CustomGifs:
-    - ''
-    FakeRole:
-    - ''
-    MyTicketButton:
-    - ''
-    MyItemButton:
-    - ''
-    TournamentPoint:
-    - ''
-    Month:
-    - ""
-    Week:
-    - ""
-    Permanent:
-    - ""
-    Yearly:
-    - ""
+    ForceToken: []
+    RoleVouchers: []
+    FJoin: []
+    FName: []
+    BonusPointTicket: []
+    Fragment: []
+    Mint: []
+    BonusRankedModeTicket: []
+    CustomMessageTicket: []
+    CustomEmoji: []
+    PlayerTAG: []
+    CustomGifs: []
+    FakeRole: []
+    MyTicketButton: []
+    MyItemButton: []
+    TournamentPoint: []
+    Month: []
+    Week: []
+    Permanent: []
+    Yearly: []
   TopMessages:
     GroupStats:
     - "Nangungunang 10 sa {0} :"
     TopScore:
     - "Nangungunang 10 manlalaro na may mataas na puntos :"
-    YourRanking:
-    - ''
-    MostPlayedWithMonth:
-    - ""
+    YourRanking: []
+    MostPlayedWithMonth: []
   ProfileMessages:
-    ItemsText:
-    - ""
+    ItemsText: []
     Profile:
     - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
-    LockEmoji:
-    - ""
+    LockEmoji: []
     MaxEmoji:
     - "Naabot mo na ang maximum na bilang ng pag-activate ng emoji. Para ma-activate pa ito, mag-donate gamit ang command na /donate."
     EmojiChoice:
     - "Ang emoji na iyong nakuha ay makikita sa ibaba. I-turn on/off ang emoji na makikita sa gilid ng iyong pangalan dito:"
-    NoMyRoles:
-    - ""
+    NoMyRoles: []
     MyRoles:
     - "🛅 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
-    ActivateRole:
-    - ''
-    DeactivateRole:
-    - ''
+    ActivateRole: []
+    DeactivateRole: []
     TicketsMenu:
     - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
   RewardPM:
   - ""
   - ""
-  - ""
-  - ""
   TelegramStars:
-    StarShop:
-    - ""
-    StarTicket:
-    - ""
-    StarItems:
-    - ""
-    StarConfirm:
-    - ""
-    StarCustomMessage:
-    - ""
-    StarPlayerTAG:
-    - ""
-    StarGifMenu:
-    - ""
-    StarRole:
-    - ""
-    StarEmoji:
-    - ""
-    StarEmojiDuration:
-    - ""
-    StarSuccess:
-    - ""
-    StarPayment:
-    - ""
-    StarPaidSuccess:
-    - ""
+    StarShop: []
+    StarTicket: []
+    StarItems: []
+    StarConfirm: []
+    StarCustomMessage: []
+    StarPlayerTAG: []
+    StarGifMenu: []
+    StarRole: []
+    StarEmoji: []
+    StarEmojiDuration: []
+    StarSuccess: []
+    StarPayment: []
+    StarPaidSuccess: []
   GiftMenu:
-    GiftShop:
-    - ""
-    GiftItems:
-    - ""
-    GiftConfirm:
-    - ""
-    GiftTicket:
-    - ""
-    GiftCustomMessage:
-    - ""
-    GiftPlayerTAG:
-    - ""
-    GiftCustomGif:
-    - ""
-    GiftRole:
-    - ""
-    GiftEmoji:
-    - ""
-    GiftEmojiDuration:
-    - ""
-    GiftSentSuccess:
-    - ""
+    GiftShop: []
+    GiftItems: []
+    GiftConfirm: []
+    GiftTicket: []
+    GiftCustomMessage: []
+    GiftPlayerTAG: []
+    GiftCustomGif: []
+    GiftRole: []
+    GiftEmoji: []
+    GiftEmojiDuration: []
+    GiftSentSuccess: []
   CustomGifs:
     NotPack:
     - You have not unlocked a custom GIF pack. Please use /donate.
@@ -1430,118 +1261,77 @@ strings:
       Pending Gifs: {1} ⏳
 
       Rejected Gifs: {2} ⛔️'
-    GifPack:
-    - ""
+    GifPack: []
     GifSubmitBtn:
     - I-submit para sa approval
-    GifSend:
-    - ""
+    GifSend: []
     GifReset:
     - "I-reset ang Gifs"
-    GifResetSuccess:
-    - ""
-    GifStatus:
-    - ''
-    Approved:
-    - ''
-    Disapproved:
-    - ''
+    GifResetSuccess: []
+    GifStatus: []
+    Approved: []
+    Disapproved: []
     GifError:
     - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
     GifSuccess:
     - "Got it! Any more?"
-    GifSubmit:
-    - ""
-    GifSubmitHour:
-    - ""
-    GifEmpty:
-    - ""
-    GifCheckSuccess:
-    - ""
+    GifSubmit: []
+    GifSubmitHour: []
+    GifEmpty: []
+    GifCheckSuccess: []
   TransferMenu:
-    Transfer:
-    - ""
-    TransferSelf:
-    - ""
-    TransferFailed:
-    - ""
-    TransferItems:
-    - ""
+    Transfer: []
+    TransferSelf: []
+    TransferFailed: []
+    TransferItems: []
     ConfirmTransfer:
     - "🔄 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"
     TransferSuccess:
     - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
-    TransferReceived:
-    - ""
-    TransferRole:
-    - ""
-    TransferEmoji:
-    - ""
-    TransferTicket:
-    - ""
-    TransferLimit:
-    - ""
+    TransferReceived: []
+    TransferRole: []
+    TransferEmoji: []
+    TransferTicket: []
+    TransferLimit: []
   PlayerTAGS:
     TagSuccess:
     - "Ang iyong name tag ay matagumpay na nai-set. Tag: {0}"
-    TagError:
-    - ""
-    TAGInvalid:
-    - ""
+    TagError: []
+    TAGInvalid: []
   CustomMessages:
-    CustomMessageLenght:
-    - ""
-    CustomMessageSuccess:
-    - ""
-    CustomMessageAllLetter:
-    - ""
-    CustomMessageInvalid:
-    - ""
+    CustomMessageLenght: []
+    CustomMessageSuccess: []
+    CustomMessageAllLetter: []
+    CustomMessageInvalid: []
   FakeNames:
-    FakeNameLenght:
-    - ""
-    FakeNameSuccess:
-    - ""
-    FakeNameInvalid:
-    - ""
+    FakeNameLenght: []
+    FakeNameSuccess: []
+    FakeNameInvalid: []
   FakeRoles:
-    FakeRoleSuccess:
-    - ""
-    NoRole:
-    - ""
-    RoleInvalid:
-    - ""
+    FakeRoleSuccess: []
+    NoRole: []
+    RoleInvalid: []
   Others:
-    Donate:
-    - ""
-    UserNotFound:
-    - ""
+    Donate: []
+    UserNotFound: []
     ForceJoinSuccess:
     - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
-    TicketRequired:
-    - ""
+    TicketRequired: []
     JoinButton:
     - "Sumali"
-    Skip:
-    - ""
-    Yes:
-    - ""
-    No:
-    - ""
-    VoteBtn:
-    - ""
-    GoToBtn:
-    - ""
+    Skip: []
+    Yes: []
+    No: []
+    VoteBtn: []
+    GoToBtn: []
     RolList:
     - "Listahan ng mga Role :"
     NoClaims:
     - "Mga walang Claim"
-    Cancel:
-    - ""
+    Cancel: []
     OfficialBtn:
     - Mga Opisyal na Grupo
-    SupportBtn:
-    - ""
+    SupportBtn: []
     NewsBtn:
     - Mga Chika
     Done:
@@ -1583,8 +1373,7 @@ strings:
     - "Salamat sa pagpili"
     And:
     - "at"
-    NewUnlocks:
-    - ""
+    NewUnlocks: []
     PlayersAlive:
     - "Buhay pang players"
     Players:
@@ -1599,8 +1388,7 @@ strings:
     - "Hindi ka naman ata kasali?"
     NotHome:
     - "Hmm... wala si {0} sa bahay niya! Fasting ka muna ngayon... "
-    GamesPlayed:
-    - ""
+    GamesPlayed: []
     LoverDied:
     - "Habang naghihingalo si {0}, tumakbo papunta sa kaniya si {1} na umiiyak. Ayaw niya maging single kaya nagpakamatay siya gamit ang baril na nakita niya. {2}"
     NoAttack:
@@ -1625,10 +1413,8 @@ strings:
     - "Hindi ka makasali sa larong ito dahil ikaw ay hindi miyembro ng {0}."
     GroupNotFound:
     - "Hindi mahanap ang grupo. Mangyari lamang na patakbuhin ang Utos na ito sa pangkat na gusto mong ihinto ang paghihintay, O magdagdag  ng kawing, ID, o Gumamit ng pangalan sa tabi ng Utos."
-    RoleCommand:
-    - ''
-    DisableGameMode:
-    - ""
+    RoleCommand: []
+    DisableGameMode: []
     DeadSlient:
     - "Dahil patay ka na, hindi ka na makakapagpadala ng mensahe sa grupo hanggang matapos ang laro. Kapag natapos ang laro, makaka-mensahe ka na ulit. Kung gusto mong makatanggap ng mga abiso para sa susunod na laro, maaari mong pindutin ang pindutan na nasa ibaba."
     PlayerLimitReached:
@@ -1647,10 +1433,8 @@ strings:
     - "Isang utos ang ipinadala ni {0} upang simulan ang laro sa pamamagitan ng puwersa."
     PlayersGifPack:
     - "Mga manlalaro na may pasadyang gif packs :"
-    ForceStarted:
-    - ''
-    TreasureWin:
-    - ""
+    ForceStarted: []
+    TreasureWin: []
     NameExists:
     - "@{1}, ang player na may pangalang {0} ay nakasali na. Palitan mo ’yong pangalan mo para makasali ka."
     ChangeNameToJoin:
@@ -1666,5 +1450,4 @@ strings:
     NoNodes:
     - "Walang nodes na online sa ngayon, i-try mo ulit maya maya."
   BonusPoints:
-    DieAsAFK_Penalty:
-    - ""
+    DieAsAFK_Penalty: []
