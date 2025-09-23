@@ -1280,7 +1280,6 @@ strings:
     - "🎫 Menu biglietti 🎫\nQui è possibile visualizzare e attivare i biglietti speciali.\nScegliete il biglietto che desiderate attivare cliccando su uno dei pulsanti sottostanti."
   RewardPM:
   - ""
-  - ""
   TelegramStars:
     StarShop: []
     StarTicket: []

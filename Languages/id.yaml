@@ -1267,7 +1267,6 @@ strings:
     - "🎫 Menu Tiket 🎫\nDi sini Anda dapat melihat dan mengaktifkan tiket khusus Anda.\nPilihlah tiket yang ingin Anda aktifkan dengan mengklik salah satu tombol di bawah ini."
   RewardPM:
   - ""
-  - ""
   TelegramStars:
     StarShop: []
     StarTicket: []

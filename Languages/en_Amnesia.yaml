@@ -191,10 +191,8 @@ strings:
     CHHuntedYou:
     - "Did something happen last night? You can't seem to remember..."
     HunterKilledCultist: []
-    CultConvertWolfPublic:
-    - ""
-    CultConvertKillerPublic:
-    - ""
+    CultConvertWolfPublic: []
+    CultConvertKillerPublic: []
     HunterKilledVisiter: []
     CultVisitEmpty:
     - "{0} went to {1} house, but no one was home!"
@@ -284,8 +282,7 @@ strings:
     - "Did something happen at {0}'s house last night? You can't seem to remember... A name comes to your mind: {1}. But for what reason?"
     KillerStumbled:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
-    SerialKillerKilledYou:
-    - ""
+    SerialKillerKilledYou: []
     SerialKillerKilledWolf: []
   Sorcerer:
     Sorcerer: []
@@ -664,15 +661,13 @@ strings:
     GuardianAngelKilled: []
     GunnerKilled: []
     MayorKilled: []
-    PrinceKilled:
-    - ""
+    PrinceKilled: []
     SeerKilled: []
     PawnKilled: []
     DefaultKilled: []
   EatenMessages:
     ApprenticeSeerEaten: []
-    SorcererEaten:
-    - ""
+    SorcererEaten: []
     WildChildEaten: []
     PawnEaten: []
     DetectiveEaten:
@@ -848,10 +843,8 @@ strings:
     HunterKillsWolfEnd: []
     WolfKillsHunterEnd: []
     CHKillsCultistEnd: []
-    TannerEnd:
-    - ""
-    SorcererEnd:
-    - ""
+    TannerEnd: []
+    SorcererEnd: []
     DoppelgangerEnd: []
     ThiefEnd: []
   RankedTable:
@@ -1010,7 +1003,6 @@ strings:
     - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
   RewardPM:
   - ""
-  - ""
   TelegramStars:
     StarShop: []
     StarTicket: []
@@ -1122,8 +1114,7 @@ strings:
     TimesUp:
     - "Did you forget to answer ? Time is up!"
     GetLang: []
-    GenericDeathNoReveal:
-    - ""
+    GenericDeathNoReveal: []
     ErrorBotMessagePM:
     - "Don't forget specify the recipient of your message by using the appropriate command: Type /love or /team to communicate."
     SecondsAdded: []
