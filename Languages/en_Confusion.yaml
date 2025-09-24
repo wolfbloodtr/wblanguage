@@ -1183,16 +1183,13 @@ strings:
     CustomNoRole:
     - Please add roles before starting the game.
   BanMessages:
-    GroupBan:
-    - ""
-    GlobalBan:
-    - ""
+    GroupBan: []
+    GlobalBan: []
     BanReason:
     - "Reason: {0}"
     BanExpire:
     - "Expiration: {0}"
-    GroupBanPlayer:
-    - ""
+    GroupBanPlayer: []
     Year:
     - "Year"
     Day:
