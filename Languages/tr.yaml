@@ -321,9 +321,9 @@ strings:
     HunterShotWolfMulti:
     - "Kurtlar dün geceki saldırılarında hiç beklemedikleri bir hedefle karşılaştılar. Köyün avcısı kurtların diş ve pençelerinden kaçmak için ne kadar mücadele etse de eninde sonunda ölüme mahkûm olur. Ancak saldırının en başında sürüden birini eksiltmeyi başarır. {0} avcının tüfeği ile öldürüldü."
     HunterShotWolf:
-    - "{0} dün gece tek başına büyük bir riski göğüsledi. Ancak pek de umduğu gibi gitmedi işler. Avcı teke tekte kurdu kolayca alt edebildi."
+    - "{0} dün gece tek başına büyük bir riski göğüsledi. Ancak işler pek de umduğu gibi gitmedi. Avcı teke tekte kurdu kolayca alt edebildi."
     HunterKilledWiseElder:
-    - "Avcı {0}, Yaşlı Bilge {1}'i vurdu... {0}, avcılık becerilerini kaybetmesine neden olan büyük hatasından pişmanlık duyarak büyük bir üzüntüyle ağlıyor. Sırf bir köylü olarak öldü."
+    - "Avcı {0}, Yaşlı Bilge 📚 olan {1}'i vurdu... {0}, avcılık becerilerini kaybetmesine neden olan büyük hatasından pişmanlık duyarak büyük bir üzüntüyle ağlıyor. Sırf bir köylü olarak öldü."
   SerialKiller:
     SerialKiller:
     - "Seri Katil 🔪"
@@ -408,7 +408,7 @@ strings:
     PacifistNoLynch:
     - "Barışçıl ☮️ {0}, taburenin üstüne çıkarak yüksek sesle konuşmaya başlar: \"Eyyy köy halkı! Yetmedi mi bu kadar kaos, bu kadar infaz, bu kadar kargaşa?! Hepimiz mutlu mesut, huzur ve barış içinde yaşayabiliriz!\". Köylüler sonunda {0}'in söylediklerine ikna oldu ve bugünlük linçten vazgeçtiler."
     PacifistNoLynchNow:
-    - "Barışçıl’ın yürekten dostluk,birlik ve beraberlik mesajları sayesinde, linç aşaması bugün atlanacak! ☮️"
+    - "Barışçılın ☮️ yürekten dostluk, birlik ve beraberlik mesajları sayesinde, linç aşaması bugün atlanacak!"
     LynchPeaceTimeout:
     - "Bugün barışçılın duygusal konuşması sayesinde linç olmayacak!"
     Peace:
@@ -471,7 +471,7 @@ strings:
     ThiefStoleYourRoleThief:
     - "Rolün çalındı! Artık yeni hırsızsın 😈 ve yarın gece birinin rolünü çalmayı deneyeceksin!"
     ThiefStoleYourRoleVillager:
-    - "Rolün çalındı! Düz köylüye dönüştün 👱. Yallah tarlaya"
+    - "Rolün çalındı! Düz köylüye dönüştün 👱. Yallah tarlaya..."
     StealKiller:
     - "Rol çalmaya çalıştın... ama hedefin seri katil! Seni evinin etrafında gördü ve bir dakika sonra bıçaklandın..."
     ThiefStoleKiller:
@@ -479,12 +479,12 @@ strings:
     NewDGRoleModel:
     - "Çift-giden'e dönüştün! {0} öldükten sonra onun rolünü alacaksın."
     NewWCRoleModel:
-    - "Yabani çocuk oldun. Rol modelin {0}"
+    - "Yabani çocuk oldun. Rol modelin {0}."
   Troublemaker:
     Troublemaker:
     - "Baş Belası 🤯"
     RoleInfoTroublemaker:
-    - "🤯 Baş Belası.\nKöyün ergen, kızgın genci. Bir gün öyle bir sinirlenecek ki o gün köy 1 yerine 2 kere linç edecek!\nTarikat oranı: 100%\nTakım: Köy."
+    - "Baş Belasısın 🤯. Köyün ergen, kızgın genci. Bir gün öyle bir sinirleneceksin ki o gün köy 1 yerine 2 kere linç edecek!"
     AskTroublemaker:
     - "Bugün bela çıkarmak ister misin?"
     TroublemakerDoubleLynch:
@@ -532,11 +532,11 @@ strings:
     GAFrozen:
     - "Kanatlarını gökyüzüne doğru açacakken, pencerelerden esen büyük bir rüzgar donmana neden oluyor 🐺☃️. Bir Noel ağacını süslerken kendini hayal ettini. Neyse ki, güneş doğduğunda bu iş bitecek."
     SKFrozen:
-    - "Evini terk etmeden önce son bir kez karaciğer koleksiyonuna hayran kalırken, camlardan bir miktar rüzgar esiyor. Cam kavanozları donduruyor... Seni de donduruyor 🐺☃️. O kurtun ciğerini kendi ellerinle söküp alacağına yemin ettin!"
+    - "Evini terk etmeden önce son bir kez karaciğer koleksiyonuna hayran kalırken, camlardan bir miktar rüzgar esiyor. Cam kavanozları donduruyor... Seni de donduruyor 🐺☃️. O kurdun ciğerini kendi ellerinle söküp alacağına yemin ettin!"
     ThiefFrozen:
     - "Köyün etrafında somurtkan, sert bir rüzgâr hissettin. Kelimenin tam anlamıyla hareket edemediğin pistlerde donmuş kaldın 🐺☃️. Neyse ki, o gece seni etraftan geçen herhangi biri tarafından tanınmaman için yeterince karanlıktı. Şafakla tamamen çözüldüğünde, herkes seni görmeden evine geri döndün."
     DefaultFrozen:
-    - "Dün gece uyurken hiç hareket edemedin, su içmeye dahi kalkamadın. Beyaz Kurtun işi gibi 🐺☃️"
+    - "Dün gece uyurken hiç hareket edemedin, su içmeye dahi kalkamadın. Beyaz Kurdun işi gibi 🐺☃️"
   Augur:
     Augur:
     - "Müneccim 🦅"
@@ -631,7 +631,7 @@ strings:
     PreacherFailed:
     - "Gece boyunca {0} için dualar ettin. Ancak herhangi bir ölüm tehlikesi ile karşılaşmadı. Üzülme, duaların boşa değildir sadece bunu sürdürmeye devam et."
     OhNoPreacher:
-    - "Hayır... Gece vaizin dua ettiği oyuncuyu öldürdün. Vaiz {0} şimdi senin kim olduğunu ve rolünü biliyor."
+    - "Hayır... Gece vaizin dua ettiği oyuncuyu öldürdün. Vaiz olan {0} şimdi senin kim olduğunu ve de rolünün ne olduğunu biliyor."
   GraveDigger:
     GraveDigger:
     - "Mezarcı ☠️"
