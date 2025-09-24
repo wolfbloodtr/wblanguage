@@ -146,7 +146,7 @@ strings:
     RoleInfoGunner:
     - "You are a lowly villager 👱, doomed to spend your days plowing a field and get eated."
     AskShoot:
-    - "Who do you want to shoot? {0} bullet(s) remain."
+    - "Whose house do you want to dig a tunnel into?"
     HarlotShot:
     - "Looks like {0} came back positive after a night with the Harlot! The gunner got revenge. {1} is dead."
     DefaultShot:
@@ -278,7 +278,7 @@ strings:
     DGTransformToMason:
     - "{0} has died, and you transform into a mason. Your teammates (if any) are: {1}"
     DGTransformToCult:
-    - "{0} has died, and you transform into a mason. Your teammates (if any) are: {1}"
+    - "{0} has died, and you transform into a wolf. Your teammates (if any) are: {1}"
     DGToMason:
     - "{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!"
     DGToCult:
@@ -461,13 +461,13 @@ strings:
     ThiefStoleRole:
     - "You successfully stole {0}'s role!"
     ThiefToMason:
-    - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
+    - "{0} is no longer your teammate and {1} has now become a wolf, just like you!"
     ThiefToCult:
-    - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
+    - "{0} is no longer your teammate and {1} has now become a tanner, just like you!"
     ThiefToWolf:
     - "{0} is no longer your teammate and {1} has now become a mason, just like you!"
     ThiefStealChosen:
-    - "Your theft target is now {0}."
+    - "Your slave target is now {0}."
     ThiefStoleYourRoleThief:
     - "Your role got stolen! You are now the new thief 😈 and can steal a role the next night!"
     ThiefStoleYourRoleVillager:
@@ -479,7 +479,7 @@ strings:
     NewDGRoleModel:
     - "You have become the doppelgänger. You will take over {0}'s role after their death."
     NewWCRoleModel:
-    - "You have become the wild child. You role model is {0}."
+    - "You have become the Doppelgänger. You role model is {0}."
   Troublemaker:
     Troublemaker:
     - "Troublemaker 🤯"
@@ -595,13 +595,20 @@ strings:
     ShadowPower:
     - "You have successfully used your abilities. When the lynching phase begins, the villagers will not be able to see who they are lynching, and all lynchings will be seen as '?'. Werewolves will continue to see who they lynch.."
   Skeleton:
-    Skeleton: []
-    RoleInfoSkeleton: []
-    ButtonAppears: []
-    AskSkeleton: []
-    ChoiceConfirmation: []
-    BlockedNotice: []
-    HauntButton: []
+    Skeleton:
+    - Skeleton 💀
+    RoleInfoSkeleton:
+    - You are a lowly villager 👱, doomed to spend your days plowing a field and get eated.
+    ButtonAppears:
+    - Would you like to spread the silver today, disabling the wolves tonight?
+    AskSkeleton:
+    - Whose house do you want to dig a tunnel into?
+    ChoiceConfirmation:
+    - You have chosen to haunt {0}. Their abilities are blocked for the rest of the day/night/lynch phase.
+    BlockedNotice:
+    - "You were caught in an illusion… and now you're gone.\nThe Illusionist Wolf’s final trick pulled you into the abyss.\nYou never saw it coming. 🐺🪄"
+    HauntButton:
+    - Skip
   Doctor:
     Doctor:
     - "Doctor 🧑‍⚕️"
@@ -731,11 +738,16 @@ strings:
     RogueSuccess:
     - "You have chosen to imitate {0}. The role you are imitating is {1}!"
   Executioner:
-    Executioner: []
-    RoleInfoExecutioner: []
-    AskExecutioner: []
-    AskExecutionerLynch: []
-    ExecutionerLynch: []
+    Executioner:
+    - Executioner 🦸‍♂️
+    RoleInfoExecutioner:
+    - You are a lowly villager 👱, doomed to spend your days plowing a field and get eated.
+    AskExecutioner:
+    - Whose house do you want to dig a tunnel into?
+    AskExecutionerLynch:
+    - The executioner has chosen {0} and {1} as the targets. Your decision is crucial. Please participate in the voting and choose who will be executed.
+    ExecutionerLynch:
+    - The Executioner's presence looms ominously over the village. As storm clouds gather, a chilling silence descends. Today, the fate of {0} and {1} hangs in the balance. The villagers must vote to decide who will be executed. Choose wisely, for only one shall face the blade.
   Slave:
     Slave:
     - "Slave 😵‍💫"
@@ -757,20 +769,33 @@ strings:
     PoseidonReveal:
     - "Poseidon, the god of the seas, has emerged from his majestic palace, and a tsunami is sweeping through the village. The entire village attempts to escape the tsunami, but {0} fails. {0} drowns to death.\n{1}"
   Snitch:
-    Snitch: []
-    RoleInfoSnitch: []
-    SnitchLynchSuccess: []
-    SnitchFinalSuccess: []
-    AskSnitch: []
-    SnitchNoChoice: []
+    Snitch:
+    - Snitch 🦜
+    RoleInfoSnitch:
+    - You are a lowly villager 👱, doomed to spend your days plowing a field and get eated.
+    SnitchLynchSuccess:
+    - 'With their dying breath, {0} leaned forward with a sly grin and shouted: “You think you could fool everyone, {1}? You’re nothing but a {2}!” Gasps echoed across the village as the secret spilled into the open. A true snitch never dies in silence... 🦜'
+    SnitchFinalSuccess:
+    - "As their life slipped away, Snitch {0} 🦜 let out one final cry: “I saw you, {1}!” The village froze in shock as the truth echoed across the night. Even on the brink of death, a Snitch never stays silent...{2} has been exposed!\n{3}"
+    AskSnitch:
+    - You're dying... but you have one last chance to spill the tea. Choose one player to reveal their role to everyone. 🦜 Who do you want to snitch on before your time is up?
+    SnitchNoChoice:
+    - Snitch {0} 🦜 gasped for air, eyes scanning the village… But their voice faded into silence. No secrets were revealed. The truth dies with them.
   Illusionist:
-    Illusionist: []
-    RoleInfoIllusionist: []
-    AskIllusionist: []
-    IllusionistNoChoice: []
-    IllusionistKillTarget: []
-    IllusionistFakeTarget: []
-    IllusionistKillYou: []
+    Illusionist:
+    - Illusionist 🐺🪄
+    RoleInfoIllusionist:
+    - You are a lowly villager 👱, doomed to spend your days plowing a field and get eated.
+    AskIllusionist:
+    - "You're dying… Who will you take with you?\nChoose wisely… the village won't forget your final act. 🪄"
+    IllusionistNoChoice:
+    - "The illusion couldn’t last forever…\nThe village roared, the votes were cast—{0}, met their end at the noose. No “ta-da!” this time. The curtain fell with no twist, no second act—just silence. Even illusions need someone to fool… and this time, the stage was empty.\n{1}"
+    IllusionistKillTarget:
+    - "The illusion couldn’t last forever…\nThe village roared, the votes were cast—{0} met their end at the noose. As the rope snapped and silence fell, one last “ta-da!” echoed through the village… and someone else dropped like a stunned extra in a bad play. The final act? A twist the village will never forget 🐺🪄\n{1}"
+    IllusionistFakeTarget:
+    - 'Your fake role is: {0}'
+    IllusionistKillYou:
+    - You were caught in an illusion… and now you're gone.\nThe Illusionist Wolf’s final trick pulled you into the abyss.\nYou never saw it coming. 🐺🪄
   KilledMessages:
     BlacksmithKilled:
     - "Seems like {0}, the resident blacksmith, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe the serial killer was hoping to expand their weapon collection alongside their organ one..."
@@ -1066,14 +1091,22 @@ strings:
     AboutSoloTeam:
     - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
   Requirements:
-    MemberCount: []
-    RestrictPermission: []
-    GameCount: []
-    GroupUnderReview: []
-    GroupApprovedButNotReady: []
-    GroupRejected: []
-    GroupApprovedNotification: []
-    RequestSent: []
+    MemberCount:
+    - 👥 At least {0} real members in the group.
+    RestrictPermission:
+    - 🔒 Bot must have permission to restrict users.
+    GameCount:
+    - 🎮 At least {0} games must have been played in this group.
+    GroupUnderReview:
+    - "<b>🔍 Group Under Review</b>\n\nYour group is currently under evaluation by the WB Mods. During this period, access to Ranked Mode is temporarily restricted.\nWhile waiting, please make sure the following requirements are fulfilled:\n\n{0}\n\nYou may send a new request after {1}.\nFor questions or assistance: @wolfbloodsupport"
+    GroupApprovedButNotReady:
+    - "<b>✅ Group Approved</b>\n\nYour group has been successfully approved by the WB Mods. However, to start Ranked games, you still need to complete the following:\n\n{0}\n\nOnce all conditions are met, Ranked Mode will be automatically activated."
+    GroupRejected:
+    - "<b>❌ Access Denied</b>\n\nUnfortunately, your group did not meet the necessary requirements to participate in Ranked Mode. As a result, access has been denied.\nYou can still enjoy other game modes and reapply once your group is ready.\nFor questions or support: @wolfbloodsupport"
+    GroupApprovedNotification:
+    - "<b>✅ Group Approved</b>\n\nYour group has been approved by the WB Mods. You may start using Ranked Mode once all requirements are met.\nGood luck and may the strongest survive! 🐺"
+    RequestSent:
+    - "<b>📨 Request Sent</b>\n\nYour howl has been heard by the WB Mods. 🐺\nThe Elders are reviewing your request in the shadows.\n\nPlease be patient while your group is under consideration.\nYou'll receive a response soon. In the meantime, gather your group and make sure all the requirements are fulfilled.\n\nFor help or howls: @wolfbloodsupport"
   EndMessages:
     SKHunterEnd:
     - "As the sun rises, {0} and {1} walk out into the village. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the village is empty, there is no winner..."
@@ -1094,14 +1127,22 @@ strings:
     ThiefEnd:
     - "As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career."
   RankedTable:
-    RoleTable: []
-    PointTable: []
-    PenaltyTable: []
-    BonusModeTable: []
-    TotalTable: []
-    ResultTable: []
-    WonGame: []
-    LostGame: []
+    RoleTable:
+    - 'Role :'
+    PointTable:
+    - 'Role Point :'
+    PenaltyTable:
+    - 'Rank Penalty :'
+    BonusModeTable:
+    - 'Bonus Mode Points :'
+    TotalTable:
+    - 'Total Points :'
+    ResultTable:
+    - 'Score :'
+    WonGame:
+    - You Won !
+    LostGame:
+    - You Lost...
     Loots:
     - "Loots!"
   Stats:
@@ -1143,15 +1184,15 @@ strings:
     - Please add roles before starting the game.
   BanMessages:
     GroupBan:
-    - "You are banned from playing in {0}"
+    - "You have been banned from joining the game."
     GlobalBan:
-    - "You cannot use the bot because you have a global ban."
+    - "You are globally banned from using the bot."
     BanReason:
     - "Reason: {0}"
     BanExpire:
     - "Expiration: {0}"
     GroupBanPlayer:
-    - "You cant join the game because you are banned from {0}"
+    - "You can't join the game because you have been banned by the admins of the {0} group."
     Year:
     - "Year"
     Day:
@@ -1250,7 +1291,8 @@ strings:
     - "🎫 Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} 🪙\nChoose a role to purchase!"
     BuyEmoji:
     - "😄 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (🧩).\nAvailable Fragments: {0} 🧩\n\nPick an emoji to buy and personalize your experience!"
-    BuyEmojiDuration: []
+    BuyEmojiDuration:
+    - "⏳ Select Duration\n\nPlease choose how long you'd like to use the emoji.\nThe cost will vary depending on the duration.\n\nAvailable Fragments: {0} 🧩"
   TicketButtons:
     ForceToken:
     - '{0} FS Token'
@@ -1284,10 +1326,14 @@ strings:
     - '{0} Items'
     TournamentPoint:
     - '{0} Tournament Point'
-    Month: []
-    Week: []
-    Permanent: []
-    Yearly: []
+    Month:
+    - 📆 Monthly
+    Week:
+    - 🗓 Weekly
+    Permanent:
+    - ♾️ Perma
+    Yearly:
+    - 🌞 Yearly
   TopMessages:
     GroupStats:
     - "Top 10 in {0} :"
@@ -1368,7 +1414,8 @@ strings:
     - "🧩 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
     GiftEmoji:
     - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
-    GiftEmojiDuration: []
+    GiftEmojiDuration:
+    - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nSelect how long you want to purchase emojis. The cost will vary depending on the duration."
     GiftSentSuccess:
     - "🎁 Gift Delivered!\n\nYour gift to {0} has been successfully sent! 📨\nYou've just shared:\n{1} 🎉\n\nKindness like this keeps the game fun and full of surprises. 🌟"
   CustomGifs:
@@ -1430,7 +1477,8 @@ strings:
     - "😄 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
     TransferTicket:
     - "🎫 Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
-    TransferLimit: []
+    TransferLimit:
+    - "⚠️Your Daily Transfer Limit Has Been Reached!\n\nYou can't make any more transfers today. Your transfer limit will reset tomorrow.\n\nBut you still have an option! ✨\nUse the /gift command to buy special items for your friends using Telegram Stars and make their day!"
   PlayerTAGS:
     TagSuccess:
     - "Your new name tag was set successfully. Tag: {0}"
@@ -1533,7 +1581,8 @@ strings:
     - "Choice accepted."
     And:
     - "and"
-    NewUnlocks: []
+    NewUnlocks:
+    - New Unlocks!
     PlayersAlive:
     - "Players Alive"
     Players:
@@ -1615,4 +1664,211 @@ strings:
     NoNodes:
     - "There are no nodes online right now, please try again in a few seconds"
   BonusPoints:
-    DieAsAFK_Penalty: []
+    DieAsAFK_Penalty:
+    - 'Die as AFK :'
+    TryCH_Penalty:
+    - 'Try CH :'
+    TrySK_Penalty:
+    - 'Try SK :'
+    TryWW_Penalty:
+    - "Try WW's :"
+    EmptyHouse_Penalty:
+    - 'Empty House :'
+    DieDuringStayHome_Penalty:
+    - 'Die during stay home :'
+    ProtectWWSK_Penalty:
+    - 'Protect WW/SK :'
+    KillCH_Hs_WE_Penalty:
+    - 'Kill CH/WE/Helpers :'
+    HuntSK_Penalty:
+    - 'Hunt SK :'
+    LynchTeamMate_Penalty:
+    - 'Lynching teammates :'
+    FreezeSorcerer_Penalty:
+    - 'Freeze Sorcerer :'
+    DodgeCH_He_Penalty:
+    - 'Dodge CH/Helpers :'
+    SaveBadRole_Penalty:
+    - 'Save bad role :'
+    LynchCH_He_Penalty:
+    - 'Lynch CH/Helpers :'
+    EatDrunk_WE_Penalty:
+    - 'Eat Drunk/WE :'
+    BlockedGA_Penalty:
+    - 'Blocked by GA :'
+    FailedTH_Penalty:
+    - 'Shoot by Hunter :'
+    FailedSK_Penalty:
+    - 'Failed to SK :'
+    FellaTumb_Penalty:
+    - 'Fell a tumb :'
+    EmptyArsoLH_Penalty:
+    - 'Empty to Arso/Harlot :'
+    KillCH_Penalty:
+    - 'Kill CH at first :'
+    KillRevealedRole_Penalty:
+    - 'Kill revealed role :'
+    LynchAllyWW_Penalty:
+    - 'Lynch Ally/WW :'
+    NotHimself_Penalty:
+    - 'Not save himself :'
+    Die2Attack_Penalty:
+    - 'Die at 2nd attack :'
+    LynchRevealedRole_Penalty:
+    - 'Lynch revealed role :'
+    LynchCH_Penalty:
+    - 'Lynch CH :'
+    EatSorcPoseidon_Penalty:
+    - 'Eat Sorc/Poseidon :'
+    ShootByTH_Penalty:
+    - 'Shoot by Hunter :'
+    DefeatByTH_Penalty:
+    - 'Defeat by Hunter :'
+    Convience_Bonus:
+    - 'Converting a player :'
+    ConvienceHelper_Bonus:
+    - 'Converting a helper :'
+    ConvienceAlly_Bonus:
+    - 'Converting an ally :'
+    ConvienceTanner_Bonus:
+    - 'Converting Tanner :'
+    ConvienceBoss_Bonus:
+    - 'Converting Boss :'
+    ConvienceResisting_Bonus:
+    - 'Converting Resisting Role :'
+    LynchCHMajority_Bonus:
+    - 'Lynch CH at Majority :'
+    LynchCHMinority_Bonus:
+    - 'Lynch CH at Minority :'
+    KillBadRole_Bonus:
+    - 'Kill bad role :'
+    EatenByWW_Bonus:
+    - 'Eaten by WW :'
+    DetectCult_Bonus:
+    - 'Detect Cult :'
+    VisitWWSk_Bonus:
+    - 'Visit WW/SK :'
+    FindBadRole_Bonus:
+    - 'Find bad role :'
+    SaveLife_Bonus:
+    - 'Save a life :'
+    CleanHouse_Bonus:
+    - 'Clean a house :'
+    HuntCult_Bonus:
+    - 'Hunt any Cult :'
+    DefeatWWAtNight_Bonus:
+    - 'Defeat WW at night :'
+    FindWW_Bonus:
+    - 'Find WW :'
+    DetectHelpers_Bonus:
+    - "Detect Helper's :"
+    DiscoverPoseidon_Bonus:
+    - 'Discover Poseidon :'
+    InfectSK_Bonus:
+    - 'Infect SK :'
+    InfectDrunk_Bonus:
+    - 'Infect Drunk :'
+    InfectWE_Bonus:
+    - 'Infect WE :'
+    InfectCH_Bonus:
+    - 'Infect CH :'
+    InfectHelpers_Bonus:
+    - "Infect Helper's :"
+    InfectRole_Bonus:
+    - 'Infect any Role :'
+    Give2Attack_Bonus:
+    - 'Give two attack :'
+    ManageEaten_Bonus:
+    - 'Manage to be eaten :'
+    GetAttackByWW_Bonus:
+    - 'Get attack by WW :'
+    RevivePlayer_Bonus:
+    - 'Revive a player :'
+    SacraficeHelpers_Bonus:
+    - "Sacrafice for Helper's :"
+    SacraficeCH_Bonus:
+    - 'Sacrafice for CH :'
+    SaveHelpers_Bonus:
+    - 'Save Helpers :'
+    SaveCH_Bonus:
+    - 'Save CH :'
+    KillCH_Bonus:
+    - 'Kill CH :'
+    KillHelpers_Bonus:
+    - "Kill Helper's :"
+    KillTanner_Bonus:
+    - 'Kill Tanner :'
+    KillCultist_Bonus:
+    - 'Kill Cultist :'
+    KillArsonistSK_Bonus:
+    - 'Kill Arsonist/SK :'
+    LynchYourself_Bonus:
+    - 'Lynch yourself :'
+    RevealedRoleLynched_Bonus:
+    - 'Revealed role target lynched :'
+    WWAllyLynched_Bonus:
+    - 'WW/Ally role target lynched :'
+    SK_ArsonistLynched_Bonus:
+    - 'SK/Arsonist role target lynched :'
+    TannerLynched_Bonus:
+    - 'Tanner role target lynched :'
+    BurnDrunk_Bonus:
+    - 'Burn Drunk :'
+    BurnHeTH_Bonus:
+    - "Burn Hunter/Helper's :"
+    BurnCult_WWs_Bonus:
+    - "Burn Cult/WW's :"
+    StabHelpers_Bonus:
+    - "Stab Helper's :"
+    WWsFail_Bonus:
+    - "WW's when they failed :"
+    ArsonistFail_Bonus:
+    - 'Arsonist when they failed :'
+    CHCultFail_Bonus:
+    - 'CH/Cult when they failed :'
+    GA_LH_ChemistFail_Bonus:
+    - 'GA/Hunter/Chemist when they failed :'
+    KillGD_Bonus:
+    - 'Kill GD accidentaly :'
+    EatSK_Bonus:
+    - 'Eat SK :'
+    EatHelpers_Bonus:
+    - "Eat Helper's :"
+    KillWCsModel_Bonus:
+    - "Kill WC's Model :"
+    BadRoleFallTumb_Bonus:
+    - 'Bad role fall tumb :'
+    FreezeAction_Bonus:
+    - 'Freeze Action Role :'
+    BurnAlpha_Bonus:
+    - 'Burn Alpha :'
+    DodgeBadRole_Bonus:
+    - 'Dodge bad role :'
+    LynchHelpers_Bonus:
+    - "Lynch Helper's :"
+    ShootBadRole_Bonus:
+    - 'Shoot bad role :'
+    FindCursed_Bonus:
+    - 'Find Cursed :'
+    DetectKiller_Bonus:
+    - 'Detect Killer :'
+    FreezeHelpers_Bonus:
+    - "Freeze Helper's :"
+    GetLynchLast3_Bonus:
+    - 'Get lynch at last 3p :'
+    GetLynchCultMajor_Bonus:
+    - 'Get lynch during Cult majority :'
+    Surviving_Bonus:
+    - 'Surviving Time :'
+    EarlyDie_Bonus:
+    - 'Early die :'
+    WinStreak_Bonus:
+    - 'Win Streak :'
+    Every4Kill_Bonus:
+    - 'Every 4 kills :'
+    LynchBadRole_Bonus:
+    - 'Lynch bad roles :'
+    RevealBadRole_Bonus:
+    - 'Reveal Bad Role :'
+    RevealHelper_Penalty:
+    - 'Reveal Helper :'
