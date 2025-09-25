@@ -1183,13 +1183,16 @@ strings:
     CustomNoRole:
     - Please add roles before starting the game.
   BanMessages:
-    GroupBan: []
-    GlobalBan: []
+    GroupBan:
+    - You have been banned from joining the game.
+    GlobalBan:
+    - You are globally banned from using the bot.
     BanReason:
     - "Reason: {0}"
     BanExpire:
     - "Expiration: {0}"
-    GroupBanPlayer: []
+    GroupBanPlayer:
+    - You can't join the game because you have been banned by the admins of the {0} group.
     Year:
     - "Year"
     Day:
@@ -1331,6 +1334,10 @@ strings:
     - ♾️ Perma
     Yearly:
     - 🌞 Yearly
+    Halloween:
+    - '{0} Halloween Piece'
+    HowlPoint:
+    - '{0} Howl Point 🌗'
   TopMessages:
     GroupStats:
     - "Top 10 in {0} :"
@@ -1340,6 +1347,10 @@ strings:
     - 'Your Ranking:'
     MostPlayedWithMonth:
     - Players with the most games this month.
+    MostWinWithMonth:
+    - Players with the most win this month
+    TopHowl:
+    - '🌗 Top 10 with the most howl points in {0}:'
   ProfileMessages:
     ItemsText:
     - "Hey {0}! Check out your awesome loot!\\n\\nYour Inventory:\\n\\n{1}"
@@ -1385,7 +1396,8 @@ strings:
     - "🧩 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
     StarEmoji:
     - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
-    StarEmojiDuration: []
+    StarEmojiDuration:
+    - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select how long you want to purchase emojis. The cost will vary depending on the duration."
     StarSuccess:
     - "📦 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} 🛍️\nIt'll cost you {2} Telegram Stars 🌟\nCheck your messages — once you complete the payment, your goodies will be on their way! 🎁🚀"
     StarPayment:
@@ -1455,7 +1467,8 @@ strings:
     GifCheckSuccess:
     - "🎉 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! 🐺✨"
   TransferMenu:
-    Transfer: []
+    Transfer:
+    - "🔄 Transfer Menu\n\nWelcome to the Transfer Menu! Here, you can transfer your Emojis, Vouchers and Tickets to another player.\n\nYou are transferring items to {0}!\nAvailable Mint: {1} 🪙\nTransfer Cost: {2}\n\nWhat would you like to transfer?"
     TransferSelf:
     - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
     TransferFailed:
@@ -1660,6 +1673,8 @@ strings:
     - "An error has occured, and this node has shut down :/"
     NoNodes:
     - "There are no nodes online right now, please try again in a few seconds"
+    TranslateSite:
+    - "You can help translate the bot to your language by going to this site: {0}\nAlso rewards are available for translators!\nIf you want to help with the bot translations, please contact @wolfbloodsupport"
   BonusPoints:
     DieAsAFK_Penalty:
     - 'Die as AFK :'
