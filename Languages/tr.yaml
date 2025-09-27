@@ -623,7 +623,8 @@ strings:
   Preacher:
     Preacher:
     - "Vaiz 🛐"
-    RoleInfoPreacher: []
+    RoleInfoPreacher:
+    - Sen Vaizsin 🛐. Gece boyunca bir oyuncu için dua edebilirsin. Dua ettiğin oyuncu öldürülürse, katilinin kimliğini ve rolünü öğrenirsin. Ancak, hedefinin katilleri de senin kim olduğunu öğrenecek. Bu yetenek ikinci geceden itibaren kullanılabilir.
     AskPreacher:
     - "Kim için dua etmek istiyorsun?"
     PreacherDone:
@@ -635,31 +636,37 @@ strings:
   GraveDigger:
     GraveDigger:
     - "Mezarcı ☠️"
-    RoleInfoGraveDigger: []
-    AskGraveDigger: []
+    RoleInfoGraveDigger:
+    - Sen Mezarcısın ☠️. Ölen ölmüştür, kalan sağlar bizimledir! 2. geceden itibaren ölenler için mezar kazmaya başlayacaksın. Bir günlüğüne ölü bir oyuncunun yeteneklerini kullanmak için tek seferlik özel bir yeteneğin var. Mezar kazdığın süre zarfında evde olmayacaksın ve ziyaretçilerin seni evde bulamaz. Ziyaretçiler, kaç tane kazdığına bağlı olarak artan şansla bitmemiş mezarlarına düşebilir. Dışarıdayken kurt veya seri katil tarafından fark edilmemeye dikkat et.
+    AskGraveDigger:
+    - Kimin yeteneklerini bir günlüğüne kullanmak istersin?
     DigNoGraves:
     - "Ölüler gömülüdür ve yaşayanlar değildir. Her şey olması gerektiği gibi olduğu için iyi bir gece uykusu çekebilirsin."
     DigGraves:
     - "Gecenin geç saatlerine kadar, {0}’in mezarını kazıyorsun. Bedenleri huzur içinde yatsın."
-    DefaultFellDigger: []
-    DefaultVisitDigger: []
+    DefaultFellDigger:
+    - Yorucu bir gecenin ardından, güneş çoktan doğarken evine geri dönüyorsun. Varmadan hemen önce, bitmemiş bir mezarın yanında yerde kurumuş kan olduğunu fark ediyorsun. Mezarın içinde {0}'in cesedini görüyorsun. {1}'in seni ziyaret etmesi ne kadar aptalca...
+    DefaultVisitDigger:
+    - "{0}'in evine doğru gidiyorsun ama o evde yok! Tek görebildiğin bir mezarın üzerinde yalnız başına parlayan bir mum..."
     WolfFellWolves:
     - "{0}’i yemek için gittin ancak o da ne??? {1} aniden bir ayı tuzağına adım attı. Açık bir mezara düştü ve gömüldü!"
     WolvesSpotted:
     - "Kurdun avı mezarlıktan geçiyordu, aniden mezar kazıcı {0}’i farkettin. Tepki vermeden önce, sırtına atlar ve bir ısırıkla öldürürsün."
     WolvesSpottedYou:
-    - "Sadece işinizi yapmaya çalışıyordun ancak bir kurt arkandan atlayarak seni midesine indirdi!"
+    - "Sadece işini yapmaya çalışıyordun ancak bir kurt arkandan atlayarak seni midesine indirdi!"
     SerialKillerSpotted:
     - "Kanlı bıçağınla mezarlıktan geçerken, mezar kazıcı {0}’i görüyorsun. İçgüdülerin, bugün senin için iki kurban olacağına karar verdi.."
     SerialKillerSpottedYou:
     - "Sadece işini yapmaya çalışıyordun, aniden çılgın bir katil seni gördü ve bıçakladı! Ne yazık..."
     CultConvertGraveDigger:
     - "{1}'in evine giderken, {0} birdenbire kiliseyi de ziyaret etmenin iyi bir fikir olduğuna karar verir. Birdenbire bir ayı tuzağı ayak bileği çevresine oturarak mezara kapaklanır! Duyabildiğin tek şey onların bir mezara düşmeden önceki çığlıkları ve hayatın için kaçıyorsun."
-    DefaultFell: []
+    DefaultFell:
+    - Bir dahaki sefere birinin evine ziyarete gittiğinde adımlarına dikkat etmelisin... Bir ayı tuzağına bastın, açık bir mezara düştün ve kalbine gümüş bir mızrak saplandı! Böyle ziyarete gelirken aklından ne geçiyordu? Hak ettiğini buldun, seni küçük aptal!
   Conjurer:
     Conjurer:
     - "Hokkabaz Kurt 🐺✨"
-    RoleInfoConjurer: []
+    RoleInfoConjurer:
+    - Sen Düzenbaz Kurtsun 🐺✨. Diğer kurtlardan farklı olarak gizli bir yeteneğin var. Bunu kullandığında, linç oylamasında en çok oyu alan değil, en az oy alan kişi ölecektir.
     AskConjurer:
     - "Yeteneğini bugün kullanmak ister misin?"
     ConjurerChoice:
@@ -667,35 +674,50 @@ strings:
   Miner:
     Miner:
     - "Madenci ⛏"
-    RoleInfoMiner: []
+    RoleInfoMiner:
+    - Sen Madencisin ⛏. Her gece köylülerin evlerine tüneller kazıyorsun. Kazdığın tüneller sayesinde, gece eylemleri olan oyuncular hedeflerini kaçıracak ve farkında olmadan rastgele bir eve gidecekler. Aynı oyuncunun evini iki kez üst üste kazamazsın.
     AskMiner:
     - "Kimin evine tünel kazmak istiyorsun?"
     MinerDone:
     - "{0}'in evine başarıyla tünel kazdın. Şimdi gece aksiyonu olan oyuncular hedeflerini şaşıracak ve farklı bir eve çıkacaklar."
-    MinerChanged: []
+    MinerChanged:
+    - "{0}'in evine doğru gidiyordun, ama aniden ayağın kaydı ve madenci tarafından kazılmış bir tünele düştün. Ne olduğunu anlamaya çalışırken bir anda {1}'in evinde beliriverdin."
   Pawn:
     Pawn:
     - "Piyon ♟"
-    RoleInfoPawn: []
+    RoleInfoPawn:
+    - Sen Piyonsun ♟. Her gece korumak için birini seçeceksin. Eğer hedefin saldırıya uğrarsa, kendini feda edeceksin. Eğer bir Kurt veya Seri Katili korumaya çalışırsanız, ölürsün.
     AskPawn:
     - "Kim için kendini feda etmek istiyorsun ?"
     PawnSaved:
     - "Korumak için {0}'i seçtin ve hedefin saldırı aldı. Onurlu bir fedai olarak hedefinin hayatta kalması için kendini feda ettin ve öldün."
-    PawnSavedYou: []
-    PawnNoAttack: []
-    PawnWolf: []
-    PawnKiller: []
-    PawnEmptyHouse: []
-    PawnKilledCH: []
-    PawnGuardedKiller: []
-    PawnGuardedWolf: []
-    PawnBlockedWolf: []
-    PawnBlockedKiller: []
-    PawnBlockedCH: []
+    PawnSavedYou:
+    - Dün gece Piyon {0} seni korumayı seçti ve savaşta kendini feda etti.
+    PawnNoAttack:
+    - '{0} saldırıya uğramadı, yani pek de bir şey yapmış olmadın.'
+    PawnWolf:
+    - "{0}'i korumayı seçtin ama o bir kurttu ve şimdi de ölüsün."
+    PawnKiller:
+    - "{0}'i korumayı seçtin ama o Seri Katildi ve şimdi de ölüsün."
+    PawnEmptyHouse:
+    - "{0}'i korumayı seçtin ama o evde yok."
+    PawnKilledCH:
+    - Dün gece Piyon {0} büyük bir fedakarlık yaptı. Ancak bu fedakarlık ondan beklenen türden bir fedakarlık değildi... Sanırım bir tarikatçıyı ölümden korumak istedi :( Tarikatçı Avcısı onun yerine Piyonu öldürme mecburiyetinde kaldı.
+    PawnGuardedKiller:
+    - '{0} dün gece koruyacak birini arıyordu ama yanlış kişiyi seçti. Seri katili ziyaret etti ve seri katil onu 80 kez bıçakladı.'
+    PawnGuardedWolf:
+    - '{0} dün gece koruyacak birini arıyordu ama yanlış kişiyi seçti. Kurdu ziyaret etti ve yem oldu.'
+    PawnBlockedWolf:
+    - Dün gece bir şeyler atıştırmak için {0}'e saldırmayı seçtin. Ama piyon oradaydı ve onun yerine kendini feda etmeyi seçti.
+    PawnBlockedKiller:
+    - Dün gece koleksiyonun için {0}'in karaciğerini toplamayı seçtin. Ama piyon oradaydı ve onun yerine kendini feda etmeyi seçti.
+    PawnBlockedCH:
+    - Tarikatçıları avlamak için {0}'in evine gittin. Ama orada piyon orada nöbet tutuyordu ve onun yerine kendini feda etti.
   Soldier:
     Soldier:
     - "Komando 🪖"
-    RoleInfoSoldier: []
+    RoleInfoSoldier:
+    - 'Sen Komandosun 🪖. Güneş doğduğunda, birini linç oylarından kurtarmayı seçebilirsin. Seçilen oyuncu linç edilmek üzere hedef alınır ve ölürse, linç oylarını seçtiğin başka bir oyuncuya yönlendirmek için tek seferlik bir yeteneğin olacak. '
     AskSoldier:
     - "Linç oylamasında kimi korumak istiyorsun?"
     AskSoldier2:
@@ -705,50 +727,75 @@ strings:
     SoldierDone:
     - "Köylüler linç aşamasında başarıyla oylarını kullandılar. Linç edilmek üzere {0} seçildi. Ancak {0}'i kollayan bir komando vardı ve linç aşamasını {1}'e yönlendirmeyi tercih etti. {2}"
   Rogue:
-    Rogue: []
-    RoleInfoRogue: []
-    AskRogue: []
-    AskRogue2: []
-    RogueSuccess: []
+    Rogue:
+    - Düzenbaz Kurt 🐺🧧
+    RoleInfoRogue:
+    - Sen Düzenbaz Kurtsun 🐺🧧. Kurnazlığın ve başka bir oyuncunun kılığına girme yeteneğinle tanınırsın. İlk gece boyunca, taklit etmek için bir oyuncu seçme fırsatın var. Eğer görüş sahibi olan roller seni kontrol eder veya ölür isen herkes seni kılığına girdiğin rol ile tanıyacak. Taklit ettiğin rolün herhangi bir kanıt sunma yeteneği varsa, onu da taklit edebilirsin. Ancak bunun gerçek bir etkisi olmayacak ve sadece basit bir illüzyondan ibarettir.
+    AskRogue:
+    - Kimin kılığına girmek istiyorsun?
+    AskRogue2:
+    - Yeteneğini kullanmak istiyor musun?
+    RogueSuccess:
+    - "{0}'in kılığına girmeyi seçtin. Rolü ise {1}!"
   Executioner:
     Executioner:
     - "Cellat 🦸‍♂️"
-    RoleInfoExecutioner: []
-    AskExecutioner: []
-    AskExecutionerLynch: []
-    ExecutionerLynch: []
+    RoleInfoExecutioner:
+    - Sen Cellatsın 🦸‍♂️.Olağanüstü becerilerini sergileyerek ve diğer köylülere meydan okuyarak linç işleminin sorumluluğunu üstlenirsin. Gerçek kimliğin ortaya çıktığında, köyden iki kişiyi seçerek kontrolü ele alacaksın. Köylüler daha sonra oylarını kullanarak bu iki kişiden hangisinin idam edileceğine karar vermek zorundadır. Çoğunluğun kararına göre seçilen kişi idam edilecektir.
+    AskExecutioner:
+    - Oylamaya sunmak istediğin iki kişi kim?
+    AskExecutionerLynch:
+    - Cellat hedef olarak {0} ve {1}'i seçti. Kararınız çok önemli. Lütfen oylamaya katılın ve kimin infaz edileceğini seçin.
+    ExecutionerLynch:
+    - Celladın varlığı köyün üzerinde uğursuz bir şekilde belirir. Fırtına bulutları toplanırken, tüyler ürpertici bir sessizlik çöküyor. Bugün {0} ve {1}'in kaderi belirsizliğini koruyor. Köylüler kimin idam edileceğine karar vermek için oy kullanmalı. Akıllıca seçim yapın, çünkü sadece biri kılıçla yüzleşecek.
   Slave:
     Slave:
     - "Köle 😵‍💫"
-    RoleInfoSlave: []
+    RoleInfoSlave:
+    - Sen Kölesin 😵‍💫. Köydeki hiçbir takımın tarafında değilsin. Tek amacın sana verilen hedefi adaletin acımasız ellerine teslim etmek ve linç edilmesini sağlamak. Hedefin linç dışında herhangi bir nedenle ölürse, umutsuzluğa kapılmadan kendini linç ettirmelisin. Hedefin linç edilirse oyunu kazanırsın.
     SlaveLynched:
     - "Başarılı bir şekilde {0}'i linç ettirdin. Köydeki adalet arayışın artık sona erdi ve amacınıza ulaştın. Sana verilen görevi yerine getirdin ve bu karanlık oyundan galip ayrıldın."
     SlaveTarget:
-    - "Hedefin: {0}.\nHedefini linç ettirerek bu karanlık görevi tamamlamak zorundasın."
+    - "Hedefin: {0}. Hedefini linç ettirerek bu karanlık görevi tamamlamak zorundasın."
   Poseidon:
-    Poseidon: []
-    RoleInfoPoseidon: []
+    Poseidon:
+    - Poseidon 🧜
+    RoleInfoPoseidon:
+    - Sen Poseidon'sun 🧜. Oyun başına bir kez hiddetli bir deniz dalgası yaratacak ve bunu köy halkının üzerine yönlendireceksin. Bu oluşan Tsunami rastgele bir oyuncunun ölümüne sebep olacak. Oyuncular, sen tsunamiyi yaratmaya karar verdiğinde haberdar olacak ama senin kimliğin gizli kalacak.
     AskPoseidon:
     - "Bugün tsunami başlatmak ister misin?"
     PoseidonRevealInfo:
     - "Köyün her yerinde şiddetli dalgaların sesleri yankı ediyordu. Denizlerin tanrısı Poseidon derin denizlerden çıkarak öfkesini yeryüzündeki köy halkına yönlendirecek. Eğer ki Poseidonu bulamazsanız ertesi gün, aranızdan biri dalgaların içinde boğulacak."
     PoseidonReveal:
-    - "Gün ağırdıktan hemen sonra köye vuran şiddetli dalgalar tsunamiye sebep oldu. Denizlerin görkemli tanrısı Poseidon kendisi için bir günah keçisi arıyordu ve kızgın dalgaların hedefi {0} oldu!\n{1}."
+    - "Gün ağrıdıktan hemen sonra köye vuran şiddetli dalgalar tsunamiye sebep oldu. Denizlerin görkemli tanrısı Poseidon kendisi için bir günah keçisi arıyordu ve kızgın dalgaların hedefi {0} oldu.\n{1}."
   Snitch:
-    Snitch: []
-    RoleInfoSnitch: []
-    SnitchLynchSuccess: []
-    SnitchFinalSuccess: []
-    AskSnitch: []
-    SnitchNoChoice: []
+    Snitch:
+    - Muhbir 🦜
+    RoleInfoSnitch:
+    - Sen Muhbirsin 🦜. Tüm köyün en meraklı sakini. Dedikoduya olan tutkun seni herkesin gizli gerçeklerini öğrenmeye yöneltti. Son nefesinde, herhangi bir oyuncunun en derin karanlık sırrını ispiyonlayarak kimliğini ifşa edebilirsin.
+    SnitchLynchSuccess:
+    - "Son nefeslerini verirken, {0} sinsi bir sırıtışla öne doğru eğildi ve bağırdı: \"Herkesi kandırabileceğini mi sanıyorsun, {1}? Sen bir {2}'den başka bir şey değilsin!\" Sır açığa çıktıkça köyde nefes sesleri yankılandı. Gerçek bir muhbir asla sessizlik içinde ölmez... 🦜"
+    SnitchFinalSuccess:
+    - "Hayatları ellerinden kayıp giderken, Muhbir 🦜 olan {0} son bir çığlık attı: \"Seni gördüm, {1}!\" Gerçek gece boyunca yankılanırken köy şok içinde dondu kaldı. Ölümün kıyısında bile olsa, bir Muhbir asla sessiz kalmaz... {2} açığa çıktı!\n{3}"
+    AskSnitch:
+    - Ölüyorsun... ama öyle kuru kuruya gitmek olmaz! Bir oyuncu seç ve onun foyasını ortaya çıkar 🦜. Kimi gammazlamayı tercih edeceksin?
+    SnitchNoChoice:
+    - Muhbir 🦜 {0} nefes nefese kaldı, gözleri köyü taradı... Ama sesleri sessizliğe gömüldü. Hiçbir sır açığa çıkmadı. Gerçek onunla birlikte ölür.
   Illusionist:
-    Illusionist: []
-    RoleInfoIllusionist: []
-    AskIllusionist: []
-    IllusionistNoChoice: []
-    IllusionistKillTarget: []
-    IllusionistFakeTarget: []
-    IllusionistKillYou: []
+    Illusionist:
+    - İllüzyonist Kurt 🐺🪄
+    RoleInfoIllusionist:
+    - "Sen İllüzyonist Kurtsun 🐺🪄. Yalanlardan oluşan bir maske takıyorsun... ve bu işe yarıyor! Görüş sahibi olan roller seni kontrol ettiğinde rastgele bir köy takımı rolünü görecekler ve evet! Bu rol zaten oyunda var. Hangi rol olduğunu en başından beri biliyorsun. Eğer linç edilirsen o zavallı ruh seninle birlikte mezara sürüklenir. Eğer zaten ölmüşse, yeni bir hedef seçeceksin. Gerçekliği bük. Köyü kandır. Yanında birini götür.\nSen sadece bir kurt değilsin, gösterinin ta kendisisin."
+    AskIllusionist:
+    - "Ölüyorsun... Yanında kimi beraberinde götüreceksin?\nAkıllıca seç... Köy son hareketini asla unutamayacak. 🪄"
+    IllusionistNoChoice:
+    - "Bu illüzyon sonsuza dek süremezdi.\nKöy kükredi, oylar {0} için verildi, sonlarını ilmikte buldular. Bu sefer \"ta-da!\" yok. Perde ne bir bükülme, ne de bir ikinci bir aksiyon ile kapandı; sadece sessizlik. İllüzyonların bile kandıracak birine ihtiyacı vardır... ve bu sefer sahne boştu.\n{1}"
+    IllusionistKillTarget:
+    - "Bu illüzyon sonsuza dek süremezdi.\nKöy kükredi, oylar {0} için verildi ve ilmikte sonunu buldu. İp kopup sessizlik çöktüğünde, son bir \"ta-da!\" köyde yankılandı... ve bir başkası kötü bir oyundaki sersemlemiş bir figüran gibi düştü. Son perde mi? Köyün asla unutamayacağı bir dönüş 🐺🪄\n{1}"
+    IllusionistFakeTarget:
+    - 'Sahte rolün: {0}'
+    IllusionistKillYou:
+    - Bir illüzyona yakalandın... ve şimdi yoksun. İllüzyonist Kurt'un son numarası seni uçuruma çekti. Bunun geldiğini asla göremedin. 🐺🪄
   KilledMessages:
     BlacksmithKilled:
     - "Gündüz vakti olduğunda köylüler herhangi bir dövme sesi duymuyordu. İmalathaneyi kontrol etmeye gittiklerinde ise demirci başı olan {0}'in cesedi ile karşılaşırlar. Seri katil elindeki bıçağı daha iyi bilemek için imalathaneye girmiş ve fırsattan istifade köyün demircisinden de kurtulmuş."
@@ -761,17 +808,18 @@ strings:
     GuardianAngelKilled:
     - "Gecenin ilerleyen saatlerinde amansız çığlıklar duyuldu. Köyün muhtarı gördüğü manzara karşısında nutku tutulmuş durumdaydı. Köyün ilahi koruyucu meleği {0}, normal şartlar altında mücadele vermesi gerekirdi ancak Seri katil karşısında direnişi yetersizdi. Kanatları kayıp, belli ki katilin koleksiyonun parçası olmuştu."
     GunnerKilled:
-    - "Geceleyin silah sesleri susmak bilmedi. Bu amansız çatışmanın sonucu gündüz vakti köylüler {0}'in cansız bedeni ile karşılaştılar. Etrafta sayısız mermi kovanı vardı ve silahşörünüzün tüm parmakları kesilmişti. Tam seri katile göre bir cinayet!"
+    - "Geceleyin silah sesleri susmak bilmedi. Bu amansız çatışmanın sonucu gündüz vakti köylüler {0}'in cansız bedeni ile karşılaştılar. Etrafta sayısız mermi kovanı vardı ve silahşorun tüm parmakları kesilmişti. Tam seri katile göre bir cinayet!"
     MayorKilled:
-    - "Suikast! Belediye binasının etrafında bir silüet dolanıyordu. Köyün muhtarı binanın içinde kıstırılmış şekilde ve endişeyle kan ter içerisindeydi. Elindeki feneri aniden başka yöne çevirdi ve saniyesinde bıçak darbelerine maruz kaldı. Seri katil {0}'in ağzını kapatarak ses çıkarmasını engellemiş sessizce işini halletmiş."
+    - "Suikast! Belediye binasının etrafında bir siluet dolanıyordu. Köyün muhtarı binanın içinde kıstırılmış şekilde ve endişeyle kan ter içerisindeydi. Elindeki feneri aniden başka yöne çevirdi ve saniyesinde bıçak darbelerine maruz kaldı. Seri katil {0}'in ağzını kapatarak ses çıkarmasını engellemiş sessizce işini halletmiş."
     PrinceKilled:
     - "Güneş doğumuna yakın vakit köyde muhafızlar tarafından alarm verildi. Bütün kraliyet teyakkuza geçerek kralın varisi olan {0}'i arıyordu ancak alınan son haber ise akıl hastanesinden kaçmış bir seri katilin sarayın etrafında dolandığı idi..."
     - "Gündüz olduğunda tüm köy hazır olda bekliyordu. Dün gece Kral için kara bir geceydi. Gecenin geç vakitlerinde prens {0} seri katilin kurbanlarından biriydi. Hiçbir asil kan ölümsüz değildir ve bu olay bunun ispatı oldu. {0} için amansız bir son..."
     SeerKilled:
     - "Görüş kazanmak için yaptığı ritüeller sırasında Gözcü {0}, beklenmedik bir sürprizle karşılaştı. Gözüne kestiremediği bir seri katil ironik bir şekilde onu kesip doğradı. Vücudundaki her bir kesik, detaylı bir şekilde oluşturulmuştu..."
-    PawnKilled: []
+    PawnKilled:
+    - Bu gecenin sakin geçmesi bekleniyordu, ancak köylüler {0}'i kasaba meydanında birkaç organı eksik halde buldular. Görünüşe göre katil, piyonun {1}'i koruma çabalarından hoşnut değildi! Olayların trajik bir şekilde gelişmesiyle, {1}'i korumaya çalışan {0}, seri katilin kurbanı oldu. {2}
     DefaultKilled:
-    - "{0} için yeterince sessiz bir gece olması bekleniyordu. Rüyasının tam ortasında ciğerine saplanmış bir bıçak olacağını kim bilebilirdi! Köylüler {0}'i yatağında organlarından bazılarını eksik şekilde buldular. Görünüşe göre katil kurbanlarını kâbuslarında avlamakla yetinmemiş! {1}."
+    - "{0} için yeterince sessiz bir gece olması bekleniyordu. Rüyasının tam ortasında ciğerine saplanmış bir bıçak olacağını kim bilebilirdi! Köylüler {0}'i yatağında organlarından bazılarını eksik şekilde buldular. Görünüşe göre katil kurbanlarını kâbuslarında avlamakla yetinmemiş! {1}"
   EatenMessages:
     ApprenticeSeerEaten:
     - "Dün gece köyün gözcüsü tarot kartlarında anlam veremediği bir kötülük sezdi. Gündüz vakti ise her şeyin yerli yerinde olduğunu görmek için çırağı {0}'i kontrol etmeye gitti ancak eve vardığında yüzleşemeyeceği bir manzara vardı... Henüz eğitimini bile tamamlayamamış olan çırağı kurt adamlar tarafından öldürülmüştü."
@@ -780,10 +828,12 @@ strings:
     - "Dolunay vakti tepelerdeki kurt sürüsünün uğultusu hayli ürpertici idi. Ancak bu uğultunun kaynağı tamamıyla kederliydi. Kurt sürüsünün gözü öyle dönmüş olmalı ki kendi müttefikleri olan Falcı {0}'i öldürdüler."
     WildChildEaten:
     - "OOOOYYYYYYY! Gece vakti duyulan çığlıklar hiç de normal sesler değildi. Bir çocuğun çığlık sesleriydi. Kurt sürüsü gittikçe tehlikeli ve onursuz bir hâl almaya başlıyor. {0} gibi böylesine masum, küçük bir çocuğu atıştırmalık olarak görmek nereden baksak omurgasızlık!"
-    PawnEaten: []
+    PawnEaten:
+    - Dün Gece {0} kurt adamlara karşı devam eden savaşta {1}'i korumak için kendi isteğiyle en büyük fedakarlığı yaptı. Onun özverili davranışı, cesaretin bir işareti olarak köyde silinmez bir iz bıraktı. Köy, köyde bir efsane haline gelen Piyon {0}'in gösterdiği cesaretle teselli bulsun. {2}
     DetectiveEaten:
     - "Sabah vakti köy halkı telaşla {0}'in evinin önünde toplandılar. Köyün muhtarı kalabalığın arasından geçerek ne olduğunu anlamaya çalıştı ancak karşılaştığı manzara içler acısıydı. Köy halkının büyük umudu olan Dedektif {0} kurt adamlar tarafından tespit edilmiş ve öldürülmüş!"
-    GuardianEaten: []
+    GuardianEaten:
+    - Gündüz vakti köylüler meydanda toplandıklarında dehşete düştüler! {0} öylece kilisede asılı halde duruyordu. Kanatlarından çivilenmiş, el ve ayak bilekleri kırılmış, bütün organları yere saçılmış haldeydi. Kurtlar koruyucu melekten intikamlarını tenhada yakalayarak çok acımasız bir şekilde almış.
     GunnerEaten:
     - "Gece vakti yaşanan gürültüden sonra sabah vakti tüm köy halkı alel acele meydana toplandı. Sadece silah tutan, bedeninden kopmuş bir el buldular. Az biraz ötede ise {0}'in cansız bedenini. Silahşörünüzü kaybettiniz."
     SeerEaten:
@@ -883,19 +933,25 @@ strings:
     PinChatMessage:
     - "Oyun Mesajlarını Sabitle"
     PinChatMessageQ:
-    - "Oyun Mesajları Otomatik Sabitlensin mi?\nMevcut: {0}"
+    - "Oyun Mesajları Otomatik Sabitlensin mi? Mevcut: {0}"
     PinChatMessageA:
     - "Mesajları Sabitleme Ayarlandı {0}."
     ShowRolesDeath:
     - Ölümlerde rolleri göster
-    ShowRolesDeathQ: []
+    ShowRolesDeathQ:
+    - "Oyuncular öldüğünde rolleri gösterilsin mi yoksa gizlensin mi?\nMevcut: {0}"
     ShowRolesDeathA:
     - "Ölümlerde roller {0} olarak ayarlandı"
-    WelcomeMessage: []
-    WelcomeMessageQ: []
-    WelcomeMessageA: []
-    PMMessage: []
-    PMMessageQ: []
+    WelcomeMessage:
+    - Hoş geldin Mesajları
+    WelcomeMessageQ:
+    - 'Hoş geldin Mesajları gösterilsin mi? Mevcut: {0}'
+    WelcomeMessageA:
+    - Hoş geldin Mesajları {0} olarak ayarlandı.
+    PMMessage:
+    - Takım Sohbeti
+    PMMessageQ:
+    - 'Takım üyeleri bot aracılığı ile iletişim kurabilsin mi? Mevcut: {0}'
     PMMessageA: []
     RoleCards: []
     RoleCardsQ: []
