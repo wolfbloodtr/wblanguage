@@ -47,7 +47,7 @@ strings:
     HarlotFuckKiller:
     - "Vous vous faufilez dans la maison de {0} et commencez à vous amuser un peu. Tout est parfait, jusqu'à ce qu'il sorte un grand couteau. Un nouveau jeu sexuel ? Il semblerait plutôt qu'il veuille vous assassiner. Vous mourrez dans d'atroces souffrances… dommage, vos charmes et différents atouts manquerons aux villageois."
     HarlotVisitNotHome:
-    - "Tu es allé t'amuser chez {0}, mais sa maison est vide ! \n"
+    - "Tu es allé t'amuser chez {0}, mais sa maison est vide !"
   Seer:
     Seer:
     - "Voyante 👳"
