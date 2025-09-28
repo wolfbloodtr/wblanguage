@@ -16,34 +16,41 @@ strings:
     StartCustom:
     - "{0} launched a game of special roles! Don't forget to /join it..."
   Villager:
-    Villager: []
+    Villager:
+    - Villager 👱
     RoleInfoVillager:
     - "That's strange... you can't seem to remember who you are!"
   Drunk:
-    Drunk: []
+    Drunk:
+    - Drunk 🍻
     RoleInfoDrunk:
     - "That's strange... you can't seem to remember who you are !"
   Harlot:
-    Harlot: []
+    Harlot:
+    - Harlot 💋
     RoleInfoHarlot:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskVisit:
     - "You know you should be doing something to someone, but who should you choose?"
     HarlotFuckWolf:
     - "{0} was a wolf! You got eaten..."
-    HarlotFuckedWolfPublic: []
-    HarlotFuckedVictimPublic: []
+    HarlotFuckedWolfPublic:
+    - "{0} slipped into the wrong house last night! {0}'s slutty remains are found pinned to the church doors with an iron rod... how sad :("
+    HarlotFuckedVictimPublic:
+    - "{0} slips into {1}'s house, ready to have a little fun to ease off the stress. Instead, {0} finds a werewolf eating {1}! The werewolf quickly turns on {0} and jumps... {0} is dead."
     HarlotVisitNonWolf:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
     HarlotVisitYou:
     - "Did something happen last night? You can't seem to remember..."
     HarlotDiscoverCult:
     - "You may not remember for sure who you are, but at least now you know this: {0} is a Cultist 👤!"
-    HarlotFuckKiller: []
+    HarlotFuckKiller:
+    - You slip into {0}'s house, and start having a little fun. All seems great until {0} pulls out a knife and starts stabbing you, laughing like a maniac! You have died....
     HarlotVisitNotHome:
     - "{0} wasn't home!"
   Seer:
-    Seer: []
+    Seer:
+    - Seer 👳
     RoleInfoSeer:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskSee:
@@ -51,13 +58,15 @@ strings:
     SeerSees:
     - "You may not remember for sure who you are, but at least now you know this: {0} is {1}!"
   Traitor:
-    Traitor: []
+    Traitor:
+    - Traitor 🖕
     RoleInfoTraitor:
     - "That's strange... you can't seem to remember who you are!"
     TraitorTurnWolf:
     - "Your role changed, but from what, and to what?"
   GuardianAngel:
-    GuardianAngel: []
+    GuardianAngel:
+    - Guardian Angel 👼
     RoleInfoGuardianAngel:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskGuard:
@@ -72,8 +81,10 @@ strings:
     - "{0} wasn't home!"
     GuardSavedYou:
     - "Did something happen last night? You can't seem to remember..."
-    GAGuardedKiller: []
-    GAGuardedWolf: []
+    GAGuardedKiller:
+    - It was supposed to be a night where {0} would save the village from the killers, but {0}'s halo was extinguished and wings sliced by the serial killer! Left was a note, 'I could protect myself better than you can.'
+    GAGuardedWolf:
+    - '{0} tried to guard a wolf last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the wolves had an extra meal god-sent, free-of-charge, to their homes.'
     GuardSavedYouFromFire:
     - "Did something happen last night? You can't seem to remember..."
     GuardSavedFromFire:
@@ -82,13 +93,15 @@ strings:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
     GuardBlockedWolf:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
-    GuardKiller: []
+    GuardKiller:
+    - You tried to guard the serial killer, but they came out and stabbed you 89 times! You are dead....
     GuardBlockedKiller:
     - "Did something happened at {0}'s house last night? You can't seem to remember!"
     GuardBlockedSnowWolf:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
   Detective:
-    Detective: []
+    Detective:
+    - Detective 🕵
     RoleInfoDetective:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskDetect:
@@ -98,7 +111,8 @@ strings:
     DetectiveSnoop:
     - "You may not remember for sure who you are, but at least now you know this: {0} is {1}!"
   Wolf:
-    Wolf: []
+    Wolf:
+    - Wolf 🐺
     RoleInfoWolf:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskEat:
@@ -111,13 +125,15 @@ strings:
     - "Did something happened at {0}'s house? You can't seem to remember... {1}"
     AllWolfDead:
     - "Your role changed, but from what, and to what?"
-    WolvesEatYou: []
+    WolvesEatYou:
+    - Oh no! The wolves eated you. NOMNOMNOMNOM
     WolfPackList:
     - "Remember to discuss with :"
     DiscussWith:
     - "Remember to discuss with {0}"
   Cursed:
-    Cursed: []
+    Cursed:
+    - Cursed 😾
     RoleInfoCursed:
     - "That's strange... you can't seem to remember who you are !"
     CursedBitten:
@@ -125,23 +141,31 @@ strings:
     CursedBittenToWolves:
     - "You may not remember who you are, but you do remember someone important: {0}"
   Gunner:
-    Gunner: []
+    Gunner:
+    - Gunner 🔫
     RoleInfoGunner:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
-    AskShoot: []
-    HarlotShot: []
-    DefaultShot: []
-    GunnerShotWiseElder: []
+    AskShoot:
+    - You know you should be doing something to someone, but who should you choose? And why is the number {0} stuck in your head?
+    HarlotShot:
+    - Looks like {0} came back positive after a night with the Harlot! The gunner got revenge. {1} is dead.
+    DefaultShot:
+    - Suddenly, a shot rings out. The village turns to see {0} standing over {1}'s body, a gun still aimed at the head. {2}
+    GunnerShotWiseElder:
+    - The Gunner 🔫, {0} shot the Wise Elder 📚, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a simple Villager👱 with a field to plow.
   Tanner:
-    Tanner: []
+    Tanner:
+    - Tanner 👺
     RoleInfoTanner:
     - "That's strange... you can't seem to remember who you are!"
   Fool:
-    Fool: []
+    Fool:
+    - Fool 🃏
     RoleInfoFool:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
   WildChild:
-    WildChild: []
+    WildChild:
+    - Wild Child 👶
     RoleInfoWildChild:
     - "That's strange... you can't seem to remember who you are, but you know you should do something during night !"
     WildChildToWolves:
@@ -149,7 +173,8 @@ strings:
     WildChildTransform:
     - "{0} is dead! Your role changed, but from what, and to what? "
   Beholder:
-    Beholder: []
+    Beholder:
+    - Beholder 👁
     RoleInfoBeholder:
     - "That's strange... you can't seem to remember who you are!"
     BeholderSeer:
@@ -161,13 +186,15 @@ strings:
     BeholderSeerStolen:
     - "You start to forget a name... What was it, {1}? Wait...What were you thinking about,again? Amidst the names in your head, a new one appears:{0}"
   ApprenticeSeer:
-    ApprenticeSeer: []
+    ApprenticeSeer:
+    - Apprentice Seer 🙇
     RoleInfoApprenticeSeer:
     - "That's strange... you can't seem to remember who you are!"
     ApprenticeNowSeer:
     - "{0} is dead! Your role changed, but from what, and to what?"
   Cultist:
-    Cultist: []
+    Cultist:
+    - Cultist 👤
     RoleInfoCultist:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     CultistVotedConvert:
@@ -182,7 +209,8 @@ strings:
     - "Remember to discuss with:"
     CultConvertWolf:
     - "{0} went to {1}'s house and is now dead!"
-    CultistBitten: []
+    CultistBitten:
+    - Strange... The second you start discussing on whom to do something tonight, you realize that {0} isn't here! What has happened to them??
     CultConvertHunter:
     - "{0} went to {1}'s house and is now dead!"
     CultConvertSerialKiller:
@@ -190,10 +218,16 @@ strings:
     - "{0} went to {1}'s house and is now dead!"
     CHHuntedYou:
     - "Did something happen last night? You can't seem to remember..."
-    HunterKilledCultist: []
-    CultConvertWolfPublic: []
-    CultConvertKillerPublic: []
-    HunterKilledVisiter: []
+    HunterKilledCultist:
+    - A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!
+    CultConvertWolfPublic:
+    - While it seemed that the wolves decided to stay good for once, punishing {0}, a cultist that decided to court trouble with the wolves, proved too difficult to resist. {0}'s head was converted to a fine supper, delivered to the wolves' doorsteps!
+    - The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a wolf on the night the wolves decided to stay home, and the wolf found {0} quite delicious. Unfortunately for {0}, wolves have no interest in joining the new religious movement.
+    CultConvertKillerPublic:
+    - The cult thought they would have a new member in their ranks, but they were wrong! {0}, a cultist, was minced to pieces and placed at the town square in the morning! Strangely their 'holy' book was found stabbed with a knife, as if a statement to show whose religion was triumphant.
+    - Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs.
+    HunterKilledVisiter:
+    - In the middle of the town square, everyone finds the body of {0}, multiple shots to the body. Looks like they tried to sneak up on the Hunter! Well, {1}.
     CultVisitEmpty:
     - "{0} went to {1} house, but no one was home!"
     CultConvertYou:
@@ -205,7 +239,8 @@ strings:
     CultAttempt:
     - "Did something happen last night? You can't seem to remember !"
   CultistHunter:
-    CultistHunter: []
+    CultistHunter:
+    - Cultist Hunter 💂
     RoleInfoCultistHunter:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskHunt:
@@ -218,9 +253,11 @@ strings:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
     HunterFindCultist:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
-    SerialKillerKilledCH: []
+    SerialKillerKilledCH:
+    - "The villagers wake up in the morning, only to find the severed body parts of {0}, the Cultist Hunter, in a cart placed in full view outside the town hall. Lesson learnt: don't visit the serial killer!"
   Mason:
-    Mason: []
+    Mason:
+    - Mason 👷
     RoleInfoMason:
     - "That's strange..... You don't seems to remember who you are!"
     MasonTeam:
@@ -228,14 +265,16 @@ strings:
     MasonConverted:
     - "You start to forget a name... What was it, {0}? Wait... What were you thinking about, again?"
   Doppelganger:
-    Doppelganger: []
+    Doppelganger:
+    - Doppelgänger 🎭
     RoleInfoDoppelganger:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskRoleModel:
     - "You know you should be doing something to someone, but who should you choose?"
     AskDoppelganger:
     - "You know you should be doing something to someone, but who should you choose?"
-    RoleModelChosen: []
+    RoleModelChosen:
+    - 'You failed to make a choice, so the moderator has chosen for you: {0}'
     DGTransformToMason:
     - "{0} is dead! Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {1}"
     DGTransformToCult:
@@ -247,7 +286,8 @@ strings:
     DGToWolf:
     - "Amidst the names in your head, a new one appears ; {0}"
   Cupid:
-    Cupid: []
+    Cupid:
+    - Cupid 🏹
     RoleInfoCupid:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskCupid1:
@@ -258,22 +298,35 @@ strings:
     - "You may not remember who you are, but you know {0} is important!"
     - "You may not remember who you are, but you know {0} is important!"
   Hunter:
-    Hunter: []
+    Hunter:
+    - Hunter 🎯
     RoleInfoHunter:
     - "That's strange... you can't seem to remember who you are!"
-    HunterLynchedChoice: []
-    HunterNoChoiceLynched: []
-    HunterSkipChoiceLynched: []
-    HunterKilledFinalLynched: []
-    HunterShotChoice: []
-    HunterNoChoiceShot: []
-    HunterSkipChoiceShot: []
-    HunterKilledFinalShot: []
-    HunterShotWolfMulti: []
-    HunterShotWolf: []
-    HunterKilledWiseElder: []
+    HunterLynchedChoice:
+    - The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!
+    HunterNoChoiceLynched:
+    - '{0} fumbles for their pistol as the noose tightens, but cannot get it in time, and falls to their death with a loud snap of their neck...'
+    HunterSkipChoiceLynched:
+    - '{0} whips out their pistol and looks at the crowd... and cannot make a decision on who to shoot. They fall to their death, accepting their fate...'
+    HunterKilledFinalLynched:
+    - As the noose tightens, {0} whips out a pistol, takes aim, and shoots {1} as the floor drops out! {1} falls over, dead. {2}
+    HunterShotChoice:
+    - You've been murdered! In your last moments, you have the chance to shoot someone... make it quick!
+    HunterNoChoiceShot:
+    - The blow to {0} was too much, so much that they couldn't even reach for their sidearm, as they lay in a pool of blood...
+    HunterSkipChoiceShot:
+    - As {0} lays there, gasping for their final breaths, they can't decide who to shoot... and accept their fate.
+    HunterKilledFinalShot:
+    - Dying, {0} falls to the ground.... but not without grasping their pistol, and firing upon {1}, who takes a bullet right between the eyes. {2}
+    HunterShotWolfMulti:
+    - The wolves tried to attack the hunter last night, but the hunter was able to take one down with them as they died! {0} has died.
+    HunterShotWolf:
+    - The wolf tried to attack the hunter last night, but the hunter was able to take the wolf 🐺 {0} down with their rifle!
+    HunterKilledWiseElder:
+    - The Hunter 🎯, {0} shot the Wise Elder 📚, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Hunter abilities. They died a simple Villager 👱.
   SerialKiller:
-    SerialKiller: []
+    SerialKiller:
+    - Serial Killer 🔪
     RoleInfoSerialKiller:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskKill:
@@ -282,14 +335,19 @@ strings:
     - "Did something happen at {0}'s house last night? You can't seem to remember... A name comes to your mind: {1}. But for what reason?"
     KillerStumbled:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
-    SerialKillerKilledYou: []
-    SerialKillerKilledWolf: []
+    SerialKillerKilledYou:
+    - Knock knock, you've been visited by the resident serial killer!
+    - The Serial Killer ambushed you, tied you up, and then stabbed you in the heart!
+    SerialKillerKilledWolf:
+    - The wolves attempted to have a nice late night snack, but were instead greeted by a crazed murderer! {0} was killed in the fight!
   Sorcerer:
-    Sorcerer: []
+    Sorcerer:
+    - Sorcerer 🔮
     RoleInfoSorcerer:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
   AlphaWolf:
-    AlphaWolf: []
+    AlphaWolf:
+    - Alpha Wolf ⚡️
     RoleInfoAlphaWolf:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     BittenTurned:
@@ -299,51 +357,65 @@ strings:
     PlayerBittenWolves:
     - "Did something happen at {0}'s house last night? You can't seem to remember...You may not remember who you are, but you do remember someone important: {1}"
   WolfCub:
-    WolfCub: []
+    WolfCub:
+    - Wolf Cub 🐶
     RoleInfoWolfCub:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
   Blacksmith:
-    Blacksmith: []
+    Blacksmith:
+    - Blacksmith ⚒
     RoleInfoBlacksmith:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     SpreadDust:
     - "You know you should be doing something, but does it need to be today?"
-    BlacksmithSpreadSilver: []
+    BlacksmithSpreadSilver:
+    - As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight.)
   ClumsyGuy:
-    ClumsyGuy: []
+    ClumsyGuy:
+    - Clumsy Guy 🤕
     RoleInfoClumsyGuy:
     - "That's strange... you can't seem to remember who you are!"
   Mayor:
-    Mayor: []
+    Mayor:
+    - Mayor 🎖
     RoleInfoMayor:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskMayor:
     - "You know you should be doing something, but does it need to be today?"
-    MayorReveal: []
+    MayorReveal:
+    - "{0} steps forward and presents the official seal of the Mayor, declaring themselves as such. From now on, {0}'s votes for lynching will count twice."
     Reveal:
     - "Yes"
   Prince:
-    Prince: []
+    Prince:
+    - Prince 👑
     RoleInfoPrince:
     - "That's strange... you can't seem to remember who you are!"
-    PrinceLynched: []
+    PrinceLynched:
+    - As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.
   Lycan:
-    Lycan: []
+    Lycan:
+    - Lycan 🐺🌝
     RoleInfoLycan:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
   Pacifist:
-    Pacifist: []
+    Pacifist:
+    - Pacifist ☮️
     RoleInfoPacifist:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskPacifist:
     - "You know you should be doing something, but does it need to be today?"
-    PacifistNoLynch: []
-    PacifistNoLynchNow: []
-    LynchPeaceTimeout: []
+    PacifistNoLynch:
+    - The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!
+    PacifistNoLynchNow:
+    - Because of the Pacifist's ☮️ heartfelt speech, the lynch phase will be skipped today!
+    LynchPeaceTimeout:
+    - Today's Lynching got skipped because of the Pacifist's heartfelt speech!
     Peace:
     - "Yes"
   WiseElder:
-    WiseElder: []
+    WiseElder:
+    - Wise Elder 📚
     RoleInfoWiseElder:
     - "That's strange... you can't seem to remember who you are!"
     WolvesTriedToEatWiseElder:
@@ -351,25 +423,31 @@ strings:
     WolvesAteWiseElderPM:
     - "Did something happen last night? You can't seem to remember..."
   Oracle:
-    Oracle: []
+    Oracle:
+    - Oracle 🌀
     RoleInfoOracle:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     NegSeerSees:
     - "You may not remember for sure who you are, but at least now you know this: {0} is NOT {1}!"
   Sandman:
-    Sandman: []
+    Sandman:
+    - Sandman 💤
     RoleInfoSandman:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskSandman:
     - "You know you should be doing something, but does it need to be today?"
-    SandmanSleepAll: []
-    SandmanNight: []
+    SandmanSleepAll:
+    - As the town talks, {0} goes back to their house and begins humming a soft melody. Tonight, everyone will sleep very deeply, and no one will be able to use their night actions
+    SandmanNight:
+    - As everyone heads home, they barely make it to their beds from exhaustion. They all fall asleep so strongly, they don't even remember going to sleep...
   WolfMan:
-    WolfMan: []
+    WolfMan:
+    - WolfMan 👱🌚
     RoleInfoWolfMan:
     - "That's strange... you can't seem to remember who you are!"
   Thief:
-    Thief: []
+    Thief:
+    - Thief 😈
     RoleInfoThief:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     RoleInfoThiefFull:
@@ -396,35 +474,47 @@ strings:
     - "Your role changed, but from what, and to what?"
     StealKiller:
     - "Did something happen last night? You can't seem to remember..."
-    ThiefStoleKiller: []
+    ThiefStoleKiller:
+    - "The Thief, {0}, tried to steal the role from the serial killer! This didn't work out so well: {0} got stabbed multiple times and now their liver is missing..."
     NewDGRoleModel:
     - "Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {0}"
     NewWCRoleModel:
     - "Your role changed, but from what, and to what? You may not remember who you are, but you do remember someone important: {0}"
   Troublemaker:
-    Troublemaker: []
+    Troublemaker:
+    - Troublemaker 🤯
     RoleInfoTroublemaker:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskTroublemaker:
     - "You know you should be doing something, but does it need to be today?"
-    TroublemakerDoubleLynch: []
-    TroubleDoubleLynchNow: []
+    TroublemakerDoubleLynch:
+    - '{0}, the troublemaker 🤯 is making trouble! Run around and scream for satisfaction! You will lynch twice today!'
+    TroubleDoubleLynchNow:
+    - Because of the troublemaker, you are going to lynch twice today! Hopefully they are going to be quiet tomorrow.
   Chemist:
-    Chemist: []
+    Chemist:
+    - Chemist 🧪
     RoleInfoChemist:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
-    AskChemist: []
-    AskChemistPill: []
-    ChemistFail: []
-    ChemistDeadYou: []
-    ChemistSuccessPublic: []
-    ChemistFailPublic: []
+    AskChemist:
+    - You know you should be doing something to someone, but who should you choose? And why is the number {0} stuck in your head?
+    AskChemistPill:
+    - The chemist urges you to choose a potion. One is deadly and one is safe. Which one will you choose?
+    ChemistFail:
+    - Chemist {0} compelled you to select a potion. You picked the right one, and now you're safe... atleast for now!
+    ChemistDeadYou:
+    - Chemist {0} compelled you to select a potion. You chose the poisonous one and now you're dead... Nobody else to blame but your stinky hands :P
+    ChemistSuccessPublic:
+    - The merciless chemist {0} forced {1} to select a potion. {1} picked the poisoned one and died. Looks like they weren't cut out for gambling after all :P
+    ChemistFailPublic:
+    - The merciless chemist {0} forced {1} to select a potion last night. However, {1} was self-assured in his skills and picked the most effective potion and survived. pew... LUCKY!
     ChemistBrewing:
     - "Did something happen last night? You can't seem to remember..."
     ChemistExtraPill:
-    - "Did something happen? You can't seem to remember... Number *2* comes to your mind, But for what reason?"
+    - "Did something happen? You can't seem to remember... Number <b>2</b> comes to your mind, But for what reason?"
   SnowWolf:
-    SnowWolf: []
+    SnowWolf:
+    - Snow Wolf 🐺☃️
     RoleInfoSnowWolf:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskFreeze:
@@ -448,7 +538,8 @@ strings:
     DefaultFrozen:
     - "Did something happen last night? You can't seem to remember ..."
   Augur:
-    Augur: []
+    Augur:
+    - Augur 🦅
     RoleInfoAugur:
     - "That's strange... you can't seem to remember who you are!"
     AugurSees:
@@ -457,7 +548,8 @@ strings:
     AugurSeesNothing:
     - "That's strange... you can't seem to remember who you are!"
   Arsonist:
-    Arsonist: []
+    Arsonist:
+    - Arsonist 🔥
     RoleInfoArsonist:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskArsonist:
@@ -470,24 +562,32 @@ strings:
     - "Something happened! You know you should be doing something to someone, but who should you choose?"
     Doused:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
-    Burning: []
+    Burning:
+    - "The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but you're too late to save the people whose houses were mysteriously doused in kerosene. Today you mourn the deaths of the following people:\n{0}"
     Burn:
     - "Did something happen last night? You can't seem to remember..."
     WolvesVisitBurn:
     - "Did something happen at {0}'s house last night? You can't seem to remember... but you do remember that {1} is now dead."
-    DefaultVisitBurn: []
-    WolfVisitBurn: []
-    ArsonistWinsOverpower: []
-    ArsonistVisitKiller: []
-    Spark: []
+    DefaultVisitBurn:
+    - '{0} should have stayed home tonight... They visited a burning house and died in the flames! {1}'
+    WolfVisitBurn:
+    - The wolves tried to eat someone tonight again, but the arsonist was quicker! {0} couldn't escape from the burning house in time... {1}
+    ArsonistWinsOverpower:
+    - Only {0} and {1} are left... Suddenly {0} smiles, pulls out a match, lights it and throws it to the feet of {1}, who goes up in flames!
+    ArsonistVisitKiller:
+    - The arsonist {0} tried to douse the house of the serial killer... They didn't quite survive that.
+    Spark:
+    - 🔥
   Boss:
-    Boss: []
+    Boss:
+    - Boss 🎩
     RoleInfoBoss:
     - "That's strange... you can't seem to remember who you are!"
     CultCount:
     - "You don't remember who you are, but number {0} is stuck in your head."
   Shadow:
-    Shadow: []
+    Shadow:
+    - Shadow Wolf 🐺🌚
     RoleInfoShadow:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskShadow:
@@ -495,25 +595,34 @@ strings:
     ShadowPower:
     - "Did something happen ? You can't seem to remember ..."
   Skeleton:
-    Skeleton: []
+    Skeleton:
+    - Skeleton 💀
     RoleInfoSkeleton:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
-    ButtonAppears: []
-    AskSkeleton: []
-    ChoiceConfirmation: []
-    BlockedNotice: []
-    HauntButton: []
+    ButtonAppears:
+    - You know you should be doing something, but does it need to be today?
+    AskSkeleton:
+    - You know you should be doing something to someone, but what should you choose?
+    ChoiceConfirmation:
+    - 'You may not remember who you are, but you do remember someone important: {0}'
+    BlockedNotice:
+    - Did something happen ? You can't seem to remember ...
+    HauntButton:
+    - Yes
   Doctor:
-    Doctor: []
+    Doctor:
+    - Doctor 🧑‍⚕️
     RoleInfoDoctor:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskDoctor:
     - "You know you should be doing something to someone, but who should you choose?"
-    DoctorRevive: []
+    DoctorRevive:
+    - Doctor {0}'s efforts resulted in the player {1}, who was killed last night, returning back to the game. Now it's time to take revenge.
     DoctorYouRevive:
     - "Did something happen ? You can't seem to remember ...!"
   Preacher:
-    Preacher: []
+    Preacher:
+    - Preacher 🛐
     RoleInfoPreacher:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskPreacher:
@@ -525,7 +634,8 @@ strings:
     OhNoPreacher:
     - "Did something happen last night? You can't seem to remember... but you do remember that {0} is preacher!"
   GraveDigger:
-    GraveDigger: []
+    GraveDigger:
+    - Grave Digger ☠️
     RoleInfoGraveDigger:
     - "That's strange... you can't seem to remember who you are!"
     AskGraveDigger:
@@ -534,7 +644,8 @@ strings:
     - "Did something happen last night? You can't seem to remember..."
     DigGraves:
     - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
-    DefaultFellDigger: []
+    DefaultFellDigger:
+    - "Did something happen last night? You can't seem to remember... A name comes to your mind: {0}. But for what reason?"
     DefaultVisitDigger:
     - "{0} wasn't home!"
     WolfFellWolves:
@@ -552,14 +663,17 @@ strings:
     DefaultFell:
     - "On the way to {0}'s house, you were passing through a graveyard and your memories almost returned to you but before you could remember everything, you fell into an open grave and died."
   Conjurer:
-    Conjurer: []
+    Conjurer:
+    - Conjurer Wolf 🐺✨
     RoleInfoConjurer:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskConjurer:
     - "You know you should be doing something, but does it need to be today?"
-    ConjurerChoice: []
+    ConjurerChoice:
+    - Villages Attention! The conjurer wolf used his skills today. Instead of the one with the most votes, THE PLAYER WITH THE LEAST VOTES WILL DIE!
   Miner:
-    Miner: []
+    Miner:
+    - Miner ⛏
     RoleInfoMiner:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskMiner:
@@ -569,7 +683,8 @@ strings:
     MinerChanged:
     - "Did something happen at {0}'s house last night? You can't seem to remember... A name comes to your mind: {1}. But for what reason?"
   Pawn:
-    Pawn: []
+    Pawn:
+    - Pawn ♟
     RoleInfoPawn:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskPawn:
@@ -586,9 +701,12 @@ strings:
     - "You went to the serial killer {0}'s house! You were killed."
     PawnEmptyHouse:
     - "{0} wasn't home!"
-    PawnKilledCH: []
-    PawnGuardedKiller: []
-    PawnGuardedWolf: []
+    PawnKilledCH:
+    - Last night pawn {0} made a huge sacrifice, but guess he wanted to protect a cultist from dying :( Cultist Hunter killed him instead.
+    PawnGuardedKiller:
+    - '{0} was looking for someone to protect last night, but he chose the wrong person. He visited the serial killer, and the serial killer stabbed him 80 times.'
+    PawnGuardedWolf:
+    - '{0} was looking for someone to protect last night, but he chose the wrong person. He visited the wolf, and pawn is now dead'
     PawnBlockedWolf:
     - "Did something happen at {0}'s house? You can't seem to remember..."
     PawnBlockedKiller:
@@ -596,7 +714,8 @@ strings:
     PawnBlockedCH:
     - "Did something happen at {0}'s house last night? You can't seem to remember..."
   Soldier:
-    Soldier: []
+    Soldier:
+    - Soldier 🪖
     RoleInfoSoldier:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskSoldier:
@@ -605,9 +724,11 @@ strings:
     - "You know you should be doing something, but who would you choose?"
     SoldierChoice:
     - "You may not remember who you are... But a name comes to your mind: {0}."
-    SoldierDone: []
+    SoldierDone:
+    - The villagers successfully cast their votes in the lynching phase. {0} was selected to be lynched. However, there was a soldier watching over {0} and he chose to direct the entire votes towards {1}. {2}
   Rogue:
-    Rogue: []
+    Rogue:
+    - Rogue Wolf 🐺🧧
     RoleInfoRogue:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the night!"
     AskRogue:
@@ -617,13 +738,19 @@ strings:
     RogueSuccess:
     - "Did something happen at {0}'s house? You can't seem to remember... {1} comes to your mind, But for what reason?"
   Executioner:
-    Executioner: []
-    RoleInfoExecutioner: []
-    AskExecutioner: []
-    AskExecutionerLynch: []
-    ExecutionerLynch: []
+    Executioner:
+    - Executioner 🦸‍♂️
+    RoleInfoExecutioner:
+    - That's strange... you can't seem to remember who you are, only that you should do something during the day!
+    AskExecutioner:
+    - You know you should be doing something to someone, but who should you choose?
+    AskExecutionerLynch:
+    - Did something happen? You can't seem to remember... {0} and {1} comes to your mind, But for what reason?
+    ExecutionerLynch:
+    - The Executioner's presence looms ominously over the village. As storm clouds gather, a chilling silence descends. Today, the fate of {0} and {1} hangs in the balance. The villagers must vote to decide who will be executed. Choose wisely, for only one shall face the blade.
   Slave:
-    Slave: []
+    Slave:
+    - Slave 😵‍💫
     RoleInfoSlave:
     - "That's strange... you can't seem to remember who you are!"
     SlaveLynched:
@@ -631,147 +758,266 @@ strings:
     SlaveTarget:
     - "You may not remember who you are, but you do remember someone important: {0}"
   Poseidon:
-    Poseidon: []
+    Poseidon:
+    - Poseidon 🧜
     RoleInfoPoseidon:
     - "That's strange... you can't seem to remember who you are, only that you should do something during the day!"
     AskPoseidon:
     - "You know you should be doing something, but does it need to be today?"
-    PoseidonRevealInfo: []
-    PoseidonReveal: []
+    PoseidonRevealInfo:
+    - Attention, villagers! An approaching tsunami will impact the entire village. Poseidon, the god of the sea who resides in the village, seems to have emerged from his majestic palace at the bottom of the sea. Get ready because when the tsunami arrives, it will randomly kill one person from the village.
+    PoseidonReveal:
+    - "Poseidon, the god of the seas, has emerged from his majestic palace, and a tsunami is sweeping through the village. The entire village attempts to escape the tsunami, but {0} fails. {0} drowns to death.\n{1}"
   Snitch:
-    Snitch: []
-    RoleInfoSnitch: []
-    SnitchLynchSuccess: []
-    SnitchFinalSuccess: []
-    AskSnitch: []
-    SnitchNoChoice: []
+    Snitch:
+    - Snitch 🦜
+    RoleInfoSnitch:
+    - That's strange... you can't seem to remember who you are!
+    SnitchLynchSuccess:
+    - 'With their dying breath, {0} leaned forward with a sly grin and shouted: “You think you could fool everyone, {1}? You’re nothing but a {2}!” Gasps echoed across the village as the secret spilled into the open. A true snitch never dies in silence... 🦜'
+    SnitchFinalSuccess:
+    - "As their life slipped away, Snitch {0} 🦜 let out one final cry: “I saw you, {1}!” The village froze in shock as the truth echoed across the night. Even on the brink of death, a Snitch never stays silent...{2} has been exposed!\n{3}"
+    AskSnitch:
+    - You know you should be doing something to someone, but who should you choose?
+    SnitchNoChoice:
+    - Snitch {0} 🦜 gasped for air, eyes scanning the village… But their voice faded into silence. No secrets were revealed. The truth dies with them.
   Illusionist:
-    Illusionist: []
-    RoleInfoIllusionist: []
-    AskIllusionist: []
-    IllusionistNoChoice: []
-    IllusionistKillTarget: []
-    IllusionistFakeTarget: []
-    IllusionistKillYou: []
+    Illusionist:
+    - Illusionist 🐺🪄
+    RoleInfoIllusionist:
+    - That's strange... you can't seem to remember who you are, only that you should do something during the night!
+    AskIllusionist:
+    - You know you should be doing something to someone, but who should you choose?
+    IllusionistNoChoice:
+    - "The illusion couldn’t last forever…\nThe village roared, the votes were cast—{0}, met their end at the noose. No “ta-da!” this time. The curtain fell with no twist, no second act—just silence. Even illusions need someone to fool… and this time, the stage was empty.\n{1}"
+    IllusionistKillTarget:
+    - "The illusion couldn’t last forever…\nThe village roared, the votes were cast—{0} met their end at the noose. As the rope snapped and silence fell, one last “ta-da!” echoed through the village… and someone else dropped like a stunned extra in a bad play. The final act? A twist the village will never forget 🐺🪄\n{1}"
+    IllusionistFakeTarget:
+    - You may not remember who you are, but you know {0} is important! But for what reason?
+    IllusionistKillYou:
+    - Did something happen? You can't seem to remember...
   KilledMessages:
-    BlacksmithKilled: []
-    CultistKilled: []
-    CupidKilled: []
-    DrunkKilled: []
-    GuardianAngelKilled: []
-    GunnerKilled: []
-    MayorKilled: []
-    PrinceKilled: []
-    SeerKilled: []
-    PawnKilled: []
-    DefaultKilled: []
+    BlacksmithKilled:
+    - Seems like {0}, the resident blacksmith, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe the serial killer was hoping to expand their weapon collection alongside their organ one...
+    CultistKilled:
+    - '{0} was found stabbed to death with a candlestick by their altar. The serial killer has struck again, regardless of race, language or religion! {0} was a Cultist.'
+    CupidKilled:
+    - The next morning, the villagers were heartbroken to find {0} a.k.a. Cupid split from head to toe. Strangely the heart was missing...
+    DrunkKilled:
+    - The villagers had hoped to meet {0} to compliment their Martell, but all they found in {0}'s home was a broken knife and liver. All those years of drinking led to a liver so hard that even the Serial Killer probably does not fancy it...
+    GuardianAngelKilled:
+    - "{0} would normally have managed to fight off the serial killer, but it was an irony that the Guardian Angel's halo has extinguished. {0} is dead."
+    GunnerKilled:
+    - Looks like {0} was caught napping last night! A gunshot was heard last night, but all there was was the remains of a gunner, with a bullet hole to the head and a stab to the torso. Clearly the serial killer has won.
+    MayorKilled:
+    - Assassination! {0} the mayor was found pinned with a knife on the table while working overnight at the mayor office! Clearly it's the serial killer exacting revenge for the asylum robbing them of years of their life!
+    PrinceKilled:
+    - Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose...
+    - "{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade."
+    SeerKilled:
+    - The villagers wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was the Seer.
+    PawnKilled:
+    - This night was expected to be quiet, but the villagers discovered {0} in the town square, missing several organs. It seems the killer was displeased with the pawn's efforts to protect {1}! In a tragic turn of events, {0}, who tried to protect {1}, became the victim of the serial killer. {2}
+    DefaultKilled:
+    - It seemed a quiet enough night for {0}, but they were wrong. The villagers gather in the morning to find {0} split from head to toe, but oddly the liver was missing... The serial killer has struck again! {1}
   EatenMessages:
-    ApprenticeSeerEaten: []
-    SorcererEaten: []
-    WildChildEaten: []
-    PawnEaten: []
+    ApprenticeSeerEaten:
+    - The villagers awake to find {0} hunched over a second-hand Ouija board while practising fortune-telling, with head missing. The Apprentice Seer is dead.
+    SorcererEaten:
+    - The sound of mournful howls can be heard across the village. A mistake has been made. The wolves have killed one of their own. The Sorcerer {0} is dead.
+    - Cries of 'I'm your ally!' were heard last night. All the villagers found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship...
+    WildChildEaten:
+    - NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The village wondered if the wolves felt any guilt tearing apart the defenceless child.
+    PawnEaten:
+    - Last Night, {0} made the ultimate sacrifice, willingly offering themselves to protect {1} in the ongoing battle against the werewolves. Their selfless act, a beacon of courage, leaves an indelible mark on the village. May the village find solace in the courage shown by {0}, the Pawn who became a legend in the village. {2}
     DetectiveEaten:
     - "The villagers gather in the morning, but do not see {0}. They wander over to the house, only to find a disembowelled corpse. When searching for the culprit, they find two old and rusty badges strewn on the floor... Why were there two badges? Maybe even the late owner was trying to remember..."
     GuardianEaten:
     - "Morning comes, and, to everyone's dismay, there's a completely broken corpse near the church's door, its wings bent in unnatural directions. The face can still be recognized, though: {0} is dead."
     GunnerEaten:
     - "As everyone comes out of their houses, they find pieces of a shotgun strewn about... then legs... then fingers... then floating in the fountain in the town square, the body of {0}, dead from a werewolf attack. You have lost your gunner."
-    SeerEaten: []
-    DrunkEaten: []
+    SeerEaten:
+    - The villagers awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The Seer 👳 is dead.
+    DrunkEaten:
+    - Everyone wakes to the smell of alcohol and blood... the pub is destroyed! After cleaning the blood out, the remains of {0} are found, torn apart.
     FoolEaten:
     - "As the sun rises above the village, they find {0} slumped over an ouija board, but with a deck of... memory game cards? What a strange combination..."
     DefaultEaten:
     - "As everyone rises in the morning, they smell a terrible stink. They follow the smell to find {0} shredded apart in the pig pen, head missing. After investigating the now-vacant house to find out something about the culprit, the village finally realizes that {1}"
     HarlotEaten:
     - "The harlot forgot to go out tonight, a terrible mistake... {0} has been eaten by the wolves!"
-    MasonEaten: []
+    MasonEaten:
+    - As everyone rises, they find the body of {0} shoved into a pile of stone, blood splattered everywhere. One of your masons has died!
   WinMessages:
-    WolfWins: []
-    WolvesWin: []
-    VillageWins: []
-    TannerWins: []
+    WolfWins:
+    - The werewolf has won!
+    WolvesWin:
+    - The werewolves have won!
+    VillageWins:
+    - The villagers have won!
+    TannerWins:
+    - Oh no! You lynched the Tanner! The Tanner wins the game, silly.
     CultWins:
     - "They might not remember who they are, but the only people left standing are cultists... The cult wins!"
-    SerialKillerWins: []
-    NoWinner: []
-    ArsonistWins: []
-    LoversWin: []
-    SerialKillerWinsOverpower: []
+    SerialKillerWins:
+    - The only person left standing is the serial killer! They have won!
+    NoWinner:
+    - Everyone in the village has died... there's nothing but bodies left. No one wins this round, except the vultures...
+    ArsonistWins:
+    - The only one left is the arsonist, standing on a pile of ashes. The arsonist wins...
+    LoversWin:
+    - True love endures! The lovers have won!
+    SerialKillerWinsOverpower:
+    - Morning comes, and the remaining two villagers walk out to the town square. {0} takes a look at {1}, gets a big grin on their face, pulls out a knife, and takes {1} out.
   GroupConfig:
-    ThankYou: []
-    RoleConfig: []
-    Mechanics: []
-    GroupSettings: []
-    Timers: []
-    WhatToDo: []
-    EnableSecretLynch: []
-    EnableSecretLynchA: []
-    EnableSecretLynchQ: []
-    RandomMode: []
-    RandomModeA: []
-    RandomModeQ: []
-    AllowExtend: []
-    AllowExtendQ: []
-    AllowExtendA: []
-    AllowFlee: []
-    AllowFleeQ: []
-    AllowFleeA: []
-    ShowIDs: []
-    ShowIDsQ: []
-    ShowIDsA: []
-    ThiefFull: []
-    ThiefFullA: []
-    ThiefFullQ: []
-    SecretLynchShowVotes: []
-    SecretLynchShowVotesQ: []
-    SecretLynchShowVotesA: []
-    SecretLynchShowVoters: []
-    SecretLynchShowVotersA: []
-    SecretLynchShowVotersQ: []
-    PinChatMessage: []
-    PinChatMessageQ: []
-    PinChatMessageA: []
-    ShowRolesDeath: []
-    ShowRolesDeathQ: []
-    ShowRolesDeathA: []
-    WelcomeMessage: []
-    WelcomeMessageQ: []
-    WelcomeMessageA: []
-    PMMessage: []
-    PMMessageQ: []
-    PMMessageA: []
-    RoleCards: []
-    RoleCardsQ: []
-    RoleCardsA: []
-    MaxExtend: []
-    MaxExtendQ: []
-    MaxExtendA: []
-    DisableGModes: []
-    DisableGModesInfo: []
-    MuteModes: []
-    MuteModesInfo: []
-    Lang: []
-    DayTimer: []
-    SetDayTimeA: []
-    SetDayTimeQ: []
-    NightTimer: []
-    SetNightTimeQ: []
-    SetNightTimeA: []
-    LynchTimer: []
-    SetLynchTimeQ: []
-    SetLynchTimeA: []
-    MaxPlayer: []
-    MaxPlayersQ: []
-    MaxPlayersA: []
-    RoleConfigInfo: []
-    Validate: []
-    WhatLang: []
-    WhatVariant: []
-    LangSet: []
-    Allow: []
-    Disallow: []
-    Show: []
-    Hide: []
+    ThankYou:
+    - Thank you, have a good day :)
+    RoleConfig:
+    - Role Configuration
+    Mechanics:
+    - Game Mechanics
+    GroupSettings:
+    - Group Settings
+    Timers:
+    - Game Timers
+    WhatToDo:
+    - What would you like to do?
+    EnableSecretLynch:
+    - Enable Secret Lynch
+    EnableSecretLynchA:
+    - 'Enabling of secret Lynch set to: {0}'
+    EnableSecretLynchQ:
+    - "Enable Secret Lynch?\nCurrent: {0}"
+    RandomMode:
+    - Enable Random Mode
+    RandomModeA:
+    - 'Enabling of random mode set to: {0}'
+    RandomModeQ:
+    - "Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}"
+    AllowExtend:
+    - Allow Extending Timer
+    AllowExtendQ:
+    - "Allow players to extend join time?\nCurrent: {0} extending\nNote: Admins will always be able to extend"
+    AllowExtendA:
+    - '{0} players to extend join time'
+    AllowFlee:
+    - Allow Fleeing
+    AllowFleeQ:
+    - "Do you want to allow fleeing once the game has started?\nNote: players can still flee during join phase\nCurrent: {0} fleeing"
+    AllowFleeA:
+    - '{0} fleeing after game start'
+    ShowIDs:
+    - Show IDs on joining
+    ShowIDsQ:
+    - "Show IDs of players while they join the game?\nCurrent: {0}"
+    ShowIDsA:
+    - '{0} IDs'
+    ThiefFull:
+    - Thief Full Game
+    ThiefFullA:
+    - 'Thief will play every night: {0}'
+    ThiefFullQ:
+    - "Thief can be used every night?\nCurrent: {0}"
+    SecretLynchShowVotes:
+    - 'Secret: Votes Count'
+    SecretLynchShowVotesQ:
+    - "When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}"
+    SecretLynchShowVotesA:
+    - 'When secret lynch is turned on, the vote count at the end of the lynch will: {0}'
+    SecretLynchShowVoters:
+    - 'Secret: Voters'
+    SecretLynchShowVotersA:
+    - "When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}"
+    SecretLynchShowVotersQ:
+    - "When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}"
+    PinChatMessage:
+    - Pin Game Messages
+    PinChatMessageQ:
+    - 'Automatically Pin Game Messages? Default: {0}'
+    PinChatMessageA:
+    - Pinning Messages Set {0}.
+    ShowRolesDeath:
+    - Show Roles on Death
+    ShowRolesDeathQ:
+    - "Show or Hide roles on death?\n\nCurrent: {0}"
+    ShowRolesDeathA:
+    - Roles will be {0} on death
+    WelcomeMessage:
+    - Welcome Messages
+    WelcomeMessageQ:
+    - 'Show welcome messages? Default: {0}'
+    WelcomeMessageA:
+    - Welcome Messages Set {0}.
+    PMMessage:
+    - Team Chat
+    PMMessageQ:
+    - 'Can teams message each other via PM? Default: {0}'
+    PMMessageA:
+    - Team Chat Set {0}.
+    RoleCards:
+    - Role Cards
+    RoleCardsQ:
+    - 'Show Role Cards? Default: {0}'
+    RoleCardsA:
+    - Role Cards Set {0}.
+    MaxExtend:
+    - Set Max Extend Time
+    MaxExtendQ:
+    - "Choose maximum number of seconds which can be added to joining timer by a single /extend command.\r\nDefault setting: {0}\r\nCurrent:{1}"
+    MaxExtendA:
+    - Maximum extending time set to {0} seconds
+    DisableGModes:
+    - Disable Game Mode
+    DisableGModesInfo:
+    - Which game modes would you like to enable in the group?
+    MuteModes:
+    - Mute Settings
+    MuteModesInfo:
+    - In which game mode do you want to disable muting dead players?
+    Lang:
+    - Change Language
+    DayTimer:
+    - Set Day Timer
+    SetDayTimeA:
+    - Base day time set to {0} seconds
+    SetDayTimeQ:
+    - "Choose the base time (in seconds) for day time. This will still be modified based on number of players.\nDefault setting: {0}\nCurrent: {1}"
+    NightTimer:
+    - Set Night Timer
+    SetNightTimeQ:
+    - "Choose the time (in seconds) for night time. Default setting: {0}\nCurrent:{1}"
+    SetNightTimeA:
+    - Night time set to {0} seconds
+    LynchTimer:
+    - Set Lynch Timer
+    SetLynchTimeQ:
+    - "Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}"
+    SetLynchTimeA:
+    - Lynch voting time set to {0} seconds
+    MaxPlayer:
+    - Set Max Players
+    MaxPlayersQ:
+    - "How many players would like to set as the maximum?\nCurrent: {0}"
+    MaxPlayersA:
+    - Max players set to {0}
+    RoleConfigInfo:
+    - "Which roles would you like to use in the game?\nConfiguration Tutorial:\n\n✅ = Role enabled\n❌ = Role disabled\n\nAfter selecting the roles, you need to use the VALIDATE button in the bottom left corner to validate and enable your role selection! If you don't validate your selection, it will be ignored and all roles will be used!\n\nIf the validation succeeded, the bottom left button says ✅ Valid ✅ and your role configuration will be used!"
+    Validate:
+    - Validate
+    WhatLang:
+    - "What Language?\nCurrent: {0}"
+    WhatVariant:
+    - "What Variant?\nCurrent: {0}"
+    LangSet:
+    - Language set to {0}
+    Allow:
+    - Allow
+    Disallow:
+    - Disallow
+    Show:
+    - Show
+    Hide:
+    - Hide
   SocialCommand:
     MostPlayedWith:
     - "🎮Most played with"
@@ -781,22 +1027,29 @@ strings:
     - "☠️Killed by"
     DeathType:
     - "📊Death type"
-    SocialStats: []
+    SocialStats:
+    - What social statistical information do you want to see?
   SetLinkCommand:
     SetLinkSuccess:
     - "You don't remember how but youknow the link was Successfully Set: {0}"
     SetLinkFailed:
     - "Did you forget? You must use the /setlink command with the group invite link."
-    SetLinkError: []
-    SetLinkDelete: []
+    SetLinkError:
+    - This is an invalid telegram invite link.
+    SetLinkDelete:
+    - Your group's link has been successfully deleted.
   RepCommand:
-    RepCommandSuccess: []
+    RepCommandSuccess:
+    - Bug successfully sent to developers. After review, necessary corrections will be made. Thank you.
     ErrorRepCommand:
     - "Don't forget to reply to the starting message of the game and use the command. If any of the games has an error, you can use the command by responding to the #players list of that game."
-    EmptyReason: []
+    EmptyReason:
+    - 'Please write the description of the error, next to the command. Example usage: /rep error player cannot be lynched'
   Ping:
-    PingInfo: []
-    Ping2: []
+    PingInfo:
+    - "Time to receive ping message: {0}\nMessages per second: {1}"
+    Ping2:
+    - 'Time to send ping message: {0}'
   ModeInfo:
     LoveInfo:
     - "In Love Mode, each player starts the game paired with a lover, and when one dies, their lover also dies. Lovers can communicate privately through the bot. The game is won by the last surviving lovers. Statistics and scoring are not tracked in this mode. In Love Mode, 🏹, 😾, 🖕, 👶, and 🧑‍⚕️ roles are disabled. \nPlayers won't know their roles at the beginning of the game."
@@ -810,7 +1063,8 @@ strings:
     - "In Custom mode, the game starts with the initiator selecting which roles will be included. You choose the roles you want to add before the game begins. However, if none of the first four roles are villains, the game will not start. Note that this mode does not affect or contribute to overall statistics.\nPlayers won't know their roles at the begining of the game."
     ModeInfo:
     - "To learn more about the current game mode, click /modeinfo.\n\nGame Mode : {0}"
-    BonusModeActivated: []
+    BonusModeActivated:
+    - More players, more points! Join the game, figure out your role, win and watch rewards get doubled. Boost your rank fast! 🚀
     RankedMode:
     - Ranked (Amnesia)
     LoveMode:
@@ -822,51 +1076,94 @@ strings:
     ChaosMode:
     - Chaos (Amnesia)
   RoleList:
-    HelpRoleList: []
-    VG: []
-    Baddie: []
-    Solo: []
-    AboutVGTeam: []
-    AboutBaddieTeam: []
-    AboutSoloTeam: []
+    HelpRoleList:
+    - "Here are the roles of Wolf Blood:\n\nWolf Blood has a total of {2} roles.\nThere are {0} classic roles and {1} wb special roles."
+    VG:
+    - Village Team 🧑‍🌾
+    Baddie:
+    - Wolf Team 🐺
+    Solo:
+    - Solo Team 👣
+    AboutVGTeam:
+    - "Team Village\n\nThe innocent townspeople who are working together to identify and eliminate the killers hiding among them. They must use their deductive reasoning and strategic thinking to figure out who the killers are before they become victims of their deadly attacks.\n\nRivals : Werewolves , Serial Killer, Arsonist, Cultists"
+    AboutBaddieTeam:
+    - "Team Werewolf\n\nA group of villagers who got attacked by a pack of feral wolves on a magical night under the full moon, but miraculously escaped death. They experienced a strange transformation in their bodies, and from that moment on, they turned into werewolves at night, hunting unsuspecting villagers while pretending to be innocent members of the community during the day.\n\nRivals : Serial Killer, Arsonist, Cultists"
+    AboutSoloTeam:
+    - "Team Solo\n\nThe individuals in the village who prefer to operate solo rather than being part of a team. Unlike the werewolves, they have the ability to eliminate players individually. Their objective is to be the sole survivor in the village, which would lead them to victory.\n\nSolo villains : Serial Killer, Arsonist"
   Requirements:
-    MemberCount: []
-    RestrictPermission: []
-    GameCount: []
-    GroupUnderReview: []
-    GroupApprovedButNotReady: []
-    GroupRejected: []
-    GroupApprovedNotification: []
-    RequestSent: []
+    MemberCount:
+    - 👥 At least {0} real members in the group.
+    RestrictPermission:
+    - 🔒 Bot must have permission to restrict users.
+    GameCount:
+    - 🎮 At least {0} games must have been played in this group.
+    GroupUnderReview:
+    - "<b>🔍 Group Under Review</b>\n\nYour group is currently under evaluation by the WB Mods. During this period, access to Ranked Mode is temporarily restricted.\nWhile waiting, please make sure the following requirements are fulfilled:\n\n{0}\n\nYou may send a new request after {1}.\nFor questions or assistance: @wolfbloodsupport"
+    GroupApprovedButNotReady:
+    - "<b>✅ Group Approved</b>\n\nYour group has been successfully approved by the WB Mods. However, to start Ranked games, you still need to complete the following:\n\n{0}\n\nOnce all conditions are met, Ranked Mode will be automatically activated."
+    GroupRejected:
+    - "<b>❌ Access Denied</b>\n\nUnfortunately, your group did not meet the necessary requirements to participate in Ranked Mode. As a result, access has been denied.\nYou can still enjoy other game modes and reapply once your group is ready.\nFor questions or support: @wolfbloodsupport"
+    GroupApprovedNotification:
+    - "<b>✅ Group Approved</b>\n\nYour group has been approved by the WB Mods. You may start using Ranked Mode once all requirements are met.\nGood luck and may the strongest survive! 🐺"
+    RequestSent:
+    - "<b>📨 Request Sent</b>\n\nYour howl has been heard by the WB Mods. 🐺\nThe Elders are reviewing your request in the shadows.\n\nPlease be patient while your group is under consideration.\nYou'll receive a response soon. In the meantime, gather your group and make sure all the requirements are fulfilled.\n\nFor help or howls: @wolfbloodsupport"
   EndMessages:
-    SKHunterEnd: []
-    HunterKillsWolfEnd: []
-    WolfKillsHunterEnd: []
-    CHKillsCultistEnd: []
-    TannerEnd: []
-    SorcererEnd: []
-    DoppelgangerEnd: []
-    ThiefEnd: []
+    SKHunterEnd:
+    - As the sun rises, {0} and {1} walk out into the village. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the village is empty, there is no winner...
+    HunterKillsWolfEnd:
+    - "Knowing only {0} was left, {1} tries to eat {0} up, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious hunter for the village!"
+    WolfKillsHunterEnd:
+    - Knowing only {0} was left, {1} chose a time where {0}'s guard was at their lowest. Eliminating the final villager proved to be effortless for {1}, for all there remains is a mutiliated body of {0}, the hunter, adorned with parallel slashes to the face.
+    CHKillsCultistEnd:
+    - "{1} and {0} walk out in daylight. Seeing a shimmering cross worn around {0}'s neck, the righteous {1} draws their sword for the final time, putting an end to the twisted learnings of the cult that have contaminated the village."
+    TannerEnd:
+    - As the sun starts to shine on the village, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the village, {0} sighs. Their lifelong dream of being chosen to be lynched by the villagers is as dead as the villagers are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face.
+    - '{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left.'
+    SorcererEnd:
+    - '{0} opens their eyes, but instead of hearing the usual bustle of the village, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the village. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village.'
+    - For all of {0}'s efforts, {0}'s wolf friends lay motionless and lifeless. Even if the wolves have been brought victory, there is no one to savour the success with, neither are there any living villagers to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new wolves, new allies, and new treachery to commit new crimes against humanity.
+    DoppelgangerEnd:
+    - "Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!"
+    ThiefEnd:
+    - As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career.
   RankedTable:
-    RoleTable: []
-    PointTable: []
-    PenaltyTable: []
-    BonusModeTable: []
-    TotalTable: []
-    ResultTable: []
-    WonGame: []
-    LostGame: []
-    Loots: []
+    RoleTable:
+    - 'Role :'
+    PointTable:
+    - 'Role Point :'
+    PenaltyTable:
+    - 'Rank Penalty :'
+    BonusModeTable:
+    - 'Bonus Mode Points :'
+    TotalTable:
+    - 'Total Points :'
+    ResultTable:
+    - 'Score :'
+    WonGame:
+    - You Won !
+    LostGame:
+    - You Lost...
+    Loots:
+    - Loots!
   Stats:
-    AchievementsUnlocked: []
-    Score: []
-    GamesWon: []
-    GamesLost: []
-    GamesSurvived: []
-    TotalGames: []
-    TimesKilled: []
-    TimesKilledBy: []
-    Afk: []
+    AchievementsUnlocked:
+    - Achievement Unlocked
+    Score:
+    - Point
+    GamesWon:
+    - Games Won
+    GamesLost:
+    - Games Lost
+    GamesSurvived:
+    - Games Survived
+    TotalGames:
+    - Total Games
+    TimesKilled:
+    - Most Killed
+    TimesKilledBy:
+    - Most Killed By
+    Afk:
+    - AFK Deaths
   TimeMessages:
     LynchTime:
     - "Dusk draws near, and the village gathers to decide who should... forget to breathe this time. Everyone now has {0} seconds to vote!"
@@ -886,23 +1183,37 @@ strings:
     CustomNoRole:
     - Remember to add roles before starting the game.
   BanMessages:
-    GroupBan: []
-    GlobalBan: []
-    BanReason: []
-    BanExpire: []
-    GroupBanPlayer: []
-    Year: []
-    Day: []
-    Minutes: []
-    Hours: []
-    Seconds: []
+    GroupBan:
+    - You have been banned from joining the game.
+    GlobalBan:
+    - You are globally banned from using the bot.
+    BanReason:
+    - 'Reason: {0}'
+    BanExpire:
+    - 'Expiration: {0}'
+    GroupBanPlayer:
+    - You can't join the game because you have been banned by the admins of the {0} group.
+    Year:
+    - Year
+    Day:
+    - Day
+    Minutes:
+    - Minute
+    Hours:
+    - Hour
+    Seconds:
+    - Second
   TeamsMessages:
-    MyTeam: []
+    MyTeam:
+    - "👥 Team Information\n\nYou are a member of the team {0}\n\nTo leave this team, use the /leaveteam command.\nLet's work together and achieve greatness! 🚀🏆"
     NothingTeam:
-    - "You are not currently a member of any amnesiac team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
-    JoinTeam: []
-    AlreadyTeam: []
-    LeaveTeam: []
+    - "You are not currently a member of any team.\nYou can join a team by using the /jointeam command in any group where teams are available.\nJoin a team now and be part of the collective effort towards victory!"
+    JoinTeam:
+    - "🎉 Congratulations! 🎉\nYou have successfully joined the team {0}.\nLet's play together and dominate the game! 🚀🎮"
+    AlreadyTeam:
+    - "ℹ️ Information: You are already a member of the team {0}. Keep up the good work and let's achieve victory together! 🎉🚀"
+    LeaveTeam:
+    - "👋 You have successfully left the team {0}.\nIf you ever want to rejoin the team, you can use the /jointeam command.\nWe look forward to having you back! 🌟"
   NotAdmin:
     GroupAdminOnly:
     - "You're not this group's admin, remember? That means you can't run this command!"
@@ -913,82 +1224,140 @@ strings:
     GroupCommandOnly:
     - "Don't forget! You must run this command in a group"
   NextGame:
-    DeletedFromWaitList: []
+    DeletedFromWaitList:
+    - You have been deleted from the wait list for {0}.
     AlreadyOnWaitList:
     - "Did you forget? You are already on the wait list for {0}."
-    AddedToWaitList: []
+    AddedToWaitList:
+    - You have been added to the wait list for {0}. I will PM you when the next game is starting.
   LynchMessages:
-    PlayerVotedLynch: []
-    AskLynch: []
+    PlayerVotedLynch:
+    - '{0} has voted to lynch {1}.'
+    AskLynch:
+    - Who do you want to lynch?
     LynchKill:
     - "The villagers have cast their votes, hoping to have made the best choice even with so little information. {0} is dead. {1}"
-    LynchTie: []
+    LynchTie:
+    - Unable to come up with a proper decision on who to lynch, the mob returns to their homes for the night, frustrated...
     NoLynchVotes:
     - "Looks like everyone forgot to vote! No lynch mob tonight..."
-    PlayerVoteCounts: []
-    SecretLynchResultEach: []
-    SecretLynchResultFull: []
-    SecretLynchResultNumber: []
+    PlayerVoteCounts:
+    - '{0} players have voted, {1} total.'
+    SecretLynchResultEach:
+    - '{0} votes went to {1}: {2}'
+    SecretLynchResultFull:
+    - "The lynch result for today:\n{0}"
+    SecretLynchResultNumber:
+    - '{0} votes went to {1}.'
   PublicMessages:
-    DefaultFellPublic: []
-    KillerSpottedDiggerPublic: []
-    WolvesSpottedDiggerPublic: []
-    HarlotFuckKillerPublic: []
-    HarlotFuckedKilledPublic: []
+    DefaultFellPublic:
+    - One of the graves on the graveyard contained too many people tonight... Apparently {0} tried to visit the grave digger, fell into a grave and died! {1}
+    KillerSpottedDiggerPublic:
+    - '{0} is missing today... Did they maybe oversleep? You go look for them and find them dead on the graveyard, still holding their shovel. It seems they died from several stabbing wounds...'
+    WolvesSpottedDiggerPublic:
+    - "{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by wolves in the night..."
+    HarlotFuckKillerPublic:
+    - The village sees {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead.
+    HarlotFuckedKilledPublic:
+    - "{0} slips into {1}'s house, ready for a night of passion, only to find a mysterious stranger surgically removing {1}'s innards! The serial killer decides to satisfy {0} before adding a slutty heart to their collection!"
   WelcomeMessages:
-    OfficialGrp: []
-    Welcome: []
-    CreditsText: []
+    OfficialGrp:
+    - Here are our Official Groups across all communities. Click on the community group you want to join!
+    Welcome:
+    - "Hello, {0}! 🐾 Welcome to Wolf Blood!\n\nGet ready for an exciting and mysterious journey ahead where villagers battle against werewolves. Experience the classic werewolf gameplay with exclusive features including new roles and game modes.\n\nJoin Official Groups to compete with other players. Find new updates at Wolf Blood News and reach Support Group for assistance.\n\n🐾 Happy wolfing 🐺"
+    CreditsText:
+    - "𝐀𝐏𝐏𝐑𝐄𝐂𝐈𝐀𝐓𝐈𝐎𝐍 𝐏𝐀𝐆𝐄 🕊️\n\nWolfbloodbot was developed on May 2022 and mainly inspired from @werewolfbot which is a fantastic creation of the Father of Telegram Werewolf Game and the original developer of the said game bot- Para.\n\nWe will be forever grateful to Para for inventing and coding this game.\n\n🤝 We would also like to thank Para and the whole GreyWolf Development Team for keeping the og bot running since 2016.\n\n🙏 We would also like to grab this opportunity to thank everyone who helped us in Wolf Blood Community, not just limited to our developer Kadir {0}, Core Team {1}, Translators {2}, Moderators {3}, Donors {4}, Sponsors {5}, and to our beloved Players {6} who have shown an unending love and support for the bot. \n\nRole and Feature Ideas:\n✦ Most of our role ideas for the new roles are originally from our own, while some are adapted from Wolvesville and GreyWolf role suggestions.\n\n✦ The rest of the roles are from original {7}\n\n✦ Meanwhile, all feature ideas came from the Core Team and Wolf Blood players who have reached us through @wolfbloodsupport and @wolfbloodadminbot.\n\nPlease see the below links as references:\n\n🔗 {8}\n🔗 {9}"
   AFKs:
     IdleKill:
     - "{0} has forgotten to vote 2 nights in a row. Forgetting about this game is so bad that {0} forgot how to breathe too, and died. {1}"
-    IdleCount: []
-    GroupIdleCount: []
+    IdleCount:
+    - Player {0} has been killed for not voting {1} times in the past 24 hours.
+    GroupIdleCount:
+    - '{0} of those kills were in this group.'
   StoreMessages:
     Store:
     - "🛒 Welcome to the WB Store!\nUse your WB Mints to enhance your gameplay experience by exploring the list of items available for purchase. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nAvailable Emoji Fragment: {1} 🧩\n\nWhat would you like to buy?"
-    BuyFailed: []
-    BuyConfirm: []
-    BuySuccess: []
-    BuyItems: []
-    BuyTicket: []
-    BuyRole: []
-    BuyEmoji: []
-    BuyEmojiDuration: []
+    BuyFailed:
+    - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for purchasing {0} is {1}. Please check your balance and try again."
+    BuyConfirm:
+    - "🔄 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1}\nAvailable: {2}\nDo you want to proceed?\nBalance after purchase: {3}"
+    BuySuccess:
+    - "🎉 Purchase Successful!\nYou have successfully purchased {0}\nYour new balance is {1}\nThank you for your purchase!"
+    BuyItems:
+    - "🛒 Purchase Items\nHow many {1}'s would you like to purchase?\nPlease select the item and quantity you wish to buy.\nAvailable Mints: {0} 🪙"
+    BuyTicket:
+    - "🎟 Ticket Menu\n\nWelcome to the Ticket Menu! Here, you can purchase special tickets to enhance your gameplay experience. Click on the buttons below to proceed.\n\nAvailable Mints: {0} 🪙\nWhat would you like to buy?"
+    BuyRole:
+    - "🎫 Role Voucher Store\n\nUse your mints to purchase powerful roles and enrich your strategy. Each role comes with unique abilities to change the course of the game.\n\nAvailable Mints: {0} 🪙\nChoose a role to purchase!"
+    BuyEmoji:
+    - "😄 Emoji Store\n\nExpress yourself with custom emojis! These emojis can be used in your player name and chat messages.\n\nEmojis are purchased using Fragments (🧩).\nAvailable Fragments: {0} 🧩\n\nPick an emoji to buy and personalize your experience!"
+    BuyEmojiDuration:
+    - "⏳ Select Duration\n\nPlease choose how long you'd like to use the emoji.\nThe cost will vary depending on the duration.\n\nAvailable Fragments: {0} 🧩"
   TicketButtons:
-    ForceToken: []
-    RoleVouchers: []
-    FJoin: []
-    FName: []
-    BonusPointTicket: []
-    Fragment: []
-    Mint: []
-    BonusRankedModeTicket: []
-    CustomMessageTicket: []
-    CustomEmoji: []
-    PlayerTAG: []
-    CustomGifs: []
-    FakeRole: []
-    MyTicketButton: []
-    MyItemButton: []
-    TournamentPoint: []
-    Month: []
-    Week: []
-    Permanent: []
-    Yearly: []
+    ForceToken:
+    - '{0} FS Token'
+    RoleVouchers:
+    - '{0} Roles'
+    FJoin:
+    - '{0} Force Join'
+    FName:
+    - '{0} Fake Name'
+    BonusPointTicket:
+    - '{0} Bonus Point'
+    Fragment:
+    - '{0} Fragment'
+    Mint:
+    - '{0} Mint'
+    BonusRankedModeTicket:
+    - '{0} Bonus Ranked'
+    CustomMessageTicket:
+    - '{0} Custom Message'
+    CustomEmoji:
+    - '{0} Emojis'
+    PlayerTAG:
+    - '{0} Player TAG'
+    CustomGifs:
+    - '{0} Custom Gifs'
+    FakeRole:
+    - '{0} Fake Role'
+    MyTicketButton:
+    - '{0} Tickets'
+    MyItemButton:
+    - '{0} Items'
+    TournamentPoint:
+    - '{0} Tournament Point'
+    Month:
+    - 📆 Monthly
+    Week:
+    - 🗓 Weekly
+    Permanent:
+    - ♾️ Perma
+    Yearly:
+    - 🌞 Yearly
+    Halloween:
+    - '{0} Halloween Piece'
+    HowlPoint:
+    - '{0} Howl Point 🌗'
   TopMessages:
     GroupStats:
     - "Top 10 in {0} :"
     TopScore:
     - "Top 10 players with the highest score :"
-    YourRanking: []
+    YourRanking:
+    - 'Your ranking:'
     MostPlayedWithMonth:
     - Amnesiacs with the most games this month.
+    MostWinWithMonth:
+    - Players with the most win this month
+    TopHowl:
+    - '🌗 Top 10 with the most howl points in {0}:'
   ProfileMessages:
-    ItemsText: []
+    ItemsText:
+    - Hey {0}! Check out your awesome loot!\n\nYour Inventory:\n\n{1}
     Profile:
     - "Hello {0}! Welcome to your WB Wallet & Inventory!\n\nHere you can check all your collected mints, emojis, items and role vouchers. Use the buttons below to perform actions.\nWhat would you like to do?"
-    LockEmoji: []
+    LockEmoji:
+    - This emoji is locked and cannot be changed...
     MaxEmoji:
     - "You have reached the maximum number of emoji activations. To activate it further, donate with the /donate command."
     EmojiChoice:
@@ -997,40 +1366,70 @@ strings:
     - "Did you forget? You do not have any roles yet.\nKeep playing to earn roles and expand your inventory!"
     MyRoles:
     - "🛅 My Roles\n\nHere you can view and manage all your roles. Activate or deactivate your roles to suit your strategy and gameplay preferences.\n\nTotal Roles: {0}\nClick on a button to activate or deactivate the your role."
-    ActivateRole: []
-    DeactivateRole: []
+    ActivateRole:
+    - ✅ {0} role activated successfully!
+    DeactivateRole:
+    - ❌ {0} role deactivated successfully!
     TicketsMenu:
     - "🎫 Ticket Menu 🎫\nHere you can view and activate your special tickets.\nPlease choose the ticket you want to activate by clicking one of the buttons below."
-  RewardPM: []
+  RewardPM:
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Way to go! You’ve gained {0} in your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Fantastic! You have obtained {0} for your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Congratulations! You've earned {0} for your inventory!"
+  - "<b>༺ Inventory Update ༻</b>\n\n📦 Well done! You now have extra {0} in your inventory!"
   TelegramStars:
-    StarShop: []
-    StarTicket: []
-    StarItems: []
-    StarConfirm: []
-    StarCustomMessage: []
-    StarPlayerTAG: []
-    StarGifMenu: []
-    StarRole: []
-    StarEmoji: []
-    StarEmojiDuration: []
-    StarSuccess: []
-    StarPayment: []
-    StarPaidSuccess: []
+    StarShop:
+    - "🌟 Welcome to the Telegram Stars Shop!\n\nReady to level up your gameplay?\nUse your Telegram Stars to unlock exclusive items and features.\n\nTap a button below to explore what’s available."
+    StarTicket:
+    - "🎫 Telegram Stars Ticket Menu\n\nWelcome to the Telegram Stars Ticket Menu! Here, you can purchase special tickets using your Telegram Stars. Click on the buttons below to proceed.\n\nWhat would you like to buy?"
+    StarItems:
+    - "🛍 Purchase Items\nHow many {0} would you like to buy?\nPlease choose the quantity."
+    StarConfirm:
+    - "🛒 Confirm Purchase\nYou are about to purchase {0}.\nCost: {1} ⭐️\nDo you want to proceed?"
+    StarCustomMessage:
+    - "💬 Purchase a {0}\n\nYou’re about to purchase a custom message slot using your Telegram Stars. Select how many letters or options you’d like."
+    StarPlayerTAG:
+    - "🏷 Purchase a {0}\n\nYou’re about to purchase a custom player tag using your Telegram Stars. Select how many letters or options you’d like."
+    StarGifMenu:
+    - "📸 Purchase a {0}\n\nYou’re about to purchase a custom GIF pack using your Telegram Stars. Select which GIF pack you want to buy."
+    StarRole:
+    - "🧩 Purchase a {0}\n\nYou’re about to purchase a special role using your Telegram Stars. Select the role you want to unlock."
+    StarEmoji:
+    - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select the emoji you want to unlock."
+    StarEmojiDuration:
+    - "😄 Purchase an {0}\n\nYou’re about to purchase a custom emoji using your Telegram Stars. Select how long you want to purchase emojis. The cost will vary depending on the duration."
+    StarSuccess:
+    - "📦 <b>Woohoo! Your invoice is ready!</b>\nHey {0}, we've just cooked up a fresh invoice for {1} 🛍️\nIt'll cost you {2} Telegram Stars 🌟\nCheck your messages — once you complete the payment, your goodies will be on their way! 🎁🚀"
+    StarPayment:
+    - "🪙 Time to Pay Up!\nThis invoice was prepared for {0} 💼\nYou're one step away from claiming {1} for {2} Telegram Stars 🌟\nHit that 'Pay' button below and it's all yours!"
+    StarPaidSuccess:
+    - "🎉 Payment Complete!\n\n{0}, your payment of {1} Telegram Stars was successful! 🌟\n\nThe following item(s) have been delivered to you:\n{2} 📦\n\nEnjoy your new goodies and keep shining in the game! ✨"
   GiftMenu:
-    GiftShop: []
-    GiftItems: []
-    GiftConfirm: []
-    GiftTicket: []
-    GiftCustomMessage: []
-    GiftPlayerTAG: []
-    GiftCustomGif: []
-    GiftRole: []
-    GiftEmoji: []
-    GiftEmojiDuration: []
-    GiftSentSuccess: []
+    GiftShop:
+    - "🎁 Gift Sending Menu\n\nReady to send a surprise?\nSelect a special gift and make {0}'s day unforgettable! 🌟\n\nTap a button below to choose a gift."
+    GiftItems:
+    - "🎁 Gift Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
+    GiftConfirm:
+    - "✅ Confirm Sending\n\nYou are about to send {0} gift(s) to {1}.\nCost: {2} ⭐️\nDo you want to proceed?"
+    GiftTicket:
+    - "🎫 Gift a {0}\n\nYou're about to gift a special ticket to {1}!\n\nUse your Telegram Stars to help them join games more easily. Select a ticket below to continue."
+    GiftCustomMessage:
+    - "💬 Gift a {0}\n\nYou're about to gift a custom message slot to {1}!\n\nLet them express themselves freely. Choose the number of letters or options."
+    GiftPlayerTAG:
+    - "🏷 Gift a {0}\n\nYou're about to gift a custom player tag to {1}!\n\nAllow them to stand out with a unique identity. Choose the tag to send."
+    GiftCustomGif:
+    - "📸 Gift a {0}\n\nYou're about to gift a custom GIF pack to {1}!\n\nSend them a personalized touch to their game experience. Pick the GIF you want to send."
+    GiftRole:
+    - "🧩 Gift a {0}\n\nYou're about to gift a special role to {1}!\n\nGive them new powers or responsibilities in the game. Select the role you'd like to send."
+    GiftEmoji:
+    - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nMake their in-game expressions more fun and unique. Choose an emoji to send!"
+    GiftEmojiDuration:
+    - "😄 Gift an {0}\n\nYou're about to gift a special emoji to {1}!\n\nSelect how long you want to purchase emojis. The cost will vary depending on the duration."
+    GiftSentSuccess:
+    - "🎁 Gift Delivered!\n\nYour gift to {0} has been successfully sent! 📨\nYou've just shared:\n{1} 🎉\n\nKindness like this keeps the game fun and full of surprises. 🌟"
   CustomGifs:
     NotPack:
-    - "Did you forget? You have not unlocked a custom GIF pack. Remember to use /donate."
+    - "Did you forget? You have not unlocked a custom GIF pack. Remember to use /stars."
     GifPackStatus:
     - 'Current Approval Status:
 
@@ -1039,87 +1438,143 @@ strings:
       Pending Gifs: {1} ⏳
 
       Rejected Gifs: {2} ⛔️'
-    GifPack: []
-    GifSubmitBtn: []
-    GifSend: []
+    GifPack:
+    - "Ready to build your custom gif pack? Here's what you need to know:\n\n• Your pack will need approval before you can use it in games.\n• Not allowed: brutal or illegal gifs, and others at our discretion.\n• You'll receive a description of the image to choose the gif.\n• Changing gifs will require re-approval by an admin.\n\nLet's get started by selecting a situation for your gif!"
+    GifSubmitBtn:
+    - Submit for approval
+    GifSend:
+    - Okay. Reply to this message with which gif you want to use for this.
     GifReset:
-    - "Reset Gifs"
-    GifResetSuccess: []
-    GifStatus: []
-    Approved: []
-    Disapproved: []
+    - "Reset ❗️"
+    GifResetSuccess:
+    - Your {0} GIFs have successfully been reset.
+    GifStatus:
+    - 'Gif Status: {0}'
+    Approved:
+    - Approved ✅
+    Disapproved:
+    - Disapproved ⛔️
     GifError:
-    - "This GIF is too large, the maximum allowed size is 2MB. Please send me the GIF you want to use for this situation, as a reply."
+    - "This GIF is too large, the maximum allowed size is 2MB. Please try again..."
     GifSuccess:
-    - "Got it! Any more?"
-    GifSubmit: []
-    GifSubmitHour: []
-    GifEmpty: []
-    GifCheckSuccess: []
+    - "Gif set successfully. Please submit all your gifs for approval after uploading."
+    GifSubmit:
+    - "Your GIF pack has been submitted to the admins for approval!\n\nPlease keep in mind that admins have a huge number of GIF packs to review, hence this process may take up to 1 working days.\n\nOur admins will keep track of the submitted GIF packs, you don’t have to PM them directly. Thank you for your patience!"
+    GifSubmitHour:
+    - You have already submitted your GIF pack in the last hour! If you submit your GIFs and then change something before it gets approved, you don't have to submit it again! Please wait patiently while your GIFs are being reviewed.
+    GifEmpty:
+    - Please set at least one GIF before you submit your pack!
+    GifCheckSuccess:
+    - "🎉 Your gifs have been reviewed!\n\nGreat news! Our admin team has reviewed your submitted gifs and completed the necessary approval/rejection process.\n\n✅ Approved gifs: {0}\n⛔️ Rejected gifs: {1}\n\nIf you have any questions or concerns about the rejected gifs, feel free to contact our support team at @wolfbloodsupport.\nYou can edit your gifs and resubmit them for approval anytime you wish. We're here to help!\nThank you, and enjoy the game! 🐺✨"
   TransferMenu:
-    Transfer: []
-    TransferSelf: []
-    TransferFailed: []
-    TransferItems: []
+    Transfer:
+    - "🔄 Transfer Menu\n\nWelcome to the Transfer Menu! Here, you can transfer your Emojis, Vouchers and Tickets to another player.\n\nYou are transferring items to {0}!\nAvailable Mint: {1} 🪙\nTransfer Cost: {2}\n\nWhat would you like to transfer?"
+    TransferSelf:
+    - "⚠️ Invalid Transfer\n\nYou cannot transfer items to yourself. Please specify a different recipient for this transaction."
+    TransferFailed:
+    - "⚠️ Insufficient Balance\n\nYou do not have enough balance to complete this transaction. The cost for transferring {0} is {1}. Please check your balance item and try again."
+    TransferItems:
+    - "🔄 Transfer Quantity\n\nHow many {0} would you like to send to {1}? Please select the quantity."
     ConfirmTransfer:
-    - "🔄 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} WB Mints\nAvailable Mints: {3} WB Mints\n\nDo you want to proceed?\nBalance after transfer: {4} WB Mints"
+    - "🔄 Confirm Transfer\nYou are about to transfer {0} to {1}.\n\nCost: {2} 🪙\nAvailable Mints: {3} 🪙\n\nDo you want to proceed?\nBalance after transfer: {4} 🪙"
     TransferSuccess:
-    - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} Mint.\n\nThank you for using the Wolf Blood Store!"
-    TransferReceived: []
-    TransferRole: []
-    TransferEmoji: []
-    TransferTicket: []
-    TransferLimit: []
+    - "✅ Transfer Successful\n\nYou have successfully transferred {0} to {1}. Your new balance is {2} 🪙\n\nThank you for using the Wolf Blood Store!"
+    TransferReceived:
+    - "🎉 You've received a Gift 🎁\n\nYou have received {0} from {1}.\n\nEnjoy your new items and thank you for playing!"
+    TransferRole:
+    - "🧩 Transfer a {0}\n\nYou're about to transfer a powerful role to {1}!\n\nShare the thrill, change their destiny, and shake up the game!\nChoose the role you'd like to send their way."
+    TransferEmoji:
+    - "😄 Transfer an {0}\n\nYou're about to send a fun emoji to {1}!\n\nLet them express themselves with style.\nPick an emoji to brighten up their name or chat!"
+    TransferTicket:
+    - "🎫 Transfer a {0}\n\nYou're about to pass on a special ticket to {1}!\n\nHelp them sneak into games or unlock bonuses.\nChoose the ticket you'd like to transfer and spread the good vibes!"
+    TransferLimit:
+    - "⚠️Your Daily Transfer Limit Has Been Reached!\n\nYou can't make any more transfers today. Your transfer limit will reset tomorrow.\n\nBut you still have an option! ✨\nUse the /gift command to buy special items for your friends using Telegram Stars and make their day!"
   PlayerTAGS:
     TagSuccess:
-    - "Your new Amnesiac tag was set successfully. Tag: {0}"
-    TagError: []
-    TAGInvalid: []
+    - "Your new name tag was set successfully. Tag: {0}"
+    TagError:
+    - 'The player tag you specified could not be set. Please set a tag {0} characters long and do not use special characters. Example usage: /settag PRO'
+    TAGInvalid:
+    - "❗ Cannot activate Player TAG Ticket!\nYou need to set a tag first. Use the /settag command to choose a tag, then try activating the ticket again."
   CustomMessages:
-    CustomMessageLenght: []
-    CustomMessageSuccess: []
-    CustomMessageAllLetter: []
-    CustomMessageInvalid: []
+    CustomMessageLenght:
+    - "❗ Invalid Message!\nYour message must be between {0} and {1} characters long. Please choose a valid message and try again."
+    CustomMessageSuccess:
+    - "✅ Custom Message Set Successfully!\nYou can now use this message in the game!\nYour new message is: {0}"
+    CustomMessageAllLetter:
+    - "❗ Invalid Message!\nYour message must contain only letters. Please choose a valid message and try again."
+    CustomMessageInvalid:
+    - "❗ Cannot activate Custom Message Ticket!\nYou need to set a custom message first. Use the /specialmessage command to choose a message, then try activating the ticket again."
   FakeNames:
-    FakeNameLenght: []
-    FakeNameSuccess: []
-    FakeNameInvalid: []
+    FakeNameLenght:
+    - "❗ Invalid Name!\nYour name must be between {0} and {1} characters long. Please choose a valid name and try again."
+    FakeNameSuccess:
+    - "✅ Fake Name Tag Set Successfully!\nYour new name tag is: {0}. You can now use this name in the game!"
+    FakeNameInvalid:
+    - "❗ Cannot activate Fake Name Ticket!\nYou need to set a fake name first. Use the /fakename command to choose a name, then try activating the ticket again."
   FakeRoles:
-    FakeRoleSuccess: []
-    NoRole: []
-    RoleInvalid: []
+    FakeRoleSuccess:
+    - "✅ Fake Role Set Successfully!\nYour new role is: {0}. Now you can imitate this role in the play!"
+    NoRole:
+    - ❗ The role of '{0}' is invalid. Please type a valid role name and try again.
+    RoleInvalid:
+    - "❗ Cannot activate Fake Role Ticket!\nYou need to set a role first. Use the /fakerole command to choose a role, then try activating the ticket again."
   Others:
-    Donate: []
-    UserNotFound: []
+    Donate:
+    - "Telegram Stars is a fun way to support your favorite bots and creators on Telegram. By sending Stars, you help keep the bot running — and show your appreciation!\n\n💰 How to donate:\n1. Open the bot chat\n2. Send the /donate command\n3. Tap the Telegram Stars button\n4. Enter the amount you want to donate\n5. Confirm the invoice\n\nNote: This is for donations only — no special features are unlocked here.\nWant cool perks? Head over to the /stars menu! 🚀\n\nThanks for supporting Wolf Blood Bot! 🐺✨"
+    UserNotFound:
+    - "⚠️ User Not Found\n\nThe specified User ID or Username could not be found. Please make sure you have entered the correct User ID or Username and try again."
     ForceJoinSuccess:
-    - "{0} has been force joined to the game by {1}! Get ready for some thrilling action! 🎉"
-    TicketRequired: []
-    JoinButton: []
-    Skip: []
-    Yes: []
-    No: []
-    VoteBtn: []
+    - "{0} has been force joined to the game by {1}!"
+    TicketRequired:
+    - "❗ Ticket Required!\nYou need a {0} Ticket to use this command. Please purchase one first using the /stars command! 🎟️"
+    JoinButton:
+    - Join
+    Skip:
+    - Skip
+    Yes:
+    - Yes
+    No:
+    - No
+    VoteBtn:
+    - Vote 🗳
     GoToBtn:
-    - Go To Bot ⬆️
-    RolList: []
-    NoClaims: []
-    Cancel: []
-    OfficialBtn: []
-    SupportBtn: []
-    NewsBtn: []
-    Done: []
-    Back: []
-    EndTime: []
+    - Go To Bot
+    RolList:
+    - 'Role List :'
+    NoClaims:
+    - Non-Claims
+    Cancel:
+    - Cancel
+    OfficialBtn:
+    - Offical Groups
+    SupportBtn:
+    - Support Group
+    NewsBtn:
+    - News
+    Done:
+    - Done!
+    Back:
+    - Back
+    EndTime:
+    - 'Game Length: {0}'
     TimesUp:
     - "Did you forget to answer ? Time is up!"
-    GetLang: []
-    GenericDeathNoReveal: []
+    GetLang:
+    - Get which language file?
+    GenericDeathNoReveal:
+    - Everyone wakes up in the morning, and notices that {0} is not around... They check the house to find the remains of {0}.
+    - As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night...
     ErrorBotMessagePM:
     - "Don't forget specify the recipient of your message by using the appropriate command: Type /love or /team to communicate."
-    SecondsAdded: []
-    SecondsRemoved: []
-    LeftToJoin: []
-    HaveJoined: []
+    SecondsAdded:
+    - "Join time extended by {0}!\n{1} left to Join"
+    SecondsRemoved:
+    - "Join time decreased by {0} seconds!\n{1} left to Join"
+    LeftToJoin:
+    - '{0} left to Join'
+    HaveJoined:
+    - '{0} joined the game in the last 30 seconds.'
     AlreadyInGame:
     - "Did you forget that you are already in a game! ({0})"
     CountPlayersAdded:
@@ -1132,14 +1587,18 @@ strings:
     - "Game is starting, please wait while I assign roles and update the database. Something strange is happening to the village! For some reason, no one can seem to remember who they are... (roles will not be revealed to their players!) "
     AlreadyJoined:
     - "You've already joined, remember?"
-    ChoiceAccepted: []
-    And: []
-    NewUnlocks: []
+    ChoiceAccepted:
+    - Choice accepted.
+    And:
+    - and
+    NewUnlocks:
+    - New Unlocks!
     PlayersAlive:
     - "Amnesiacs Alive"
     Players:
     - "Amnesiacs"
-    Was: []
+    Was:
+    - was
     NoGame:
     - "Did you forget? There is no game running. Start a new ranked game with /startranked or start a chaos game with /startchaos"
     NotifyNewGame:
@@ -1148,13 +1607,20 @@ strings:
     - "Did you forget? You can't do that unless you're playing!"
     NotHome:
     - "{0} wasn't home!"
-    GamesPlayed: []
-    LoverDied: []
-    NoAttack: []
-    LynchDead: []
-    SentPrivate: []
-    Help: []
-    StartMe: []
+    GamesPlayed:
+    - "New Member: {0} ({1})\n\nPlayer Game Counts\n∙ Wolf Blood: {2}\n∙ Other Bots: {3}\n\nTotal Games: {4}"
+    LoverDied:
+    - With {0}'s dying breath, {1} rushes over and falls, crying. They cannot stand the loss of their loved one, and shoot themselves with the nearest pistol they can find. {2}
+    NoAttack:
+    - The villagers gather the next morning in the village center, to sighs of relief - it appears there was no attack the previous night.
+    LynchDead:
+    - The village chose to lynch you, and you died...
+    SentPrivate:
+    - I have sent you a PM
+    Help:
+    - "If you want to browse the roles in the game, you can use the /rolelist command.\nYou can select the language with the /setlang command.\nStart a game with the /startranked command immediately. Have fun."
+    StartMe:
+    - Please start me so I can PM you
     LatestList:
     - "Did you already forget what was in the player list? Go back and read it!"
     UnableToGetList:
@@ -1163,11 +1629,16 @@ strings:
     - "You have successfully joined the game in {0}, don't forget to play it!"
     CantExtend:
     - "Did you forget? You are not an admin! Only group admins can extend the time more than once!"
-    NotMember: []
-    GroupNotFound: []
-    RoleCommand: []
-    DisableGameMode: []
-    DeadSlient: []
+    NotMember:
+    - You can't join this game because you don't seem to be a member of {0}.
+    GroupNotFound:
+    - Couldn't find the group. Please run this command in the group you want to stop waiting for, or add link, id, or username next to the command.
+    RoleCommand:
+    - 'No such role was found. Search by adding role next to the command. Example usage: /role villager'
+    DisableGameMode:
+    - Sorry {0}, Group Admins have disabled this mode in this group. How about asking them to enable it first :)
+    DeadSlient:
+    - Because you are dead, you cannot send messages to the group until the end of the game. After the game ends, you will be able to write again. If you want to receive notifications for the next game, please click on the button below.
     PlayerLimitReached:
     - "Sorry, max player limit has been reached! Remember to try again on the /nextgame!"
     DeadFlee:
@@ -1180,19 +1651,236 @@ strings:
     - "{0} had forgotten, but was {1}"
     CountPlayersRemain:
     - "{0} amnesiacs remain."
-    ByForceStart: []
+    ByForceStart:
+    - A command was sent by {0} to start the game by force.
     PlayersGifPack:
     - "Players with custom memory packs :"
-    ForceStarted: []
-    TreasureWin: []
-    NameExists: []
+    ForceStarted:
+    - 'Force Started By: {0}'
+    TreasureWin:
+    - "🎁 Mystery Unveiled! 🎁\n\nCongratulations to the following Treasure Hunters! 🤩🥳\n\n🏆 Prize Announcement:\nHere’s the adventurers who have been selected to receive a mysterious treasure chest:\n\n<b>{0}</b>\n\nJoin us in celebrating their victories and stay tuned for more adventures ahead! 🌟"
+    NameExists:
+    - '@{1}, a player with the name {0} has already joined. Please change your name to join.'
     ChangeNameToJoin:
     - "{0}, did you forget to change your name? Please do that, otherwise you can't join!"
-    ExitAnonymousMode: []
-    MaintBreak: []
+    ExitAnonymousMode:
+    - You can't use this bot as anonymous admin! Please exit the anonymous mode (or ask the admin who promoted you to do so) and try again!
+    MaintBreak:
+    - "Sorry, I'm about to start a short maintenance break, you can't start a game right now...\nGo to @wolfbloodnews for more information"
     NoPlayerName:
-    - "Looks like I've forgotten who you're talking about... I can't find a player by that name!"
-    NodeShutsDown: []
-    NoNodes: []
+    - "I can't find a player by that name!"
+    NodeShutsDown:
+    - An error has occured, and this node has shut down :/
+    NoNodes:
+    - There are no nodes online right now, please try again in a few seconds
+    TranslateSite:
+    - "You can help translate the bot to your language by going to this site: {0}\nAlso rewards are available for translators!\nIf you want to help with the bot translations, please contact @wolfbloodsupport"
   BonusPoints:
-    DieAsAFK_Penalty: []
+    DieAsAFK_Penalty:
+    - 'Die as AFK :'
+    TryCH_Penalty:
+    - 'Try CH :'
+    TrySK_Penalty:
+    - 'Try SK :'
+    TryWW_Penalty:
+    - "Try WW's :"
+    EmptyHouse_Penalty:
+    - 'Empty House :'
+    DieDuringStayHome_Penalty:
+    - 'Die during stay home :'
+    ProtectWWSK_Penalty:
+    - 'Protect WW/SK :'
+    KillCH_Hs_WE_Penalty:
+    - 'Kill CH/WE/Helpers :'
+    HuntSK_Penalty:
+    - 'Hunt SK :'
+    LynchTeamMate_Penalty:
+    - 'Lynching teammates :'
+    FreezeSorcerer_Penalty:
+    - 'Freeze Sorcerer :'
+    DodgeCH_He_Penalty:
+    - 'Dodge CH/Helpers :'
+    SaveBadRole_Penalty:
+    - 'Save bad role :'
+    LynchCH_He_Penalty:
+    - 'Lynch CH/Helpers :'
+    EatDrunk_WE_Penalty:
+    - 'Eat Drunk/WE :'
+    BlockedGA_Penalty:
+    - 'Blocked by GA :'
+    FailedTH_Penalty:
+    - 'Shoot by Hunter :'
+    FailedSK_Penalty:
+    - 'Failed to SK :'
+    FellaTumb_Penalty:
+    - 'Fell a tumb :'
+    EmptyArsoLH_Penalty:
+    - 'Empty to Arso/Harlot :'
+    KillCH_Penalty:
+    - 'Kill CH at first :'
+    KillRevealedRole_Penalty:
+    - 'Kill revealed role :'
+    LynchAllyWW_Penalty:
+    - 'Lynch Ally/WW :'
+    NotHimself_Penalty:
+    - 'Not save himself :'
+    Die2Attack_Penalty:
+    - 'Die at 2nd attack :'
+    LynchRevealedRole_Penalty:
+    - 'Lynch revealed role :'
+    LynchCH_Penalty:
+    - 'Lynch CH :'
+    EatSorcPoseidon_Penalty:
+    - 'Eat Sorc/Poseidon :'
+    ShootByTH_Penalty:
+    - 'Shoot by Hunter :'
+    DefeatByTH_Penalty:
+    - 'Defeat by Hunter :'
+    Convience_Bonus:
+    - 'Converting a player :'
+    ConvienceHelper_Bonus:
+    - 'Converting a helper :'
+    ConvienceAlly_Bonus:
+    - 'Converting an ally :'
+    ConvienceTanner_Bonus:
+    - 'Converting Tanner :'
+    ConvienceBoss_Bonus:
+    - 'Converting Boss :'
+    ConvienceResisting_Bonus:
+    - 'Converting Resisting Role :'
+    LynchCHMajority_Bonus:
+    - 'Lynch CH at Majority :'
+    LynchCHMinority_Bonus:
+    - 'Lynch CH at Minority :'
+    KillBadRole_Bonus:
+    - 'Kill bad role :'
+    EatenByWW_Bonus:
+    - 'Eaten by WW :'
+    DetectCult_Bonus:
+    - 'Detect Cult :'
+    VisitWWSk_Bonus:
+    - 'Visit WW/SK :'
+    FindBadRole_Bonus:
+    - 'Find bad role :'
+    SaveLife_Bonus:
+    - 'Save a life :'
+    CleanHouse_Bonus:
+    - 'Clean a house :'
+    HuntCult_Bonus:
+    - 'Hunt any Cult :'
+    DefeatWWAtNight_Bonus:
+    - 'Defeat WW at night :'
+    FindWW_Bonus:
+    - 'Find WW :'
+    DetectHelpers_Bonus:
+    - "Detect Helper's :"
+    DiscoverPoseidon_Bonus:
+    - 'Discover Poseidon :'
+    InfectSK_Bonus:
+    - 'Infect SK :'
+    InfectDrunk_Bonus:
+    - 'Infect Drunk :'
+    InfectWE_Bonus:
+    - 'Infect WE :'
+    InfectCH_Bonus:
+    - 'Infect CH :'
+    InfectHelpers_Bonus:
+    - "Infect Helper's :"
+    InfectRole_Bonus:
+    - 'Infect any Role :'
+    Give2Attack_Bonus:
+    - 'Give two attack :'
+    ManageEaten_Bonus:
+    - 'Manage to be eaten :'
+    GetAttackByWW_Bonus:
+    - 'Get attack by WW :'
+    RevivePlayer_Bonus:
+    - 'Revive a player :'
+    SacraficeHelpers_Bonus:
+    - "Sacrafice for Helper's :"
+    SacraficeCH_Bonus:
+    - 'Sacrafice for CH :'
+    SaveHelpers_Bonus:
+    - 'Save Helpers :'
+    SaveCH_Bonus:
+    - 'Save CH :'
+    KillCH_Bonus:
+    - 'Kill CH :'
+    KillHelpers_Bonus:
+    - "Kill Helper's :"
+    KillTanner_Bonus:
+    - 'Kill Tanner :'
+    KillCultist_Bonus:
+    - 'Kill Cultist :'
+    KillArsonistSK_Bonus:
+    - 'Kill Arsonist/SK :'
+    LynchYourself_Bonus:
+    - 'Lynch yourself :'
+    RevealedRoleLynched_Bonus:
+    - 'Revealed role target lynched :'
+    WWAllyLynched_Bonus:
+    - 'WW/Ally role target lynched :'
+    SK_ArsonistLynched_Bonus:
+    - 'SK/Arsonist role target lynched :'
+    TannerLynched_Bonus:
+    - 'Tanner role target lynched :'
+    BurnDrunk_Bonus:
+    - 'Burn Drunk :'
+    BurnHeTH_Bonus:
+    - "Burn Hunter/Helper's :"
+    BurnCult_WWs_Bonus:
+    - "Burn Cult/WW's :"
+    StabHelpers_Bonus:
+    - "Stab Helper's :"
+    WWsFail_Bonus:
+    - "WW's when they failed :"
+    ArsonistFail_Bonus:
+    - 'Arsonist when they failed :'
+    CHCultFail_Bonus:
+    - 'CH/Cult when they failed :'
+    GA_LH_ChemistFail_Bonus:
+    - 'GA/Hunter/Chemist when they failed :'
+    KillGD_Bonus:
+    - 'Kill GD accidentaly :'
+    EatSK_Bonus:
+    - 'Eat SK :'
+    EatHelpers_Bonus:
+    - "Eat Helper's :"
+    KillWCsModel_Bonus:
+    - "Kill WC's Model :"
+    BadRoleFallTumb_Bonus:
+    - 'Bad role fall tumb :'
+    FreezeAction_Bonus:
+    - 'Freeze Action Role :'
+    BurnAlpha_Bonus:
+    - 'Burn Alpha :'
+    DodgeBadRole_Bonus:
+    - 'Dodge bad role :'
+    LynchHelpers_Bonus:
+    - "Lynch Helper's :"
+    ShootBadRole_Bonus:
+    - 'Shoot bad role :'
+    FindCursed_Bonus:
+    - 'Find Cursed :'
+    DetectKiller_Bonus:
+    - 'Detect Killer :'
+    FreezeHelpers_Bonus:
+    - "Freeze Helper's :"
+    GetLynchLast3_Bonus:
+    - 'Get lynch at last 3p :'
+    GetLynchCultMajor_Bonus:
+    - 'Get lynch during Cult majority :'
+    Surviving_Bonus:
+    - 'Surviving Time :'
+    EarlyDie_Bonus:
+    - 'Early die :'
+    WinStreak_Bonus:
+    - 'Win Streak :'
+    Every4Kill_Bonus:
+    - 'Every 4 kills :'
+    LynchBadRole_Bonus:
+    - 'Lynch bad roles :'
+    RevealBadRole_Bonus:
+    - 'Reveal Bad Role :'
+    RevealHelper_Penalty:
+    - 'Reveal Helper :'
