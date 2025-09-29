@@ -1184,15 +1184,15 @@ strings:
     - Remember to add roles before starting the game.
   BanMessages:
     GroupBan:
-    - You have been banned from joining the game.
+    - ''
     GlobalBan:
-    - You are globally banned from using the bot.
+    - ''
     BanReason:
     - 'Reason: {0}'
     BanExpire:
     - 'Expiration: {0}'
     GroupBanPlayer:
-    - You can't join the game because you have been banned by the admins of the {0} group.
+    - ''
     Year:
     - Year
     Day:
